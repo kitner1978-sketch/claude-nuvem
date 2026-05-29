@@ -1,0 +1,66 @@
+# ============================================================
+# Projeto Livro - Direito Previdenciario JEF
+# .gitignore
+# ============================================================
+
+# --- Artefatos gerados (rebuiláveis pelo pipeline) ---
+output/docx/
+output/livro_completo.*
+output/livro_completo_v*
+# output/rascunhos/ — NÃO ignorar: são os arquivos-fonte do livro
+output/auditoria/
+output/indice_remissivo.txt
+output/referencias_extraidas.txt
+output/relatorio_*.txt
+output/plano_de_acao.md
+output/~$*
+
+# --- PDFs de referência (copyright de terceiros) ---
+pdf/
+
+# --- Material de pesquisa pesado ---
+pesquisa/doutrina/
+pesquisa/jurisprudencia/
+pesquisa/legislacao/
+
+# --- Backups antigos ---
+backup_renumeracao_*/
+backup_pre_correcoes_*/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# --- Word temporários ---
+~$*.docx
+~$*.doc
+
+# --- OS ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.DS_Store?
+._*
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Logs de scripts ---
+scripts/renumeracao_log.txt
+scripts/renumeracao_output.txt
+scripts/validacao_output.txt
+scripts/temp_format_check_*.py

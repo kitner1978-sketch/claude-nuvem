@@ -1,0 +1,13 @@
+{
+  "palavras": 16946,
+  "boxes": {
+    "box-pratica": 6,
+    "box-atencao": 3,
+    "box-jurisprudencia": 3
+  },
+  "flags_revisao": [],
+  "alertas_formatador": [
+    "ALERTA: Seção de Referências Bibliográficas não encontrada."
+  ],
+  "formatado_em": "2026-05-12T16:58:27.552957"
+}

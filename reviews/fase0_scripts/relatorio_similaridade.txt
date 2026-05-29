@@ -1,0 +1,1031 @@
+RELATÓRIO DE SIMILARIDADE — FASE 4
+======================================================================
+Data: 2026-05-15
+Capítulos analisados: 23
+
+ANÁLISE 1: DENSIDADE CITACIONAL
+----------------------------------------
+    Cap  Palavras  Citações   Cit/1000p  Avaliação
+  ─────  ────────  ────────  ──────────  ────────────────────
+      1     16869        17        1.01  ! BAIXA
+      2      8439        20        2.37  ~ ADEQUADA
+      3      8625        32        3.71  ✓ BOA
+      4     13216        13        0.98  ! BAIXA
+      5     13938        10        0.72  ! BAIXA
+      6      9916         8        0.81  ! BAIXA
+      7     10803        13        1.20  ! BAIXA
+      8     10926        11        1.01  ! BAIXA
+      9     13657        10        0.73  ! BAIXA
+     10     12451         9        0.72  ! BAIXA
+     11     12663        10        0.79  ! BAIXA
+     12     13867        13        0.94  ! BAIXA
+     13     15237         9        0.59  ! BAIXA
+     14     11457         7        0.61  ! BAIXA
+     15      7341         9        1.23  ! BAIXA
+     16     11907         7        0.59  ! BAIXA
+     17     15534        12        0.77  ! BAIXA
+     18     15900         8        0.50  ! BAIXA
+     19     16243        11        0.68  ! BAIXA
+     20     14380         6        0.42  ⚠ MUITO BAIXA
+     21     16731         3        0.18  ⚠ MUITO BAIXA
+     22     16226        18        1.11  ! BAIXA
+     23     14181         9        0.63  ! BAIXA
+
+  Média geral: 0.97 citações/1000 palavras
+
+
+ANÁLISE 2: TRECHOS LONGOS SEM CITAÇÃO (>400 palavras)
+----------------------------------------
+  Total de trechos encontrados: 145
+
+  [!!] Cap 1 (linha ~2, 621 palavras)
+      início: O direito previdenciário brasileiro não nasceu pronto. Ele é resultado de mais de um século Adotamos nesta obra a premissa de que três grandes eixos e...
+
+  [!] Cap 1 (linha ~8, 475 palavras)
+      início: Antes de examinar a experiência brasileira, convém situar o surgimento da proteção social organizada no A proteção social não é invenção do Estado mod...
+
+  [!] Cap 1 (linha ~26, 506 palavras)
+      início: O primeiro ato normativo a estabelecer aposentadoria no Brasil foi o Decreto n. 9.912-A, de Nas primeiras décadas do século XX, o Brasil experimentou ...
+
+  [!!] Cap 1 (linha ~39, 727 palavras)
+      início: A Lei Orgânica da Previdência Social (Lei n. 3.807, de 26 de agosto de 1960) A extensão da proteção previdenciária ao campo ocorreu de forma lenta e m...
+
+  [!!!] Cap 1 (linha ~56, 912 palavras)
+      início: A Assembleia Nacional Constituinte de 1987–1988 trabalhou sob a marca da redemocratização e do compromisso A influência beveridgiana é reconhecível na...
+
+  [!] Cap 1 (linha ~67, 449 palavras)
+      início: A seguridade social é o gênero de que a previdência, a saúde e a assistência O parágrafo único do art. 194 da Constituição elenca sete objetivos que o...
+
+  [!] Cap 1 (linha ~72, 551 palavras)
+      início: O princípio da universalidade da cobertura e do atendimento (art. 194, parágrafo único, I, CF/88) Essa aspiração, contudo, encontra limites que o próp...
+
+  [!] Cap 1 (linha ~78, 474 palavras)
+      início: O princípio desdobra-se em duas dimensões complementares. A uniformidade exige que os mesmos tipos de Entendemos, contudo, que equivalência não é iden...
+
+  [!] Cap 1 (linha ~85, 586 palavras)
+      início: O princípio da seletividade e distributividade (art. 194, parágrafo único, III, CF/88) reconhece uma realidade A seletividade confere ao legislador a ...
+
+  [!] Cap 1 (linha ~102, 434 palavras)
+      início: O reajuste anual dos benefícios do RGPS é regulado pelo art. 41-A da Lei 8.213/91 A irredutibilidade foi argumento central em dois grupos de ações que...
+
+  [!!] Cap 1 (linha ~110, 693 palavras)
+      início: O princípio da diversidade da base de financiamento (art. 194, parágrafo único, VI, CF/88) estabelece A distinção entre contribuições sociais e impost...
+
+  [!!] Cap 1 (linha ~115, 716 palavras)
+      início: O princípio do caráter democrático e descentralizado da administração, mediante gestão quadripartite (art. 194, parágrafo A materialização institucion...
+
+  [!] Cap 1 (linha ~121, 573 palavras)
+      início: A previdência social ocupa posição singular dentro da seguridade social desenhada pela Constituição de 1988. O RGPS funciona sob o modelo de repartiçã...
+
+  [!!] Cap 1 (linha ~136, 607 palavras)
+      início: A obrigatoriedade da filiação ao RGPS não é opção legislativa arbitrária: decorre da própria natureza A filiação do segurado empregado é automática. N...
+
+  [!] Cap 1 (linha ~143, 478 palavras)
+      início: O equilíbrio financeiro e o equilíbrio atuarial, embora frequentemente referidos em conjunto, operam em dimensões O fator previdenciário, instituído p...
+
+  [!!] Cap 1 (linha ~151, 664 palavras)
+      início: A solidariedade é o fundamento axiológico que confere coerência ao regime de repartição simples adotado A solidariedade previdenciária opera em duas d...
+
+  [!!] Cap 1 (linha ~161, 652 palavras)
+      início: A Emenda Constitucional 20, de 15 de dezembro de 1998, inaugurou o ciclo de reformas A alteração conceitual mais profunda promovida pela EC 20/1998 fo...
+
+  [!] Cap 1 (linha ~167, 571 palavras)
+      início: A Emenda Constitucional 41, de 19 de dezembro de 2003, aprovada no governo Lula, direcionou-se As principais alterações da EC 41/2003 no RPPS foram o ...
+
+  [!] Cap 1 (linha ~179, 403 palavras)
+      início: Os benefícios por incapacidade sofreram alteração especialmente gravosa. A aposentadoria por incapacidade permanente (anterior aposentadoria A EC 103/...
+
+  [!!] Cap 1 (linha ~183, 786 palavras)
+      início: A EC 103/2019 criou cinco regras de transição para os segurados que já estavam filiados A primeira regra de transição é o sistema de pontos (art. 15, ...
+
+  [!] Cap 1 (linha ~202, 594 palavras)
+      início: A Emenda Constitucional 132, de 20 de dezembro de 2023, reformou o sistema tributário nacional Para o RGPS especificamente, o impacto da EC 132/2023 é...
+
+  [!!] Cap 1 (linha ~211, 783 palavras)
+      início: Ao longo deste capítulo, examinamos a evolução histórica da proteção social no Brasil, os princípios **Posição 1, a previdência social brasileira é si...
+
+  [!] Cap 1 (linha ~240, 409 palavras)
+      início: BRASIL. Constituição da República Federativa do Brasil de 1988. Arts. 3º, I; 5º, § 2º BRASIL. Decreto Legislativo nº 4.682, de 24 de janeiro de 1923. ...
+
+  [!!] Cap 2 (linha ~56, 720 palavras)
+      início: O segurado especial constitui a categoria mais singular do sistema previdenciário brasileiro e a que A Constituição Federal, no art. 195, § 8º, prevê ...
+
+  [!] Cap 2 (linha ~125, 520 palavras)
+      início: O parágrafo único do art. 12 ressalva a hipótese de exercício concomitante: o servidor ou O art. 201, § 5º, da CF/88, com a redação dada pela EC 103/2...
+
+  [!] Cap 5 (linha ~39, 517 palavras)
+      início: O tempo de contribuição constitui o eixo gravitacional do sistema previdenciário brasileiro (CASTRO; LAZZARI, 2025; A EC 103/2019 elevou a importância...
+
+  [!] Cap 6 (linha ~174, 405 palavras)
+      início: O Nexo Técnico Epidemiológico Previdenciário, instituído pela Lei n. 11.430, de 26 de dezembro de A presunção é relativa — admite prova em contrário p...
+
+  [!] Cap 6 (linha ~200, 499 palavras)
+      início: A alta programada — sistema pelo qual o INSS fixa antecipadamente a data de cessação A sistemática da alta programada foi objeto de questionamentos re...
+
+  [!] Cap 6 (linha ~210, 436 palavras)
+      início: A aposentadoria por incapacidade permanente ocupa posição central no sistema de proteção previdenciária, constituindo a A EC 103/2019 trouxe alteraçõe...
+
+  [!!] Cap 7 (linha ~273, 620 palavras)
+      início: O auxílio por incapacidade temporária ocupa posição central no sistema de proteção social do RGPS. A análise empreendida neste capítulo evidencia a co...
+
+  [!] Cap 8 (linha ~78, 422 palavras)
+      início: Os agentes físicos relacionados no Anexo IV do Decreto n. 3.048/1999 compreendem: (a) Ruído, o agente mais litigado nos JEFs em matéria de aposentador...
+
+  [!] Cap 8 (linha ~336, 440 palavras)
+      início: A aposentadoria especial constitui um dos benefícios mais complexos e litigados do RGPS. A interseção A evolução legislativa, do enquadramento por cat...
+
+  [!] Cap 9 (linha ~49, 441 palavras)
+      início: A manutenção da condição de segurado especial exige que a atividade rural constitua o meio O exercício de atividade urbana por um dos membros do grupo...
+
+  [!] Cap 9 (linha ~60, 529 palavras)
+      início: O art. 48, caput, da Lei n. 8.213/91 estabelece que a aposentadoria por idade será O § 2º do art. 48 complementa a disciplina ao prever que, para efei...
+
+  [!] Cap 9 (linha ~101, 468 palavras)
+      início: A valoração da prova testemunhal nas ações rurais segue critérios desenvolvidos pela jurisprudência. Testemunhas que O número de testemunhas necessári...
+
+  [!] Cap 9 (linha ~145, 443 palavras)
+      início: A sazonalidade da atividade agrícola impõe ao trabalhador rural períodos de menor ou nenhuma atividade A Lei n. 11.718/2008 endereçou a questão ao pre...
+
+  [!] Cap 9 (linha ~194, 462 palavras)
+      início: A matéria da aposentadoria rural acumulou, ao longo de três décadas de vigência da Lei No âmbito do STJ, os seguintes temas repetitivos e súmulas se d...
+
+  [!] Cap 9 (linha ~233, 401 palavras)
+      início: A sentença de procedência em ação de aposentadoria rural deve conter, em seu dispositivo: (a) A tutela de urgência é cabível nas ações de aposentadori...
+
+  [!] Cap 9 (linha ~273, 582 palavras)
+      início: O exame da aposentadoria do segurado rural permite consolidar as seguintes posições adotadas ao longo A aposentadoria por idade rural mantém integralm...
+
+  [!] Cap 10 (linha ~39, 559 palavras)
+      início: A aposentadoria por idade sempre ocupou posição central no sistema previdenciário brasileiro (CASTRO; LAZZARI, 2025; Essa unificação não foi mera muda...
+
+  [!] Cap 10 (linha ~476, 409 palavras)
+      início: A competência para processar e julgar ações de aposentadoria por idade contra o INSS é Na maioria das ações de concessão de aposentadoria por idade, o...
+
+  [!] Cap 10 (linha ~498, 571 palavras)
+      início: Nas ações de aposentadoria por idade nos JEFs, a instrução processual é predominantemente documental. A A designação de audiência é necessária quando ...
+
+  [!] Cap 10 (linha ~512, 400 palavras)
+      início: A sentença nos JEFs é irrecorrível por meio de apelação. O recurso cabível é o A sentença de procedência na ação de aposentadoria por idade deve espec...
+
+  [!] Cap 10 (linha ~635, 417 palavras)
+      início: A aposentadoria por idade, em sua nova roupagem de aposentadoria programada, tende a se consolidar A transição entre o regime antigo e o novo será lon...
+
+  [!] Cap 11 (linha ~1027, 563 palavras)
+      início: As regras de transição da EC 103/2019 não possuem prazo de vigência expresso — permanecerão A regra de pontos (art. 15) estabilizará em 105/100 pontos...
+
+  [!] Cap 12 (linha ~583, 431 palavras)
+      início: Na prática, existem situações de fronteira entre deficiência e incapacidade: **PcD que se torna incapaz:** Se a deficiência evolui para incapacidade (...
+
+  [!] Cap 13 (linha ~44, 412 palavras)
+      início: O parto constitui o fato gerador primário e mais frequente do salário-maternidade. Nos termos do A definição do momento inicial do benefício é relevan...
+
+  [!] Cap 13 (linha ~103, 561 palavras)
+      início: A duração do salário-maternidade varia conforme o fato gerador, com a regra geral de cento **Regra geral — 120 dias.** O art. 71 da Lei 8.213/91 fixa ...
+
+  [!] Cap 13 (linha ~123, 433 palavras)
+      início: **Empregada e trabalhadora avulsa: remuneração integral.** O art. 72 da Lei 8.213/91 determina que o A remuneração integral abrange o salário-base acr...
+
+  [!!] Cap 13 (linha ~151, 621 palavras)
+      início: **Pagamento pelo empregador (empregada CLT).** Para a segurada empregada de pessoa jurídica (exceto doméstica e Esse sistema de compensação preserva o...
+
+  [!] Cap 13 (linha ~202, 527 palavras)
+      início: A segurada que perde o emprego ou cessa suas contribuições mantém a qualidade de segurada **Prazos do período de graça (remissão ao Cap. 3).** Sem pre...
+
+  [!] Cap 13 (linha ~216, 408 palavras)
+      início: A segurada especial constitui a categoria com maior número de demandas judiciais envolvendo salário-maternidade nos **Conceito de segurada especial.**...
+
+  [!] Cap 13 (linha ~225, 524 palavras)
+      início: A comprovação da atividade rural da segurada especial para fins de salário-maternidade exige início de Não se exige que a prova documental cubra todo ...
+
+  [!!] Cap 13 (linha ~235, 755 palavras)
+      início: A extensão do salário-maternidade à adoção constitui uma das mais significativas evoluções do benefício, refletindo **Evolução do regime de adoção no ...
+
+  [!!] Cap 13 (linha ~260, 610 palavras)
+      início: A Lei 12.873/2013 representou marco na evolução do salário-maternidade ao eliminar a distinção de gênero **Segurado homem adotante.** Desde 25 de outu...
+
+  [!] Cap 13 (linha ~278, 496 palavras)
+      início: **Súmula 244, I, TST:** O desconhecimento do estado gravídico pelo empregador não afasta o direito **Súmula 244, II, TST:** A garantia de emprego à ge...
+
+  [!] Cap 13 (linha ~289, 483 palavras)
+      início: **Vedação: SM × auxílio por incapacidade temporária.** O art. 124, VI, da Lei 8.213/91 veda Na prática, essa substituição exige ação administrativa da...
+
+  [!] Cap 13 (linha ~308, 562 palavras)
+      início: O período de gozo do salário-maternidade produz efeitos relevantes na contagem de tempo de contribuição **Tempo de contribuição.** O art. 55 da Lei 8....
+
+  [!] Cap 13 (linha ~333, 418 palavras)
+      início: A instrução probatória nas ações de salário-maternidade varia conforme a categoria da segurada: - **Segurada especial:** a instrução é mais complexa, ...
+
+  [!] Cap 14 (linha ~34, 462 palavras)
+      início: Tese fixada: "No regime anterior à EC 20/1998, o auxílio-reclusão era devido aos dependentes do Fundamentos relevantes para o regime atual: - O benefí...
+
+  [!] Cap 14 (linha ~49, 545 palavras)
+      início: **Primeira fase: origens (1933-1960).** O benefício tem raízes na previdência corporativa dos Institutos de Aposentadoria **Segunda fase: unificação e...
+
+  [!] Cap 14 (linha ~88, 496 palavras)
+      início: A manutenção da qualidade de segurado durante o período de reclusão é disciplinada pelo art. A Lei 10.666/2003, art. 2º, foi editada justamente para s...
+
+  [!] Cap 14 (linha ~187, 430 palavras)
+      início: A exigência de 24 contribuições atinge frontalmente o perfil típico do segurado cujos dependentes requerem - Trabalhadores de baixa renda com vínculos...
+
+  [!!] Cap 14 (linha ~244, 732 palavras)
+      início: A prisão provisória, em qualquer de suas modalidades (flagrante, preventiva, temporária), constitui fato gerador do O argumento do INSS sempre foi fal...
+
+  [!] Cap 14 (linha ~295, 453 palavras)
+      início: Processo paradigma: 5000345-04.2021.4.04.7013/PR | Rel. Juiz Federal Giovani Bigolin Tese fixada: "O benefício de auxílio-reclusão concedido para fato...
+
+  [!] Cap 14 (linha ~502, 572 palavras)
+      início: O auxílio-reclusão apresenta particularidades processuais que exigem atenção especial do advogado nos Juizados Especiais Federais. **Competência.** A ...
+
+  [!!!] Cap 14 (linha ~537, 970 palavras)
+      início: O auxílio-reclusão suscita diversas questões que transcendem a aplicação ordinária do benefício (IBRAHIM, 2025; CASTRO; **Morte do segurado preso: con...
+
+  [!] Cap 15 (linha ~42, 431 palavras)
+      início: A proteção previdenciária contra os efeitos residuais de acidentes percorreu caminho legislativo tortuoso até alcançar A Lei n. 6.367, de 19 de outubr...
+
+  [!] Cap 15 (linha ~56, 401 palavras)
+      início: O fato gerador do auxílio-acidente, conforme o art. 86, caput, da Lei n. 8.213/91, exige **Acidente de qualquer natureza.** A expressão "acidente de q...
+
+  [!] Cap 15 (linha ~159, 411 palavras)
+      início: A concessão de auxílio-acidente por perda auditiva é uma das matérias mais controvertidas na prática O dispositivo impõe dois requisitos cumulativos p...
+
+  [!] Cap 15 (linha ~286, 403 palavras)
+      início: BRASIL. Constituição da República Federativa do Brasil de 1988. Disponível em: www.planalto.gov.br. Acesso em: 11 BRASIL. Lei n. 8.213, de 24 de julho...
+
+  [!] Cap 16 (linha ~10, 436 palavras)
+      início: O cálculo do benefício previdenciário é, na prática forense, o ponto de convergência entre a A experiência jurisdicional demonstra que os erros de cál...
+
+  [!] Cap 16 (linha ~16, 554 palavras)
+      início: O salário de contribuição, disciplinado no art. 28 da Lei n. 8.212, de 24 de O salário de benefício, por sua vez, é a média dos salários de contribuiç...
+
+  [!!!] Cap 16 (linha ~224, 845 palavras)
+      início: O valor do benefício previdenciário não permanece estático após a concessão. O reajustamento periódico é **Regra vigente: art. 41-A da Lei 8.213/91.**...
+
+  [!] Cap 16 (linha ~234, 507 palavras)
+      início: **Base normativa: art. 29, § 3º, da Lei 8.213/91.** A redação dada pela Lei 9.876/1999 **Tabela de fatores de atualização.** O INSS publica mensalment...
+
+  [!] Cap 16 (linha ~247, 545 palavras)
+      início: O segurado que exerce simultaneamente mais de uma atividade remunerada vinculada ao RGPS contribui por **Regime original: art. 32 da Lei 8.213/91.** N...
+
+  [!!] Cap 16 (linha ~259, 695 palavras)
+      início: Poucas questões previdenciárias mobilizaram tanto a comunidade jurídica na última década quanto a chamada "revisão **Contexto normativo.** Quando a Le...
+
+  [!] Cap 16 (linha ~408, 438 palavras)
+      início: BRASIL. Constituição da República Federativa do Brasil de 1988. *Diário Oficial da União*, Brasília, DF, BRASIL. Emenda Constitucional nº 20, de 15 de...
+
+  [!] Cap 17 (linha ~3, 515 palavras)
+      início: O perfil das ações revisionais nos JEFs é marcado pela complexidade calculatória e pela necessidade As causas que ensejam revisão de benefícios podem ...
+
+  [!] Cap 17 (linha ~51, 417 palavras)
+      início: A trajetória do Tema 1102 no Supremo Tribunal Federal é um dos episódios mais turbulentos O RE 1.276.977/RS foi julgado pelo Plenário do STF em 1º de ...
+
+  [!!] Cap 17 (linha ~267, 602 palavras)
+      início: A revisão das atividades concomitantes é, entre as teses revisionais examinadas neste capítulo, a que O STJ, no julgamento dos REsp 1.870.793/RS e 1.8...
+
+  [!] Cap 17 (linha ~559, 460 palavras)
+      início: BRASIL. Constituição da República Federativa do Brasil, de 5 de outubro de 1988. BRASIL. Lei nº 8.212, de 24 de julho de 1991. Dispõe sobre a organiza...
+
+  [!] Cap 18 (linha ~10, 457 palavras)
+      início: A Constituição de 1988 organizou a seguridade social em três pilares: saúde (art. 196), previdência Essa localização constitucional produz consequênci...
+
+  [!] Cap 18 (linha ~19, 561 palavras)
+      início: A Constituição de 1988 rompeu com esse modelo ao criar o BPC como direito de O art. 20 da LOAS, em sua redação original, definia pessoa com deficiênci...
+
+  [!] Cap 18 (linha ~95, 511 palavras)
+      início: A determinação da renda per capita familiar para fins do BPC sofreu significativa evolução legislativa O art. 20, § 4º, da LOAS (com redação da Lei n....
+
+  [!] Cap 18 (linha ~194, 430 palavras)
+      início: O BPC é benefício de trato continuado, sujeito a revisão periódica para verificação da permanência A revisão periódica envolve a reavaliação dos dois ...
+
+  [!] Cap 18 (linha ~217, 406 palavras)
+      início: A legitimidade ativa nas ações de BPC pertence ao requerente (pessoa idosa ou com deficiência). O Ministério Público Federal pode atuar como fiscal da...
+
+  [!!] Cap 18 (linha ~249, 694 palavras)
+      início: A aplicação do BPC em situações especiais suscita questões que merecem exame individualizado, pela frequência A primeira situação especial é a da pess...
+
+  [!!] Cap 18 (linha ~304, 773 palavras)
+      início: O exame do BPC revela benefício assistencial de complexidade singular, em que a intersecção entre Entendemos que o BPC constitui direito fundamental s...
+
+  [!] Cap 19 (linha ~18, 420 palavras)
+      início: A proteção previdenciária dos dependentes em caso de morte do segurado possui longa tradição no A Lei n. 9.032/1995 uniformizou o valor da pensão por ...
+
+  [!] Cap 19 (linha ~75, 434 palavras)
+      início: Os pais do segurado constituem dependentes da Classe II (art. 16, II, Lei n. 8.213/91). Os irmãos do segurado constituem dependentes da Classe III (ar...
+
+  [!] Cap 19 (linha ~191, 450 palavras)
+      início: A duração da pensão por morte para filhos segue regra própria, vinculada à idade e Para filhos inválidos ou com deficiência intelectual, mental ou gra...
+
+  [!] Cap 19 (linha ~252, 430 palavras)
+      início: A pensão por morte pode ter natureza previdenciária comum (espécie B21) ou acidentária (espécie B93), A pensão por morte acidentária (B93) é devida qu...
+
+  [!!!] Cap 19 (linha ~282, 811 palavras)
+      início: A aplicação da pensão por morte em situações especiais suscita questões de elevada complexidade, pela A primeira situação especial é a do segurado que...
+
+  [!] Cap 19 (linha ~298, 598 palavras)
+      início: As ações de pensão por morte nos JEFs apresentam particularidades processuais que as distinguem das A primeira particularidade é a prova de negativa. ...
+
+  [!] Cap 19 (linha ~307, 429 palavras)
+      início: A pensão por morte do segurado especial (trabalhador rural em regime de economia familiar, pescador O segurado especial é definido pelo art. 11, incis...
+
+  [!!] Cap 19 (linha ~352, 676 palavras)
+      início: O exame da pensão por morte revela benefício previdenciário em profunda transformação, cujo regime jurídico Entendemos que a pensão por morte constitu...
+
+  [!!] Cap 20 (linha ~8, 734 palavras)
+      início: O sistema previdenciário brasileiro admite, como regra geral, a acumulação de benefícios quando cada prestação Essa lógica nem sempre foi clara na leg...
+
+  [!!!] Cap 20 (linha ~16, 1157 palavras)
+      início: O art. 124 da Lei n. 8.213/91 estabelece o rol de vedações de acumulação internas **Inciso I — Duas aposentadorias no RGPS.** O dispositivo veda que o...
+
+  [!!!] Cap 20 (linha ~39, 996 palavras)
+      início: O caput do art. 24 estabelece duas vedações. A primeira proíbe a acumulação de mais O § 1º do art. 24 enumera as exceções à vedação do caput, ou seja,...
+
+  [!!!] Cap 20 (linha ~78, 1057 palavras)
+      início: A aplicação concreta do escalonamento exige cálculos faixa a faixa que, embora não sejam complexos **Cenário 1 — Aposentadoria de R$ 3.500,00 + Pensão...
+
+  [!] Cap 20 (linha ~219, 443 palavras)
+      início: A terceira categoria de exceção ao escalonamento abrange os benefícios decorrentes de cargos que a A doutrina e a jurisprudência dominante firmaram o ...
+
+  [!!] Cap 20 (linha ~230, 709 palavras)
+      início: A compreensão adequada dessa cláusula exige a definição precisa do conceito de direito adquirido previdenciário. A partir dessa premissa, identificamo...
+
+  [!] Cap 20 (linha ~257, 529 palavras)
+      início: O **Tema 555/STJ** (REsp 1.296.673/MG), julgado sob o rito dos recursos repetitivos, firmou idêntica tese. O critério do art. 23 da Lei n. 8.213/91, m...
+
+  [!] Cap 20 (linha ~265, 567 palavras)
+      início: O Benefício de Prestação Continuada (BPC), disciplinado pelo art. 20 da Lei n. 8.742/1993 (LOAS), A razão da vedação reside na natureza do BPC: trata-...
+
+  [!] Cap 20 (linha ~275, 524 palavras)
+      início: A vedação de acumulação entre aposentadoria e auxílio por incapacidade temporária, inscrita no art. 124, A vedação do art. 124, II, e sua aplicação ao...
+
+  [!!] Cap 20 (linha ~294, 654 palavras)
+      início: Tese fixada: "A compensação de prestações previdenciárias recebidas na via administrativa, quando da elaboração de O fundamento da tese reside na veda...
+
+  [!!!] Cap 20 (linha ~308, 1128 palavras)
+      início: A competência dos JEFs abrange as causas de valor até 60 salários mínimos, o que As ações de acumulação assumem três configurações típicas. A primeira...
+
+  [!!!] Cap 20 (linha ~336, 1111 palavras)
+      início: Ao longo deste capítulo, adotamos posições sobre as principais questões relativas à acumulação de benefícios **Posição 1 — Complementaridade entre o a...
+
+  [!!] Cap 21 (linha ~8, 671 palavras)
+      início: O direito previdenciário convive com uma tensão estrutural que permeia todo o seu regime jurídico: O ordenamento jurídico brasileiro responde a essa t...
+
+  [!] Cap 21 (linha ~46, 509 palavras)
+      início: A decadência do art. 103 da Lei 8.213/91 extingue o direito potestativo do segurado de A distinção entre decadência e prescrição governa o regime de l...
+
+  [!] Cap 21 (linha ~104, 549 palavras)
+      início: O Tema 966 do STJ (REsp 1.648.336/RS, 1ª Seção, j. 11/12/2019) fixou tese com a A tese responde a uma questão que se apresentava com frequência nos JE...
+
+  [!] Cap 21 (linha ~112, 445 palavras)
+      início: A decadência previdenciária não opera apenas em favor do INSS. O art. 103-A da Lei A função do art. 103-A é proteger o segurado contra a instabilidade...
+
+  [!!] Cap 21 (linha ~129, 624 palavras)
+      início: A constitucionalidade do prazo decadencial fixado pelo art. 103 da Lei 8.213/91 foi questionada desde O Supremo Tribunal Federal enfrentou a questão n...
+
+  [!] Cap 21 (linha ~137, 552 palavras)
+      início: O art. 103, parágrafo único, da Lei 8.213/91 estabelece: "Prescreve em cinco anos, a contar A norma institui a prescrição quinquenal das parcelas prev...
+
+  [!!!] Cap 21 (linha ~357, 898 palavras)
+      início: Ao longo das vinte seções precedentes, examinamos os três institutos que delimitam temporalmente o exercício **Posição 1 — Complementaridade entre dec...
+
+  [!!] Cap 22 (linha ~2, 759 palavras)
+      início: O processo administrativo previdenciário ocupa, na atuação forense do direito previdenciário brasileiro, uma posição que Esses números revelam uma rea...
+
+  [!] Cap 22 (linha ~10, 495 palavras)
+      início: O INSS é autarquia federal vinculada ao Ministério da Previdência Social (MPS) (CASTRO; LAZZARI, 2024; A estrutura hierárquica do INSS organiza-se em ...
+
+  [!!] Cap 22 (linha ~31, 687 palavras)
+      início: O Meu INSS, disponível como aplicativo móvel (versão 5.0.0, atualizada em 2025) e portal web A autenticação pelo Gov.br introduziu camada de segurança...
+
+  [!!] Cap 22 (linha ~39, 627 palavras)
+      início: Os sistemas informatizados do INSS, operados pela DATAPREV (Empresa de Tecnologia e Informações da Previdência O Cadastro Nacional de Informações Soci...
+
+  [!!] Cap 22 (linha ~57, 667 palavras)
+      início: O requerimento pode ser formulado por três vias principais. A primeira e predominante é o A documentação mínima exigida varia conforme a espécie de be...
+
+  [!] Cap 22 (linha ~67, 554 palavras)
+      início: A consequência processual da mora administrativa é dupla. Em primeiro lugar, ela supre a exigência O dever do melhor benefício constitui outro aspecto...
+
+  [!] Cap 22 (linha ~77, 525 palavras)
+      início: A perícia médica constitui ato determinante para a concessão, manutenção e cessação dos benefícios por A perícia é realizada por perito médico federal...
+
+  [!] Cap 22 (linha ~90, 459 palavras)
+      início: O fundamento normativo da alta programada encontra-se nos §§ 8º e 9º do art. 60 A constitucionalidade da alta programada foi questionada perante o STF...
+
+  [!!!] Cap 22 (linha ~105, 811 palavras)
+      início: A decisão sobre o requerimento de benefício previdenciário é ato administrativo vinculado (AMADO, 2024; SAVARIS, Como ato administrativo, a decisão pr...
+
+  [!] Cap 22 (linha ~132, 521 palavras)
+      início: A legitimidade para interpor recurso ordinário é do segurado, de seu dependente ou de procurador A interposição pode ser feita pelo Meu INSS (opção "R...
+
+  [!!!] Cap 22 (linha ~151, 922 palavras)
+      início: As hipóteses de cabimento do recurso especial, disciplinadas pelo art. 305, § 2º, do Decreto Essa restrição de cabimento exige do recorrente demonstra...
+
+  [!] Cap 22 (linha ~162, 561 palavras)
+      início: A natureza jurídica desses enunciados é de orientação vinculante interna corporis. Significa dizer que as O processo de edição dos enunciados segue ri...
+
+  [!] Cap 22 (linha ~172, 450 palavras)
+      início: O segurado que tem seu benefício indeferido pelo INSS pode ajuizar a ação judicial imediatamente, As exceções são relevantes. Nas ações de revisão, re...
+
+  [!] Cap 22 (linha ~181, 598 palavras)
+      início: O poder de autotutela da Administração Pública, consagrado nas Súmulas 346 e 473 do STF, Sustentamos a necessidade de distinguir com clareza duas situ...
+
+  [!] Cap 22 (linha ~193, 502 palavras)
+      início: A cessação programada ocorre quando a perícia médica fixa, no momento da concessão ou em A cessação por recuperação da capacidade laboral decorre de r...
+
+  [!] Cap 22 (linha ~204, 562 palavras)
+      início: A tese fixada estabelece que o INSS pode revisar administrativamente benefício por incapacidade concedido judicialmente, Entendemos que a tese do Tema...
+
+  [!] Cap 22 (linha ~215, 500 palavras)
+      início: O procedimento segue roteiro padronizado. O INSS identifica o universo de benefícios sujeitos à revisão Os problemas práticos são numerosos e recorren...
+
+  [!] Cap 22 (linha ~233, 497 palavras)
+      início: Adotamos a seguinte sistematização por tipo de matéria. Nas pretensões de natureza documental, como reconhecimento Nas matérias de incapacidade labora...
+
+  [!] Cap 22 (linha ~254, 575 palavras)
+      início: O processo administrativo previdenciário constitui peça instrutória de primeira importância para a ação judicial (SAVARIS, A documentação necessária v...
+
+  [!] Cap 22 (linha ~276, 600 palavras)
+      início: O Tema 350/STF (RE 631.240, Plenário, j. 27/08/2014, Rel. Min. Roberto Barroso) constitui o marco A modulação de efeitos fixada pelo STF merece atençã...
+
+  [!!] Cap 22 (linha ~295, 706 palavras)
+      início: Ao longo deste capítulo, fixamos posições sobre os temas centrais do processo administrativo previdenciário e **Posição 1 — O processo administrativo ...
+
+  [!] Cap 23 (linha ~10, 519 palavras)
+      início: Os Juizados Especiais Federais foram instituídos pela Lei n. 10.259/2001 (SAVARIS, 2023; CASTRO; LAZZARI, 2025), A finalidade dos JEFs é democratizar ...
+
+  [!] Cap 23 (linha ~53, 452 palavras)
+      início: A competência territorial nas ações previdenciárias do JEF segue as regras do art. 109, § A Súmula 689 do STF consolida essa orientação: "O segurado p...
+
+  [!!] Cap 23 (linha ~92, 604 palavras)
+      início: O princípio da oralidade manifesta-se na concentração dos atos processuais em audiência. A petição inicial O princípio da simplicidade impõe a desburo...
+
+  [!] Cap 23 (linha ~120, 499 palavras)
+      início: Não havendo acordo na audiência de conciliação, o processo segue para a audiência de instrução A instrução processual nas ações previdenciárias varia ...
+
+  [!] Cap 23 (linha ~156, 406 palavras)
+      início: O recurso inominado é o recurso cabível contra as sentenças dos JEFs, previsto nos arts. A Turma Recursal é composta por três juízes federais de prime...
+
+  [!] Cap 23 (linha ~171, 550 palavras)
+      início: A execução da sentença nos JEFs previdenciários segue procedimento próprio, condicionado pelo valor da condenação A RPV é o mecanismo de pagamento par...
+
+  [!] Cap 23 (linha ~211, 451 palavras)
+      início: A litigância previdenciária nos JEFs apresenta características que a distinguem de outras matérias processadas no A primeira particularidade é a hipos...
+
+  [!] Cap 23 (linha ~300, 429 palavras)
+      início: O exame da competência e do procedimento nos JEFs revela sistema processual orientado ao acesso A competência absoluta dos JEFs, restrita ao valor da ...
+
+
+ANÁLISE 3: DEFINIÇÕES/CLASSIFICAÇÕES SEM ATRIBUIÇÃO
+----------------------------------------
+  Total: 106 ocorrências
+
+  Cap 1:
+    [!!] Linha 9: conceituação sem fonte
+         ria brasileira. A Carta de 1988 criou o conceito de seguridade social como sistema integrado que articula saúde, previdência e assistência social, com
+    [!!] Linha 94: conceituação sem fonte
+         uptura com o modelo anterior ao criar o conceito de seguridade social como inovação constitucional brasileira (BALERA, 2023; MARTINEZ, 2023). O art. 1
+    [!!] Linha 116: referência genérica à doutrina
+         tam a organização da seguridade social. A doutrina trata esses objetivos como autênticos princípios constitucionais (MARTINEZ, 2023; BALERA, 2023; IBR
+    [!!] Linha 210: referência genérica à doutrina
+         visibilidade pública, é tema recorrente na doutrina previdenciária. Sustentamos que o déficit de participação social na gestão do RGPS não se resolve 
+    [!!] Linha 216: referência genérica à doutrina
+         tição simples (pay-as-you-go), conforme a doutrina amplamente majoritária (IBRAHIM, 2024; AMADO, 2024; KERTZMAN, 2024). As contribuições recolhidas me
+    [!!] Linha 257: referência genérica à doutrina
+         Sustentamos, com a doutrina previdenciária amplamente majoritária (CASTRO; LAZZARI, 2024; AMADO, 2024; MARTINEZ, 2023), que o princípio do
+    [!!] Linha 269: referência genérica à doutrina
+          princípio constitucional implícito que a doutrina extrai (IBRAHIM, 2024; CASTRO; LAZZARI, 2024) de uma leitura conjugada de dispositivos da CF/88: o 
+
+  Cap 2:
+    [!!] Linha 110: conceituação sem fonte
+         oi estabelecido pela Lei 11.718/2008. O conceito de módulo fiscal é definido no art. 50 do Estatuto da Terra (Lei n. 4.504/64), variando por município
+    [!!] Linha 162: posição doutrinária sem autor
+         s é presumida, dispensando comprovação. A doutrina majoritária sustenta que essa presunção, no caso do cônjuge e do companheiro, é de natureza absolut
+    [!!] Linha 190: conceituação sem fonte
+         enciária não os inclui expressamente no conceito de "pais". Há, contudo, corrente doutrinária e decisões isoladas que admitem a equiparação, com funda
+    [!!] Linha 192: conceituação sem fonte
+         STJ, em relevante precedente, ampliou o conceito de genitores para fins previdenciários. No REsp 1.574.859, a Corte reconheceu aos avós de segurado fa
+
+  Cap 3:
+    [!!] Linha 11: posição doutrinária sem autor
+         ro dia dos meses de suas competências". A doutrina majoritária classifica a carência como requisito objetivo de concessão do benefício previdenciário,
+    [!!] Linha 80: referência genérica à doutrina
+         érios da Saúde e da Previdência Social. A doutrina é convergente na interpretação de que a expressão "acidente de qualquer natureza" abrange tanto o a
+    [!!] Linha 112: referência genérica à doutrina
+         a independer de carência, resultado que a doutrina já defendia com fundamento na isonomia constitucional.
+    [!!] Linha 130: referência genérica à doutrina
+         agem a partir do efetivo recolhimento). A doutrina criticava essa exclusão, pois o doméstico, à semelhança do empregado comum, não era responsável pel
+
+  Cap 5:
+    [!!] Linha 406: referência genérica à doutrina
+         a — é instituto amplamente examinado pela doutrina (IBRAHIM, 2025; CASTRO; LAZZARI, 2025) e encontra fundamento no art. 201, § 9º, da Constituição Fed
+    [!!] Linha 617: referência genérica à doutrina
+          contribuição." A novidade é que parte da doutrina associa a essa previsão também a vedação de conversão de tempo especial em comum (na medida em que 
+
+  Cap 6:
+    [!!] Linha 15: conceituação sem fonte
+         l, as controvérsias sobre a extensão do conceito de incapacidade, a tensão entre o laudo médico e as condições pessoais do segurado, a fixação da data
+    [!!] Linha 59: posição doutrinária sem autor
+         A doutrina denomina essa exigência de incapacidade omniprofissional (ou seja, a inaptidão para o exercício de toda e qualquer ati
+    [!!] Linha 90: posição doutrinária sem autor
+         condições pessoais do segurado. É o que a doutrina denomina "incapacidade social" — a impossibilidade de reinserção laboral decorrente não apenas da l
+    [!!] Linha 343: conceituação sem fonte
+         O conceito de deficiência para fins de BPC foi substancialmente ampliado pela Lei Brasileira de Inclusão (Lei n. 13.146/2015
+    [!!] Linha 349: referência genérica à doutrina
+         itação são deficiências reconhecidas pela doutrina e pela jurisprudência. A TNU tem reiteradamente entendido que a mera inscrição do segurado no Progr
+    [!!] Linha 381: conceituação sem fonte
+          e sociais do segurado, transformando o conceito de incapacidade de categoria puramente médica em conceito jurídico-social. Essa evolução é particular
+
+  Cap 7:
+    [!!] Linha 34: posição doutrinária sem autor
+         u à efetiva reabilitação — situação que a doutrina denomina "auxílio-doença permanente", paradoxo que evidencia disfuncionalidades pontuais do sistema
+    [!!] Linha 94: referência genérica à doutrina
+         cidade temporária desdobra-se, conforme a doutrina (IBRAHIM; BRAGANÇA; FOLMANN, 2025; SANTOS; CALEJON, 2025), em duas espécies conforme a origem da in
+    [!!] Linha 324: referência genérica à doutrina
+         ficiências recorrentemente apontadas pela doutrina e pela jurisprudência.
+    [!!] Linha 424: referência genérica à doutrina
+         meno recorrente, amplamente debatido pela doutrina (SAVARIS, 2023; CASTRO; LAZZARI, 2025), que afeta predominantemente os beneficiários do auxílio por
+    [!!] Linha 496: referência genérica à doutrina
+          atualizado e articulado de legislação, doutrina e jurisprudência.
+
+  Cap 8:
+    [!!] Linha 84: referência genérica à doutrina
+         atuarial do sistema, mas é criticada pela doutrina por contrariar a própria finalidade do benefício, proteger o trabalhador contra os efeitos da expos
+    [!!] Linha 171: controvérsia doutrinária genérica
+         r dispensada quando o PPP é claro e não há controvérsia sobre a natureza das atividades. Se o INSS impugnar o PPP, o juiz pode designar perícia para v
+    [!!] Linha 316: controvérsia doutrinária genérica
+         ibuição (homens) ou 15 anos (mulheres). Há controvérsia doutrinária sobre se, na aposentadoria especial, o patamar mínimo (20 anos para homens) se apl
+    [!!] Linha 385: referência genérica à doutrina
+         tão relevante é o cálculo do benefício: a doutrina diverge sobre se o novo cálculo da EC 103/2019 (60% + 2% por ano excedente) se aplica à aposentador
+
+  Cap 9:
+    [!!] Linha 36: conceituação sem fonte
+         alhador rural nos arts. 11, inciso VII (conceito de segurado especial), 39 (benefícios devidos ao segurado especial), 48, §§ 1º e 2º (requisitos da ap
+    [!!] Linha 38: conceituação sem fonte
+         ncia. A mesma lei redefiniu aspectos do conceito de segurado especial, ampliando as atividades e fontes de renda complementar compatíveis com o regime
+    [!!] Linha 60: conceituação sem fonte
+         loração predominante, a renda obtida, o conceito de propriedade familiar e outras variáveis socioeconômicas. Em municípios de agricultura de subsistên
+    [!!] Linha 68: conceituação sem fonte
+         O conceito de segurado especial alcança não apenas o produtor rural em sentido estrito, mas também membros de seu grupo fami
+    [!!] Linha 84: referência genérica à doutrina
+         ação não define "auxílio eventual", mas a doutrina e a jurisprudência distinguem a contratação eventual, por prazo certo e em período de maior demanda
+    [!!] Linha 188: conceituação sem fonte
+         ento formal. A jurisprudência ampliou o conceito de início de prova material para abranger evidências físicas que, embora não constituam documentos em
+    [!!] Linha 266: referência genérica à doutrina
+         ição de segurado especial é preservada. A doutrina destaca que a interpretação deve ser guiada pelo princípio da razoabilidade: o segurado especial qu
+    [!!] Linha 304: conceituação sem fonte
+          (art. 15, § 2º, da Lei n. 8.213/91). O conceito de "desemprego involuntário" foi concebido para o mercado de trabalho urbano formal, ajustando-se com
+    [!!] Linha 434: conceituação sem fonte
+          comunidades étnicas ou tradicionais: o conceito de segurado especial é funcional, centrado no exercício de atividade agropecuária, pesqueira ou extra
+    [!!] Linha 465: conceituação sem fonte
+         o de emprego formal, não se enquadra no conceito de segurado especial — o pescador industrial é segurado empregado (art. 11, I) ou contribuinte indivi
+
+  Cap 10:
+    [!!] Linha 350: conceituação sem fonte
+         O conceito de carência distingue-se do conceito de tempo de contribuição em três aspectos fundamentais. Primeiro, a carência
+    [!!] Linha 476: referência genérica à doutrina
+         irmação da DER, amplamente examinada pela doutrina (CASTRO; LAZZARI, 2025; IBRAHIM, 2025), é um dos institutos mais relevantes da prática previdenciár
+    [!!] Linha 510: controvérsia doutrinária genérica
+          requisitos da aposentadoria por idade, há controvérsia sobre a possibilidade de reafirmação, pois a causa de pedir originária não abrangia a aposenta
+    [!!] Linha 578: posição doutrinária sem autor
+         ica também à aposentadoria compulsória. A doutrina majoritária entende que a aposentadoria compulsória, por ser iniciativa do empregador, acarreta a e
+    [!!] Linha 720: controvérsia doutrinária genérica
+         NIS registra vínculos suficientes e não há controvérsia sobre sua validade, a probabilidade é elevada. Situações típicas de alta probabilidade: indefe
+    [!!] Linha 811: controvérsia doutrinária genérica
+         A designação de audiência é necessária quando há controvérsia sobre fatos que dependem de prova oral, como:
+
+  Cap 11:
+    [!!] Linha 57: conceituação sem fonte
+         - **Capítulo 5:** Conceito de tempo de contribuição, formas de cômputo, averbação, contagem recíproca (mecanismo e vedações), CTC.
+    [!!] Linha 76: conceituação sem fonte
+         **Primeira:** A substituição do conceito de "tempo de serviço" por "tempo de contribuição" (art. 201, § 7º, nova redação), exigindo contribuição efeti
+    [!!] Linha 385: referência genérica à doutrina
+         ágio de 100% (art. 20, EC 103), segundo a doutrina (AMADO, 2025; IBRAHIM, 2025), é frequentemente considerada a "melhor regra" para segurados com idad
+    [!!] Linha 705: referência genérica à doutrina
+         ervidores públicos), a jurisprudência e a doutrina majoritárias (CASTRO; LAZZARI, 2025; AMADO, 2025) aplicam a vedação também ao RGPS, como princípio 
+    [!!] Linha 718: referência genérica à doutrina
+         cido sem recolhimento efetivo. A rigor, a doutrina moderna distingue essas hipóteses do tempo fictício propriamente dito: não se trata de ficção, mas 
+
+  Cap 12:
+    [!!] Linha 59: conceituação sem fonte
+         - **Capítulo 5:** Conceito de tempo de contribuição, cômputo, averbação, CTC, aplicam-se integralmente à PcD.
+    [!!] Linha 67: conceituação sem fonte
+          em profundidade a LC 142/2013, desde o conceito de deficiência para fins previdenciários até os aspectos processuais da perícia biopsicossocial nos J
+    [!!] Linha 81: conceituação sem fonte
+         tou avanço significativo ao: (a) adotar conceito de deficiência alinhado à CDPD, baseado na interação entre impedimentos individuais e barreiras socia
+    [!!] Linha 87: conceituação sem fonte
+         o da Pessoa com Deficiência) reforçou o conceito de deficiência baseado na interação entre impedimentos e barreiras, alinhando a legislação infraconst
+    [!!] Linha 138: conceituação sem fonte
+         TRF3: "O conceito de deficiência para fins da LC 142/2013 não se reduz ao diagnóstico médico, mas engloba a avaliação biopsicossoci
+    [!!] Linha 230: conceituação sem fonte
+         ído pelo Decreto 8.145/2013) introduz o conceito de grau preponderante: quando o segurado tem períodos de contribuição sob graus diferentes de deficiê
+    [!!] Linha 299: referência genérica à doutrina
+         Essa interpretação foi rechaçada pela doutrina majoritária e pela jurisprudência dos TRFs, com fundamento no art. 22 da EC 103, que preserva a LC 142/
+    [!!] Linha 730: conceituação sem fonte
+         aferição do grau de deficiência, pois o conceito de deficiência da LC 142 é funcional, não diagnóstico. A visão monocular pode configurar deficiência 
+
+  Cap 13:
+    [!!] Linha 28: conceituação sem fonte
+         tegral à criança (art. 227, CF/88) e no conceito de parentalidade, que transcende a maternidade biológica. Essa evolução interpretativa alinha-se à te
+    [!!] Linha 72: conceituação sem fonte
+         O conceito de parto para fins previdenciários é mais amplo que o conceito obstétrico. O art. 294, §3º, da Instrução Normativ
+    [!!] Linha 90: referência genérica à doutrina
+         criminoso é frequentemente criticado pela doutrina como insuficiente, especialmente nos casos de aborto espontâneo tardio (entre a décima segunda e a 
+    [!!] Linha 295: conceituação sem fonte
+         212/91 incluía o salário-maternidade no conceito de salário de contribuição. Consequentemente, sobre o valor do salário-maternidade incidiam: a contri
+    [!!] Linha 335: conceituação sem fonte
+         cio e, tecnicamente, não se enquadra no conceito de desemprego. A jurisprudência tem admitido a extensão quando demonstrada a cessação involuntária da
+    [!!] Linha 353: conceituação sem fonte
+         **Conceito de segurada especial.** A segurada especial é a pessoa física residente em imóvel rural ou aglomerado urbano ou r
+    [!!] Linha 392: referência genérica à doutrina
+          direito ao salário-maternidade, embora a doutrina critique essa limitação como inconsistente com o princípio da proteção integral.
+    [!!] Linha 400: referência genérica à doutrina
+         do período do benefício previdenciário. A doutrina tem criticado essa limitação, argumentando que a adoção simultânea de três ou quatro irmãos demanda
+    [!!] Linha 474: referência genérica à doutrina
+         ão Gestor de Mão de Obra) ou sindicato. A doutrina majoritária reconhece a estabilidade, impedindo o descredenciamento da avulsa gestante junto ao OGM
+
+  Cap 14:
+    [!!] Linha 113: conceituação sem fonte
+         O conceito de "recolhimento à prisão" compreende a prisão em sentido amplo: prisão em flagrante, prisão preventiva, prisão t
+    [!!] Linha 200: conceituação sem fonte
+         zero, enquadrando-se automaticamente no conceito de "baixa renda" (Tema 896/STJ). No regime posterior, o critério da média dos 12 meses pode excluir o
+    [!!] Linha 216: conceituação sem fonte
+         Com a EC 103/2019, o conceito de "baixa renda" ganhou nova conformação. O art. 27, § 1º, da EC 103 estabeleceu que, até que lei discipline o ac
+    [!!] Linha 746: referência genérica à doutrina
+         80 da Lei 8.213/91 na redação original. A doutrina majoritária e a jurisprudência dos TRFs entendiam que o aposentado preso não gerava auxílio-reclusã
+
+  Cap 15:
+    [!!] Linha 45: conceituação sem fonte
+         de elevada complexidade: a definição do conceito de "acidente de qualquer natureza" (art. 86, caput), a delimitação entre redução parcial e incapacida
+    [!!] Linha 81: conceituação sem fonte
+         2), fixou tese definindo o conceito: "O conceito de acidente de qualquer natureza, para os fins do art. 86 da Lei n. 8.213/1991, consiste em evento sú
+    [!!] Linha 83: conceituação sem fonte
+         ese do Tema 269 é restritiva: exclui do conceito de "acidente de qualquer natureza" as doenças degenerativas, as condições inerentes ao envelhecimento
+    [!!] Linha 100: referência genérica à doutrina
+         ente — exclusão amplamente criticada pela doutrina como inconstitucional.
+    [!!] Linha 351: conceituação sem fonte
+          269 exclui as doenças degenerativas do conceito de "acidente de qualquer natureza". Na prática, isso afeta um volume significativo de demandas: segur
+
+  Cap 16:
+    [!!] Linha 181: referência genérica à doutrina
+         do coeficiente pós-EC 103, examinada pela doutrina (CASTRO; LAZZARI, 2024; HORVATH JÚNIOR, 2024), está no art. 26, § 2º. O benefício corresponde a 60%
+    [!!] Linha 385: referência genérica à doutrina
+         controvérsias.** Parcela significativa da doutrina e das entidades representativas de aposentados sustenta que o INPC subestima a inflação efetivament
+
+  Cap 17:
+    [!!] Linha 662: referência genérica à doutrina
+         escisória nos JEFs é questão que divide a doutrina e a jurisprudência, mas que vem se consolidando pela admissibilidade. O art. 59 da Lei 9.099/95 ved
+
+  Cap 18:
+    [!!] Linha 22: controvérsia doutrinária genérica
+         º, da Constituição (cláusulas pétreas). Há debate doutrinário sobre se o BPC constitui cláusula pétrea em si, na medida em que concretiza o princípio 
+    [!!] Linha 25: conceituação sem fonte
+         é prestação previdenciária vinculada ao conceito de salário de benefício, inaplicável à assistência social. Advogados devem atentar para essa diferenç
+    [!!] Linha 36: conceituação sem fonte
+         s significativas na LOAS, redefinindo o conceito de pessoa com deficiência para fins do BPC. O novo art. 20, § 2º, passou a considerar pessoa com defi
+    [!!] Linha 88: conceituação sem fonte
+         O conceito de deficiência para fins do BPC sofreu profunda transformação nas últimas décadas, migrando de um modelo estritam
+    [!!] Linha 136: conceituação sem fonte
+         rição funcional global compatível com o conceito de deficiência para fins do BPC. O perito deve ser orientado a avaliar o efeito cumulativo das condiç
+    [!!] Linha 142: referência genérica à doutrina
+         ipossuficiência econômica, designada pela doutrina e pela jurisprudência como "miserabilidade". O art. 20, § 3º, da LOAS, em sua redação vigente (dada
+    [!!] Linha 146: conceituação sem fonte
+         O conceito de miserabilidade não se reduz, contudo, à fórmula aritmética da renda per capita. Entendemos que o critério lega
+    [!!] Linha 190: referência genérica à doutrina
+         provocou reação de parte significativa da doutrina e da jurisprudência de primeiro grau, que considerou o critério excessivamente restritivo e incompa
+    [!!] Linha 452: referência genérica à doutrina
+          para substituir a obrigação do Estado. A doutrina converge nesse sentido: o dever constitucional de amparo ao idoso e à pessoa com deficiência em sit
+    [!!] Linha 490: referência genérica à doutrina
+         dica e da vedação de retrocesso social. A doutrina debate a extensão da vedação de retrocesso no campo assistencial: entendemos que, embora o legislad
+    [!!] Linha 524: definição sem atribuição
+         Pessoas com doenças raras (definidas como aquelas que afetam até 65 em cada 100.000 pessoas) enfrentam desafios particulares no acesso ao BPC. A dific
+    [!!] Linha 552: conceituação sem fonte
+         O conceito de deficiência para fins do BPC é o modelo biopsicossocial consagrado pela CDPD (com status de emenda constitucio
+
+  Cap 19:
+    [!!] Linha 198: conceituação sem fonte
+          favorece os dependentes da Classe I. O conceito de dependência econômica para fins previdenciários é mais amplo do que o conceito civil de necessidad
+    [!!] Linha 556: conceituação sem fonte
+          habitual ou principal meio de vida). O conceito de regime de economia familiar pressupõe que a atividade é exercida pelo grupo familiar (cônjuge ou c
+
+  Cap 20:
+    [!!] Linha 366: referência genérica à doutrina
+         A doutrina e a jurisprudência dominante firmaram o entendimento de que os benefícios previdenciários decorrentes de cargo
+    [!!] Linha 377: referência genérica à doutrina
+         A doutrina majoritária e a interpretação sistemática da Constituição convergem no entendimento de que o escalonamento do 
+    [!!] Linha 384: conceituação sem fonte
+         a cláusula exige a definição precisa do conceito de direito adquirido previdenciário. O direito ao benefício previdenciário consolida-se no momento em
+    [!!] Linha 468: posição doutrinária sem autor
+         alquer benefício substitutivo. Parcela da doutrina sustenta que essa situação configura contribuição sem causa (v. seção 7.15 para o exame detalhado d
+
+  Cap 21:
+    [!!] Linha 98: referência genérica à doutrina
+         A doutrina debate se o prazo do art. 103 constitui verdadeira decadência ou se se aproxima de uma preclusão temporal admi
+    [!!] Linha 235: referência genérica à doutrina
+         A posição que adotamos, em linha com a doutrina majoritária (IBRAHIM, 2025; SANTOS; CALEJON, 2025), é consonante com o entendimento do STF. O prazo de
+
+  Cap 23:
+    [!!] Linha 128: referência genérica à doutrina
+          previdenciária, amplamente debatido pela doutrina (SAVARIS, 2023; IBRAHIM, 2025), foi objeto do julgamento pelo STF no Tema 350 (RE 631.240, rel. Min
+    [!!] Linha 227: conceituação sem fonte
+         a jurisprudencial, contudo, é ampliar o conceito de compatibilidade, admitindo nos JEFs a maioria das perícias previdenciárias.
+    [!!] Linha 286: referência genérica à doutrina
+         Turmas Recursais é bandeira de parcela da doutrina processualista, que sustenta que a complexidade técnica do direito previdenciário exige julgadores 
+    [!!] Linha 468: referência genérica à doutrina
+          proferida por insuficiência de provas. A doutrina e parte da jurisprudência sustentam que a sentença de improcedência por falta de provas não faz coi
+
+
+ANÁLISE 4: FRASES FORMULAICAS DE DOUTRINA PREVIDENCIÁRIA
+----------------------------------------
+  Total: 26 ocorrências
+
+  Cap 1:
+    [!] Linha 116: princípio constitucional — verificar contextualização
+        ios e serviços às populações urbana e rural (II), seletividade e distributividade na prestação dos benefícios e serviços (III), irredutibilidade do va
+    [!] Linha 124: princípio constitucional — verificar contextualização
+        O princípio da universalidade da cobertura e do atendimento (art. 194, parágrafo único, I, CF/88) possui dupla dimensão que precisa ser adequadamente 
+    [!] Linha 214: definição constitucional — verificar se há citação do art. 201 CF
+        l será organizada sob a forma de regime geral, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio fina
+    [!] Linha 273: princípio pro misero — verificar se contextualizado
+        O princípio pro misero, também referido como in dubio pro segurado, guarda relação com a vedação do retrocesso, embora não se confunda com ela. Esse p
+
+  Cap 2:
+    [!] Linha 5: definição constitucional — verificar se há citação do art. 201 CF
+        a forma do Regime Geral de Previdência Social, de caráter contributivo e de filiação obrigatória, observados critérios que preservem o equilíbrio fina
+
+  Cap 4:
+    [!] Linha 54: tríplice custeio — conceito clássico
+        lários e dos trabalhadores sobre a remuneração. A tríplice forma de custeio, empregadores, trabalhadores e governo, constitui alicerce do financiament
+    [!] Linha 58: princípio da contrapartida — conceito doutrinário
+        stitucionais norteiam o custeio previdenciário. O princípio da preexistência do custeio (art. 195, § 5º, CF/88), segundo o qual nenhum benefício pode 
+
+  Cap 7:
+    [!] Linha 362: natureza alimentar — fórmula doutrinária recorrente
+         dano irreparável ao segurado privado de renda. A natureza alimentar do benefício e a situação de vulnerabilidade do segurado incapacitado fundamentam
+
+  Cap 9:
+    [!] Linha 22: princípio constitucional — verificar contextualização
+        equisito etário, dando concretude ao princípio da seletividade e distributividade na prestação dos benefícios (art. 194, parágrafo único, inciso III, 
+
+  Cap 10:
+    [!] Linha 722: natureza alimentar — fórmula doutrinária recorrente
+        nto outros presumem o perigo de dano pela própria natureza alimentar do benefício previdenciário.
+    [!] Linha 758: natureza alimentar — fórmula doutrinária recorrente
+        de boa-fé, são irrepetíveis. O fundamento está na natureza alimentar do benefício previdenciário e na boa-fé objetiva do segurado que agiu amparado po
+
+  Cap 13:
+    [!] Linha 556: natureza alimentar — fórmula doutrinária recorrente
+        nto essencial nas ações de salário-maternidade. A natureza alimentar do benefício, a urgência decorrente da iminência ou ocorrência do parto, e a tran
+
+  Cap 15:
+    [!] Linha 333: natureza alimentar — fórmula doutrinária recorrente
+        cidade reduzida e sem complementação da renda). A natureza alimentar do benefício reforça a urgência, embora o auxílio-acidente, por ser indenizatório
+
+  Cap 17:
+    [!] Linha 133: natureza alimentar — fórmula doutrinária recorrente
+        es mensais majorados recebidos até aquela data. A natureza alimentar dos benefícios previdenciários, aliada ao princípio da boa-fé, sustenta a irrepet
+
+  Cap 18:
+    [!] Linha 20: princípio constitucional — verificar contextualização
+        mesmos princípios de universalidade da cobertura, seletividade e distributividade na prestação dos benefícios.
+    [!] Linha 126: princípio pro misero — verificar se contextualizado
+         em favor do requerente, aplicando-se o princípio in dubio pro misero. Essa orientação é especialmente relevante para condições crônicas com evolução 
+    [!] Linha 312: natureza alimentar — fórmula doutrinária recorrente
+        s JEFs e consolidado pela TNU. Seu fundamento é a natureza protetiva dos benefícios e a vedação de formalismo processual que prejudique pessoas em sit
+    [!] Linha 394: natureza alimentar — fórmula doutrinária recorrente
+        a nas ações de BPC merece tratamento destacado. A natureza alimentar do benefício, somada à vulnerabilidade extrema dos requerentes, justifica a conce
+
+  Cap 19:
+    [!] Linha 58: natureza alimentar — fórmula doutrinária recorrente
+        a data do óbito. A dispensa de carência reflete a natureza protetiva do benefício: a morte é evento imprevisível que pode ocorrer a qualquer momento d
+    [!] Linha 478: natureza alimentar — fórmula doutrinária recorrente
+        ão por morte é frequente e encontra fundamento na natureza alimentar do benefício e na vulnerabilidade dos dependentes. O cônjuge ou companheiro(a) qu
+    [!] Linha 588: natureza alimentar — fórmula doutrinária recorrente
+        e é questão de elevada relevância prática, dada a natureza alimentar do benefício e a frequente situação de desamparo em que se encontram os dependent
+
+  Cap 21:
+    [!] Linha 670: natureza alimentar — fórmula doutrinária recorrente
+        s temporais que equilibra a proteção do segurado (natureza alimentar do benefício, caráter de direito fundamental, dinâmica da condição de saúde) com 
+
+  Cap 23:
+    [!] Linha 248: natureza alimentar — fórmula doutrinária recorrente
+        videnciárias é frequente e encontra fundamento na natureza alimentar do benefício. O segurado que comprova a probabilidade do direito ao benefício e d
+    [!] Linha 402: natureza alimentar — fórmula doutrinária recorrente
+        orrência do princípio da economia processual e da natureza alimentar dos benefícios previdenciários.
+    [!] Linha 546: natureza alimentar — fórmula doutrinária recorrente
+        ada pelo juízo especializado, com rito adequado à natureza alimentar do benefício. A faculdade de escolha territorial (art. 109, § 2º, CF/88) compleme
+    [!] Linha 550: natureza alimentar — fórmula doutrinária recorrente
+        ispensável no processo previdenciário dos JEFs. A natureza alimentar do benefício e a vulnerabilidade do segurado justificam a implantação provisória 
+
+
+ANÁLISE 5: HOMOGENEIDADE ESTILÍSTICA (TTR)
+----------------------------------------
+  (TTR = Type-Token Ratio; desvio alto = possível mistura de fontes)
+    Cap     TTR    TTR σ   Tam.Pal   Hapax%  Observação
+  ─────  ──────  ───────  ────────  ───────  ─────────────────────────
+      1  0.596  0.0347  7.48  59.5%  ✓ homogêneo
+      2  0.583  0.0152  7.34  62.7%  ✓ homogêneo
+      3  0.532  0.0301  7.32  61.8%  ✓ homogêneo
+      4  0.542  0.0298  7.38  59.9%  ✓ homogêneo
+      5  0.545  0.0369  7.29  61.0%  ✓ homogêneo
+      6  0.546  0.0214  7.55  62.4%  ✓ homogêneo
+      7  0.562  0.0280  7.54  61.0%  ✓ homogêneo
+      8  0.542  0.0372  7.40  61.3%  ✓ homogêneo
+      9  0.550  0.0247  7.27  58.4%  ✓ homogêneo
+     10  0.511  0.0400  7.04  60.9%  ~ variação moderada
+     11  0.480  0.0487  6.87  60.3%  ~ variação moderada
+     12  0.512  0.0513  7.26  59.9%  ~ variação moderada
+     13  0.544  0.0252  7.36  57.7%  ✓ homogêneo
+     14  0.550  0.0308  7.42  60.9%  ✓ homogêneo
+     15  0.546  0.0211  7.57  62.3%  ✓ homogêneo
+     16  0.526  0.0395  7.04  61.9%  ✓ homogêneo
+     17  0.561  0.0256  6.95  58.6%  ✓ homogêneo
+     18  0.582  0.0237  7.28  59.4%  ✓ homogêneo
+     19  0.520  0.0236  7.05  57.8%  ✓ homogêneo
+     20  0.533  0.0387  7.31  57.9%  ✓ homogêneo
+     21  0.528  0.0325  7.03  55.4%  ✓ homogêneo
+     22  0.603  0.0282  7.43  57.2%  ✓ homogêneo
+     23  0.572  0.0246  7.24  59.0%  ✓ homogêneo
+
+  Média TTR: 0.546  |  Média desvio: 0.0309
+
+
+ANÁLISE 6: COBERTURA CITACIONAL POR TIPO DE CONTEÚDO
+----------------------------------------
+  Tipo                        Total   Citados   S/Cit   Cobertura
+  ─────────────────────────  ──────  ────────  ──────  ──────────
+  conceito                       83         7      76        8.4% ⚠
+  classificacao                  47         2      45        4.3% ⚠
+  principio                     121        11     110        9.1% ⚠
+  historico                     253        11     242        4.3%
+  doutrina_explicita            267        13     254        4.9% ⚠
+  jurisprudencia               3027        99    2928        3.3%
+  legislacao                   5224       268    4956        5.1%
+
+
+======================================================================
+CONSOLIDAÇÃO — CAPÍTULOS COM MAIOR RISCO
+======================================================================
+
+  Cap 20 — Risco 🔴 ALTO (score 7)
+    • densidade muito baixa (0.42)
+    • 12 trechos longos sem citação
+    • 4 definição(ões) sem atribuição
+
+  Cap 21 — Risco 🔴 ALTO (score 7)
+    • densidade muito baixa (0.18)
+    • 7 trechos longos sem citação
+    • 2 definição(ões) sem atribuição
+
+  Cap  1 — Risco 🔴 ALTO (score 6)
+    • densidade baixa (1.01)
+    • 23 trechos longos sem citação
+    • 7 definições sem atribuição
+
+  Cap  9 — Risco 🔴 ALTO (score 6)
+    • densidade baixa (0.73)
+    • 7 trechos longos sem citação
+    • 10 definições sem atribuição
+
+  Cap 13 — Risco 🔴 ALTO (score 6)
+    • densidade baixa (0.59)
+    • 13 trechos longos sem citação
+    • 9 definições sem atribuição
+
+  Cap 18 — Risco 🔴 ALTO (score 6)
+    • densidade baixa (0.50)
+    • 7 trechos longos sem citação
+    • 12 definições sem atribuição
+
+  Cap  6 — Risco 🔴 ALTO (score 5)
+    • densidade baixa (0.81)
+    • 3 trechos longos sem citação
+    • 6 definições sem atribuição
+
+  Cap 10 — Risco 🔴 ALTO (score 5)
+    • densidade baixa (0.72)
+    • 5 trechos longos sem citação
+    • 6 definições sem atribuição
+
+  Cap 14 — Risco 🔴 ALTO (score 5)
+    • densidade baixa (0.61)
+    • 8 trechos longos sem citação
+    • 4 definição(ões) sem atribuição
+
+  Cap 16 — Risco 🔴 ALTO (score 5)
+    • densidade baixa (0.59)
+    • 7 trechos longos sem citação
+    • 2 definição(ões) sem atribuição
+
+  Cap 19 — Risco 🔴 ALTO (score 5)
+    • densidade baixa (0.68)
+    • 8 trechos longos sem citação
+    • 2 definição(ões) sem atribuição
+
+  Cap 23 — Risco 🔴 ALTO (score 5)
+    • densidade baixa (0.63)
+    • 8 trechos longos sem citação
+    • 4 definição(ões) sem atribuição
+
+  Cap 12 — Risco 🟡 MÉDIO (score 4)
+    • densidade baixa (0.94)
+    • 1 trecho(s) longo(s) sem citação
+    • 8 definições sem atribuição
+
+  Cap 15 — Risco 🟡 MÉDIO (score 4)
+    • densidade baixa (1.23)
+    • 4 trechos longos sem citação
+    • 5 definição(ões) sem atribuição
+
+  Cap 17 — Risco 🟡 MÉDIO (score 4)
+    • densidade baixa (0.77)
+    • 4 trechos longos sem citação
+    • 1 definição(ões) sem atribuição
+
+  Cap 22 — Risco 🟡 MÉDIO (score 4)
+    • densidade baixa (1.11)
+    • 21 trechos longos sem citação
+
+  Cap  5 — Risco 🟡 MÉDIO (score 3)
+    • densidade baixa (0.72)
+    • 1 trecho(s) longo(s) sem citação
+    • 2 definição(ões) sem atribuição
+
+  Cap  7 — Risco 🟡 MÉDIO (score 3)
+    • densidade baixa (1.20)
+    • 1 trecho(s) longo(s) sem citação
+    • 5 definição(ões) sem atribuição
+
+  Cap  8 — Risco 🟡 MÉDIO (score 3)
+    • densidade baixa (1.01)
+    • 2 trecho(s) longo(s) sem citação
+    • 4 definição(ões) sem atribuição
+
+  Cap 11 — Risco 🟡 MÉDIO (score 3)
+    • densidade baixa (0.79)
+    • 1 trecho(s) longo(s) sem citação
+    • 5 definição(ões) sem atribuição
+
+  Cap  2 — Risco 🔵 BAIXO (score 2)
+    • 2 trecho(s) longo(s) sem citação
+    • 4 definição(ões) sem atribuição
+
+  Cap  3 — Risco 🔵 BAIXO (score 1)
+    • 4 definição(ões) sem atribuição
+
+  Cap  4 — Risco 🔵 BAIXO (score 1)
+    • densidade baixa (0.98)
+
+
+======================================================================
+RECOMENDAÇÕES
+======================================================================
+
+  PRIORIDADE ALTA:
+  → Cap 20: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade muito baixa (0.42); 12 trechos longos sem citação; 4 definição(ões) sem atribuição
+  → Cap 21: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade muito baixa (0.18); 7 trechos longos sem citação; 2 definição(ões) sem atribuição
+  → Cap 1: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (1.01); 23 trechos longos sem citação; 7 definições sem atribuição
+  → Cap 9: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.73); 7 trechos longos sem citação; 10 definições sem atribuição
+  → Cap 13: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.59); 13 trechos longos sem citação; 9 definições sem atribuição
+  → Cap 18: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.50); 7 trechos longos sem citação; 12 definições sem atribuição
+  → Cap 6: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.81); 3 trechos longos sem citação; 6 definições sem atribuição
+  → Cap 10: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.72); 5 trechos longos sem citação; 6 definições sem atribuição
+  → Cap 14: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.61); 8 trechos longos sem citação; 4 definição(ões) sem atribuição
+  → Cap 16: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.59); 7 trechos longos sem citação; 2 definição(ões) sem atribuição
+  → Cap 19: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.68); 8 trechos longos sem citação; 2 definição(ões) sem atribuição
+  → Cap 23: adicionar referências doutrinárias nos trechos identificados
+     Motivos: densidade baixa (0.63); 8 trechos longos sem citação; 4 definição(ões) sem atribuição
+
+  PRIORIDADE MÉDIA:
+  → Cap 12: revisar cobertura citacional
+     Motivos: densidade baixa (0.94); 1 trecho(s) longo(s) sem citação; 8 definições sem atribuição
+  → Cap 15: revisar cobertura citacional
+     Motivos: densidade baixa (1.23); 4 trechos longos sem citação; 5 definição(ões) sem atribuição
+  → Cap 17: revisar cobertura citacional
+     Motivos: densidade baixa (0.77); 4 trechos longos sem citação; 1 definição(ões) sem atribuição
+  → Cap 22: revisar cobertura citacional
+     Motivos: densidade baixa (1.11); 21 trechos longos sem citação
+  → Cap 5: revisar cobertura citacional
+     Motivos: densidade baixa (0.72); 1 trecho(s) longo(s) sem citação; 2 definição(ões) sem atribuição
+  → Cap 7: revisar cobertura citacional
+     Motivos: densidade baixa (1.20); 1 trecho(s) longo(s) sem citação; 5 definição(ões) sem atribuição
+  → Cap 8: revisar cobertura citacional
+     Motivos: densidade baixa (1.01); 2 trecho(s) longo(s) sem citação; 4 definição(ões) sem atribuição
+  → Cap 11: revisar cobertura citacional
+     Motivos: densidade baixa (0.79); 1 trecho(s) longo(s) sem citação; 5 definição(ões) sem atribuição
+
+  OBSERVAÇÃO GERAL:
+  Este livro foi gerado por pipeline de IA. O risco de 'plágio' no sentido
+  tradicional é baixo, mas há risco de reprodução involuntária de formulações
+  doutrinárias absorvidas durante o treinamento do modelo. As recomendações
+  acima focam em trechos que se beneficiariam de citação explícita a fontes
+  doutrinárias para reforçar a credibilidade acadêmica do texto.

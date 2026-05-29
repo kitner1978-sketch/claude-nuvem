@@ -1,0 +1,375 @@
+RELATÓRIO DE CURADORIA DE INFORMAÇÕES — FASE 3
+======================================================================
+Data: 2026-05-15
+Capítulos analisados: 23
+
+VALORES DE REFERÊNCIA 2026
+----------------------------------------
+  Salário mínimo: R$ 1.621,00
+  Teto RGPS: R$ 8.475,55
+  Salário-família (cota): R$ 67,54
+  Salário-família (limite): R$ 1.980,38
+  Auxílio-reclusão (limite): R$ 1.980,38
+  Reajuste INPC: 3,9%
+  Portaria vigente: MPS/MF n. 13, de 09/01/2026
+  IN vigente: INSS/PRES 128/2022 (atualizada)
+  Alíquotas: 7,5% | 9% | 12% | 14%
+
+SUMÁRIO EXECUTIVO
+----------------------------------------
+  CRÍTICOS: 5
+  RELEVANTES: 24
+  SUGESTÕES: 30
+  TOTAL: 59
+
+
+────────────────────────────────────────────────────────────
+TIPO: ALIQUOTA (25 achados)
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: 3/2019  Antes da Reforma da Previdência, vigoravam três faixas com alíquotas de 8%, 9% e 11%, aplicadas sobre o total da r
+
+  [!] Cap 4
+    valor: 9.22%
+    alerta: Alíquota 9.22% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: ês.  **Alíquota efetiva** = contribuição total / remuneração = 368,61 / 4.000 = 9,22% :::  ::: box-pratica **Exemplo de cálcu
+
+  [!] Cap 4
+    valor: 11.66%
+    alerta: Alíquota 11.66% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: 55 - 4.354,27) | 14,0% | R$ 576,98 | | **Total** | **R$ 8.475,55** | **Efetiva: 11,66%** | **R$ 988,10** |  A alíquota efetiva
+
+  [!] Cap 4
+    valor: 11.66%
+    alerta: Alíquota 11.66% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: iva: 11,66%** | **R$ 988,10** |  A alíquota efetiva máxima é de aproximadamente 11,66%. Nenhum segurado empregado paga efetiva
+
+  [!] Cap 4
+    valor: 11.66%
+    alerta: Alíquota 11.66% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: gado é de aproximadamente R$ 988,10, resultando em alíquota efetiva de cerca de 11,66%.  #### 4.2.5 Vigência e regra de transi
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: sistema (Decreto-Lei 5.452/43 — CLT), a contribuição do empregado era fixada em 8% sobre o salário, sem progressividade. A
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: ssividade. A Lei 8.212/91 manteve alíquotas proporcionais (não progressivas) de 8%, 9% e 11%, distribuídas em três faixas
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: Período | Alíquotas | Sistema | |---------|-----------|---------| | Até 1991 | 8% fixa | Proporcional | | 1991-2020 (Lei
+
+  [!] Cap 4
+    valor: 5.55%
+    alerta: Alíquota 5.55% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: 1,8500 (empresa com alto índice de acidentes) - Alíquota efetiva: 3% × 1,8500 = 5,55% - Contribuição RAT mensal: R$ 500.000 ×
+
+  [!] Cap 4
+    valor: 5.55%
+    alerta: Alíquota 5.55% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: - Alíquota efetiva: 3% × 1,8500 = 5,55% - Contribuição RAT mensal: R$ 500.000 × 5,55% = R$ 27.750,00  Se a mesma empresa tive
+
+  [!] Cap 4
+    valor: 6.0%
+    alerta: Alíquota 6.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: ---------|---------------------| | 15 anos | 12% | | 20 anos | 9% | | 25 anos | 6% |  Essas alíquotas incidem sobre a remu
+
+  [!] Cap 4
+    valor: 15.0%
+    alerta: Alíquota 15.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: ):**  Contribuição MEI paga: 5% x R$ 1.621,00 = R$ 81,05 Complementação devida: 15% x R$ 1.621,00 = R$ 243,15 Total efetivo
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: iferenciada de 12% sobre o salário mínimo. A complementação para TC é de apenas 8% (20% - 12%).  Em 2026: contribuição pre
+
+  [!] Cap 4
+    valor: 15.0%
+    alerta: Alíquota 15.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: ntadoria por idade. Se o segurado deseja que contem para TC, deve complementar (15% sobre o SM de cada competência).  b) **
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: o empregado (alíquota reduzida — art. 18-C, § 1º, I, LC 123/2006), acrescida de 8% de FGTS. O recolhimento é feito pelo DA
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: a do empregado (alíquotas progressivas) - Contribuição patronal previdenciária (8%) - Seguro contra acidentes de trabalho
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: o DAE (Documento de Arrecadação do eSocial), que unifica contribuição patronal (8%), FGTS (8%), seguro acidente (0,8%) e c
+
+  [!] Cap 4
+    valor: 8.0%
+    alerta: Alíquota 8.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: mento de Arrecadação do eSocial), que unifica contribuição patronal (8%), FGTS (8%), seguro acidente (0,8%) e contribuição
+
+  [!] Cap 4
+    valor: 15.0%
+    alerta: Alíquota 15.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: mpresa tomadora de serviços prestados por cooperativa de trabalho contribui com 15% sobre o valor bruto da nota fiscal ou f
+
+  [!] Cap 4
+    valor: 15.0%
+    alerta: Alíquota 15.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: , IV, Lei 8.212/91 — contribuição patronal sobre cooperativa). Essa alíquota de 15% substituiu a contribuição patronal de 2
+
+  [!] Cap 4
+    valor: 15.0%
+    alerta: Alíquota 15.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: scal da cooperativa. Para as demais cooperativas de trabalho, a contribuição de 15% permanece vigente.  **Impacto prático:*
+
+  [!] Cap 4
+    valor: 15.0%
+    alerta: Alíquota 15.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: trabalho de outros setores (limpeza, construção, transporte), a contribuição de 15% permanece exigível. :::  A situação do
+
+  [!] Cap 4
+    valor: 15.0%
+    alerta: Alíquota 15.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: ntratar empregados (contribuição patronal de 20% + RAT), contratam cooperativa (15% sobre NF). O vínculo de subordinação, h
+
+  [!] Cap 4
+    valor: 11.66%
+    alerta: Alíquota 11.66% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: faixa) | 7,5% | Até 1 SM | Até R$ 121,58 | Sim | | Empregado (teto) | Efetiva ~11,66% | Até teto | ~R$ 988,10 | Sim | | CI no
+
+  [!] Cap 20
+    valor: 10.0%
+    alerta: Alíquota 10.0% não está entre as faixas padrão (7,5/9/12/14%)
+    contexto: o escalonamento produz redução perceptível no rendimento total do segurado. Os 10% de redução não são coincidência: decorr
+
+
+────────────────────────────────────────────────────────────
+TIPO: ANO_DESATUALIZADO (5 achados)
+
+  [!] Cap 3
+    alerta: Uso de "atualmente" com ano 2023/2024
+    contexto: estabilizou a regra vigente). Kertzman (2024) registra que, nesse período, o operador do direito precisou lidar com cinco re
+
+  [!] Cap 4
+    alerta: Uso de "atualmente" com ano 2023/2024
+    contexto: s vezes e permanece vigente em 2026 para setores específicos da economia, conforme a Lei 14.784/2023 (com prorrogação e reoneração gradual estabelecida pela Lei 14.973/2024).  A ló
+
+  [!] Cap 16
+    alerta: Uso de "atualmente" com ano 2023/2024
+    contexto: a de referência é a vigente na data do requerimento do benefício. A tabela IBGE 2024 (publicada em novembro de 2025) indica expectativa de vida geral ao nascer de 7
+
+  [!] Cap 17
+    alerta: Uso de "atualmente" com ano 2023/2024
+    contexto: em decisão judicial vigente e não pode ser compelido a devolvê-los (SAVARIS, 2023, p. 342).  Para as decisões proferidas após 5 de abril de 2024, a situação é di
+
+  [!] Cap 17
+    alerta: Uso de "atualmente" com ano 2023/2024
+    contexto: r tutela antecipada vigente: revogar, mas declarar a irrepetibilidade dos valores recebidos até 05/04/2024. - Fundamentação sugerida: transcrever a tese vinculante e o fundamento da ADI
+
+
+────────────────────────────────────────────────────────────
+TIPO: DESATUALIZADO (5 achados)
+
+  [!!!] Cap 4
+    valor_encontrado: R$ 7.786,02
+    valor_correto: R$ 8.475,55 (teto RGPS 2026, era 2024)
+    contexto: | R$ 3.916,20 | | 01/2016 | R$ 5.189,82 | | 01/2020 | R$ 6.101,06 | | 01/2024 | R$ 7.786,02 | | 01/2025 | R$ 8.157,41 | | 01/2026 | R$ 8.475,55 |  ::: box-atencao **Atençã
+
+  [!!!] Cap 4
+    valor_encontrado: R$ 8.157,41
+    valor_correto: R$ 8.475,55 (teto RGPS 2026)
+    contexto: | R$ 5.189,82 | | 01/2020 | R$ 6.101,06 | | 01/2024 | R$ 7.786,02 | | 01/2025 | R$ 8.157,41 | | 01/2026 | R$ 8.475,55 |  ::: box-atencao **Atenção — Revisão de benefícios
+
+  [!!!] Cap 16
+    valor_encontrado: R$ 8.157,41
+    valor_correto: R$ 8.475,55 (teto RGPS 2026)
+    contexto: 9 de janeiro de 2026, com reajuste de 3,90% pelo INPC sobre o teto anterior de R$ 8.157,41).  O teto incide em dois momentos distintos do cálculo. Primeiro, sobre o salár
+
+  [!!!] Cap 16
+    valor_encontrado: R$ 7.786,02
+    valor_correto: R$ 8.475,55 (teto RGPS 2026, era 2024)
+    contexto: TP 12/2022 | | 01/01/2023 | R$ 7.507,49 | Portaria MPS 26/2023 | | 01/01/2024 | R$ 7.786,02 | Portaria MPS/MF 24/2024 | | 01/01/2025 | R$ 8.157,41 | Portaria MPS/MF 6/2025
+
+  [!!!] Cap 16
+    valor_encontrado: R$ 8.157,41
+    valor_correto: R$ 8.475,55 (teto RGPS 2026)
+    contexto: 26/2023 | | 01/01/2024 | R$ 7.786,02 | Portaria MPS/MF 24/2024 | | 01/01/2025 | R$ 8.157,41 | Portaria MPS/MF 6/2025 | | 01/01/2026 | R$ 8.475,55 | Portaria MPS/MF 13/2026
+
+
+────────────────────────────────────────────────────────────
+TIPO: NORMA_DESATUALIZADA (1 achados)
+
+  [!!] Cap 14
+    encontrado: IN 85
+    alerta: IN possivelmente revogada/substituída pela IN 128/2022
+    contexto: unerada livremente. A própria IN 85/2016 do INSS — hoje incorporada à IN 128/2022 — já reconhec
+
+
+────────────────────────────────────────────────────────────
+TIPO: PORTARIA (1 achados)
+
+  [!!] Cap 3
+    encontrado: Portaria Interministerial MTP/MS n. 22, de 31 de agosto de 2022
+    alerta: Portaria de 2022 — verificar se ainda vigente
+    contexto: so II do art. 26. A Portaria Interministerial MTP/MS n. 22, de 31 de agosto de 2022, atualizou e ampliou esse rol, estabelecendo as seguintes d
+
+
+────────────────────────────────────────────────────────────
+TIPO: REFERENCIA_LEGAL (2 achados)
+
+  [!!] Cap 4
+    alerta: Art. 22 é da Lei 8.212 (contribuição do empregador), não da 8.213
+    contexto: iro dia útil seguinte ao da ocorrência (art. 22, Lei 8.213/91). A omissão na emissão da CAT constitui infração que suj
+
+  [!!] Cap 21
+    alerta: Lei 8.213 tem até art. 204 (verificar)
+    contexto: revê causa de impedimento ou suspensão (art. 207 do Código Civil). No caso do art. 103 da Lei 8.213/91, não há previsão de suspensão ou interrupção, o que torn
+
+
+────────────────────────────────────────────────────────────
+TIPO: TERMINOLOGIA (8 achados)
+
+  [!!] Cap 6
+    linha: 11
+    encontrado: aposentadoria por invalidez
+    correto: aposentadoria por incapacidade permanente
+    contexto: A aposentadoria por incapacidade permanente — denominação conferida pela Emenda Constitucional n. 103, de 12 de novembro de 2019, ao benefício até ent
+
+  [!!] Cap 6
+    linha: 65
+    encontrado: aposentadoria por invalidez
+    correto: aposentadoria por incapacidade permanente
+    contexto: Essa distinção teórica, contudo, é significativamente mitigada pela jurisprudência. A Súmula 47 da TNU estabelece que, "uma vez reconhecida a incapaci
+
+  [!!] Cap 6
+    linha: 94
+    encontrado: aposentadoria por invalidez
+    correto: aposentadoria por incapacidade permanente
+    contexto: A análise das condições pessoais e sociais do segurado, para fins de avaliação da incapacidade, está consolidada na jurisprudência da TNU e dos Tribun
+
+  [!!] Cap 6
+    linha: 194
+    encontrado: auxílio-doença
+    correto: auxílio por incapacidade temporária
+    contexto: O art. 43 da Lei 8.213/91 estabelece duas regras para a fixação da DIB. Quando o segurado não está em gozo de auxílio por incapacidade temporária, a a
+
+  [!!] Cap 7
+    linha: 128
+    encontrado: aposentadoria por invalidez
+    correto: aposentadoria por incapacidade permanente
+    contexto: Conforme já referido, o auxílio por incapacidade temporária exige incapacidade para a atividade habitual do segurado, e não incapacidade omniprofissio
+
+  [!!] Cap 12
+    linha: 136
+    encontrado: aposentadoria por invalidez
+    correto: aposentadoria por incapacidade permanente
+    contexto: TRF4: "A aposentadoria da pessoa com deficiência não se confunde com a aposentadoria por invalidez [atual aposentadoria por incapacidade permanente]. 
+
+  [!!] Cap 14
+    linha: 740
+    encontrado: auxílio-doença
+    correto: auxílio por incapacidade temporária
+    contexto: **Segurado aposentado que é preso.** O art. 80 da Lei 8.213/91 dispõe que o auxílio-reclusão é devido aos dependentes do "segurado recolhido à prisão,
+
+  [!!] Cap 15
+    linha: 169
+    encontrado: auxílio-doença
+    correto: auxílio por incapacidade temporária
+    contexto: A fixação da data de início do auxílio-acidente é questão pacificada pelo STJ no Tema 862 (REsp 1.729.555/SP, Primeira Seção, Rel. Min. Assusete Magal
+
+
+────────────────────────────────────────────────────────────
+TIPO: VALOR_SM (9 achados)
+
+  [!!] Cap 4
+    valor_encontrado: R$ 251.600,00
+    valor_2026: R$ 1.621,00
+    contexto: portador Autônomo de Cargas, com receita bruta anual de até R$ 251.600,00 e alíquota previdenciária diferenciada de 12% sobre o salário mínimo. A complementação para TC é de apenas 8% (20% - 12%).  Em
+
+  [!!] Cap 7
+    valor_encontrado: R$ 8.475,55
+    valor_2026: R$ 1.621,00
+    contexto: de contribuição ou idade. O valor não pode ser inferior ao salário mínimo (art. 201, § 2º, CF/88) nem superior ao teto do RGPS (em 2026, R$ 8.475,55).  #### 7.8.2 Divergência sobre a Aplicabilidade do
+
+  [!!] Cap 7
+    valor_encontrado: R$ 8.475,55
+    valor_2026: R$ 1.621,00
+    contexto: rtir de 13/11/2019: Média de 100% dos SC × 91% - Teto 2026: R$ 8.475,55 | Piso: salário mínimo :::  ### 7.20 Aspectos Práticos da Concessão Administrativa
+
+  [!!] Cap 10
+    valor_encontrado: R$ 1.320,00
+    valor_2026: R$ 1.621,00
+    contexto: or ao piso) - RMI: R$ 2.200,00 × 60% = R$ 1.320,00 - **Como R$ 1.320,00 < salário mínimo (R$ 1.621,00), a RMI será elevada para R$ 1.621,00**  Essa
+
+  [!!] Cap 15
+    valor_encontrado: R$ 600
+    valor_2026: R$ 1.621,00
+    contexto: idade, o auxílio-acidente não tem piso constitucional de um salário mínimo. Sua natureza indenizatória permite que o valor seja inferior ao mínimo. Na prática, a maioria dos auxílios-acidente tem valo
+
+  [!!] Cap 16
+    valor_encontrado: R$ 8.475,55.
+    valor_2026: R$ 1.621,00
+    contexto: ios do RGPS ocorre anualmente, na mesma data de reajuste do salário mínimo, com base na variação do Índice Nacional de Preços ao Consumidor (INPC), apurado pela Fundação Instituto Brasileiro de Geogra
+
+  [!!] Cap 16
+    valor_encontrado: R$ 2.500,00
+    valor_2026: R$ 1.621,00
+    contexto: do com coeficiente de 60% cujo salário de benefício seja de R$ 2.500,00: a RMI calculada seria R$ 1.500,00, valor inferior ao salário mínimo, e seria automaticamente elevada para R$ 1.621,00.  A exceç
+
+  [!!] Cap 18
+    valor_encontrado: R$ 810,50
+    valor_2026: R$ 1.621,00
+    contexto: a por trabalho.  O auxílio-inclusão é pago no valor de meio salário mínimo (atualmente R$ 810,50 em 2026) à pessoa com deficiência que, tendo sido beneficiá
+
+  [!!] Cap 20
+    valor_encontrado: R$ 3.500,00
+    valor_2026: R$ 1.621,00
+    contexto: mento (regime anterior à EC 103/2019), a segurada receberia R$ 3.500,00 + R$ 2.500,00 = R$ 6.000,00. A redução provocada pelo escalonamento é de R$ 675,80, o que equivale a 11,26% do total que seria r
+
+
+────────────────────────────────────────────────────────────
+TIPO: VALOR_TETO (3 achados)
+
+  [!!] Cap 11
+    valor_encontrado: R$ 5.800
+    valor_2026: R$ 8.475,55
+    contexto: 4 × 1,770 = **1,211** (fator > 1!) - RMI direito adquirido: R$ 5.800 × 1,211 = **R$ 7.023,80** (limitado ao teto RGPS R$ 8.475,55) - RMI art. 15: R$ 5.100 (média 100%) × (60% +
+
+  [!!] Cap 12
+    valor_encontrado: R$ 97.260,00
+    valor_2026: R$ 8.475,55
+    contexto: ei n. 10.259/2001: causas de valor até 60 salários mínimos (R$ 97.260,00 em 2026). Como a aposentadoria da PcD é limitada ao teto do RGPS (R$ 8.475,55/mês em 2026), a prestação mensal sempre será i
+
+  [!!] Cap 13
+    valor_encontrado: R$ 12.000,00
+    valor_2026: R$ 8.475,55
+    contexto: a remuneração integral à empregada e compensa o valor até o teto do RGPS; eventual diferença entre a remuneração e o teto é ônus da empresa, sem direito a compensação. Uma empregada que ganha R$ 12.00
+
+
+======================================================================
+CONSOLIDAÇÃO POR CAPÍTULO
+======================================================================
+  Cap  3:   2 achados (1 relevantes, 1 sugestões)
+  Cap  4:  29 achados (2 críticos, 2 relevantes, 25 sugestões)
+  Cap  6:   4 achados (4 relevantes)
+  Cap  7:   3 achados (3 relevantes)
+  Cap 10:   1 achados (1 relevantes)
+  Cap 11:   1 achados (1 relevantes)
+  Cap 12:   2 achados (2 relevantes)
+  Cap 13:   1 achados (1 relevantes)
+  Cap 14:   2 achados (2 relevantes)
+  Cap 15:   2 achados (2 relevantes)
+  Cap 16:   6 achados (3 críticos, 2 relevantes, 1 sugestões)
+  Cap 17:   2 achados (2 sugestões)
+  Cap 18:   1 achados (1 relevantes)
+  Cap 20:   2 achados (1 relevantes, 1 sugestões)
+  Cap 21:   1 achados (1 relevantes)

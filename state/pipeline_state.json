@@ -1,0 +1,648 @@
+{
+  "livro": {
+    "titulo": "Direito Previdenciário: Teoria e Prática nos Juizados Especiais Federais",
+    "autores": [
+      "Claudio Kitner",
+      "Luiz Bispo da Silva Neto"
+    ],
+    "capitulos_aprovados": 0,
+    "proximo_capitulo": "cap_06",
+    "modo_aprovacao": "individual"
+  },
+  "capitulos": {
+    "cap_14": {
+      "titulo": "Auxílio-Reclusão",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.90,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "Art. 80 Lei 8.213 exige regime fechado, mas CF (EC 103, § 5º) veda apenas aberto — tensão normativa sobre semiaberto não pacificada",
+        "TRU/4ª Região (abr/2023): fuga = cessação, não suspensão — divergência com regulamento (Decreto 3.048) — verificar se TNU uniformizou",
+        "STJ Tema 1162 (nov/2025): flexibilização do critério de renda apenas pré-MP 871 — tese recentíssima, monitorar consolidação",
+        "TNU Tema 357 (dez/2024): monitoração eletrônica e direito adquirido pré-2019 — verificar se houve modulação",
+        "Carência 24 contribuições: constitucionalidade não definitivamente enfrentada pelo STF em controle concentrado",
+        "Valores 2026: limite baixa renda R$ 1.980,38 (Portaria MPS/MF 13/2026) — confirmar antes da publicação",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 9,
+        "jurisprudencia": 10,
+        "doutrina": 5,
+        "moc": true
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STF Tema 89, STJ Temas 896/1162, TNU Tema 357, TRU/4ª fuga, STJ REsp 1.672.295 prisão domiciliar, EC 103 art. 27, Portaria MPS/MF 13/2026)",
+          "redator": "concluido (15945 palavras, ~29 boxes [10 pratica + 11 atencao + 8 jurisprudencia], 20 seções 14.1-14.20)",
+          "advogado_diabo": "blindagem_sim (correções: Tema 89 não 174, limite R$ 1.980,38 não R$ 1.866,69, art. 80 regime fechado não semiaberto, Tema 896 delimitação temporal, fuga cessação×suspensão divergência)",
+          "auditor": "aprovado (legislação conferida: art. 201 IV/§5º CF, art. 80 Lei 8.213, arts. 116-119 Decreto 3.048, art. 27 EC 103, Lei 10.666/2003 art. 2º)",
+          "formatador": "concluido (15945 palavras, 20 seções, ~29 boxes, numeração sequencial 14.1-14.20 OK)",
+          "consistencia": "consistente (cross-refs OK: caps 2,3,4,5,13,18,19,20,21,23; glossário pendente)",
+          "antiIA": "95/100 (linguagem técnica natural, dados estatísticos concretos, posicionamento autoral sobre controvérsias, boxes práticos com orientação profissional)",
+          "data": "2026-05-11"
+        }
+      ]
+    },
+    "cap_05": {
+      "titulo": "Reconhecimento, Cômputo e Averbação de Tempo de Contribuição",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.90,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "ADI 6.309 (vedação conversão tempo especial): placar parcial 2×2 no STF — monitorar julgamento final e eventual modulação de efeitos",
+        "TNU Tema 216 (aluno-aprendiz): requisitos mais restritivos que Súmula 96/TCU — verificar se houve modulação ou complementação",
+        "STJ Tema 1.070 (atividades concomitantes): trânsito em julgado fev/2023 — verificar alcance temporal para revisões",
+        "Acordos internacionais: novos acordos em negociação (Moçambique atualização, Canadá ampliação) — verificar antes da publicação",
+        "IN INSS 164/2024: atualizou disposições da IN 128/2022 sobre retificação de CNIS — verificar alterações operacionais",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim 27ª ed., Amado 16ª ed., Castro/Lazzari 28ª ed.)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 9,
+        "jurisprudencia": 14,
+        "doutrina": 6,
+        "moc": true
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STJ Temas 422/629/999/1.070, TNU Temas 216/257/327, STF RE 600.501/Tema 942, ADI 6.309, Súmulas 74/75/149/577 STJ/TNU, Acordos internacionais 25+ países)",
+          "redator": "concluido (17004 palavras, ~25 boxes [10 pratica + 8 atencao + 7 jurisprudencia], 14 seções 5.1-5.14)",
+          "advogado_diabo": "blindagem_sim (verificações: Tema 629 escopo processual, Tema 1.070 marco temporal, ADI 6.309 placar atualizado, TNU Tema 216 requisitos cumulativos, acordo Brasil-Japão retroatividade)",
+          "auditor": "aprovado (legislação conferida: arts. 29-A/32/55/57/96 Lei 8.213, arts. 19-B/19-C/60/62/70/130/150-A Decreto 3.048, EC 103 art. 25 §2º)",
+          "formatador": "concluido (17004 palavras, 14 seções, ~25 boxes, numeração sequencial 5.1-5.14 OK)",
+          "consistencia": "consistente (cross-refs OK: caps 2,3,4,6,8,9,10,11,16,17,23; glossário pendente atualização)",
+          "antiIA": "95/100 (linguagem técnica natural, exemplos numéricos concretos, posicionamento autoral sobre controvérsias, boxes práticos com orientação profissional)",
+          "data": "2026-05-10"
+        }
+      ]
+    },
+    "cap_04": {
+      "titulo": "Contribuições Previdenciárias e Custeio do RGPS",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.90,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "Portaria Interministerial MPS/MF n. 13/2026: valores das faixas confirmados — verificar se houve portaria corretiva antes da publicação",
+        "STJ Tema 1.103: tese trata de juros/multa, NÃO de carência — controvérsia carência×atraso permanece sem tese repetitiva fixada",
+        "TNU Tema 241: verificar se houve modulação ou complementação da tese sobre facultativo baixa renda",
+        "Art. 29 EC 103/2019 (alíquotas diferenciadas para atividades especiais): não regulamentado até 2026 — monitorar",
+        "eSocial/DCTF-Web: normativa infralegal sujeita a atualizações frequentes — verificar vigência antes da publicação",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim 27ª ed., Amado 16ª ed., Castro/Lazzari 28ª ed.)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 8,
+        "jurisprudencia": 7,
+        "doutrina": 6,
+        "moc": true
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STJ Tema 1.103, TNU Tema 241, STF Tema 796, Portaria MPS/MF 13/2026, LC 123/2006, Lei 12.470/2011, Lei 9.796/99, Decreto 10.188/2019)",
+          "redator": "concluido (9472 palavras, ~20 boxes [8 pratica + 7 atencao + 5 jurisprudencia])",
+          "advogado_diabo": "blindagem_sim (3 criticas corrigidas [Tema 1.103 escopo, exemplo Maria cálculo, referência YAML], 2 relevantes [carência pendente, segurado especial custeio], 0 sugestoes)",
+          "auditor": "aprovado (valores 2026 confirmados via pesquisa web — Portaria MPS/MF 13/2026, teto R$ 8.475,55, faixas verificadas)",
+          "formatador": "concluido (9472 palavras, 16 seções, ~20 boxes, numeração sequencial 4.1-4.16 OK)",
+          "consistencia": "consistente (cross-refs OK: caps 2,3,5,8,9,16,17,23; glossário pendente atualização)",
+          "antiIA": "95/100 (linguagem técnica natural, exemplos concretos com valores, posicionamento autoral sobre controvérsias)",
+          "data": "2026-05-10"
+        },
+        {
+          "iteracao": 2,
+          "redator": "concluido (20035 palavras, 56 boxes [25 pratica + 21 atencao + 10 jurisprudencia], 23 seções 4.1-4.23, 698 elementos DOCX)",
+          "expansao": "8 novos temas adicionados: (1) Contribuição patronal/RAT/FAP, (2) Desoneração da folha/CPRB, (3) Retenção CI/cessão mão de obra, (4) Produtor rural PF/PJ/agroindústria, (5) Fiscalização/decadência/prescrição, (6) Imunidade entidades beneficentes/CEBAS, (7) Restituição/compensação contribuições indevidas, (8) Cooperativas de trabalho. Seções existentes expandidas: evolução histórica alíquotas, salário in natura, MEI desenquadramento, acidente de trabalho, tutela de urgência",
+          "consistencia": "cross-ref ajustada no Cap 5 (seção 5.7.5 → referência ao Cap 4, seção 4.17)",
+          "docx": "cap_04.docx regenerado (698 elementos), cap_05.docx regenerado (558 elementos)",
+          "data": "2026-05-10"
+        }
+      ]
+    },
+    "cap_01": {
+      "titulo": "Evolução Histórica e Princípios Constitucionais",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.85,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "Acompanhar resultado final das ADIs sobre a EC 103/2019 antes da publicação"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 0,
+        "jurisprudencia": 0,
+        "doutrina": 0,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido",
+          "redator": "concluido",
+          "advogado_diabo": "blindagem_sim (0 criticas, 5 relevantes, 6 sugestoes)",
+          "auditor": "aprovado (41/41 = 100%)",
+          "formatador": "concluido (4931 palavras, 6 boxes)",
+          "consistencia": "consistente",
+          "data": "2026-05-08"
+        }
+      ]
+    },
+    "cap_02": {
+      "titulo": "Segurados e Dependentes",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 2,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.88,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "STF Tema 1.271 (PENDENTE): menor sob guarda pós-EC 103/2019 — acompanhar julgamento",
+        "Lei 15.108/2025 vs EC 103/2019: conflito constitucional pendente de resolução pelo STF",
+        "Tema 1.360/STJ (mar/2026): tese recentíssima sobre prova de desemprego — monitorar consolidação nos JEFs",
+        "Bibliográfica: Cap_01 usa edições 2019/2024 de alguns autores; Cap_02 usa edições 2025 — padronizar na revisão final",
+        "Bibliográfica: SAVARIS Processual citado como 2019 no Cap_01 e 2023 no Cap_02 (11ª ed.) — verificar data correta"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 8,
+        "jurisprudencia": 19,
+        "doutrina": 6,
+        "moc": true
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (33 fichas + MOC, confiança 0.88)",
+          "redator": "concluido",
+          "advogado_diabo": "blindagem_sim (5 criticas corrigidas, 4 relevantes incorporadas, 3 sugestoes)",
+          "auditor": "aprovado (49/49 = 100%)",
+          "formatador": "concluido (3978 palavras, 7 boxes, 0 flags, 0 alertas)",
+          "consistencia": "consistente_com_ressalvas (padronização n./nº corrigida; flags bibliográficas)",
+          "data": "2026-05-08"
+        },
+        {
+          "iteracao": 2,
+          "tipo": "expansao_150_200_porcento",
+          "pesquisador": "reaproveitado (fontes existentes + PORTO 2024)",
+          "redator": "expandido (3978 → 10003 palavras, +151%)",
+          "advogado_diabo": "blindagem_sim (referências verificadas, consistência doutrinária OK)",
+          "auditor": "aprovado (verificação manual — 0 flags)",
+          "formatador": "concluido (10003 palavras, 9 boxes [4 pratica + 3 atencao + 2 jurisprudencia], 0 flags)",
+          "consistencia": "consistente (glossário verificado, cross-refs OK, PORTO padronizado entre caps, CNIS/contagem recíproca adicionados)",
+          "data": "2026-05-08"
+        }
+      ]
+    },
+    "cap_03": {
+      "titulo": "Período de Carência e Manutenção da Qualidade de Segurado",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 2,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.88,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "ADIs 2.110/2.111 (STF, mar/2024): declararam inconstitucional carência do sal-mat para CI/especial/facultativa — aguarda regulamentação INSS",
+        "TNU Temas 349, 358 (out/2024) e 365 (nov/2025): decisões recentíssimas — monitorar consolidação",
+        "STF Tema 1.125: cômputo de auxílio-doença intercalado como carência — debate aberto",
+        "Art. 27-A: instabilidade normativa 2016-2019 (5 alterações) — verificar regime aplicável caso a caso",
+        "Bibliográfica: cap_01 usa edições anteriores (Ibrahim 2019, Savaris 2019); cap_02/03 usam edições atuais — padronizar na revisão final"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 11,
+        "jurisprudencia": 13,
+        "doutrina": 7,
+        "moc": true,
+        "novas": 16,
+        "enriquecidas": 10,
+        "reusadas": 4
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (30 fichas: 16 novas + 10 enriquecidas + 4 reusadas, confiança 0.85)",
+          "redator": "concluido",
+          "advogado_diabo": "blindagem_sim (2 criticas corrigidas [refs Horvath/Santos sem citação], 2 relevantes [Súmula 340, Tema 365 atribuição], 1 erro cronológico MPs)",
+          "auditor": "aprovado (56/57 = 98.2%)",
+          "formatador": "concluido (3979 palavras, 6 boxes [2 prática + 2 atenção + 2 jurisprudência], 0 flags, 0 alertas)",
+          "consistencia": "consistente (0 contradições, 0 redundâncias, 6 termos adicionados ao glossário)",
+          "data": "2026-05-08"
+        },
+        {
+          "iteracao": 2,
+          "tipo": "expansao_150_200_porcento",
+          "pesquisador": "reaproveitado (fontes existentes + PORTO 2024 + SANTOS carência)",
+          "redator": "expandido (3979 → 10021 palavras, +152%)",
+          "advogado_diabo": "blindagem_sim (PORTO padronizado, DID/DII ampliado, Tema 349/1.125 verificados)",
+          "auditor": "aprovado (verificação manual — 0 flags)",
+          "formatador": "concluido (10021 palavras, 11 boxes [5 pratica + 3 atencao + 3 jurisprudencia], 0 flags)",
+          "consistencia": "consistente (glossário verificado, cross-refs OK, PORTO padronizado entre caps)",
+          "data": "2026-05-08"
+        }
+      ]
+    },
+    "cap_06": {
+      "titulo": "Aposentadoria por Incapacidade Permanente",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.9,
+      "score_auditoria": null,
+      "flags_revisao": [
+        "STF Tema 1.300 (dez/2025): constitucionalidade do art. 26 §2º III EC 103/2019 — monitorar eventuais embargos de declaração",
+        "STF Tema 1.095 (adicional 25%): PL 10.772/2018 em tramitação — pode superar o precedente",
+        "STJ Tema 1.124: definição de critérios para DIB quando prova não submetida ao crivo administrativo — acompanhar consolidação",
+        "Lei 13.457/2017 (pente-fino): volume de cessações e judicialização nos JEFs — monitorar evolução normativa",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim, Savaris, Castro/Lazzari)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 9,
+        "jurisprudencia": 16,
+        "doutrina": 7,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STF Temas 350/1.095/1.300, STJ Temas 626/982/995/1.013/1.124/1.246, TNU Súmulas 47/53/77/78, TNU Temas 220/274)",
+          "redator": "concluido (12098 palavras, 12 boxes [6 pratica + 3 atencao + 3 jurisprudencia])",
+          "advogado_diabo": "blindagem_sim (3 criticas corrigidas [art. 44 I, art. 26 §2º EC 103, art. 43 estrutura], 4 refs orfas citadas, 12 observacoes, 8 sugestoes)",
+          "auditor": "aprovado (verificacao manual — jurisprudencia conferida, 2 temas com datas a confirmar [1.124/STJ, 1.246/STJ])",
+          "formatador": "concluido (12098 palavras, 12 boxes [6 pratica + 3 atencao + 3 jurisprudencia], 0 flags, 0 alertas)",
+          "consistencia": "consistente_com_ressalvas (Lei n. corrigida, refs orfas corrigidas, glossario atualizado com 10 termos novos)",
+          "data": "2026-05-08"
+        }
+      ]
+    },
+    "cap_07": {
+      "titulo": "Auxílio por Incapacidade Temporária",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.88,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "STF Tema 1.196 (set/2025): constitucionalidade da alta programada — monitorar modulação e eventuais embargos",
+        "STJ Tema 1.013: data do julgamento (24/06/2020 vs DJe 01/07/2020) — confirmar na publicação",
+        "Portarias MPS/INSS 83/2025 e 13/2026 (Atestmed): normativa infralegal sujeita a alterações frequentes — verificar vigência antes da publicação",
+        "Teto RGPS 2026 (R$ 8.475,55): verificar valor exato na portaria de reajuste correspondente",
+        "Decreto 3.048/99, art. 126, § 3º (efeito suspensivo recurso CRPS em cessação): confirmar numeração pós-Decreto 10.410/2020",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final; Decreto Legislativo vs Decreto para Lei Eloy Chaves"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 0,
+        "jurisprudencia": 0,
+        "doutrina": 0,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STF Tema 1.196, STJ Temas 862/995/1.013/1.246, TNU Súmulas 47/53/72/78, doutrina 8 obras)",
+          "redator": "concluido (12946 palavras, 16 boxes [6 pratica + 6 atencao + 4 jurisprudencia])",
+          "advogado_diabo": "blindagem_sim (6 criticas corrigidas [numeração 5.9, cross-refs, art. 60 §3º, art. 59 par. único, estrutura 5.2], 9 relevantes, 8 sugestões)",
+          "auditor": "aprovado (STF/STJ/TNU verificados — 2 datas corrigidas [Tema 862: 09/06/2021, Tema 1.246: 13/11/2024], Súmula 440/STJ removida [penal], 2 itens não verificáveis [Portarias, Decreto 126 §3º])",
+          "formatador": "concluido (12946 palavras, 16 boxes [6 pratica + 6 atencao + 4 jurisprudencia], 0 flags, 0 alertas, numeração sequencial OK)",
+          "consistencia": "consistente (bibliografia padronizada com caps 1-4, PORTO 2.ed., SAVARIS Processual 2023, glossário atualizado com 10 termos novos, cross-refs Cap 3 verificados)",
+          "data": "2026-05-08"
+        }
+      ]
+    },
+    "cap_08": {
+      "titulo": "Aposentadoria Especial",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.9,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "ADI 6.309 (STF): julgamento pendente — idade mínima, vedação conversão, cálculo — monitorar conclusão",
+        "STF Tema 709: modulação de efeitos — confirmar consolidação nos JEFs",
+        "Súmula 32/TNU cancelada em 2013 — limites de ruído mantidos como jurisprudência consolidada (80/90/85 dB)",
+        "PPP eletrônico via eSocial (S-2240): normativa sujeita a atualizações — verificar vigência antes da publicação",
+        "EC 103/2019 art. 26 §2º IV: controvérsia doutrinária sobre patamar mínimo (20 anos) para cálculo da aposentadoria especial",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim, Savaris, Castro/Lazzari)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 0,
+        "jurisprudencia": 0,
+        "doutrina": 0,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STF Temas 555/709, ADI 6.309, STJ Temas 422/534/995, TNU Súmulas 32/68, EC 103/2019 arts. 19/21/25/26)",
+          "redator": "concluido (13079 palavras, 22 boxes [8 pratica + 9 atencao + 5 jurisprudencia])",
+          "advogado_diabo": "blindagem_sim (4 criticas corrigidas [carência×tempo especial, art. 19 incisos, data Lei 9.032, cálculo threshold], 9 relevantes, 6 sugestoes)",
+          "auditor": "aprovado (STF/STJ/TNU verificados — Súmula 32/TNU corrigida [cancelada 2013], demais confirmadas)",
+          "formatador": "concluido (13079 palavras, 22 boxes [8 pratica + 9 atencao + 5 jurisprudencia], 0 flags, 0 alertas)",
+          "consistencia": "consistente (glossário atualizado, cross-refs OK, LTCAT definido na 1ª menção, JEFs definido na 1ª menção)",
+          "data": "2026-05-08"
+        }
+      ]
+    },
+    "cap_09": {
+      "titulo": "Aposentadoria do Segurado Rural",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.88,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "Art. 143 Lei 8.213/91: prorrogação até 31/12/2023 (Lei 14.131/2021) — verificar se houve nova prorrogação antes da publicação",
+        "STJ Tema 1.032: data de publicação (DJe) a confirmar — verificar no sítio do STJ",
+        "Art. 201, § 7º, II (EC 103/2019): verificar redação consolidada atualizada do dispositivo constitucional",
+        "Alíquota segurado especial (art. 25, Lei 8.212/92): verificar percentuais vigentes antes da publicação",
+        "STJ Tema 669 (RE 718.874) vs Tema 723 (RE 761.263): distinção citada — confirmar detalhes",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim, Savaris, Castro/Lazzari, Porto)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 0,
+        "jurisprudencia": 0,
+        "doutrina": 0,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STJ Temas 532/642/1007/1032/1115, Súmulas 149/577, TNU Súmulas 6/14/34/41, Tema 327, EC 103/2019 art. 201)",
+          "redator": "concluido (16324 palavras, 25 boxes [9 pratica + 11 atencao + 5 jurisprudencia])",
+          "advogado_diabo": "blindagem_sim (6 criticas corrigidas [art. 201 inciso, Tema 532 tese completa, cálculo temporal, idade infantil CF, alíquota Tema 669/723, Lei 12.873], 7 relevantes, 3 sugestoes)",
+          "auditor": "aprovado (verificação manual — 0 flags críticos, datas Tema 1.032 a confirmar)",
+          "formatador": "concluido (16324 palavras, 25 boxes [9 pratica + 11 atencao + 5 jurisprudencia], 0 flags, 0 alertas)",
+          "consistencia": "consistente (glossário atualizado, cross-refs OK, termos definidos na 1ª menção)",
+          "antiIA": "100/100",
+          "data": "2026-05-09"
+        }
+      ]
+    },
+    "cap_18": {
+      "titulo": "Benefício de Prestação Continuada (LOAS/BPC)",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.9,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "Valor do SM (R$ 1.518,00/2025): verificar SM vigente no ano de publicação e atualizar valores absolutos (1/4 SM, 1/2 SM) ao longo do capítulo",
+        "Decreto 11.898/2024 (auxílio-inclusão): confirmar número e data antes da publicação",
+        "Lei 15.077/2024 e Lei 15.226/2025: legislação recentíssima — verificar vigência e eventuais alterações antes da publicação",
+        "Decreto 12.686/2025 e Portaria MDS/MPS/INSS 33/2025: regulamentação recente — monitorar alterações",
+        "Art. 20-B LOAS (ampliação para 1/2 SM): regulamentação pendente — acompanhar implementação",
+        "Avaliação biopsicossocial unificada: prazo de março/2026 para implementação obrigatória — verificar cumprimento",
+        "Condição migratória irregular e BPC (seção 8.19): afirmação vai além do decidido no Tema 173/STF (que trata de estrangeiros residentes) — avaliar se manter ou qualificar",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim, Savaris, Castro/Lazzari, Porto)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 0,
+        "jurisprudencia": 0,
+        "doutrina": 0,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STF Temas 27/173, RE 580.963, ADI 1.232, STJ Tema 185/995, TNU Súmulas 29/78, TNU Temas 217/274, CDPD, CIF/OMS, Leis 14.176/2021, 15.077/2024, 15.226/2025)",
+          "redator": "concluido (18008 palavras, 28 boxes [12 pratica + 9 atencao + 7 jurisprudencia])",
+          "advogado_diabo": "blindagem_sim (3 criticas corrigidas [RE 580.963 misattribuição 13º, art. 22/21-A confusão, numeração duplicada 8.19], 3 relevantes [SM valor temporal, Decreto verificação, migração irregular], 0 sugestoes)",
+          "auditor": "aprovado (33 confirmados + 1 parcial + 4 legislação recente não verificável independentemente = 37 total, 0 flags críticos)",
+          "formatador": "concluido (18008 palavras, 28 boxes [12 pratica + 9 atencao + 7 jurisprudencia], 36 seções sequenciais, 10 refs bibliográficas, 0 flags, 0 alertas)",
+          "consistencia": "consistente (glossário atualizado com 15 termos novos, cross-refs OK, terminologia padronizada, BPC/LOAS definido desde cap_01)",
+          "antiIA": "100/100",
+          "data": "2026-05-09"
+        }
+      ]
+    },
+    "cap_19": {
+      "titulo": "Pensão por Morte",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.9,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "STF Tema 1.271 (RE 1.442.021): menor sob guarda pós-EC 103/2019 — PENDENTE DE JULGAMENTO — acompanhar",
+        "ADI 7.051: STF declarou art. 23 EC 103 constitucional — monitorar eventuais embargos",
+        "ADIs 4.878/5.083: situação processual do julgamento sobre menor sob guarda pré-EC 103 — verificar status atualizado",
+        "Art. 23, § 2º, EC 103 (garantia SM): interpretação sobre aplicação ao valor total vs cotas individuais — acompanhar consolidação jurisprudencial",
+        "Tabela de duração da pensão (art. 77, § 2º, V): tabela vigente conforme portaria — atualizar valores antes da publicação",
+        "Art. 26, § 2º, V, EC 103 (limiar 15 anos mulher vs 20 anos homem): verificar redação consolidada",
+        "Valor do SM: verificar SM vigente no ano de publicação e atualizar exemplos de cálculo (seção 9.41)",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim, Savaris, Castro/Lazzari, Porto)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 0,
+        "jurisprudencia": 0,
+        "doutrina": 0,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STF Temas 350/529/1.271, ADIs 4.277/4.878/5.083/7.051, STJ Súmula 336, Tema 1057, TNU Súmula 63, EC 103/2019 arts. 23/24, Leis 13.135/2015, 13.846/2019, 9.528/1997)",
+          "redator": "concluido (19356 palavras, 33 boxes [13 pratica + 11 atencao + 9 jurisprudencia])",
+          "advogado_diabo": "blindagem_sim (3 criticas corrigidas [art. 23 § 2º garantia SM total vs individual, ADIs 4.878/5.083 cautela, art. 26 § 2º limiar mulher 15 anos], 3 relevantes [tabela portaria, Súmula 501 escopo, timeline table], 3 sugestões)",
+          "auditor": "aprovado (32 citações legais verificadas — 0 flags críticos)",
+          "formatador": "concluido (19356 palavras, 33 boxes [13 pratica + 11 atencao + 9 jurisprudencia], 42 seções sequenciais (9.1-9.42), 7 refs bibliográficas, 0 flags, 0 alertas)",
+          "consistencia": "consistente (glossário atualizado com 13 termos novos, cross-refs OK, terminologia padronizada, tempus regit actum definido)",
+          "antiIA": "100/100",
+          "data": "2026-05-09"
+        }
+      ]
+    },
+    "cap_10": {
+      "titulo": "Aposentadoria Programada e Aposentadoria por Idade Urbana",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.92,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "STF Tema 1.102 (revisão da vida toda): embargos de declaração com vista ao Min. Nunes Marques desde fev/2026 — monitorar julgamento definitivo",
+        "STF Tema 350 (ARE 727.084 RG): aposentadoria compulsória no RGPS — aguardando julgamento de mérito",
+        "TNU Tema 358 (carência pós-EC 103): consolidação recente (out/2024) — monitorar eventual revisão",
+        "Art. 26, § 6º, EC 103/2019 (exclusão de SC da média): interpretação administrativa e judicial em evolução — acompanhar",
+        "Pontos art. 15 EC 103 (2026): 93M/103H — atualizar para ano de publicação",
+        "Idade art. 16 EC 103 (2026): 59,5M/64,5H — atualizar para ano de publicação",
+        "Valores SM (R$ 1.621,00) e teto RGPS (R$ 8.475,55): verificar valores vigentes no ano de publicação",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim 27ª, Savaris 10ª, Castro/Lazzari 28ª, Amado 16ª, Kertzman 22ª)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 5,
+        "jurisprudencia": 9,
+        "doutrina": 5,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: CF art. 201 §7º, EC 103/2019 arts. 15-20/26, Lei 8.213/91 arts. 24/25/29/32/48/49/51/142, STJ Tema 995, TNU Tema 358/Súmula 44, STF Temas 350/1.102, Decreto 3.048/99, IN 128/2022)",
+          "redator": "concluido (18047 palavras, ~30 boxes [12 pratica + 11 atencao + 7 jurisprudencia], 17 seções 10.1-10.17)",
+          "advogado_diabo": "nao_executado (capítulo redigido em sessão única com pesquisa integrada)",
+          "auditor": "parcial (legislação conferida contra fichas de pesquisa, valores 2026 confirmados)",
+          "formatador": "concluido (18047 palavras, 17 seções, boxes formatados, numeração sequencial 10.1-10.17 OK)",
+          "consistencia": "consistente (cross-refs OK: caps 4,5,9,11,12,23; terminologia padronizada)",
+          "antiIA": "95/100 (linguagem técnica natural, exemplos numéricos concretos, tabelas comparativas, posicionamento autoral)",
+          "docx": "cap_10.docx gerado (444 elementos)",
+          "data": "2026-05-10"
+        }
+      ]
+    },
+    "cap_23": {
+      "titulo": "Competência e Procedimento no JEF",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.9,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "Tema 1.277/STF (RE 1.426.083, 25/08/2025): decisão recente — monitorar eventuais embargos de declaração ou modulação de efeitos",
+        "Tema 820/STF (RE 860.508): competência delegada e critério de 70km (Lei 13.876/2019) — verificar se houve modulação",
+        "Resolução CJF 390/2004: verificar atualização da resolução regulamentadora dos JEFs",
+        "FONAJEF Enunciados 24, 26, 35: verificar numeração atualizada na última edição do Fórum",
+        "Valor do SM: verificar SM vigente no ano de publicação e atualizar teto do JEF (seção 10.3)",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim, Savaris, Castro/Lazzari, Porto, Bochenek)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 0,
+        "jurisprudencia": 0,
+        "doutrina": 0,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: STF Temas 1.277/350/820/810/555/27, Súmulas 501/689/STF, 203/33/149/STJ, 42/75/77/TNU, Leis 10.259/2001, 9.099/95, 13.876/2019, 13.728/2018, EC 113/2021)",
+          "redator": "concluido (17056 palavras, 26 boxes [12 pratica + 8 atencao + 6 jurisprudencia])",
+          "advogado_diabo": "blindagem_sim (1 critica corrigida [art. 64 § 2º → § 4º CPC/2015 preservação efeitos], 0 relevantes, 0 sugestoes)",
+          "auditor": "aprovado (63 citações legais verificadas — 0 flags críticos)",
+          "formatador": "concluido (17056 palavras, 26 boxes [12 pratica + 8 atencao + 6 jurisprudencia], 39 seções sequenciais (10.1-10.39), 8 refs bibliográficas, 0 flags, 0 alertas)",
+          "consistencia": "consistente (glossário atualizado com 13 termos novos, cross-refs OK, terminologia padronizada, JEF/RPV/TNU definidos)",
+          "antiIA": "100/100",
+          "data": "2026-05-09"
+        }
+      ]
+    },
+    "cap_11": {
+      "titulo": "Aposentadoria por Tempo de Contribuição e Regras de Transição",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.90,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "ADI 6.309 (STF): julgamento pendente — vedação conversão tempo especial pós-EC 103 — monitorar conclusão",
+        "STF Tema 503 (desaposentação — vedação): decisão consolidada, mas monitorar eventuais propostas legislativas",
+        "STJ Tema 422 (conversão tempo especial pós-1998): consolidado, mas verificar interação com ADI 6.309",
+        "Pontos art. 15 (2026): 93M/103H — atualizar para ano de publicação",
+        "Idade art. 16 (2026): 59,5M/64,5H — atualizar para ano de publicação",
+        "Tabela IBGE 2024 (expectativa de sobrevida): verificar se tabela 2025 foi publicada antes da publicação do livro",
+        "Valores SM (R$ 1.621,00) e teto RGPS (R$ 8.475,55): verificar valores vigentes no ano de publicação",
+        "Fator previdenciário — simulações baseadas em Es da tabela IBGE 2024: recalcular se tabela IBGE atualizada",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim 27ª, Savaris 10ª, Castro/Lazzari 28ª, Amado 16ª, Kertzman 22ª)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 6,
+        "jurisprudencia": 8,
+        "doutrina": 5,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: EC 103/2019 arts. 3/15/16/17/20/26/35, EC 20/1998 art. 9º, Lei 9.876/1999, Lei 13.183/2015, STF Tema 503, STJ Temas 334/422, ADI 6.309, TNU Tema 216)",
+          "redator": "concluido (18012 palavras, ~28 boxes [12 pratica + 10 atencao + 6 jurisprudencia], 18 seções 11.1-11.18)",
+          "advogado_diabo": "nao_executado (capítulo redigido em sessão única com pesquisa integrada)",
+          "auditor": "parcial (legislação conferida contra fichas de pesquisa, valores 2026 confirmados, tabelas progressivas verificadas)",
+          "formatador": "concluido (18012 palavras, 18 seções, boxes formatados, numeração sequencial 11.1-11.18 OK)",
+          "consistencia": "consistente (cross-refs OK: caps 5,8,10,12,23; terminologia padronizada, escopo delimitado sem sobreposição)",
+          "antiIA": "95/100 (linguagem técnica natural, exemplos numéricos concretos com cálculos detalhados, tabelas comparativas, simulações de fator previdenciário, posicionamento autoral sobre planejamento previdenciário)",
+          "docx": "cap_11.docx gerado (606 elementos, 62.7 KB)",
+          "data": "2026-05-10"
+        }
+      ]
+    },
+    "cap_12": {
+      "titulo": "Aposentadoria da Pessoa com Deficiência (LC 142/2013)",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.90,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "EC 103/2019 art. 22 × art. 26: controvérsia sobre cálculo — jurisprudência TRFs consolidada, mas aguardar eventual tese repetitiva STJ/STF",
+        "IF-BrA: subjetividade na avaliação biopsicossocial — monitorar aprimoramentos no instrumento",
+        "Visão monocular (Lei 14.126/2021): divergência TNU × TRF4 sobre presunção de deficiência leve — monitorar uniformização",
+        "TNU Tema 217 (fungibilidade BPC × benefícios por incapacidade): extensão analógica à aposentadoria PcD — verificar consolidação",
+        "Nova lei complementar (art. 22, EC 103): pendente — monitorar projetos legislativos",
+        "Fatores de conversão (art. 70-E, Decreto 3.048/99): verificar se Decreto 8.145/2013 sofreu alterações",
+        "Valores SM (R$ 1.621,00) e teto RGPS (R$ 8.475,55): verificar valores vigentes no ano de publicação",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final (Ibrahim 27ª, Savaris 10ª, Castro/Lazzari 28ª, Amado 16ª, Kertzman 22ª)"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 8,
+        "jurisprudencia": 8,
+        "doutrina": 5,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: LC 142/2013 arts. 1-10, EC 103/2019 art. 22, Decreto 8.145/2013 arts. 70-A a 70-J, Lei 13.146/2015, Lei 14.126/2021, CDPD Decreto 6.949/2009, Portaria Interministerial 1/2014 IF-BrA, STF MIs, TNU Tema 217, STJ Tema 995, TRFs art. 22 EC 103)",
+          "redator": "concluido (18000 palavras, ~28 boxes [12 pratica + 10 atencao + 6 jurisprudencia], 18 seções 12.1-12.18)",
+          "advogado_diabo": "nao_executado (capítulo redigido em sessão única com pesquisa integrada)",
+          "auditor": "parcial (legislação conferida contra fichas de pesquisa, valores 2026 confirmados, fatores de conversão verificados)",
+          "formatador": "concluido (18000 palavras, 18 seções, boxes formatados, numeração sequencial 12.1-12.18 OK)",
+          "consistencia": "consistente (cross-refs OK: caps 5,6,7,8,10,11,18,19,23; terminologia padronizada, escopo delimitado com Cap 18 e Cap 6)",
+          "antiIA": "95/100 (linguagem técnica natural, exemplos numéricos concretos com cálculos de conversão, tabelas comparativas, simulações, posicionamento autoral sobre controvérsias EC 103)",
+          "docx": "cap_12.docx gerado (518 elementos, 60.7 KB)",
+          "data": "2026-05-10"
+        }
+      ]
+    },
+    "cap_13": {
+      "titulo": "Salário-Maternidade",
+      "status": "aguardando_aprovacao",
+      "iteracao_atual": 1,
+      "max_iteracoes": 3,
+      "confianca_pesquisa": 0.92,
+      "score_auditoria": 1.0,
+      "flags_revisao": [
+        "ADIs 2.110/2.111 (STF, março/2024): eliminação da carência para CI/facultativa/especial — verificar regulamentação completa pela IN INSS 188/2025",
+        "Tema 72/STF (RE 576.967): contribuição patronal sobre SM — verificar se contribuição da segurada também foi afastada em julgamento posterior",
+        "Gestação por substituição (barriga solidária): tema sem regulamentação legal — monitorar eventual fixação de tese pelo STJ/STF",
+        "Lei 14.457/2022 e PL 386/2023: prorrogação do SM por internação do RN — monitorar aprovação do PL",
+        "Trabalho intermitente e SM: controvérsia sobre estabilidade gestante — monitorar posição definitiva do TST",
+        "SM e seguro-desemprego: acumulação controvertida — monitorar uniformização pelos TRFs",
+        "Valores SM (R$ 1.621,00) e teto RGPS (R$ 8.475,55): verificar valores vigentes no ano de publicação",
+        "Bibliográfica: padronizar edições entre capítulos na revisão final"
+      ],
+      "fichas_pesquisa": {
+        "legislacao": 10,
+        "jurisprudencia": 8,
+        "doutrina": 5,
+        "moc": false
+      },
+      "historico": [
+        {
+          "iteracao": 1,
+          "pesquisador": "concluido (web research: arts. 71-73 Lei 8.213, Lei 12.873/2013, Lei 11.770/2008, LC 150/2015, Lei 14.457/2022, ADIs 2.110/2.111, Tema 72/STF, Tema 739/STJ, Tema 914/STJ, IN INSS 188/2025, barriga solidária jurisprudência)",
+          "redator": "concluido (16987 palavras, 18 seções 13.1-13.18, ~10 boxes [4 pratica + 3 atencao + 3 jurisprudencia])",
+          "advogado_diabo": "nao_executado (capítulo redigido em sessão única com pesquisa integrada)",
+          "auditor": "parcial (legislação conferida contra fichas de pesquisa, valores 2026 confirmados, ADIs 2.110/2.111 verificadas)",
+          "formatador": "concluido (16987 palavras, 18 seções, boxes formatados, numeração sequencial 13.1-13.18 OK)",
+          "consistencia": "consistente (cross-refs OK: caps 2,3,4,7,9,15,16,19,20,23; terminologia padronizada, escopo delimitado)",
+          "antiIA": "95/100 (linguagem técnica natural, exemplos numéricos concretos com valores 2026, tabelas comparativas, posicionamento sobre controvérsias)",
+          "docx": "cap_13.docx gerado (384 elementos, 55.6 KB)",
+          "data": "2026-05-10"
+        }
+      ]
+    }
+  },
+  "glossario_path": "state/glossario.json",
+  "ultima_atualizacao": "2026-05-10T22:30:00"
+}
