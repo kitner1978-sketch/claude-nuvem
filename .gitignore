@@ -23,9 +23,8 @@ pesquisa/doutrina/
 pesquisa/jurisprudencia/
 pesquisa/legislacao/
 
-# --- Backups antigos ---
-backup_renumeracao_*/
-backup_pre_correcoes_*/
+# --- Backups (pastas locais de seguranca, nao versionadas) ---
+backup_*/
 
 # --- Python ---
 __pycache__/
