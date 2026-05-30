@@ -7,6 +7,10 @@
 output/docx/
 output/livro_completo.*
 output/livro_completo_v*
+# export derivado/desatualizado (fonte de verdade = output/rascunhos/)
+output/capitulos/
+# artefatos de teste avulsos (ex.: test_dropcap_lig.docx)
+output/test_*
 # output/rascunhos/ — NÃO ignorar: são os arquivos-fonte do livro
 output/auditoria/
 output/indice_remissivo.txt
@@ -51,9 +55,10 @@ Desktop.ini
 .DS_Store?
 ._*
 
-# --- IDE ---
+# --- IDE / Editores ---
 .vscode/
 .idea/
+.obsidian/
 *.swp
 *.swo
 *~
