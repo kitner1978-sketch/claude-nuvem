@@ -1,5 +1,25 @@
 # CHANGELOG — Direito Previdenciario: Teoria e Pratica nos JEFs
 
+## [tooling] — 2026-05-30 — Modularizacao do Design Code
+
+Refatoracao dos scripts de geracao, sem alteracao do PDF (validado: 1.270 paginas, identico ao baseline v12).
+
+### Novo modulo `scripts/design_code.py`
+Fonte unica de verdade para a identidade visual: cores (`COLORS`), fontes (`FONT_SERIF`/`FONT_SANS`), escala tipografica (`SIZE_BODY`/`SIZE_SECTION`/`SIZE_SUBSECTION`), geometria A5 (`MARGINS_A5`) e helpers compartilhados (`apply_a5_margins`, `add_page_field`, `hex_to_rgb`).
+
+### Centralizacao
+- Fonte "EB Garamond" (~100 ocorrencias) e "Noto Sans" (~70) hardcoded -> `FONT_SERIF`/`FONT_SANS`. Trocar a tipografia agora e 1 edicao.
+- Margens A5, antes duplicadas literalmente em `set_page_a5_mirrored` e `setup_section`, unificadas em `apply_a5_margins`.
+- Tamanhos de corpo/secao/subsecao (duplicados entre os dois scripts) -> tokens unicos.
+
+### Deduplicacao
+- Campo PAGE (`_add_page_field` / `add_page_number_field`, 22 linhas identicas) -> `add_page_field` unico.
+- Estilo Normal (9 linhas identicas) -> `apply_normal_style`.
+
+Funcoes-monstro (`create_unified_docx`, `generate_docx`, `add_box`) deliberadamente **nao** alteradas (alto risco de mudar o layout, baixo ganho). Ver `reviews/analise_modularizacao_scripts.md`.
+
+---
+
 ## [v12] — 2026-05-29
 
 ### Revisao qualitativa completa (23 capitulos)

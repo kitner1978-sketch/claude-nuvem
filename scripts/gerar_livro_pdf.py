@@ -16,12 +16,18 @@ from pathlib import Path
 
 # Importar funções do md_to_docx
 sys.path.insert(0, str(Path(__file__).parent))
+from design_code import (
+    COLORS, hex_to_rgb, FONT_SERIF, FONT_SANS,
+    SIZE_BODY, SIZE_SECTION, SIZE_SUBSECTION,
+    MARGINS_A5, apply_a5_margins, add_page_field,
+)
 from md_to_docx import (
-    COLORS, hex_to_rgb, parse_markdown, strip_citations,
+    parse_markdown, strip_citations,
     set_page_a5_mirrored, add_run_with_style, set_paragraph_spacing,
     set_first_line_indent, add_paragraph_with_bold, add_section_border,
     keep_with_next, add_box, add_table_block, add_list_item, add_blockquote,
-    add_drop_cap, _enable_auto_hyphenation, _set_style_language,
+    add_drop_cap, apply_normal_style,
+    _enable_auto_hyphenation, _set_style_language,
     _set_compat_settings, _enable_w14_namespace
 )
 
@@ -75,47 +81,13 @@ PARTS = [
 ]
 
 
-def add_page_number_field(paragraph, font_name="EB Garamond", size=Pt(9),
-                          color="6B6256"):
-    """Insere campo PAGE no parágrafo."""
-    run1 = paragraph.add_run()
-    run1.font.name = font_name
-    run1.font.size = size
-    run1.font.color.rgb = hex_to_rgb(color)
-    fld_begin = parse_xml(f'<w:fldChar {nsdecls("w")} w:fldCharType="begin"/>')
-    run1._element.append(fld_begin)
-
-    run2 = paragraph.add_run()
-    run2.font.name = font_name
-    run2.font.size = size
-    run2.font.color.rgb = hex_to_rgb(color)
-    instr = parse_xml(f'<w:instrText {nsdecls("w")} xml:space="preserve"> PAGE </w:instrText>')
-    run2._element.append(instr)
-
-    run3 = paragraph.add_run()
-    run3.font.name = font_name
-    run3.font.size = size
-    fld_end = parse_xml(f'<w:fldChar {nsdecls("w")} w:fldCharType="end"/>')
-    run3._element.append(fld_end)
+# Campo PAGE: reutiliza design_code.add_page_field (antes duplicado aqui).
+add_page_number_field = add_page_field
 
 
 def setup_section(section, is_first=False):
     """Configura seção A5 com margens espelhadas."""
-    section.page_width = Cm(14.8)
-    section.page_height = Cm(21.0)
-    section.orientation = WD_ORIENT.PORTRAIT
-    section.top_margin = Cm(1.65)
-    section.bottom_margin = Cm(1.70)
-    section.left_margin = Cm(2.05)
-    section.right_margin = Cm(1.55)
-    section.header_distance = Cm(0.80)
-    section.footer_distance = Cm(0.75)
-
-    # Mirror margins
-    sectPr = section._sectPr
-    pgMar = sectPr.find(qn('w:pgMar'))
-    if pgMar is not None:
-        pgMar.set(qn('w:mirrorMargins'), '1')
+    apply_a5_margins(section)
 
 
 def add_new_section(doc, start_type='NEW_PAGE'):
@@ -144,7 +116,7 @@ def _add_header_content(paragraph, text, alignment=WD_ALIGN_PARAGRAPH.RIGHT):
     paragraph.clear()
     paragraph.alignment = alignment
     if text:
-        add_run_with_style(paragraph, text, font_name="EB Garamond",
+        add_run_with_style(paragraph, text, font_name=FONT_SERIF,
                           size=Pt(8.6), color="6B6256", small_caps=True)
         pPr = paragraph._element.get_or_add_pPr()
         pBdr = parse_xml(
@@ -220,7 +192,7 @@ def add_cover_page(doc):
     p_orn = doc.add_paragraph()
     p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn, before=0, after=8, line_spacing=1.0)
-    add_run_with_style(p_orn, "◆  ◆  ◆", font_name="EB Garamond",
+    add_run_with_style(p_orn, "◆  ◆  ◆", font_name=FONT_SERIF,
                       size=Pt(11), color="B78B37")
 
     # Título
@@ -228,14 +200,14 @@ def add_cover_page(doc):
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         set_paragraph_spacing(p, before=2, after=2, line_spacing=1.05)
-        add_run_with_style(p, line, font_name="EB Garamond",
+        add_run_with_style(p, line, font_name=FONT_SERIF,
                           size=Pt(22), bold=True, color="2F2923")
 
     # Ornamento inferior
     p_orn2 = doc.add_paragraph()
     p_orn2.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn2, before=12, after=6, line_spacing=1.0)
-    add_run_with_style(p_orn2, "◆", font_name="EB Garamond",
+    add_run_with_style(p_orn2, "◆", font_name=FONT_SERIF,
                       size=Pt(9), color="B78B37")
 
     # Autores
@@ -243,7 +215,7 @@ def add_cover_page(doc):
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         set_paragraph_spacing(p, before=4, after=2, line_spacing=1.0)
-        add_run_with_style(p, author, font_name="EB Garamond",
+        add_run_with_style(p, author, font_name=FONT_SERIF,
                           size=Pt(14), color="3A3128", small_caps=True)
 
     # Ano
@@ -254,7 +226,7 @@ def add_cover_page(doc):
     p_year = doc.add_paragraph()
     p_year.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_year, before=0, after=0, line_spacing=1.0)
-    add_run_with_style(p_year, "2026", font_name="EB Garamond",
+    add_run_with_style(p_year, "2026", font_name=FONT_SERIF,
                       size=Pt(12), color="6B6256")
 
 
@@ -270,7 +242,7 @@ def add_title_page(doc):
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         set_paragraph_spacing(p, before=2, after=2, line_spacing=1.0)
-        add_run_with_style(p, author, font_name="EB Garamond",
+        add_run_with_style(p, author, font_name=FONT_SERIF,
                           size=Pt(13), color="3A3128", small_caps=True)
 
     # Espaço
@@ -281,7 +253,7 @@ def add_title_page(doc):
     p_orn = doc.add_paragraph()
     p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn, before=0, after=8, line_spacing=1.0)
-    add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name="EB Garamond",
+    add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name=FONT_SERIF,
                       size=Pt(9), color="B78B37")
 
     # Título
@@ -289,14 +261,14 @@ def add_title_page(doc):
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         set_paragraph_spacing(p, before=2, after=2, line_spacing=1.05)
-        add_run_with_style(p, line, font_name="EB Garamond",
+        add_run_with_style(p, line, font_name=FONT_SERIF,
                           size=Pt(20), bold=True, color="2F2923")
 
     # Ornamento inferior
     p_orn2 = doc.add_paragraph()
     p_orn2.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn2, before=8, after=12, line_spacing=1.0)
-    add_run_with_style(p_orn2, "━━━━  ◆  ━━━━", font_name="EB Garamond",
+    add_run_with_style(p_orn2, "━━━━  ◆  ━━━━", font_name=FONT_SERIF,
                       size=Pt(9), color="B78B37")
 
     # Subtítulo editorial
@@ -304,14 +276,14 @@ def add_title_page(doc):
     p_sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_sub, before=4, after=2, line_spacing=1.05)
     add_run_with_style(p_sub, "Doutrina, Jurisprudência e Prática Forense",
-                      font_name="EB Garamond", size=Pt(11),
+                      font_name=FONT_SERIF, size=Pt(11),
                       italic=True, color="6B6256")
 
     # Edição
     p_ed = doc.add_paragraph()
     p_ed.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_ed, before=8, after=2, line_spacing=1.0)
-    add_run_with_style(p_ed, "1a Edição", font_name="EB Garamond",
+    add_run_with_style(p_ed, "1a Edição", font_name=FONT_SERIF,
                       size=Pt(10), color="6B6256")
 
     # Ano
@@ -322,7 +294,7 @@ def add_title_page(doc):
     p_year = doc.add_paragraph()
     p_year.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_year, before=0, after=0, line_spacing=1.0)
-    add_run_with_style(p_year, "2026", font_name="EB Garamond",
+    add_run_with_style(p_year, "2026", font_name=FONT_SERIF,
                       size=Pt(12), color="6B6256")
 
 
@@ -338,7 +310,7 @@ def add_copyright_page(doc):
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER if center else WD_ALIGN_PARAGRAPH.LEFT
         set_paragraph_spacing(p, before=0, after=1.5, line_spacing=1.0)
-        add_run_with_style(p, text, font_name="EB Garamond", size=size,
+        add_run_with_style(p, text, font_name=FONT_SERIF, size=size,
                           bold=bold, italic=italic, color="3A3128")
 
     # Dados catalográficos
@@ -390,14 +362,14 @@ def add_dedication_page(doc):
     p_ded.alignment = WD_ALIGN_PARAGRAPH.RIGHT
     set_paragraph_spacing(p_ded, before=0, after=4, line_spacing=1.15)
     add_run_with_style(p_ded, "Aos jurisdicionados dos Juizados Especiais Federais,",
-                      font_name="EB Garamond", size=Pt(10.5),
+                      font_name=FONT_SERIF, size=Pt(10.5),
                       italic=True, color="3A3128")
 
     p_ded2 = doc.add_paragraph()
     p_ded2.alignment = WD_ALIGN_PARAGRAPH.RIGHT
     set_paragraph_spacing(p_ded2, before=0, after=16, line_spacing=1.15)
     add_run_with_style(p_ded2, "que buscam na Justiça a proteção social que lhes é devida.",
-                      font_name="EB Garamond", size=Pt(10.5),
+                      font_name=FONT_SERIF, size=Pt(10.5),
                       italic=True, color="3A3128")
 
     # Espaço antes da epígrafe
@@ -413,7 +385,7 @@ def add_dedication_page(doc):
     set_paragraph_spacing(p_epi, before=0, after=4, line_spacing=1.15)
     add_run_with_style(p_epi,
         "A previdência social é a mais importante conquista",
-        font_name="EB Garamond", size=Pt(9.5), italic=True, color="6B6256")
+        font_name=FONT_SERIF, size=Pt(9.5), italic=True, color="6B6256")
 
     p_epi2 = doc.add_paragraph()
     p_epi2.alignment = WD_ALIGN_PARAGRAPH.RIGHT
@@ -422,7 +394,7 @@ def add_dedication_page(doc):
     set_paragraph_spacing(p_epi2, before=0, after=4, line_spacing=1.15)
     add_run_with_style(p_epi2,
         "do trabalhador no século XX.",
-        font_name="EB Garamond", size=Pt(9.5), italic=True, color="6B6256")
+        font_name=FONT_SERIF, size=Pt(9.5), italic=True, color="6B6256")
 
     p_author = doc.add_paragraph()
     p_author.alignment = WD_ALIGN_PARAGRAPH.RIGHT
@@ -430,7 +402,7 @@ def add_dedication_page(doc):
     pf3.right_indent = Cm(0.5)
     set_paragraph_spacing(p_author, before=0, after=0, line_spacing=1.0)
     add_run_with_style(p_author, "— Wladimir Novaes Martinez",
-                      font_name="EB Garamond", size=Pt(8.5),
+                      font_name=FONT_SERIF, size=Pt(8.5),
                       small_caps=True, color="6B6256")
 
 
@@ -441,13 +413,13 @@ def add_abbreviations_page(doc):
     p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_title, before=16, after=8, line_spacing=1.0)
     add_run_with_style(p_title, "LISTA DE ABREVIATURAS E SIGLAS",
-                      font_name="EB Garamond", size=Pt(16), bold=True, color="2F2923")
+                      font_name=FONT_SERIF, size=Pt(16), bold=True, color="2F2923")
 
     # Ornamento
     p_orn = doc.add_paragraph()
     p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn, before=0, after=12, line_spacing=1.0)
-    add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name="EB Garamond",
+    add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name=FONT_SERIF,
                       size=Pt(9), color="B78B37")
 
     # Abreviaturas (ordenadas alfabeticamente)
@@ -501,9 +473,9 @@ def add_abbreviations_page(doc):
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.LEFT
         set_paragraph_spacing(p, before=0, after=1.5, line_spacing=1.05)
-        add_run_with_style(p, abbr, font_name="EB Garamond",
+        add_run_with_style(p, abbr, font_name=FONT_SERIF,
                           size=Pt(10), bold=True, color="2F2923")
-        add_run_with_style(p, f"  —  {meaning}", font_name="EB Garamond",
+        add_run_with_style(p, f"  —  {meaning}", font_name=FONT_SERIF,
                           size=Pt(10), color="3A3128")
 
 
@@ -514,14 +486,14 @@ def add_toc_page(doc):
     p_title = doc.add_paragraph()
     p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_title, before=16, after=16, line_spacing=1.0)
-    add_run_with_style(p_title, "SUMÁRIO", font_name="EB Garamond",
+    add_run_with_style(p_title, "SUMÁRIO", font_name=FONT_SERIF,
                       size=Pt(18), bold=True, color="2F2923")
 
     # Ornamento
     p_orn = doc.add_paragraph()
     p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn, before=0, after=12, line_spacing=1.0)
-    add_run_with_style(p_orn, "◆", font_name="EB Garamond",
+    add_run_with_style(p_orn, "◆", font_name=FONT_SERIF,
                       size=Pt(9), color="B78B37")
 
     # Inserir campo TOC diretamente via XML
@@ -557,7 +529,7 @@ def add_toc_page(doc):
     # Texto placeholder (será substituído quando Word atualizar o campo)
     r_text = parse_xml(
         f'<w:r {nsdecls("w")}>'
-        f'  <w:rPr><w:rFonts w:ascii="EB Garamond" w:hAnsi="EB Garamond"/>'
+        f'  <w:rPr><w:rFonts w:ascii="{FONT_SERIF}" w:hAnsi="{FONT_SERIF}"/>'
         f'  <w:sz w:val="20"/><w:color w:val="6B6256"/></w:rPr>'
         f'  <w:t>Atualize o sumário para ver as entradas.</w:t>'
         f'</w:r>'
@@ -584,7 +556,7 @@ def add_part_page(doc, part_num, part_title):
     p_label = doc.add_paragraph()
     p_label.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_label, before=0, after=6, line_spacing=1.0)
-    add_run_with_style(p_label, f"PARTE {part_num}", font_name="Noto Sans",
+    add_run_with_style(p_label, f"PARTE {part_num}", font_name=FONT_SANS,
                       size=Pt(10), bold=True, color="8A6A2A", all_caps=True)
 
     # Usar Heading 1 para o TOC capturar
@@ -596,7 +568,7 @@ def add_part_page(doc, part_num, part_title):
     for run in p_title.runs:
         run.clear()
     set_paragraph_spacing(p_title, before=0, after=8, line_spacing=1.05)
-    r = add_run_with_style(p_title, part_title, font_name="EB Garamond",
+    r = add_run_with_style(p_title, part_title, font_name=FONT_SERIF,
                           size=Pt(18), bold=True, color="2F2923",
                           all_caps=True)
 
@@ -604,7 +576,7 @@ def add_part_page(doc, part_num, part_title):
     p_orn = doc.add_paragraph()
     p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn, before=8, after=0, line_spacing=1.0)
-    add_run_with_style(p_orn, "━━━━━  ◆  ◆  ◆  ━━━━━", font_name="EB Garamond",
+    add_run_with_style(p_orn, "━━━━━  ◆  ◆  ◆  ━━━━━", font_name=FONT_SERIF,
                       size=Pt(9), color="B78B37")
 
 
@@ -630,7 +602,7 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             p_label = doc.add_paragraph()
             p_label.alignment = WD_ALIGN_PARAGRAPH.CENTER
             set_paragraph_spacing(p_label, before=12, after=4, line_spacing=1.0)
-            add_run_with_style(p_label, f"CAPÍTULO {cap_num}", font_name="Noto Sans",
+            add_run_with_style(p_label, f"CAPÍTULO {cap_num}", font_name=FONT_SANS,
                               size=Pt(9.5), bold=True, color="8A6A2A", all_caps=True)
             keep_with_next(p_label)  # Nunca separar etiqueta do título
 
@@ -641,7 +613,7 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             for run in p_title.runs:
                 run.clear()
             set_paragraph_spacing(p_title, before=0, after=8, line_spacing=1.0)
-            r_title = add_run_with_style(p_title, cap_title, font_name="EB Garamond",
+            r_title = add_run_with_style(p_title, cap_title, font_name=FONT_SERIF,
                               size=Pt(20), bold=True, color="2F2923",
                               all_caps=True)
             keep_with_next(p_title)  # Nunca separar título do ornamento
@@ -650,7 +622,7 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             p_orn = doc.add_paragraph()
             p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
             set_paragraph_spacing(p_orn, before=0, after=12, line_spacing=1.0)
-            add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name="EB Garamond",
+            add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name=FONT_SERIF,
                               size=Pt(9), color="B78B37")
             is_first_paragraph = True
 
@@ -658,8 +630,8 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.LEFT
             set_paragraph_spacing(p, before=18, after=7, line_spacing=1.0)
-            add_run_with_style(p, block['text'], font_name="EB Garamond",
-                             size=Pt(15.5), bold=True, color="3A3128")
+            add_run_with_style(p, block['text'], font_name=FONT_SERIF,
+                             size=SIZE_SECTION, bold=True, color="3A3128")
             add_section_border(p)
             keep_with_next(p)
             is_first_paragraph = True
@@ -668,8 +640,8 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.LEFT
             set_paragraph_spacing(p, before=13, after=4, line_spacing=1.0)
-            add_run_with_style(p, block['text'], font_name="EB Garamond",
-                             size=Pt(12.5), bold=True, color="3A3128")
+            add_run_with_style(p, block['text'], font_name=FONT_SERIF,
+                             size=SIZE_SUBSECTION, bold=True, color="3A3128")
             keep_with_next(p)
             is_first_paragraph = True
 
@@ -698,7 +670,7 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.LEFT
             set_paragraph_spacing(p, before=0, after=3, line_spacing=1.0)
-            add_run_with_style(p, block['text'], font_name="EB Garamond",
+            add_run_with_style(p, block['text'], font_name=FONT_SERIF,
                              size=Pt(8.5), italic=True, color="6B6256")
 
         elif btype == 'references_heading':
@@ -709,7 +681,7 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.CENTER
             set_paragraph_spacing(p, before=16, after=5, line_spacing=1.0)
-            add_run_with_style(p, "REFERÊNCIAS", font_name="EB Garamond",
+            add_run_with_style(p, "REFERÊNCIAS", font_name=FONT_SERIF,
                              size=Pt(12.2), bold=True, color="3A3128",
                              small_caps=True)
 
@@ -741,14 +713,14 @@ def _add_backmatter_section(doc, title, index_leg, index_sum, index_inst):
     p_title = doc.add_paragraph()
     p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_title, before=16, after=8, line_spacing=1.0)
-    add_run_with_style(p_title, title, font_name="EB Garamond",
+    add_run_with_style(p_title, title, font_name=FONT_SERIF,
                       size=Pt(18), bold=True, color="2F2923")
 
     # Ornamento
     p_orn = doc.add_paragraph()
     p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn, before=0, after=12, line_spacing=1.0)
-    add_run_with_style(p_orn, "◆", font_name="EB Garamond",
+    add_run_with_style(p_orn, "◆", font_name=FONT_SERIF,
                       size=Pt(9), color="B78B37")
 
     def _add_index_category(category_title, index_dict):
@@ -758,7 +730,7 @@ def _add_backmatter_section(doc, title, index_leg, index_sum, index_inst):
         p_cat = doc.add_paragraph()
         p_cat.alignment = WD_ALIGN_PARAGRAPH.LEFT
         set_paragraph_spacing(p_cat, before=12, after=4, line_spacing=1.0)
-        add_run_with_style(p_cat, category_title, font_name="EB Garamond",
+        add_run_with_style(p_cat, category_title, font_name=FONT_SERIF,
                           size=Pt(12), bold=True, color="3A3128")
         add_section_border(p_cat, color_hex="D7CDBB")
 
@@ -769,10 +741,10 @@ def _add_backmatter_section(doc, title, index_leg, index_sum, index_inst):
             p.alignment = WD_ALIGN_PARAGRAPH.LEFT
             set_paragraph_spacing(p, before=0, after=1.5, line_spacing=1.0)
 
-            add_run_with_style(p, term, font_name="EB Garamond",
+            add_run_with_style(p, term, font_name=FONT_SERIF,
                               size=Pt(9.4), color="201B16")
             add_run_with_style(p, f"  Cap. {', '.join(caps)}",
-                              font_name="EB Garamond",
+                              font_name=FONT_SERIF,
                               size=Pt(9.4), color="6B6256")
 
     _add_index_category("Legislação", index_leg)
@@ -784,21 +756,12 @@ def create_unified_docx(output_path):
     """Cria o DOCX unificado com todos os capítulos."""
     doc = Document()
 
-    # Configurar estilos
-    style = doc.styles['Normal']
-    style.font.name = "EB Garamond"
-    style.font.size = Pt(10.7)
-    style.font.color.rgb = hex_to_rgb("201B16")
-    style.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-    style.paragraph_format.space_after = Pt(3.5)
-    style.paragraph_format.line_spacing = 1.08
-    style.paragraph_format.widow_control = True
-    # Idioma pt-BR no estilo Normal (hifenização correta)
-    _set_style_language(style, 'pt-BR')
+    # Configurar estilo Normal (corpo)
+    apply_normal_style(doc)
 
     # Configurar Heading 1 (Partes) — aparece no TOC nível 1
     h1 = doc.styles['Heading 1']
-    h1.font.name = "EB Garamond"
+    h1.font.name = FONT_SERIF
     h1.font.size = Pt(18)
     h1.font.bold = True
     h1.font.color.rgb = hex_to_rgb("2F2923")
@@ -808,7 +771,7 @@ def create_unified_docx(output_path):
 
     # Configurar Heading 2 (Capítulos) — aparece no TOC nível 2
     h2 = doc.styles['Heading 2']
-    h2.font.name = "EB Garamond"
+    h2.font.name = FONT_SERIF
     h2.font.size = Pt(20)
     h2.font.bold = True
     h2.font.color.rgb = hex_to_rgb("2F2923")
@@ -820,7 +783,7 @@ def create_unified_docx(output_path):
     try:
         toc1 = doc.styles['TOC 1'] if 'TOC 1' in [s.name for s in doc.styles] else None
         if toc1:
-            toc1.font.name = "EB Garamond"
+            toc1.font.name = FONT_SERIF
             toc1.font.size = Pt(11)
             toc1.font.bold = True
             toc1.font.color.rgb = hex_to_rgb("2F2923")
@@ -829,7 +792,7 @@ def create_unified_docx(output_path):
 
         toc2 = doc.styles['TOC 2'] if 'TOC 2' in [s.name for s in doc.styles] else None
         if toc2:
-            toc2.font.name = "EB Garamond"
+            toc2.font.name = FONT_SERIF
             toc2.font.size = Pt(10)
             toc2.font.bold = False
             toc2.font.color.rgb = hex_to_rgb("3A3128")
