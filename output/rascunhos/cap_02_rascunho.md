@@ -233,6 +233,8 @@ Questões como o reconhecimento do menor sob guarda como dependente (tensão ent
 
 ### 2.8 Referências
 
+#### Doutrina
+
 CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. **Manual de Direito Previdenciário**. 28. ed. Rio de Janeiro: Forense, 2025.
 
 HORVATH JÚNIOR, Miguel. **Direito Previdenciário**. 13. ed. São Paulo: Quartier Latin, 2024.

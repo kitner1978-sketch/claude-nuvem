@@ -639,7 +639,7 @@ CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Pr
 
 IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 28. ed. Rio de Janeiro: Impetus, 2025.
 
-KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 22. ed. Salvador: JusPodivm, 2025.
+KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
 
 SAVARIS, José Antonio. *Direito Processual Previdenciário*. 11. ed. Curitiba: Alteridade, 2023.
 

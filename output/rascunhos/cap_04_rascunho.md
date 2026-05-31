@@ -704,7 +704,7 @@ O empregado que trabalha em duas ou mais empresas tem a contribuição calculada
 
 #### 4.12.3 Trabalhador com remuneração inferior ao salário mínimo
 
-A EC 103/2019 introduziu regra específica para o trabalhador cuja remuneração mensal é inferior ao salário mínimo (tempo parcial, trabalho intermitente). O art. 195, § 14, da CF/88, incluído pela EC 103/2019, determina que o segurado somente terá reconhecido como tempo de contribuição e carência o mês cuja contribuição seja igual ou superior à contribuição mínima mensal exigida para sua categoria. Assim, o mês em que a contribuição for inferior à contribuição mínima (7,5% x SM = R$ 121,58 em 2026) não será computado para fins de carência e tempo de contribuição, salvo se o segurado complementar a contribuição até atingir o piso.
+A EC 103/2019 introduziu regra específica para o trabalhador cuja remuneração mensal é inferior ao salário mínimo (tempo parcial, trabalho intermitente). O art. 195, § 14, da CF/88, incluído pela EC 103/2019, determina que o segurado somente terá reconhecido como tempo de contribuição e carência o mês cuja contribuição seja igual ou superior à contribuição mínima mensal exigida para sua categoria. O mês em que a contribuição for inferior à contribuição mínima (7,5% x SM = R$ 121,58 em 2026) não será computado para fins de carência e tempo de contribuição, salvo se o segurado complementar a contribuição até atingir o piso.
 
 As opções do segurado são:
 - **Complementar a contribuição:** Recolher a diferença entre o valor efetivamente descontado e 7,5% do SM, via GPS código específico;
@@ -1603,13 +1603,15 @@ Algumas empresas constituem cooperativas fictícias para reduzir o custo previde
 
 ### 4.24 Referências
 
-AMADO, Frederico. **Curso de Direito e Processo Previdenciário.** 16. ed. Salvador: JusPodivm, 2025.
+#### Doutrina
 
-CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. **Manual de Direito Previdenciário.** 29. ed. Rio de Janeiro: Forense, 2025.
+AMADO, Frederico. **Curso de Direito e Processo Previdenciário.** 19. ed. Salvador: JusPodivm, 2025.
+
+CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. **Manual de Direito Previdenciário.** 28. ed. Rio de Janeiro: Forense, 2025.
 
 IBRAHIM, Fábio Zambitte; BRAGANÇA, Kerlly Huback; FOLMANN, Melissa. **Curso de Direito Previdenciário.** 28. ed. Niterói: Impetus, 2025.
 
-KERTZMAN, Ivan. **Curso Prático de Direito Previdenciário.** 22. ed. Salvador: JusPodivm, 2025.
+KERTZMAN, Ivan. **Curso Prático de Direito Previdenciário.** 23. ed. Salvador: JusPodivm, 2025.
 
 PORTO, Rafael Duarte de Oliveira. **Manual de Direito Previdenciário.** 2. ed. São Paulo: Editora JusPodivm, 2024.
 

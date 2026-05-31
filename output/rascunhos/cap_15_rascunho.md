@@ -367,7 +367,7 @@ A perda visual em um olho (monovisão) por acidente gera auxílio-acidente quand
 
 #### 15.21.4 Policiais e militares
 
-Policiais civis e militares são vinculados a regimes próprios de previdência, não ao RGPS, e portanto não fazem jus ao auxílio-acidente previsto na Lei n. 8.213/91. Policiais federais e rodoviários federais são servidores públicos federais vinculados ao RPPS da União (e, para os ingressos após 2013, ao regime complementar da FUNPRESP-EXE), igualmente sem direito ao auxílio-acidente do RGPS. A questão é irrelevante na prática dos JEFs.
+Policiais civis e militares são vinculados a regimes próprios de previdência, não ao RGPS, razão pela qual não fazem jus ao auxílio-acidente previsto na Lei n. 8.213/91. Policiais federais e rodoviários federais são servidores públicos federais vinculados ao RPPS da União (e, para os ingressos após 2013, ao regime complementar da FUNPRESP-EXE), igualmente sem direito ao auxílio-acidente do RGPS. A questão é irrelevante na prática dos JEFs.
 
 #### 15.21.5 Auxílio-acidente e reabilitação profissional
 
@@ -705,14 +705,14 @@ BRASIL. Turma Nacional de Uniformização dos JEFs. Tema 322. PEDILEF 5014634-54
 
 #### Doutrina
 
-CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. **Manual de Direito Previdenciário**. 29. ed. Rio de Janeiro: Forense, 2025.
+CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. **Manual de Direito Previdenciário**. 28. ed. Rio de Janeiro: Forense, 2025.
 
 HORVATH JÚNIOR, Miguel. **Direito Previdenciário**. 14. ed. São Paulo: Quartier Latin, 2022.
 
 IBRAHIM, Fábio Zambitte. **Curso de Direito Previdenciário**. 27. ed. Niterói: Impetus, 2025.
 
-KERTZMAN, Ivan. **Curso Prático de Direito Previdenciário**. 22. ed. Salvador: JusPodivm, 2025.
+KERTZMAN, Ivan. **Curso Prático de Direito Previdenciário**. 23. ed. Salvador: JusPodivm, 2025.
 
 SANTOS, Marisa Ferreira dos. **Direito Previdenciário Esquematizado**. 15. ed. São Paulo: Saraiva, 2025.
 
-SAVARIS, José Antonio. **Direito Processual Previdenciário**. 9. ed. Curitiba: Alteridade, 2023.
+SAVARIS, José Antonio. **Direito Processual Previdenciário**. 11. ed. Curitiba: Alteridade, 2023.

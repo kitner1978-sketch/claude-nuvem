@@ -498,11 +498,11 @@ BRASIL. Superior Tribunal de Justiça. Tema 999. Regra de cálculo do benefício
 
 #### 1.25.3 Doutrina
 
-AMADO, Frederico. Curso de Direito e Processo Previdenciário. 17. ed. Salvador: JusPodivm, 2025.
+AMADO, Frederico. Curso de Direito e Processo Previdenciário. 19. ed. Salvador: JusPodivm, 2025.
 
 BALERA, Wagner. Sistema de Seguridade Social. 9. ed. São Paulo: LTr, 2023.
 
-CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. Manual de Direito Previdenciário. 29. ed. Rio de Janeiro: Forense, 2025.
+CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. Manual de Direito Previdenciário. 28. ed. Rio de Janeiro: Forense, 2025.
 
 HORVATH JÚNIOR, Miguel. Direito Previdenciário. 14. ed. São Paulo: Quartier Latin, 2025.
 

@@ -36,8 +36,8 @@ referencias:
   - "STJ Tema 995 (reafirmação da DER)"
   - "CASTRO/LAZZARI, Manual, 28ª ed. (2025)"
   - "IBRAHIM, Curso, 27ª ed. (2025)"
-  - "AMADO, Curso, 16ª ed. (2025)"
-  - "KERTZMAN, Curso Prático, 22ª ed. (2024)"
+  - "AMADO, Curso, 19ª ed. (2025)"
+  - "KERTZMAN, Curso Prático, 23ª ed. (2025)"
   - "SAVARIS, Processual, 10ª ed. (2023)"
 ---
 
@@ -247,7 +247,7 @@ A aposentadoria por tempo de contribuição da PcD é a modalidade principal e m
 
 #### 12.5.1 Cálculo do benefício
 
-O cálculo da aposentadoria por TC da PcD é definido pelo art. 8º, I, da LC 142/2013: o valor do benefício corresponde a **100% do salário de benefício**. Essa regra, mantida integralmente pelo art. 22 da EC 103/2019, é mais favorável que a regra de cálculo pós-Reforma aplicável às demais aposentadorias por TC (regras de transição), que adotam coeficientes de 60% + 2% por ano excedente (art. 26 da EC 103) ou aplicam obrigatoriamente o fator previdenciário (pedágio 50%). Kertzman (2024) destaca que o coeficiente de 100% do salário de benefício, sem aplicação obrigatória do fator previdenciário, faz da aposentadoria por TC da PcD o benefício por tempo de contribuição mais vantajoso ainda existente no RGPS.
+O cálculo da aposentadoria por TC da PcD é definido pelo art. 8º, I, da LC 142/2013: o valor do benefício corresponde a **100% do salário de benefício**. Essa regra, mantida integralmente pelo art. 22 da EC 103/2019, é mais favorável que a regra de cálculo pós-Reforma aplicável às demais aposentadorias por TC (regras de transição), que adotam coeficientes de 60% + 2% por ano excedente (art. 26 da EC 103) ou aplicam obrigatoriamente o fator previdenciário (pedágio 50%). Kertzman (2025) destaca que o coeficiente de 100% do salário de benefício, sem aplicação obrigatória do fator previdenciário, faz da aposentadoria por TC da PcD o benefício por tempo de contribuição mais vantajoso ainda existente no RGPS.
 
 A base de cálculo do salário de benefício segue a regra geral pós-EC 103: média aritmética de 100% dos salários de contribuição desde julho/1994, com possibilidade de exclusão das contribuições prejudiciais (art. 26, § 6º, EC 103), desde que mantido o TC mínimo exigido. Para o detalhamento do cálculo do SB e da RMI, v. Cap. 16.
 
@@ -1314,6 +1314,6 @@ A atuação eficaz nas ações de aposentadoria da PcD exige domínio não apena
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 27. ed. Niterói: Impetus, 2025.
-- AMADO, Frederico. *Curso de Direito e Processo Previdenciário*. 16. ed. Salvador: JusPodivm, 2025.
-- KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 22. ed. Salvador: JusPodivm, 2024.
+- AMADO, Frederico. *Curso de Direito e Processo Previdenciário*. 19. ed. Salvador: JusPodivm, 2025.
+- KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
 - SAVARIS, José Antonio. *Direito Processual Previdenciário*. 10. ed. Curitiba: Alteridade, 2023.

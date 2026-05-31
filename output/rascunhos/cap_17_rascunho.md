@@ -802,10 +802,10 @@ SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 2.095.463/PR. Relatora Min. Nancy Andrighi. 
 
 #### 17.14.3 Doutrina
 
-AMADO, Frederico. Curso de Direito e Processo Previdenciário. 17. ed. Salvador: JusPodivm, 2025.
+AMADO, Frederico. Curso de Direito e Processo Previdenciário. 19. ed. Salvador: JusPodivm, 2025.
 
 IBRAHIM, Fábio Zambitte. Curso de Direito Previdenciário. 28. ed. Rio de Janeiro: Impetus, 2025.
 
 LAZZARI, João Batista; CASTRO, Carlos Alberto Pereira de. Manual de Direito Previdenciário. 28. ed. Rio de Janeiro: Forense, 2025.
 
-SAVARIS, José Antonio. Direito Processual Previdenciário. 9. ed. Curitiba: Alteridade, 2023.
+SAVARIS, José Antonio. Direito Processual Previdenciário. 11. ed. Curitiba: Alteridade, 2023.

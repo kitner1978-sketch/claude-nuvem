@@ -107,7 +107,7 @@ A competência da Justiça Estadual para as ações de acidente do trabalho cont
 
 A identificação da natureza acidentária do benefício foi modificada pela Lei n. 11.430/2006, regulamentada pelo Decreto n. 6.042/2007, que instituiu o Nexo Técnico Epidemiológico Previdenciário (NTEP). Trata-se de instrumento de presunção relativa do nexo causal entre a doença e o trabalho, baseado na correlação estatística entre o código CID-10 da patologia e a atividade econômica da empresa (código CNAE).
 
-Quando o NTEP é aplicado, presume-se que a incapacidade tem origem ocupacional, invertendo-se o ônus da prova (CASTRO; LAZZARI, 2025; KERTZMAN, 2024): cabe à empresa demonstrar que a doença não possui nexo com o trabalho. Essa inversão representou avanço significativo na proteção do trabalhador, que anteriormente enfrentava a difícil tarefa de provar o nexo causal em doenças de natureza multifatorial (como lesões por esforço repetitivo, distúrbios osteomusculares e transtornos mentais relacionados ao trabalho).
+Quando o NTEP é aplicado, presume-se que a incapacidade tem origem ocupacional, invertendo-se o ônus da prova (CASTRO; LAZZARI, 2025; KERTZMAN, 2025): cabe à empresa demonstrar que a doença não possui nexo com o trabalho. Essa inversão representou avanço significativo na proteção do trabalhador, que anteriormente enfrentava a difícil tarefa de provar o nexo causal em doenças de natureza multifatorial (como lesões por esforço repetitivo, distúrbios osteomusculares e transtornos mentais relacionados ao trabalho).
 
 O empregador que discordar do enquadramento pelo NTEP pode apresentar impugnação administrativa ao INSS, no prazo de 15 dias da ciência da decisão, instruída com documentação técnica que demonstre a inexistência do nexo. A decisão administrativa é passível de recurso ao Conselho de Recursos da Previdência Social (CRPS).
 
@@ -171,7 +171,7 @@ Na prática dos JEFs, a perícia judicial desempenha papel crucial na fixação 
 
 ### 7.6 Data de Início do Benefício (DIB)
 
-A fixação da data de início do benefício (DIB) determina o marco temporal a partir do qual o segurado faz jus ao pagamento das prestações (CASTRO; LAZZARI, 2025; KERTZMAN, 2024). O art. 60 da Lei n. 8.213/91 estabelece regras distintas conforme a categoria do segurado e a existência ou não de requerimento administrativo prévio.
+A fixação da data de início do benefício (DIB) determina o marco temporal a partir do qual o segurado faz jus ao pagamento das prestações (CASTRO; LAZZARI, 2025; KERTZMAN, 2025). O art. 60 da Lei n. 8.213/91 estabelece regras distintas conforme a categoria do segurado e a existência ou não de requerimento administrativo prévio.
 
 #### 7.6.1 Segurado Empregado
 
@@ -397,7 +397,7 @@ A Lei n. 10.259/2001, ao instituir os JEFs, não revogou a competência delegada
 
 A Súmula 53 da TNU dispõe que "não há direito a auxílio por incapacidade temporária ou a aposentadoria por incapacidade permanente quando a incapacidade para o trabalho é preexistente ao reingresso do segurado no Regime Geral de Previdência Social". O enunciado reflete a regra do art. 59, parágrafo único, da Lei n. 8.213/91, mas sua aplicação exige cautela.
 
-A Súmula não impede a concessão quando há progressão ou agravamento da doença após a filiação (KERTZMAN, 2024; IBRAHIM; BRAGANÇA; FOLMANN, 2025). A doença pode ser preexistente; a incapacidade, não. A perícia deve distinguir: se o segurado já era incapaz quando se filiou (reentrando no sistema exclusivamente para obter benefício), a Súmula 53 aplica-se; se o segurado, embora portador da doença, era capaz quando se filiou e a incapacidade sobreveio posteriormente (por evolução natural da doença ou por agravamento), o benefício é devido.
+A Súmula não impede a concessão quando há progressão ou agravamento da doença após a filiação (KERTZMAN, 2025; IBRAHIM; BRAGANÇA; FOLMANN, 2025). A doença pode ser preexistente; a incapacidade, não. A perícia deve distinguir: se o segurado já era incapaz quando se filiou (reentrando no sistema exclusivamente para obter benefício), a Súmula 53 aplica-se; se o segurado, embora portador da doença, era capaz quando se filiou e a incapacidade sobreveio posteriormente (por evolução natural da doença ou por agravamento), o benefício é devido.
 
 ::: box-pratica
 Na instrução de ações em que o INSS invoca a Súmula 53/TNU, o quesito-chave para o perito judicial é: "O segurado era capaz para o exercício de atividade laborativa na data de sua filiação (ou refiliação) ao RGPS? Em caso positivo, a incapacidade atual decorreu de progressão ou agravamento da doença preexistente?" A resposta afirmativa à segunda pergunta afasta a incidência da Súmula e viabiliza a concessão do benefício. O autor deve, também, apresentar prova de que o segurado efetivamente exerceu atividade laborativa após a filiação, demonstrando que possuía capacidade funcional naquele momento.
@@ -465,7 +465,7 @@ Admite-se, contudo, a acumulação do auxílio por incapacidade temporária com:
 
 As irregularidades do procedimento administrativo de concessão constituem, na prática, o principal fundamento das ações judiciais nos JEFs. O advogado que conhece o fluxo administrativo identifica com mais precisão os vícios impugnáveis.
 
-O requerimento do auxílio por incapacidade temporária, conforme detalham Kertzman (2024) e Porto (2024), é formulado pelo sistema Meu INSS (plataforma digital) ou pela Central 135 (atendimento telefônico). O segurado empregado pode ter o requerimento formulado diretamente pela empresa, por meio do sistema e-Social, quando o afastamento for superior a 15 dias. O empregador que deixar de comunicar o afastamento ao INSS assume a responsabilidade pelo pagamento da remuneração do empregado durante o período de atraso.
+O requerimento do auxílio por incapacidade temporária, conforme detalham Kertzman (2025) e Porto (2024), é formulado pelo sistema Meu INSS (plataforma digital) ou pela Central 135 (atendimento telefônico). O segurado empregado pode ter o requerimento formulado diretamente pela empresa, por meio do sistema e-Social, quando o afastamento for superior a 15 dias. O empregador que deixar de comunicar o afastamento ao INSS assume a responsabilidade pelo pagamento da remuneração do empregado durante o período de atraso.
 
 Na concessão via Atestmed, o segurado anexa atestado médico e documentação clínica ao requerimento digital. O perito médico federal analisa a documentação e decide pela concessão (com fixação da DCB) ou pelo indeferimento, fundamentando tecnicamente sua decisão. A concessão via Atestmed está limitada a 90 dias por análise e 180 dias acumulados — após esse limite, qualquer prorrogação exige perícia presencial.
 
@@ -509,7 +509,7 @@ HORVATH JÚNIOR, Miguel. **Direito Previdenciário**. 13. ed. São Paulo: Rideel
 
 IBRAHIM, Fábio Zambitte; BRAGANÇA, Kerlly Huback; FOLMANN, Melissa. **Curso de Direito Previdenciário**. 28. ed. Niterói: Impetus, 2025.
 
-KERTZMAN, Ivan. **Curso Prático de Direito Previdenciário**. 22. ed. Salvador: JusPodivm, 2024.
+KERTZMAN, Ivan. **Curso Prático de Direito Previdenciário**. 23. ed. Salvador: JusPodivm, 2025.
 
 PORTO, Rafael Duarte de Oliveira. **Manual de Direito Previdenciário**. 2. ed. São Paulo: Editora JusPodivm, 2024.
 

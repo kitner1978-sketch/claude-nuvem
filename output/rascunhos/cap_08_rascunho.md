@@ -82,7 +82,7 @@ O art. 19, § 1º, incisos I, II e III, da EC 103/2019 estabelece que a aposenta
 — 58 anos de idade para atividades com exposição de 20 anos;
 — 60 anos de idade para atividades com exposição de 25 anos.
 
-A introdução do requisito etário representou ruptura fundamental com o regime anterior, no qual a aposentadoria especial era concedida exclusivamente com base no tempo de exposição, sem qualquer exigência de idade mínima. A medida foi justificada pelo legislador reformador como necessária para compatibilizar o benefício com o equilíbrio financeiro e atuarial do sistema, mas é criticada pela doutrina por contrariar a própria finalidade do benefício, proteger o trabalhador contra os efeitos da exposição prolongada a agentes nocivos (HORVATH JÚNIOR, 2025; SAVARIS, 2025).
+A introdução do requisito etário representou ruptura fundamental com o regime anterior, no qual a aposentadoria especial era concedida exclusivamente com base no tempo de exposição, sem qualquer exigência de idade mínima. A medida foi justificada pelo legislador reformador como necessária para compatibilizar o benefício com o equilíbrio financeiro e atuarial do sistema, mas é criticada pela doutrina por contrariar a própria finalidade do benefício, proteger o trabalhador contra os efeitos da exposição prolongada a agentes nocivos (HORVATH JÚNIOR, 2025; SAVARIS, 2023).
 
 ::: box-jurisprudencia
 A constitucionalidade da exigência de idade mínima para a aposentadoria especial é objeto da ADI 6.309, ajuizada pela Confederação Nacional dos Trabalhadores da Indústria (CNTI). A ação questiona: (a) a inconstitucionalidade do requisito etário (art. 19, § 1º, I, EC 103/2019); (b) a inconstitucionalidade da restrição à conversão de tempo especial em comum (art. 25, § 2º); e (c) a inconstitucionalidade da redução do valor do benefício (art. 26, § 2º, IV). O julgamento foi iniciado em dezembro de 2025, com placar parcial de 3 votos pela constitucionalidade e 2 pela inconstitucionalidade, tendo sido suspenso por pedido de vista do Ministro André Mendonça. A conclusão do julgamento é aguardada e poderá alterar substancialmente o regime jurídico do benefício.
@@ -598,7 +598,7 @@ O primeiro é normativo. A EC 103/2019 introduziu idade mínima, sistema de pont
 
 O segundo é probatório. O PPP eletrônico via eSocial padronizou a prova para vínculos a partir de 2023, mas a maioria dos litígios envolve períodos anteriores, documentados em formulários físicos (SB-40, DSS-8030, PPP em papel) ou sem documentação alguma (empresas extintas, contribuintes individuais, segurados rurais). O domínio de regimes probatórios distintos conforme o período é condição para a instrução adequada.
 
-O terceiro é técnico. O magistrado que julga aposentadoria especial precisa ler laudos ambientais, compreender metodologias de medição (NHO-01 para ruído, IBUTG para calor, dosimetria para radiações) e identificar agentes nocivos e seus efeitos sobre a saúde. Sem essa competência, a sentença corre o risco de se fundar em premissas técnicas equivocadas (SAVARIS, 2025).
+O terceiro é técnico. O magistrado que julga aposentadoria especial precisa ler laudos ambientais, compreender metodologias de medição (NHO-01 para ruído, IBUTG para calor, dosimetria para radiações) e identificar agentes nocivos e seus efeitos sobre a saúde. Sem essa competência, a sentença corre o risco de se fundar em premissas técnicas equivocadas (SAVARIS, 2023).
 
 Sustentamos que o regime da aposentadoria especial deve ser interpretado à luz de sua finalidade constitucional: proteger o trabalhador que sacrifica sua saúde em benefício da coletividade. As exigências de comprovação e documentação são legítimas, mas não podem se converter em obstáculos que, na prática, esvaziem o direito que a Constituição assegura.
 
@@ -628,6 +628,6 @@ PORTO, Rafael Duarte de Oliveira. **Manual de Direito Previdenciário**. 3. ed. 
 
 SANTOS, Marisa Ferreira dos; CALEJON, Rodrigo. **Direito Previdenciário Esquematizado**. 15. ed. São Paulo: SaraivaJur, 2025.
 
-SAVARIS, José Antonio. **Direito Previdenciário: Fundamentos de Interpretação e Aplicação**. 3. ed. Curitiba: Alteridade, 2025.
+SAVARIS, José Antonio. **Direito Previdenciário: Fundamentos de Interpretação e Aplicação**. 2. ed. Curitiba: Alteridade, 2019.
 
-SAVARIS, José Antonio. **Direito Processual Previdenciário**. 12. ed. Curitiba: Alteridade, 2025.
+SAVARIS, José Antonio. **Direito Processual Previdenciário**. 11. ed. Curitiba: Alteridade, 2023.

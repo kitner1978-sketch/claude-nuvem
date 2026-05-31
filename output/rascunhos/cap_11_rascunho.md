@@ -32,11 +32,11 @@ referencias:
  - "STF Tema 503 (desaposentação — vedação)"
  - "STJ Tema 422 (conversão tempo especial em comum — art. 57, § 5º)"
  - "ADI 6.309 (vedação conversão tempo especial pós-EC 103)"
- - "CASTRO/LAZZARI, Manual, 27ª ed. (2025)"
- - "IBRAHIM, Curso, 26ª ed. (2025)"
- - "AMADO, Curso, 15ª ed. (2025)"
- - "KERTZMAN, Curso Prático, 21ª ed. (2025)"
- - "SAVARIS, Processual, 10ª ed. (2025)"
+ - "CASTRO/LAZZARI, Manual, 28ª ed. (2025)"
+ - "IBRAHIM, Curso, 27ª ed. (2025)"
+ - "AMADO, Curso, 19ª ed. (2025)"
+ - "KERTZMAN, Curso Prático, 23ª ed. (2025)"
+ - "SAVARIS, Processual, 11ª ed. (2023)"
 ---
 
 ## Capítulo 11 — Aposentadoria por Tempo de Contribuição e Regras de Transição
@@ -439,7 +439,7 @@ Em 2026, Fernando tem: 39 anos de TC (1987-2026) ≥ 38 anos ✅. Idade: 62 ≥ 
 **Comparativo com pedágio 50%:**
 - Fernando NÃO é elegível (faltavam 3 anos em 2019, mais que 2)
 
-**Resultado:** O pedágio 100% permite a Fernando se aposentar em 2026 com R$ 5.500, sem esperar até 2028 para o art. 15. A decisão é: R$ 5.500 agora vs. R$ 5.610 em 2028 (perda de 24 meses × R$ 5.500 = R$ 132.000 de custo de oportunidade). **Claramente, o pedágio 100% é a melhor escolha.**
+**Resultado:** O pedágio 100% permite a Fernando se aposentar em 2026 com R$ 5.500, sem esperar até 2028 para o art. 15. A decisão é: R$ 5.500 agora vs. R$ 5.610 em 2028 (perda de 24 meses × R$ 5.500 = R$ 132.000 de custo de oportunidade). **O pedágio 100% é a melhor escolha.**
 :::
 
 ::: box-atencao
@@ -549,7 +549,7 @@ Sustentamos que essa é a regra mais generosa entre todas as disponíveis para q
 
 **Regra 85/95 (R$ 5.200) vs. art. 15 (R$ 4.876): diferença de R$ 324/mês, R$ 3.888/ano.**
 
-O direito adquirido à regra 85/95 é, neste caso, claramente superior. O advogado que não verifica esse direito causa prejuízo ao cliente.
+O direito adquirido à regra 85/95 é, neste caso, superior. O advogado que não verifica esse direito causa prejuízo ao cliente.
 :::
 
 ### 11.10 Análise Comparativa: Qual Regra de Transição Escolher?
@@ -1050,7 +1050,7 @@ Observação: sem conversão de tempo especial. A conversão de tempo especial e
 | Art. 17 (pedágio 50%) | Não | — | — | Faltavam > 2 anos em 2019 |
 | Art. 20 (pedágio 100%) | **Sim** | **2028** | **R$ 5.900,00** | Primeira regra disponível; coef. 100% |
 
-**Análise:** Para Ricardo, o art. 20 (pedágio 100%) é a primeira regra disponível (2028), um ano antes dos arts. 15 e 16 (2029). Embora os arts. 15 e 16 resultem em RMI ligeiramente superior (R$ 5.938,94 vs. R$ 5.900,00, em razão do coeficiente de 100,66%), a diferença de R$ 38,94 mensais não compensa 12 meses de espera. O custo de oportunidade é de R$ 5.900 × 12 = R$ 70.800, que levaria mais de 151 anos para ser recuperado com o acréscimo mensal. O pedágio 100% é claramente a melhor opção.
+**Análise:** Para Ricardo, o art. 20 (pedágio 100%) é a primeira regra disponível (2028), um ano antes dos arts. 15 e 16 (2029). Embora os arts. 15 e 16 resultem em RMI ligeiramente superior (R$ 5.938,94 vs. R$ 5.900,00, em razão do coeficiente de 100,66%), a diferença de R$ 38,94 mensais não compensa 12 meses de espera. O custo de oportunidade é de R$ 5.900 × 12 = R$ 70.800, que levaria mais de 151 anos para ser recuperado com o acréscimo mensal. O pedágio 100% é a melhor opção.
 
 ::: box-jurisprudencia
 **Direito ao benefício mais vantajoso — Dever do INSS e do julgador**
@@ -1078,7 +1078,7 @@ O teto de competência dos JEFs é de 60 salários mínimos (R$ 97.260,00 em 202
 
 #### 11.16.2 Formulação do pedido
 
-O pedido na ação de aposentadoria por TC deve ser formulado de modo a abranger todas as regras de transição potencialmente aplicáveis (SAVARIS, 2025). A formulação ideal é o **pedido alternativo** (art. 326, CPC), requerendo:
+O pedido na ação de aposentadoria por TC deve ser formulado de modo a abranger todas as regras de transição potencialmente aplicáveis (SAVARIS, 2023). A formulação ideal é o **pedido alternativo** (art. 326, CPC), requerendo:
 
 - A concessão da aposentadoria pela regra de transição mais vantajosa entre todas as aplicáveis (arts. 15, 16, 17 e 20 da EC 103/2019), incluindo eventual direito adquirido à regra anterior;
 - A reafirmação da DER, se necessário, para implementação dos requisitos;
@@ -1214,7 +1214,7 @@ O professor que comprove exclusivamente tempo de efetivo exercício em funções
 
 A Lei 11.301/2006 ampliou o conceito de funções de magistério para incluir, além da docência, as funções de direção de unidade escolar e de coordenação e assessoramento pedagógico. O STF, na ADI 3.772, deu interpretação conforme a Constituição ao dispositivo, condicionando a ampliação ao exercício dessas funções por professor em estabelecimento de educação básica. A definição, portanto, abrange atividades educativas exercidas em estabelecimento de educação básica (infantil, fundamental e médio), conforme a LDB (Lei 9.394/96).
 
-Portanto, além da docência propriamente dita (ministrar aulas), computam-se como tempo de magistério:
+Além da docência propriamente dita (ministrar aulas), computam-se como tempo de magistério:
 - **Direção de escola:** O professor que assume a direção de escola de educação básica mantém o enquadramento em função de magistério.
 - **Coordenação pedagógica:** O coordenador pedagógico que orienta e supervisiona atividades educativas.
 - **Assessoramento pedagógico:** Funções de apoio técnico-pedagógico em estabelecimento de educação básica.
@@ -1507,6 +1507,6 @@ Até lá, a multiplicidade de regras simultâneas exige do advogado domínio té
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 27. ed. Niterói: Impetus, 2025.
-- AMADO, Frederico. *Curso de Direito e Processo Previdenciário*. 16. ed. Salvador: JusPodivm, 2025.
-- KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 22. ed. Salvador: JusPodivm, 2024.
-- SAVARIS, José Antonio. *Direito Processual Previdenciário*. 10. ed. Curitiba: Alteridade, 2023.
+- AMADO, Frederico. *Curso de Direito e Processo Previdenciário*. 19. ed. Salvador: JusPodivm, 2025.
+- KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
+- SAVARIS, José Antonio. *Direito Processual Previdenciário*. 11. ed. Curitiba: Alteridade, 2023.

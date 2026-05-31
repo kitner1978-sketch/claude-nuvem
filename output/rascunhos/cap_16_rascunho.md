@@ -178,7 +178,7 @@ A EC 103/2019 substituiu a multiplicidade de coeficientes de cálculo que vigora
 
 #### 16.5.1 Regra geral: 60% + 2% por ano excedente
 
-A regra geral do coeficiente pós-EC 103, examinada pela doutrina (CASTRO; LAZZARI, 2024; HORVATH JÚNIOR, 2025), está no art. 26, § 2º. O benefício corresponde a 60% do salário de benefício, acrescidos de 2 pontos percentuais para cada ano de contribuição que exceder 20 anos (para o homem) ou 15 anos (para a mulher).
+A regra geral do coeficiente pós-EC 103, examinada pela doutrina (CASTRO; LAZZARI, 2025; HORVATH JÚNIOR, 2025), está no art. 26, § 2º. O benefício corresponde a 60% do salário de benefício, acrescidos de 2 pontos percentuais para cada ano de contribuição que exceder 20 anos (para o homem) ou 15 anos (para a mulher).
 
 A fórmula é: **RMI = SB × [60% + 2% × (TC – 20)]** para homens, e **RMI = SB × [60% + 2% × (TC – 15)]** para mulheres.
 
@@ -436,7 +436,7 @@ Impacto prático: segurados com múltiplos vínculos simultâneos aposentados ap
 
 ### 16.11 Revisão da Vida Toda — Tema 1.102/STF
 
-A chamada "revisão da vida toda" (IBRAHIM, 2025; SAVARIS, 2025) envolve a possibilidade de o segurado optar, para fins de cálculo do salário de benefício, pela regra permanente do art. 29, I e II, da Lei 8.213/91 (que considera os salários de contribuição de todo o período contributivo, inclusive anteriores a julho de 1994), em vez da regra de transição do art. 3º da Lei 9.876/1999 (que limita o PBC aos salários de contribuição a partir de julho de 1994 e descarta os 20% menores). Para a análise detalhada da cronologia processual do Tema 1.102/STF — julgamento original de dezembro de 2022, reversão em embargos infringentes de novembro de 2025, modulação de efeitos e embargos pendentes de maio de 2026 —, v. Capítulo 17, seção 17.3.
+A chamada "revisão da vida toda" (IBRAHIM, 2025; SAVARIS, 2023) envolve a possibilidade de o segurado optar, para fins de cálculo do salário de benefício, pela regra permanente do art. 29, I e II, da Lei 8.213/91 (que considera os salários de contribuição de todo o período contributivo, inclusive anteriores a julho de 1994), em vez da regra de transição do art. 3º da Lei 9.876/1999 (que limita o PBC aos salários de contribuição a partir de julho de 1994 e descarta os 20% menores). Para a análise detalhada da cronologia processual do Tema 1.102/STF — julgamento original de dezembro de 2022, reversão em embargos infringentes de novembro de 2025, modulação de efeitos e embargos pendentes de maio de 2026 —, v. Capítulo 17, seção 17.3.
 
 **Situação vigente e impacto no cálculo.** A tese firmada em 26/11/2025 é de que a revisão da vida toda é indevida, após a declaração de constitucionalidade e cogência do art. 3º da Lei 9.876/1999 nas ADIs 2.110 e 2.111 (j. 21/03/2024). A modulação protege beneficiários com decisão judicial proferida até 5 de abril de 2024 (irrepetibilidade dos valores pagos e inexigibilidade de sucumbência). A ampliação dessa modulação está pendente de julgamento em plenário físico (destaque em 11/05/2026).
 
@@ -701,4 +701,4 @@ IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 28. ed. Rio de Jan
 
 KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
 
-SAVARIS, José Antonio. *Direito Processual Previdenciário*. 10. ed. Curitiba: Alteridade, 2025.
+SAVARIS, José Antonio. *Direito Processual Previdenciário*. 11. ed. Curitiba: Alteridade, 2023.

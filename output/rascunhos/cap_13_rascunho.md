@@ -337,7 +337,7 @@ A segurada que perde o emprego ou cessa suas contribuições mantém a qualidade
 ::: box-atencao
 **Cuidado: perda e reaquisição da qualidade de segurada**
 
-Após perder a qualidade de segurada (esgotamento do período de graça), a mulher que pretende ter direito ao salário-maternidade precisa readquirir a filiação ao RGPS. Após as ADIs 2.110/2.111 (STF, março/2024), não há mais exigência de carência, basta estar na qualidade de segurada na data do parto/adoção. Portanto, uma única contribuição mensal como CI ou facultativa, desde que anterior ao fato gerador, já restabelece o direito ao salário-maternidade.
+Após perder a qualidade de segurada (esgotamento do período de graça), a mulher que pretende ter direito ao salário-maternidade precisa readquirir a filiação ao RGPS. Após as ADIs 2.110/2.111 (STF, março/2024), não há mais exigência de carência, basta estar na qualidade de segurada na data do parto/adoção. Uma única contribuição mensal como CI ou facultativa, desde que anterior ao fato gerador, já restabelece o direito ao salário-maternidade.
 
 **Atenção:** A contribuição deve ser anterior ao fato gerador. Contribuição realizada após o parto não retroage para conferir direito ao SM pelo parto ocorrido quando a segurada não tinha qualidade de segurada.
 :::

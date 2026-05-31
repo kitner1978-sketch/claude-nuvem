@@ -698,7 +698,7 @@ A CNTI (Confederação Nacional dos Trabalhadores na Indústria) ajuizou a ADI 6
 
 A questão do marco temporal é crucial: o segurado que exerceu atividade especial até 13/11/2019 mantém o direito de converter esse período específico em tempo comum, mesmo que requeira a aposentadoria anos depois. A vedação atinge apenas períodos trabalhados após a publicação da EC 103/2019.
 
-Assim, um segurado que trabalhou em condições especiais de 2000 a 2025 terá duas "parcelas" de tempo especial:
+Um segurado que trabalhou em condições especiais de 2000 a 2025, por exemplo, terá duas "parcelas" de tempo especial:
 - **De 2000 a 13/11/2019** (19 anos e ~10 meses): conversível em tempo comum (× 1,40 para homem = ~27 anos e 9 meses);
 - **De 14/11/2019 a 2025** (~5 anos e 1 mês): não conversível, aproveitável apenas para aposentadoria especial.
 
@@ -957,7 +957,7 @@ Já a sentença de extinção sem mérito (por ausência de início de prova mat
 ::: box-atencao
 **Cuidado: fundamentação do pedido de reconhecimento**
 
-Ao redigir a petição inicial de reconhecimento de tempo, o advogado deve individualizar claramente cada período e seu respectivo fundamento jurídico. Não basta pedir genericamente "o reconhecimento de todo o tempo de contribuição": é necessário especificar se o período é rural (art. 55, § 2º), militar (art. 55, I), de aluno-aprendiz (Súmula 96/TCU), de atividade especial (art. 57), etc. A individualização evita decisões genéricas e facilita a execução da sentença.
+Ao redigir a petição inicial de reconhecimento de tempo, o advogado deve individualizar cada período e seu respectivo fundamento jurídico. Não basta pedir genericamente "o reconhecimento de todo o tempo de contribuição": é necessário especificar se o período é rural (art. 55, § 2º), militar (art. 55, I), de aluno-aprendiz (Súmula 96/TCU), de atividade especial (art. 57), etc. A individualização evita decisões genéricas e facilita a execução da sentença.
 :::
 
 #### 5.13.9 Cumprimento de sentença e efetivação no CNIS
@@ -1105,7 +1105,7 @@ O capítulo seguinte (Capítulo 6) examinará a aposentadoria por incapacidade p
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte; BRAGANÇA, Kerlly Huback; FOLMANN, Melissa. *Curso de Direito Previdenciário*. 28. ed. Niterói: Impetus, 2025.
-- KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 22. ed. Salvador: JusPodivm, 2025.
+- KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
 - PORTO, Rafael Duarte de Oliveira. *Manual de Direito Previdenciário*. 2. ed. São Paulo: JusPodivm, 2024.
 - SANTOS, Marisa Ferreira dos; CALEJON, Celia. *Direito Previdenciário Esquematizado*. 15. ed. São Paulo: Saraiva, 2025.
-- SAVARIS, José Antonio. *Direito Processual Previdenciário*. 9. ed. Curitiba: Alteridade, 2023.
+- SAVARIS, José Antonio. *Direito Processual Previdenciário*. 11. ed. Curitiba: Alteridade, 2023.

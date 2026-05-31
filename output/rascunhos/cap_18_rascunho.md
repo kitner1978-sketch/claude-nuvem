@@ -16,7 +16,7 @@ O BPC constitui, na prática forense dos JEFs, um dos benefícios mais demandado
 
 A Constituição de 1988 organizou a seguridade social em três pilares: saúde (art. 196), previdência social (art. 201) e assistência social (art. 203) (CASTRO; LAZZARI, 2025; IBRAHIM, 2025). Enquanto a previdência social opera sob regime contributivo e de filiação obrigatória, a assistência social é prestada a quem dela necessitar, independentemente de contribuição (art. 203, caput). O BPC encontra fundamento direto no art. 203, inciso V, que assegura "a garantia de um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei".
 
-Registre-se que a expressão "pessoa portadora de deficiência", utilizada no texto constitucional, foi superada pela Convenção sobre os Direitos das Pessoas com Deficiência (Decreto n. 6.949/2009, com status de emenda constitucional) e pelo Estatuto da Pessoa com Deficiência (Lei n. 13.146/2015), que adotam "pessoa com deficiência". A manutenção da expressão original é obrigatória na citação do dispositivo constitucional, mas a terminologia atualizada é empregada ao longo de toda esta obra.
+A expressão "pessoa portadora de deficiência", utilizada no texto constitucional, foi superada pela Convenção sobre os Direitos das Pessoas com Deficiência (Decreto n. 6.949/2009, com status de emenda constitucional) e pelo Estatuto da Pessoa com Deficiência (Lei n. 13.146/2015), que adotam "pessoa com deficiência". A manutenção da expressão original é obrigatória na citação do dispositivo constitucional, mas a terminologia atualizada é empregada ao longo de toda esta obra.
 
 Essa localização constitucional produz consequências jurídicas relevantes. A primeira é a dispensabilidade de contribuições: o BPC não exige filiação prévia ao RGPS, período de carência ou qualidade de segurado. Trata-se de prestação devida pelo Estado a qualquer pessoa que preencha os requisitos constitucionais, independentemente de ter exercido atividade remunerada ou recolhido contribuições previdenciárias ao longo da vida. A segunda consequência é o valor fixo: o BPC corresponde sempre a um salário mínimo, sem possibilidade de majoração por tempo de contribuição, fator previdenciário ou qualquer outro critério atuarial. A terceira é a intransmissibilidade por morte: o BPC é personalíssimo e se extingue com o falecimento do beneficiário, não gerando direito à pensão por morte para dependentes.
 
@@ -242,7 +242,7 @@ A prova testemunhal, embora subsidiária, pode corroborar a condição de misera
 
 ### 18.16 BPC ao Idoso: Especificidades
 
-O BPC ao idoso apresenta especificidades que o distinguem do BPC à pessoa com deficiência (SAVARIS, 2025; CASTRO; LAZZARI, 2025). A principal é a simplicidade dos requisitos subjetivos: basta a comprovação da idade (65 anos ou mais) e da miserabilidade. Não há avaliação pericial de condição funcional, não se exige impedimento de longo prazo e não se aplica o modelo biopsicossocial. A questão central, em regra, resume-se à aferição da renda per capita familiar.
+O BPC ao idoso apresenta especificidades que o distinguem do BPC à pessoa com deficiência (SAVARIS, 2023; CASTRO; LAZZARI, 2025). A principal é a simplicidade dos requisitos subjetivos: basta a comprovação da idade (65 anos ou mais) e da miserabilidade. Não há avaliação pericial de condição funcional, não se exige impedimento de longo prazo e não se aplica o modelo biopsicossocial. A questão central, em regra, resume-se à aferição da renda per capita familiar.
 
 O Estatuto do Idoso (Lei n. 10.741/2003) trouxe disposições relevantes para o BPC do idoso. Além de fixar a idade mínima em 65 anos (art. 34, caput), o Estatuto previa, em seu parágrafo único, a exclusão do BPC de outro idoso do mesmo grupo familiar para fins de cálculo da renda per capita. Conforme examinado na seção 18.11, essa exclusão foi ampliada pela Lei n. 14.176/2021, que estendeu o benefício a todos os benefícios de até um salário mínimo de membros idosos ou com deficiência.
 
@@ -570,7 +570,7 @@ O BPC, em síntese, é benefício que exige do juiz dos JEFs e do advogado previ
 
 ### 18.37 Referências
 
-**Legislação e normas**
+#### Legislação
 
 BRASIL. Constituição da República Federativa do Brasil de 1988.
 
@@ -620,7 +620,7 @@ BRASIL. Decreto n. 12.534, de 2025.
 
 BRASIL. Decreto n. 12.686, de 2025.
 
-**Jurisprudência**
+#### Jurisprudência
 
 STF, ADI 1.232/DF (constitucionalidade do critério de 1/4 SM, superado).
 
@@ -650,15 +650,15 @@ TNU, Súmula 29 (incapacidade para vida independente, interpretação ampla).
 
 TNU, Súmula 78 (HIV, avaliação biopsicossocial ampla).
 
-**Doutrina**
+#### Doutrina
 
 CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. São Paulo: Forense, 2025.
 
 IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 28. ed. Rio de Janeiro: Impetus, 2025.
 
-KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 22. ed. Salvador: JusPodivm, 2025.
+KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
 
-SAVARIS, José Antonio. *Direito Processual Previdenciário*. 12. ed. Curitiba: Alteridade, 2025.
+SAVARIS, José Antonio. *Direito Processual Previdenciário*. 11. ed. Curitiba: Alteridade, 2023.
 
 SANTOS, Marisa Ferreira dos. *Direito Previdenciário Esquematizado*. 15. ed. São Paulo: Saraiva, 2025.
 

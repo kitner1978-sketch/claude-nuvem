@@ -712,6 +712,6 @@ As dez posições consolidadas formam sistema coerente de limites temporais que 
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 28. ed. Niterói: Impetus, 2025.
-- KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 22. ed. Salvador: JusPodivm, 2025.
+- KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
 - SANTOS, Marisa Ferreira dos; CALEJON, Célia. *Direito Previdenciário Esquematizado*. 16. ed. São Paulo: Saraiva, 2025.
 - SAVARIS, José Antonio. *Direito Processual Previdenciário*. 9. ed. Curitiba: Alteridade, 2023.

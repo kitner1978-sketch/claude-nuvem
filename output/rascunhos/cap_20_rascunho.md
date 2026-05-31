@@ -597,7 +597,7 @@ As posições consolidadas nesta seção refletem o estado do direito em maio de
 
 ### 20.14 Referências
 
-**Legislação e normas**
+#### Legislação
 
 BRASIL. Constituição da República Federativa do Brasil de 1988.
 
@@ -617,7 +617,7 @@ BRASIL. Decreto n. 12.342, de 30 de dezembro de 2025 (salário mínimo para 2026
 
 BRASIL. Portaria Interministerial MPS/MF n. 6, de 10 de janeiro de 2026 (valores previdenciários para 2026).
 
-**Jurisprudência**
+#### Jurisprudência
 
 STJ, Súmula 507 (DJe 17/03/2014) — acumulação auxílio-acidente + aposentadoria.
 
@@ -633,16 +633,16 @@ TNU, Tema 253, inacumulabilidade BPC × auxílio-acidente.
 
 TNU, Tema 284, renúncia a pensão para receber BPC.
 
-**Doutrina**
+#### Doutrina
 
 CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 
 IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 28. ed. Rio de Janeiro: Impetus, 2025.
 
-KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 22. ed. Salvador: JusPodivm, 2025.
+KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
 
 SANTOS, Marisa Ferreira dos; CALEJON, Celia. *Direito Previdenciário Esquematizado*. 16. ed. São Paulo: Saraiva, 2025.
 
-SAVARIS, José Antonio. *Direito Processual Previdenciário*. 9. ed. Curitiba: Alteridade, 2023.
+SAVARIS, José Antonio. *Direito Processual Previdenciário*. 11. ed. Curitiba: Alteridade, 2023.
 
 HORVATH JÚNIOR, Miguel. *Direito Previdenciário*. 14. ed. São Paulo: Quartier Latin, 2025.

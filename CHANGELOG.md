@@ -1,5 +1,22 @@
 # CHANGELOG — Direito Previdenciario: Teoria e Pratica nos JEFs
 
+## [polish] — 2026-05-31 — Estilo (anti-IA) e consistencia bibliografica
+
+Frentes 1 e 2 da revisao. **Camada factual confirmada limpa**: referencias cruzadas 100% validas (166), valores 2026 corretos.
+
+### Frente 1 — Estilo / anti-IA (`antiIA_check.py`)
+Texto ja excelente: 11/23 caps com 100/100; nenhum abaixo de 75. Aplicados ~8 ajustes minimos de marcadores legitimos (frases-moldura, "portanto"/"assim" muleta, adverbios vazios isolados). Densidade de travessoes (F1) e paralelismo (F6) preservados por serem escolha estilistica.
+
+### Frente 2 — Consistencia bibliografica (ABNT)
+Edicoes verificadas na fonte e unificadas (corpo + Referencias + frontmatter):
+- Castro; Lazzari — 28. ed., 2025; Kertzman — 23. ed., 2025; Amado — 19. ed., 2025
+- **Savaris — 11. ed., 2023**: corrigidas ~15 citacoes "(SAVARIS, 2025)" no corpo (edicao INEXISTENTE — caps 08, 11, 16, 18, 22) para 2023.
+- Numeros de edicao inconsistentes nas bibliografias (22ª/9ª/16ª/29ª) padronizados; subheads Legislacao/Jurisprudencia/Doutrina uniformizados.
+
+20 capitulos tocados (diff cirurgico). PDF: 1.274 pp. Pendente (frentes 3 e 4): densidade de citacoes e producao (diagramacao/pre-textuais).
+
+---
+
 ## [v13] — 2026-05-31 — Verificacao jurisprudencial contra dados oficiais
 
 Varredura de TODA a jurisprudencia citada nos 23 capitulos contra bases oficiais baixadas (STJ precedentes qualificados, STF Temas de Repercussao Geral, TNU Temas Representativos), capitulo a capitulo, e aplicacao das correcoes. PDF v13: 1.274 paginas.

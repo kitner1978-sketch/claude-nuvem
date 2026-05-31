@@ -139,7 +139,7 @@ O segurado especial que pretende aposentadoria por idade rural no valor de um sa
 
 A comprovação do exercício de atividade rural é o ponto central das ações de aposentadoria rural nos JEFs. O regime probatório peculiar que rege a matéria decorre do reconhecimento de que o trabalhador rural frequentemente desenvolve sua atividade à margem do sistema formal de registro, em condições de informalidade que dificultam a produção de documentos comprobatórios contemporâneos.
 
-A Súmula 149 do STJ estabelece a regra fundamental: "A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário." A exigência de início de prova material destina-se a conferir segurança ao sistema previdenciário, evitando a concessão de benefícios com base exclusiva em depoimentos, suscetíveis de manipulação (AMADO, 2024). A contrapartida dessa exigência é a flexibilização do conceito de "início de prova material", que a jurisprudência interpretou de forma ampla para harmonizar a regra com a realidade do trabalhador rural.
+A Súmula 149 do STJ estabelece a regra fundamental: "A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário." A exigência de início de prova material destina-se a conferir segurança ao sistema previdenciário, evitando a concessão de benefícios com base exclusiva em depoimentos, suscetíveis de manipulação (AMADO, 2025). A contrapartida dessa exigência é a flexibilização do conceito de "início de prova material", que a jurisprudência interpretou de forma ampla para harmonizar a regra com a realidade do trabalhador rural.
 
 A Súmula 6 da TNU complementa a disciplina: "A certidão de casamento ou outro documento idôneo que evidencie a condição de trabalhador rural do cônjuge constitui início razoável de prova material da atividade rurícola." Essa súmula consagrou a fungibilidade dos documentos aptos a constituir início de prova material: não existe rol taxativo, e qualquer documento que, razoavelmente, permita inferir o exercício de atividade rural é idôneo para esse fim.
 
@@ -531,7 +531,7 @@ STF, RE 761.263 (Tema 723 — constitucionalidade da contribuição do segurado 
 
 #### Doutrina
 
-AMADO, Frederico. *Curso de Direito e Processo Previdenciário*. 16. ed. Salvador: JusPodivm, 2024.
+AMADO, Frederico. *Curso de Direito e Processo Previdenciário*. 19. ed. Salvador: JusPodivm, 2025.
 
 CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 
@@ -539,7 +539,7 @@ HORVATH JÚNIOR, Miguel. *Direito Previdenciário*. 13. ed. São Paulo: Quartier
 
 IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 27. ed. Rio de Janeiro: Impetus, 2024.
 
-KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 22. ed. Salvador: JusPodivm, 2025.
+KERTZMAN, Ivan. *Curso Prático de Direito Previdenciário*. 23. ed. Salvador: JusPodivm, 2025.
 
 PORTO, Vanessa Aparecida Garcia. *O Processo Previdenciário nos Juizados Especiais Federais*. 2. ed. Curitiba: Alteridade, 2024.
 
