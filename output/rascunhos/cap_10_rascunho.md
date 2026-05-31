@@ -605,7 +605,7 @@ O coeficiente passou a ser de 60% + 2%/ano excedente a 20 (homem) ou 15 (mulher)
 
 #### 10.11.3 Revisão da Vida Toda (STF Tema 1.102)
 
-O STF, após acolher inicialmente a tese da revisão da vida toda (dezembro/2022, 7 × 4), reverteu o entendimento em novembro/2025, em embargos com efeitos infringentes, firmando tese vinculante de que a revisão é indevida. Modulação: irrepetibilidade de valores pagos por decisões judiciais até 05/04/2024; vedação de cobrança de sucumbência dos autores com ações pendentes até essa data. Em maio/2026, novos embargos sobre ampliação da modulação foram suspensos por destaque do Min. Fachin, com julgamento reiniciado em plenário físico. A análise aprofundada — inclusive histórico processual, fundamentação e orientação prática — encontra-se no Capítulo 16, seção 16.11.
+O STF, após acolher inicialmente a tese da revisão da vida toda (dezembro/2022, 7 × 4), reverteu o entendimento em novembro/2025, em embargos com efeitos infringentes, firmando tese vinculante de que a revisão é indevida. Modulação: irrepetibilidade de valores pagos por decisões judiciais até 05/04/2024; vedação de cobrança de sucumbência dos autores com ações pendentes até essa data. Em 15/05/2026, retirado o destaque do Min. Fachin, o Plenário Virtual rejeitou os novos embargos sobre ampliação da modulação, mantida a modulação sem ampliação. A análise aprofundada — inclusive histórico processual, fundamentação e orientação prática — encontra-se no Capítulo 16, seção 16.11.
 
 #### 10.11.4 Exclusão de salários de contribuição que reduzem a média
 

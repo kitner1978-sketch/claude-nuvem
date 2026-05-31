@@ -349,6 +349,12 @@ def add_copyright_page(doc):
     _add_line("armazenada ou transmitida por qualquer meio sem autorização prévia dos autores.",
               size=Pt(7.5), italic=True)
 
+    p = doc.add_paragraph()
+    set_paragraph_spacing(p, before=0, after=4, line_spacing=1.0)
+    # Data de fechamento da edição (ajustar conforme a revisão final dos autores)
+    _add_line("Esta edição reflete a legislação e a jurisprudência até maio de 2026.",
+              size=Pt(7.5), italic=True)
+
 
 def add_dedication_page(doc):
     """Página de dedicatória e epígrafe."""
@@ -404,6 +410,49 @@ def add_dedication_page(doc):
     add_run_with_style(p_author, "— Wladimir Novaes Martinez",
                       font_name=FONT_SERIF, size=Pt(8.5),
                       small_caps=True, color="6B6256")
+
+
+def add_apresentacao_page(doc):
+    """Página de Apresentação/Prefácio. CONTEÚDO A SER FORNECIDO PELOS AUTORES."""
+    p_title = doc.add_paragraph()
+    p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    set_paragraph_spacing(p_title, before=16, after=8, line_spacing=1.0)
+    add_run_with_style(p_title, "APRESENTAÇÃO", font_name=FONT_SERIF,
+                      size=Pt(16), bold=True, color="2F2923")
+    p_orn = doc.add_paragraph()
+    p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    set_paragraph_spacing(p_orn, before=0, after=14, line_spacing=1.0)
+    add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name=FONT_SERIF,
+                      size=Pt(9), color="B78B37")
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+    set_paragraph_spacing(p, before=0, after=4, line_spacing=1.15)
+    add_run_with_style(p, "[O texto da apresentação será inserido pelos autores.]",
+                      font_name=FONT_SERIF, size=SIZE_BODY, italic=True, color="6B6256")
+
+
+def add_sobre_autores_page(doc):
+    """Página pós-textual 'Sobre os Autores'. BIOGRAFIAS A SEREM FORNECIDAS."""
+    p_title = doc.add_paragraph()
+    p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    set_paragraph_spacing(p_title, before=16, after=8, line_spacing=1.0)
+    add_run_with_style(p_title, "SOBRE OS AUTORES", font_name=FONT_SERIF,
+                      size=Pt(16), bold=True, color="2F2923")
+    p_orn = doc.add_paragraph()
+    p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    set_paragraph_spacing(p_orn, before=0, after=14, line_spacing=1.0)
+    add_run_with_style(p_orn, "◆", font_name=FONT_SERIF, size=Pt(9), color="B78B37")
+    for autor in AUTHORS:
+        p_nome = doc.add_paragraph()
+        p_nome.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        set_paragraph_spacing(p_nome, before=10, after=2, line_spacing=1.0)
+        add_run_with_style(p_nome, autor, font_name=FONT_SERIF, size=Pt(11),
+                          bold=True, color="3A3128")
+        p_bio = doc.add_paragraph()
+        p_bio.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        set_paragraph_spacing(p_bio, before=0, after=4, line_spacing=1.15)
+        add_run_with_style(p_bio, f"[Biografia de {autor} a ser inserida pelos autores.]",
+                          font_name=FONT_SERIF, size=Pt(10), italic=True, color="6B6256")
 
 
 def add_abbreviations_page(doc):
@@ -893,6 +942,21 @@ def create_unified_docx(output_path):
     sectPrDed.append(pgNumTypeDed)
     add_dedication_page(doc)
 
+    # ── APRESENTAÇÃO ──
+    sec_apres = add_new_section(doc)
+    sec_apres.different_first_page_header_footer = True
+    for h in [sec_apres.header, sec_apres.first_page_header, sec_apres.even_page_header]:
+        h.is_linked_to_previous = False
+        for p in h.paragraphs:
+            p.clear()
+    for f in [sec_apres.footer, sec_apres.first_page_footer, sec_apres.even_page_footer]:
+        f.is_linked_to_previous = False
+        for p in f.paragraphs:
+            p.clear()
+    sectPrApres = sec_apres._sectPr
+    sectPrApres.append(parse_xml(f'<w:pgNumType {nsdecls("w")} w:fmt="lowerRoman"/>'))
+    add_apresentacao_page(doc)
+
     # ── LISTA DE ABREVIATURAS ──
     sec_abbr = add_new_section(doc)
     setup_header_footer(sec_abbr, header_text="Lista de Abreviaturas",
@@ -983,6 +1047,12 @@ def create_unified_docx(output_path):
                   f"{len(index_inst)} institutos")
     except Exception as e:
         print(f"  Aviso indice: {e}")
+
+    # ── SOBRE OS AUTORES ──
+    sec_aut = add_new_section(doc, start_type='ODD_PAGE')
+    setup_header_footer(sec_aut, header_text="Sobre os Autores",
+                       first_page_no_header=True)
+    add_sobre_autores_page(doc)
 
     # Metadados
     core = doc.core_properties

@@ -445,11 +445,11 @@ A chamada "revisão da vida toda" (IBRAHIM, 2025; SAVARIS, 2023) envolve a possi
 
 Processo: RE 1.276.977/RS | Plenário | Rel. p/ acórdão Min. Alexandre de Moraes (julgamento original) e Min. Nunes Marques (embargos)
 
-Cronologia: (a) 01/12/2022, procedência por 6×5, após retificação de placar; (b) 26/11/2025, reversão em embargos com efeitos infringentes; (c) 11/05/2026 — novos embargos suspensos por destaque (modulação ampliada em debate).
+Cronologia: (a) 01/12/2022, procedência por 6×5, após retificação de placar; (b) 26/11/2025, reversão em embargos com efeitos infringentes; (c) 15/05/2026 — novos embargos de declaração rejeitados em plenário virtual (retirado o destaque do Min. Fachin), com derrota da proposta de ampliação da modulação e manutenção da revogação.
 
 Tese vigente (nov/2025): "É indevida a aplicação da revisão da vida toda após a declaração de constitucionalidade do art. 3º da Lei 9.876/1999 pelo STF nas ADIs 2.110/DF e 2.111/DF, com eficácia vinculante e erga omnes."
 
-Modulação: (a) irrepetibilidade de valores pagos sob decisão judicial até 05/04/2024; (b) inexigibilidade de sucumbência para ações anteriores a 05/04/2024; (c) ampliação da modulação, pendente de julgamento em plenário físico.
+Modulação: (a) irrepetibilidade de valores pagos sob decisão judicial até 05/04/2024; (b) inexigibilidade de sucumbência para ações anteriores a 05/04/2024. A proposta de ampliar a modulação para além de 05/04/2024 foi rejeitada pelo Plenário em 15/05/2026.
 :::
 
 **Mecânica de cálculo.** Embora a revisão da vida toda tenha sido declarada indevida, a compreensão de sua mecânica permanece relevante: a modulação protege beneficiários que já obtiveram o recálculo, e a distinção entre as duas regras é pressuposto para a conferência desses benefícios. Na regra de transição (art. 3º, Lei 9.876/1999), o PBC compreende os salários de contribuição a partir de julho de 1994, e o SB corresponde à média dos 80% maiores. Na regra permanente (art. 29, I e II), o PBC abrange todo o período contributivo, inclusive antes de julho de 1994. Para segurados com salários elevados anteriores a 1994 — funcionários de estatais, bancários, executivos —, a regra permanente elevava a média. Para a maioria dos segurados, contudo, a inclusão de salários anteriores a 1994 reduzia a média, pois os valores nominais eram baixos e a reconstrução dos índices de correção para períodos hiperinflacionários é imprecisa.
@@ -463,7 +463,7 @@ A revisão da vida toda foi declarada **indevida** pelo STF em 26/11/2025. Novos
 
 (b) Ações com decisão favorável transitada em julgado antes de 05/04/2024: protegidas pela modulação. Os valores já recebidos são irrepetíveis.
 
-(c) Ações com decisão favorável transitada em julgado após 05/04/2024: situação incerta, dependente do desfecho dos embargos sobre ampliação da modulação (suspensos por destaque em 11/05/2026).
+(c) Ações com decisão favorável transitada em julgado após 05/04/2024: não alcançadas pela modulação — o STF rejeitou, em 15/05/2026, a proposta de ampliá-la para além de 05/04/2024.
 
 (d) Ações ajuizadas entre 16/12/2019 e 05/04/2024 ainda sem decisão transitada: podem ser beneficiadas se a ampliação da modulação for aprovada em plenário físico. Recomenda-se ao magistrado aguardar o desfecho dos embargos antes de extinguir essas ações.
 

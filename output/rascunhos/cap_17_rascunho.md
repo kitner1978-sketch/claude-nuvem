@@ -101,7 +101,7 @@ O quadro começou a mudar em março de 2024, quando o STF concluiu o julgamento 
 
 A modulação dos efeitos acompanhou a reversão: (a) os valores recebidos em decorrência de decisões judiciais, definitivas ou provisórias, proferidas até 5 de abril de 2024 são irrepetíveis; (b) os autores cujas ações estavam pendentes até essa data ficam isentos de condenação em honorários advocatícios e custas processuais.
 
-Em maio de 2026, o Ministro Luiz Edson Fachin requereu destaque para apreciação em plenário físico dos novos embargos de declaração, nos quais se discute a proposta do Ministro Toffoli de ampliar a modulação. Até o fechamento desta edição, o julgamento não foi concluído. A cronologia completa consta do Quadro 17.2, na seção 17.13.
+Em maio de 2026, o Ministro Luiz Edson Fachin chegou a requerer destaque para apreciação em plenário físico dos novos embargos de declaração, nos quais se discutia a proposta do Ministro Toffoli de ampliar a modulação. O destaque foi posteriormente retirado e, em 15/05/2026, o Plenário Virtual rejeitou os embargos, derrotada a proposta de ampliação e mantida a modulação fixada em 26/11/2025. A cronologia completa consta do Quadro 17.2, na seção 17.13.
 
 #### 17.3.2 Impacto nos processos em curso
 
@@ -160,8 +160,8 @@ Para sentenças em lote, a fundamentação pode ser padronizada. Quanto à sucum
 **3. Processos com tutela antecipada e cumprimento provisório:**
 - Revogar a tutela antecipada.
 - Valores recebidos pelo segurado até 05/04/2024: irrepetíveis.
-- Valores recebidos após 05/04/2024: o INSS pode cobrar a restituição, salvo ampliação da modulação (pendente de julgamento).
-- Recomendação: aguardar o desfecho dos novos embargos (destaque Min. Fachin) antes de determinar devolução de valores pós-05/04/2024. A prudência justifica a suspensão da cobrança até a definição do alcance da modulação.
+- Valores recebidos após 05/04/2024: o INSS pode cobrar a restituição (a proposta de ampliar a modulação para alcançá-los foi rejeitada em 15/05/2026).
+- Recomendação: definido o alcance da modulação com a rejeição dos novos embargos em 15/05/2026, a irrepetibilidade restringe-se aos valores recebidos até 05/04/2024; os posteriores podem ser objeto de cobrança, ressalvada a análise da coisa julgada individual em cada caso.
 
 **4. Modelo sintético de dispositivo:** v. §17.12.3, Modelo 4 (improcedência por reversão da vida toda), infra.
 :::
@@ -711,7 +711,7 @@ Os quadros abaixo consolidam, em formato de consulta rápida, as informações d
 | 05/04/2024 | Publicação do acórdão das ADIs 2.110 e 2.111. Marco temporal da modulação. |
 | 26/11/2025 | Embargos de declaração acolhidos com efeito infringente. Reversão integral. |
 | 29/04/2026 | Publicação no DJe do acórdão dos embargos (reversão). |
-| Mai/2026 | Novos embargos sobre ampliação da modulação — destaque do Min. Fachin para plenário físico. Pendente. |
+| 15/05/2026 | Novos embargos sobre ampliação da modulação rejeitados (Plenário Virtual); retirado o destaque do Min. Fachin. Modulação mantida sem ampliação. |
 :::
 
 ::: box-quadro
