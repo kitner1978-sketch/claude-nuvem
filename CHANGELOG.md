@@ -1,5 +1,28 @@
 # CHANGELOG — Direito Previdenciario: Teoria e Pratica nos JEFs
 
+## [v13] — 2026-05-31 — Verificacao jurisprudencial contra dados oficiais
+
+Varredura de TODA a jurisprudencia citada nos 23 capitulos contra bases oficiais baixadas (STJ precedentes qualificados, STF Temas de Repercussao Geral, TNU Temas Representativos), capitulo a capitulo, e aplicacao das correcoes. PDF v13: 1.274 paginas.
+
+### Infraestrutura de verificacao (novos scripts)
+- `scripts/baixar_stj.py` — baixa o corpus do Portal de Dados Abertos do STJ (precedentes + espelhos + integras), resumivel.
+- `scripts/baixar_tnu.py` — raspa os ~396 Temas Representativos da TNU (CJF) para tabela estruturada.
+- `scripts/verificar_jurisprudencia.py` — cruza as citacoes de Tema (STJ/STF/TNU) dos 23 caps contra as bases; detecta fabricacao, numero errado e assunto fora de contexto.
+- Bases em `jurisprudencia/` (gitignored): STJ (1.441 Temas), STF (1.464 Temas RG), TNU (396 Temas).
+
+### Resultado: 0 fabricacoes, 55 erros reais corrigidos (~147 edicoes)
+Nenhum Tema citado era inexistente, mas 55 estavam com numero/relator/data/processo errados ou tese trocada. Relatorios por capitulo em `output/verif_juris_capXX.md`. Padroes:
+- **3 inversoes de merito** (afirmavam o resultado oposto do julgado): Tema 669/STF (constitucionalidade da contribuicao do empregador rural), Tema 89/STF (renda do segurado preso), Tema 975/STJ (decadencia).
+- **Numero certo de RE/REsp, Tema errado**: 796->985, 1007->1070, 177->166, 766->32, 389->202, 174->534/546, 355/330->214, 839->445, 1109->1007; Tema 52 e 914 (cancelado) e 739 substituidos pela fonte correta.
+- **Embaralhamento 966/975/995/STJ** (decadencia/DER) desfeito nos caps 17, 21, 22.
+- **Relatores**: Tema 503/STF->Dias Toffoli, 1.102->Alexandre de Moraes, 1.070->Sergio Kukina, 1.300->Barroso, 1.162->Assusete Magalhaes.
+- **Datas** (publicacao usada como julgamento): 1.013->24/06/2020, 862->09/06/2021, 1.207->20/06/2024, 350/STF->03/09/2014, entre outras.
+- **Teses literais** restauradas onde termos haviam sido "modernizados" dentro das aspas.
+
+Caps 02, 12 e 19 ja estavam limpos.
+
+---
+
 ## [tooling] — 2026-05-30 — Modularizacao do Design Code
 
 Refatoracao dos scripts de geracao, sem alteracao do PDF (validado: 1.270 paginas, identico ao baseline v12).

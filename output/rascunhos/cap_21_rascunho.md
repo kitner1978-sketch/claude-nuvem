@@ -179,7 +179,7 @@ Outra questão prática envolve os benefícios concedidos durante a vigência do
 
 ### 21.6 Tema 966/STJ: Decadência e Direito ao Benefício Mais Vantajoso
 
-O Tema 966 do STJ (REsp 1.648.336/RS, 1ª Seção, j. 11/12/2019) fixou tese com a seguinte redação: "Incide o prazo decadencial de dez anos estabelecido no art. 103 da Lei 8.213/1991 para o reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso."
+O Tema 966 do STJ (REsp 1.631.021/SP, 1ª Seção, Rel. Min. Mauro Campbell Marques, j. 13/02/2019) fixou tese com a seguinte redação: "Incide o prazo decadencial de dez anos estabelecido no art. 103 da Lei 8.213/1991 para o reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso."
 
 A tese responde a uma questão que se apresentava com frequência nos JEFs: o segurado que, na data do requerimento administrativo, já reunia os requisitos para aposentadoria por mais de uma regra (aposentadoria por idade e aposentadoria por tempo de contribuição, ou aposentadoria com e sem aplicação do fator previdenciário) e obteve concessão por uma delas pode, posteriormente, postular a revisão para que o INSS aplique a regra mais favorável?
 
@@ -199,11 +199,11 @@ A decadência previdenciária não opera apenas em favor do INSS. O art. 103-A d
 
 A função do art. 103-A é proteger o segurado contra a instabilidade de benefícios regularmente concedidos. Quando o INSS concede benefício com determinados parâmetros e o mantém em vigor por mais de dez anos sem questionar a regularidade do ato, a confiança legítima do beneficiário na manutenção daqueles parâmetros merece proteção. O decurso do prazo decenal consolida o ato de concessão, impedindo que o INSS o reveja para reduzir o valor do benefício ou cessá-lo por suposta irregularidade.
 
-O Tema 839 do STF (RE 636.553/RS, Plenário, j. 19/02/2020, Rel. Min. Gilmar Mendes) fixou tese sobre a decadência do prazo para anulação de aposentadorias pela Administração, assentando que o poder revisional está sujeito ao prazo decadencial previsto em lei, observados o contraditório e a ampla defesa. No mesmo sentido, o Tema 355 do STJ (REsp 1.114.938/AL, 1ª Seção, j. 14/04/2010) já havia estabelecido que a Administração Previdenciária pode revisar o benefício concedido com base em erro, desde que observe o contraditório e a ampla defesa. A revisão administrativa, contudo, está sujeita ao prazo de dez anos do art. 103-A. Ultrapassado o decênio sem que o INSS tenha exercido o poder de revisão, o ato de concessão torna-se definitivo, e qualquer irregularidade que não constitua fraude resta sanada pelo decurso do tempo.
+O Tema 445 do STF (RE 636.553/RS, Plenário, j. 19/02/2020, Rel. Min. Gilmar Mendes) fixou tese sobre a decadência do prazo para anulação de aposentadorias pela Administração, assentando que o poder revisional está sujeito ao prazo decadencial previsto em lei, observados o contraditório e a ampla defesa. No mesmo sentido, o Tema 214 do STJ (REsp 1.114.938/AL, 1ª Seção, j. 14/04/2010) já havia estabelecido que a Administração Previdenciária pode revisar o benefício concedido com base em erro, desde que observe o contraditório e a ampla defesa. A revisão administrativa, contudo, está sujeita ao prazo de dez anos do art. 103-A. Ultrapassado o decênio sem que o INSS tenha exercido o poder de revisão, o ato de concessão torna-se definitivo, e qualquer irregularidade que não constitua fraude resta sanada pelo decurso do tempo.
 
-> **Nota de atualização:** O REsp 1.114.938/AL é frequentemente referido como "Tema 839" na doutrina previdenciária, mas o Tema 839 no portal de recursos repetitivos do STJ pode referir-se a matéria diversa. O tema vinculante do STF sobre decadência administrativa é o Tema 839/STF (RE 636.553/RS). Recomenda-se conferência no portal de repetitivos do STJ e no portal de repercussão geral do STF para confirmar a numeração atualizada.
+> **Nota de atualização:** Confirmou-se a numeração nos repositórios oficiais. O tema vinculante do STF sobre a decadência do poder revisional da Administração é o **Tema 445/STF** (RE 636.553/RS, Rel. Min. Gilmar Mendes, j. 19/02/2020), que fixou a incidência do prazo decadencial do art. 54 da Lei 9.784/1999. Não se confunde com o Tema 839/STF (RE 817.338, Rel. Min. Dias Toffoli), de matéria diversa. No STJ, o leading case da revisão administrativa de benefício pelo INSS é o **Tema 214/STJ** (REsp 1.114.938/AL, Rel. Min. Napoleão Nunes Maia Filho, j. 14/04/2010) — não o Tema 355/STJ, que versa sobre matéria tributária.
 
-A exceção da fraude é expressa no texto legal ("salvo comprovada má-fé"). Quando o benefício foi concedido mediante fraude comprovada judicialmente, o INSS pode rever o ato a qualquer tempo, sem limitação de prazo. A fraude impede a formação de confiança legítima, pois o beneficiário que obteve a concessão por meios ilícitos não pode invocar a estabilidade do ato em seu favor. A comprovação da fraude, contudo, deve ser judicial: o INSS não pode, por ato administrativo unilateral, declarar a existência de fraude e cancelar o benefício após o prazo de dez anos. Essa exigência decorre do devido processo legal e foi reiteradamente afirmada pelo STJ (Tema 355) e pelo STF (Tema 839).
+A exceção da fraude é expressa no texto legal ("salvo comprovada má-fé"). Quando o benefício foi concedido mediante fraude comprovada judicialmente, o INSS pode rever o ato a qualquer tempo, sem limitação de prazo. A fraude impede a formação de confiança legítima, pois o beneficiário que obteve a concessão por meios ilícitos não pode invocar a estabilidade do ato em seu favor. A comprovação da fraude, contudo, deve ser judicial: o INSS não pode, por ato administrativo unilateral, declarar a existência de fraude e cancelar o benefício após o prazo de dez anos. Essa exigência decorre do devido processo legal e foi reiteradamente afirmada pelo STJ (Tema 214) e pelo STF (Tema 445).
 
 Na prática dos JEFs, a matéria surge quando o segurado impugna ato administrativo do INSS que revogou ou reduziu benefício concedido há mais de dez anos. Nesses casos, o advogado e o juiz devem verificar duas questões. Primeiro: o INSS observou o contraditório prévio, oportunizando ao segurado manifestação antes da revisão? Segundo: o prazo de dez anos já havia se esgotado na data em que o INSS iniciou o procedimento revisional? Se ambas as respostas forem afirmativas (contraditório observado, mas prazo já esgotado), o ato revisional do INSS é ilegal e deve ser anulado pelo Judiciário, com o restabelecimento do benefício nos parâmetros anteriores.
 
@@ -214,7 +214,7 @@ Quando o segurado recebe notificação do INSS comunicando revisão administrati
 
 1. Data da concessão do benefício (ato original).
 2. Data do início do procedimento administrativo revisional (notificação do INSS).
-3. Se transcorreram mais de dez anos entre a concessão e o início da revisão: o ato revisional é ilegal, salvo comprovação de fraude judicialmente (art. 103-A da Lei 8.213/91; Tema 839/STF; Tema 355/STJ).
+3. Se transcorreram mais de dez anos entre a concessão e o início da revisão: o ato revisional é ilegal, salvo comprovação de fraude judicialmente (art. 103-A da Lei 8.213/91; Tema 445/STF; Tema 214/STJ).
 4. Se há imputação de fraude: exigir comprovação judicial, não mera presunção administrativa.
 5. Em qualquer caso: verificar se o INSS observou o contraditório e a ampla defesa antes da revisão.
 
@@ -414,7 +414,7 @@ Essa regra tem incidência frequente em ações de pensão por morte nos JEFs. O
 
 ### 21.14 Tema 1057/STJ: Legitimidade de Herdeiros e Prescrição
 
-O Tema 1057 do STJ (REsp 1.942.054/RS e REsp 1.947.818/RS, 1ª Seção, j. 08/11/2023) fixou tese de grande repercussão prática nos JEFs, ao reconhecer a legitimidade de pensionistas e herdeiros para pleitear a revisão da aposentadoria do segurado falecido (instituidor da pensão por morte).
+O Tema 1057 do STJ (REsp 1.856.967/PR, REsp 1.856.968 e REsp 1.856.969, 1ª Seção, Rel. Min.ª Regina Helena Costa, j. 23/06/2021) fixou tese de grande repercussão prática nos JEFs, ao reconhecer a legitimidade de pensionistas e herdeiros para pleitear a revisão da aposentadoria do segurado falecido (instituidor da pensão por morte).
 
 #### 21.14.1 A tese fixada
 
@@ -472,7 +472,7 @@ Esse regime não é criação do direito previdenciário. Tem raízes no direito
 
 #### 21.16.2 Tema 629/STJ
 
-O Tema 629 do STJ (REsp 1.352.721/SP, Primeira Seção, j. 16/12/2015) fixou a tese de que a sentença que julga improcedente o pedido de concessão de benefício por incapacidade, por não reconhecer a incapacidade laboral, não impede o ajuizamento de nova ação, desde que amparada em prova nova ou fato novo. O STJ definiu "prova nova" como novo laudo ou documento capaz de demonstrar alteração no quadro clínico, e "fato novo" como piora da condição de saúde posterior à sentença.
+O Tema 629 do STJ (REsp 1.352.721/SP, Corte Especial, j. 16/12/2015) fixou a tese de que a sentença que julga improcedente o pedido de concessão de benefício por incapacidade, por não reconhecer a incapacidade laboral, não impede o ajuizamento de nova ação, desde que amparada em prova nova ou fato novo. O STJ definiu "prova nova" como novo laudo ou documento capaz de demonstrar alteração no quadro clínico, e "fato novo" como piora da condição de saúde posterior à sentença.
 
 A tese do Tema 629 repousa em premissa fática: a capacidade laborativa é condição dinâmica. O segurado que, na data da perícia judicial da primeira ação, apresentava capacidade laborativa preservada (ou incapacidade temporária que havia cessado) pode, posteriormente, sofrer agravamento de sua condição, desenvolver nova patologia ou ter a doença preexistente diagnosticada com maior precisão. Nessas circunstâncias, impedir nova ação significaria cristalizar uma situação de fato que já não corresponde à realidade.
 
@@ -481,9 +481,11 @@ A aplicação do Tema 629 nos JEFs exige do magistrado a verificação de dois r
 Na triagem da segunda ação, o magistrado dos JEFs deve examinar a inicial e os documentos médicos anexados para verificar se existe, ao menos em tese, elemento novo que justifique a reabertura da discussão. Se os documentos são os mesmos da ação anterior, ou se os novos atestados reproduzem diagnóstico idêntico sem demonstrar piora, a extinção por coisa julgada é a medida cabível. Se há novos exames, novos laudos ou evidência de agravamento, a ação deve prosseguir para instrução probatória.
 
 ::: box-jurisprudencia
-**Tema 629/STJ (REsp 1.352.721/SP, Primeira Seção, j. 16/12/2015)**
+**Tema 629/STJ (REsp 1.352.721/SP, Corte Especial, j. 16/12/2015)**
 
-Tese fixada: "A sentença que, em ação previdenciária de concessão de benefício por incapacidade, julga improcedente o pedido por não reconhecer a incapacidade laboral do segurado, não impede o ajuizamento de nova ação com o mesmo objeto, desde que lastreada em prova nova ou fato novo. Entende-se por prova nova o novo laudo ou documento que demonstre alteração no quadro clínico do segurado. Entende-se por fato novo a piora efetiva na condição de saúde, posterior ao trânsito em julgado da sentença."
+Tese fixada (redação oficial): "A ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo sua extinção sem o julgamento do mérito (art. 267, IV do CPC) e a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários à tal iniciativa."
+
+Aplicação previdenciária: a Corte Especial firmou a tese em contexto de prova material insuficiente, mas o STJ e os JEFs a estendem às ações de concessão de benefício por incapacidade. Assim, a sentença que julga improcedente o pedido por não reconhecer a incapacidade laboral, fundada em insuficiência probatória, não impede o ajuizamento de nova ação com o mesmo objeto, desde que lastreada em prova nova (novo laudo ou documento que demonstre alteração no quadro clínico) ou fato novo (piora efetiva da condição de saúde, posterior ao trânsito em julgado).
 
 Obs.: O Tema 629 não autoriza a mera repetição da ação com as mesmas provas. O ônus de demonstrar a existência de prova nova ou fato novo recai sobre o autor da segunda ação.
 :::
@@ -694,12 +696,12 @@ As dez posições consolidadas formam sistema coerente de limites temporais que 
 
 - ADI 6096/STF (Plenário Virtual, j. 01/07/2020, Rel. Min. Edson Fachin) — inconstitucionalidade da extensão do art. 103 ao indeferimento/cancelamento/cessação
 - RE 626.489/SE — Tema 313/STF (Plenário, j. 16/10/2013, Rel. Min. Roberto Barroso), constitucionalidade do prazo decadencial de 10 anos
-- Tema 966/STJ (REsp 1.648.336/RS, 1ª Seção, j. 11/12/2019), decadência e direito ao benefício mais vantajoso
+- Tema 966/STJ (REsp 1.631.021/SP, 1ª Seção, Rel. Min. Mauro Campbell Marques, j. 13/02/2019), decadência e direito ao benefício mais vantajoso
 - Tema 975/STJ (REsp 1.644.191/RS, 1ª Seção, j. 11/12/2019), termo inicial da decadência quando INSS não examinou de ofício
-- Tema 1057/STJ (REsp 1.942.054/RS e REsp 1.947.818/RS, 1ª Seção, j. 08/11/2023), legitimidade de pensionistas e herdeiros
-- Tema 839/STF (RE 636.553/RS, Plenário, j. 19/02/2020, Rel. Min. Gilmar Mendes), decadência do prazo de anulação de aposentadorias pela Administração
-- Tema 355/STJ (REsp 1.114.938/AL, 1ª Seção, j. 14/04/2010), revisão administrativa pelo INSS
-- Tema 629/STJ (REsp 1.352.721/SP, 1ª Seção, j. 16/12/2015), coisa julgada secundum eventum probationis em ações de incapacidade
+- Tema 1057/STJ (REsp 1.856.967/PR e outros, 1ª Seção, Rel. Min.ª Regina Helena Costa, j. 23/06/2021), legitimidade de pensionistas e herdeiros
+- Tema 445/STF (RE 636.553/RS, Plenário, j. 19/02/2020, Rel. Min. Gilmar Mendes), decadência do prazo de anulação de aposentadorias pela Administração
+- Tema 214/STJ (REsp 1.114.938/AL, 1ª Seção, j. 14/04/2010), revisão administrativa pelo INSS
+- Tema 629/STJ (REsp 1.352.721/SP, Corte Especial, j. 16/12/2015), coisa julgada secundum eventum probationis em ações de incapacidade
 - Súmula 85/STJ, prescrição em relações de trato sucessivo
 - Súmula 473/STF, autotutela administrativa
 - REsp 2.145.294/SC (Terceira Turma, j. 18/06/2024), querela nullitatis como questão prejudicial

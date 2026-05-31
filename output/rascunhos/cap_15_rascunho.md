@@ -83,7 +83,7 @@ Ibrahim (2025) sublinha que o auxílio-acidente é o único benefício previdenc
 
 O fato gerador do auxílio-acidente, conforme o art. 86, caput, da Lei n. 8.213/91, exige a presença simultânea de três elementos: (a) acidente de qualquer natureza; (b) consolidação das lesões; e (c) sequelas que impliquem redução da capacidade para o trabalho habitualmente exercido.
 
-**Acidente de qualquer natureza.** A expressão "acidente de qualquer natureza" é mais ampla que "acidente do trabalho" (art. 19) e abrange todo evento súbito e traumático, de origem exógena, que cause lesão ao segurado. A TNU, no Tema 269 (PEDILEF 0031628-86.2017.4.02.5054/ES, j. 05/05/2022), fixou tese definindo o conceito: "O conceito de acidente de qualquer natureza, para os fins do art. 86 da Lei n. 8.213/1991, consiste em evento súbito e de origem traumática, por exposição a agentes exógenos físicos, químicos ou biológicos, ressalvados os casos de acidente do trabalho típicos ou por equiparação, caracterizados na forma dos arts. 19 a 21 da Lei n. 8.213/1991."
+**Acidente de qualquer natureza.** A expressão "acidente de qualquer natureza" é mais ampla que "acidente do trabalho" (art. 19) e abrange todo evento súbito e traumático, de origem exógena, que cause lesão ao segurado. A TNU, no Tema 269 (PEDILEF 0031628-86.2017.4.02.5054/ES, j. 05/05/2022), fixou tese definindo o conceito: "O conceito de acidente de qualquer natureza, para os fins do art. 86 da Lei 8.213/91 (auxílio-acidente), consiste em evento súbito e de origem traumática, por exposição a agentes exógenos físicos, químicos ou biológicos, ressalvados os casos de acidente do trabalho típicos ou por equiparação, caracterizados na forma dos arts. 19 a 21 da Lei 8.213/91."
 
 A tese do Tema 269 é restritiva: exclui do conceito de "acidente de qualquer natureza" as doenças degenerativas, as condições inerentes ao envelhecimento e as enfermidades sem origem traumática. Assim, um segurado que desenvolve artrose cervical progressiva sem relação com qualquer trauma não faz jus ao auxílio-acidente por "acidente de qualquer natureza", embora possa fazer jus ao benefício se a condição configurar doença profissional ou do trabalho (arts. 20-21), hipótese em que a competência será da Justiça Estadual.
 
@@ -171,7 +171,7 @@ Ao contrário da aposentadoria e dos benefícios por incapacidade, o auxílio-ac
 
 ### 15.10 Data de Início do Benefício (DIB)
 
-A fixação da data de início do auxílio-acidente é questão pacificada pelo STJ no Tema 862 (REsp 1.729.555/SP, Primeira Seção, Rel. Min. Assusete Magalhães, j. 22/06/2021): "O marco inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, observada, em todo caso, a prescrição quinquenal prevista na Súmula 85/STJ." A expressão "auxílio-doença" corresponde ao atual auxílio por incapacidade temporária (terminologia da EC 103/2019).
+A fixação da data de início do auxílio-acidente é questão pacificada pelo STJ no Tema 862 (REsp 1.729.555/SP, Primeira Seção, Rel. Min. Assusete Magalhães, j. 09/06/2021): "O termo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei 8.213/91, observando-se a prescrição quinquenal da Súmula 85/STJ." A expressão "auxílio-doença" corresponde ao atual auxílio por incapacidade temporária (terminologia da EC 103/2019).
 
 A TNU, no Tema 315 (PEDILEF 5063339-35.2020.4.04.7100/RS, j. 18/10/2023), reafirmou a tese no âmbito dos JEFs, aplicando-a especificamente à hipótese em que o segurado não requereu prorrogação do auxílio por incapacidade temporária — questão que gerava divergência entre Turmas Recursais e que o Tema 315 pacificou ao confirmar que a DIB é automática, independentemente de qualquer ato do segurado.
 
@@ -687,7 +687,7 @@ BRASIL. Portaria Interministerial MPS/MF n. 13, de 9 de janeiro de 2026. Dispõe
 
 #### Jurisprudência
 
-BRASIL. Superior Tribunal de Justiça. Tema 862. REsp 1.729.555/SP. Rel. Min. Assusete Magalhães. Primeira Seção. Julgado em 22/06/2021. DJe 29/11/2021.
+BRASIL. Superior Tribunal de Justiça. Tema 862. REsp 1.729.555/SP. Rel. Min. Assusete Magalhães. Primeira Seção. Julgado em 09/06/2021. DJe 01/07/2021.
 
 BRASIL. Superior Tribunal de Justiça. Súmula 44. Aprovada em 1992.
 

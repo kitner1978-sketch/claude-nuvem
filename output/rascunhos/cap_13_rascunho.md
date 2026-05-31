@@ -144,7 +144,7 @@ O valor do benefício é de um salário mínimo (R$ 1.621,00 em 2026), independe
 ::: box-atencao
 **Atenção: carência dispensada NÃO dispensa prova de atividade rural**
 
-A decisão do STF nas ADIs 2.110/2.111 (março/2024) eliminou a carência de 10 contribuições para todas as categorias de seguradas. Contudo, para a segurada especial, continua sendo necessário demonstrar o exercício de atividade rural na data do fato gerador (parto, adoção, aborto). O que mudou: antes, era preciso provar 10 meses de atividade rural; agora, basta comprovar a atividade na data do evento. A qualidade de segurada especial depende do efetivo exercício da atividade rural (art. 11, VII, Lei 8.213/91), e isso deve ser demonstrado por início de prova material complementada por testemunhal (Tema 739/STJ).
+A decisão do STF nas ADIs 2.110/2.111 (março/2024) eliminou a carência de 10 contribuições para todas as categorias de seguradas. Contudo, para a segurada especial, continua sendo necessário demonstrar o exercício de atividade rural na data do fato gerador (parto, adoção, aborto). O que mudou: antes, era preciso provar 10 meses de atividade rural; agora, basta comprovar a atividade na data do evento. A qualidade de segurada especial depende do efetivo exercício da atividade rural (art. 11, VII, Lei 8.213/91), e isso deve ser demonstrado por início de prova material complementada por testemunhal (Súmula 149/STJ; Tema 297/STJ; flexibilização para salário-maternidade: TNU Temas 11 e 17).
 :::
 
 #### 13.4.6 MEI (Microempreendedor Individual)
@@ -348,14 +348,14 @@ A segurada especial é a categoria com maior número de demandas judiciais de sa
 
 **Conceito de segurada especial (remissão ao Cap. 9).** O conceito e os requisitos de enquadramento da segurada especial (art. 11, VII, Lei 8.213/91) foram tratados no Cap. 9, ao qual se remete o leitor. Para fins de salário-maternidade, basta que a segurada comprove o exercício de atividade rural, pesqueira ou extrativista em regime de economia familiar na data do fato gerador.
 
-**Prova da atividade rural — Tema 739/STJ.** O STJ, no julgamento do Tema 739, fixou que a comprovação da atividade rural da segurada especial para fins de salário-maternidade exige início de prova material complementada por prova testemunhal. A prova exclusivamente testemunhal é insuficiente (Súmula 149/STJ, aplicada por analogia). Os documentos mais frequentemente aceitos como início de prova material são: declaração do sindicato rural homologada pelo INSS, DAP (Declaração de Aptidão ao PRONAF), CAF (Cadastro da Agricultura Familiar), notas fiscais de venda de produção rural, contrato de parceria ou arrendamento, PRONAF, bloco de produtor, e documentos em nome de membro do grupo familiar (cônjuge, pais).
+**Prova da atividade rural — Súmula 149/STJ e Tema 297/STJ; flexibilização pela TNU (Temas 11 e 17).** A comprovação da atividade rural da segurada especial para fins de salário-maternidade exige início de prova material complementada por prova testemunhal. A prova exclusivamente testemunhal é insuficiente (Súmula 149/STJ e Tema 297/STJ). Tratando-se especificamente de salário-maternidade da segurada especial, a TNU firmou, nos Temas 11 e 17, que a exigência de início de prova material contemporânea pode ser flexibilizada. Os documentos mais frequentemente aceitos como início de prova material são: declaração do sindicato rural homologada pelo INSS, DAP (Declaração de Aptidão ao PRONAF), CAF (Cadastro da Agricultura Familiar), notas fiscais de venda de produção rural, contrato de parceria ou arrendamento, PRONAF, bloco de produtor, e documentos em nome de membro do grupo familiar (cônjuge, pais).
 
 **Categorias especiais de trabalhadoras rurais.** As particularidades da boia-fria, da pescadora artesanal e da indígena em regime de economia familiar, incluindo o enquadramento previdenciário e os meios de prova admitidos, são tratadas no Cap. 9 (seções 9.10, 9.26 e 9.24). Para o salário-maternidade, o ponto central é que todas essas categorias precisam demonstrar o exercício da atividade na data do fato gerador, por início de prova material complementada por testemunhal. A pescadora artesanal deve atentar para a manutenção do RGP vigente, e a indígena pode utilizar documentos da FUNAI ou da comunidade.
 
 ::: box-jurisprudencia
-**STJ — Tema 739: Prova de atividade rural da segurada especial para salário-maternidade**
+**STJ — Súmula 149 e Tema 297 (prova rural); TNU — Temas 11 e 17 (flexibilização para salário-maternidade)**
 
-A comprovação da atividade rural da segurada especial para fins de salário-maternidade exige início de prova material complementada por prova testemunhal. Documentos aceitos: declaração do sindicato (homologada pelo INSS), DAP/CAF, notas fiscais de produção, contrato de parceria/arrendamento, PRONAF, bloco de produtor.
+A comprovação da atividade rural da segurada especial para fins de salário-maternidade exige início de prova material complementada por prova testemunhal; a prova exclusivamente testemunhal não basta (Súmula 149/STJ e Tema 297/STJ). Para o salário-maternidade da segurada especial, a TNU (Temas 11 e 17) admite a flexibilização do início de prova material. Documentos aceitos: declaração do sindicato (homologada pelo INSS), DAP/CAF, notas fiscais de produção, contrato de parceria/arrendamento, PRONAF, bloco de produtor.
 
 Não se exige que a prova documental cubra todo o período de carência (Súmula 14/TNU); basta que seja razoável e contemporânea aos fatos (Súmula 34/TNU).
 
@@ -770,8 +770,9 @@ Esta seção consolida as informações essenciais do capítulo em instrumentos 
 |------|----------|------|
 | Tema 72 (RE 576.967) | STF | Inconstitucional contribuição patronal sobre SM |
 | ADIs 2.110/2.111 | STF | Inconstitucional carência de 10 contribuições para CI/fac./especial |
-| Tema 739 | STJ | Prova rural: início de prova material + testemunhal |
-| Tema 914 | STJ | Desempregada no período de graça tem direito ao SM pago pelo INSS |
+| Súmula 149 / Tema 297 | STJ | Prova rural: vedada prova exclusivamente testemunhal |
+| Temas 11 e 17 | TNU | Flexibilização do início de prova material no SM da segurada especial |
+| Tema 113 | TNU | SM devido à desempregada; pago diretamente pela Previdência (cálculo: Tema 202) |
 | Tema 350 | STF | Prévio requerimento administrativo obrigatório |
 | Súmula 244 | TST | Estabilidade gestante, natureza objetiva |
 | Súmula 45 | TNU | Correção monetária do SM desde a data do parto |
@@ -855,8 +856,8 @@ O advogado previdenciário deve estar atento às constantes mudanças legislativ
 - STF, Tema 350 (RE 631.240) — prévio requerimento administrativo.
 - STF, ADIs 2.110 e 2.111, inconstitucionalidade da exigência de carência para CI, facultativa e segurada especial.
 - STF, ADI 4.277 e ADPF 132, reconhecimento da união estável homoafetiva.
-- STJ, Tema 739, prova de atividade rural da segurada especial para salário-maternidade.
-- STJ, Tema 914, desempregada no período de graça e salário-maternidade pago pelo INSS.
+- STJ, Súmula 149 / Tema 297, prova de atividade rural (vedada prova exclusivamente testemunhal); TNU, Temas 11 e 17, flexibilização do início de prova material no salário-maternidade da segurada especial.
+- TNU, Tema 113, salário-maternidade devido à desempregada, pago diretamente pela Previdência Social (cálculo: TNU Tema 202, art. 73, III).
 - Súmula 244/TST, estabilidade gestante (natureza objetiva).
 - Súmula 45/TNU, correção monetária do salário-maternidade desde a data do parto.
 - Súmula 149/STJ, vedação de prova exclusivamente testemunhal para atividade rural.

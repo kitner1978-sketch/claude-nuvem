@@ -30,6 +30,9 @@ pesquisa/legislacao/
 # --- Backups (pastas locais de seguranca, nao versionadas) ---
 backup_*/
 
+# --- Corpus de jurisprudencia (dados abertos STJ/STF/TNU, pesado) ---
+jurisprudencia/
+
 # --- Python ---
 __pycache__/
 *.pyc

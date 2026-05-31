@@ -27,7 +27,7 @@ referencias:
  - "Lei 9.796/99 (Compensação Previdenciária)"
  - "Lei 6.226/75 e Lei 6.864/80 (Contagem Recíproca)"
  - "IN INSS/PRES 128/2022"
- - "STJ Tema 629 (Atividade Rural Pré-1991)"
+ - "STJ Tema 629 (Prova Material — Extinção sem Mérito)"
  - "STJ Tema 422 (Conversão Tempo Especial)"
  - "STJ Tema 1.070 (Atividades Concomitantes)"
  - "STF Tema 942 (Conversão Tempo Especial RGPS → RPPS via CTC)"
@@ -246,9 +246,9 @@ A TNU, no Tema 327, firmou o entendimento de que documentação em nome do cônj
 Na prática, isso significa que a esposa do trabalhador rural pode utilizar documentos em nome do marido (e vice-versa) como início de prova material de sua própria atividade rural, desde que demonstrada a participação no regime de economia familiar. A mesma lógica aplica-se a filhos que trabalharam na propriedade da família: documentos em nome dos pais servem como ponto de partida para a comprovação.
 
 ::: box-jurisprudencia
-**STJ Tema 629, REsp 1.352.721/SP, Cômputo de atividade rural**
+**STJ Tema 629, REsp 1.352.721/SP, Rel. Min. Napoleão Nunes Maia Filho — efeito processual da ausência de prova material**
 
-O STJ fixou a tese de que "o tempo de serviço do segurado trabalhador rural, anterior à data de início de vigência da Lei n. 8.213/91, pode ser computado para fins de aposentadoria no Regime Geral de Previdência Social, independentemente do recolhimento de contribuições, exceto para efeito de carência." Importante desdobramento processual: quando não há início de prova material suficiente, a ação deve ser extinta sem resolução do mérito (art. 485, IV, CPC), possibilitando nova propositura com documentação mais robusta. A extinção com mérito (improcedência) forma coisa julgada material e impede nova ação com o mesmo fundamento.
+A regra de que "o tempo de serviço do segurado trabalhador rural, anterior à data de início de vigência da Lei n. 8.213/91, pode ser computado para fins de aposentadoria no Regime Geral de Previdência Social, independentemente do recolhimento de contribuições, exceto para efeito de carência" decorre do art. 55, § 2º, da Lei 8.213/91 (e da jurisprudência consolidada). A tese efetivamente firmada no **Tema 629/STJ**, contudo, é de natureza **processual**: quando não há início de prova material suficiente a instruir a inicial, a ação deve ser extinta **sem resolução do mérito** (art. 485, IV, CPC), possibilitando nova propositura com documentação mais robusta. A extinção com mérito (improcedência) forma coisa julgada material e impede nova ação com o mesmo fundamento.
 :::
 
 #### 5.4.5 O limite etário e o trabalho rural na infância
@@ -459,7 +459,7 @@ A jurisprudência é firme: o segurado não pode ser prejudicado pela ausência 
 
 A EC 103/2019 não alterou o direito à contagem recíproca (que permanece assegurado pelo art. 201, § 9º, CF), mas trouxe impacto indireto relevante. O art. 201, § 9º-A, incluído pela EC 103, reitera a obrigatoriedade de compensação e remete à lei a disciplina dos critérios de cálculo. A vedação ao tempo fictício (art. 25, § 2º) tem reflexos na contagem recíproca: períodos de "tempo fictício" reconhecidos por legislações estaduais anteriores à EC 20/1998 não podem ser objeto de CTC para averbação no RGPS (salvo direito adquirido — período anterior a 16/12/1998).
 
-Outro impacto relevante: o STF, no Tema 942 (RE 1.014.286, Rel. Min. Edson Fachin), reconheceu o direito de converter tempo de atividade especial exercida sob o RGPS, com aplicação dos fatores de conversão (1,40/1,20), para fins de averbação no RPPS via CTC. Em termos práticos, o trabalhador que exerceu atividade insalubre vinculada ao RGPS e posteriormente ingressou no serviço público pode levar o tempo convertido (com o acréscimo do fator) para o regime próprio. Esse direito limita-se a períodos anteriores à EC 103/2019, em razão da vedação à conversão para períodos posteriores.
+Outro impacto relevante: o STF, no Tema 942 (RE 1.014.286, Rel. Min. Edson Fachin), reconheceu o direito do **servidor público** à conversão, em tempo comum, do período prestado sob condições especiais que prejudiquem a saúde ou a integridade física (hipótese do então vigente art. 40, § 4º, III, da CF), aplicando-se as normas do Regime Geral de Previdência Social relativas à aposentadoria especial (Lei 8.213/91), até a edição da EC 103/2019. Em termos práticos, esse entendimento alcança o segurado que exerceu atividade especial e a leva, via contagem recíproca, para o regime próprio: o tempo especial pode ser convertido (com o acréscimo do fator de 1,40/1,20) e averbado no RPPS por meio de CTC. Esse direito limita-se a períodos anteriores à EC 103/2019, em razão da vedação à conversão para períodos posteriores.
 
 ### 5.8 Certidão de Tempo de Contribuição (CTC)
 
@@ -641,9 +641,9 @@ O direito adquirido ao tempo fictício é garantido pelo art. 5º, XXXVI, da Con
 - **Licença-prêmio não usufruída:** O exemplo mais frequente. Se o servidor adquiriu o direito à licença-prêmio antes da EC 20/1998 e a legislação local permitia a conversão em dobro para aposentadoria, esse direito é preservado. Se a licença-prêmio foi adquirida após a EC 20, não há direito à contagem em dobro.
 
 ::: box-jurisprudencia
-**STF RE 600.501 — Vedação ao tempo fictício**
+**STF Tema 840 (RE 683.621) — Vedação ao tempo fictício**
 
-O STF, no RE 600.501, fixou que "não se pode contar tempo de serviço fictício." O julgamento consolidou a vedação constitucional e reforçou que, a partir da EC 20/1998, nenhuma legislação infraconstitucional pode criar novas formas de contagem de tempo sem efetiva contribuição ou exercício de atividade. A decisão tem repercussão geral e vincula todos os tribunais. Para o RGPS, o impacto é indireto: a vedação atinge principalmente os RPPSs, mas reflete-se na contagem recíproca (CTC com tempo fictício é recusada pelo INSS).
+A vedação constitucional ao tempo fictício foi consolidada pelo STF no **Tema 840 de repercussão geral (RE 683.621)**, no qual se firmou a tese de que "a expressão 'serviço efetivo, em qualquer regime jurídico', considerado o disposto no artigo 53 do Ato das Disposições Constitucionais Transitórias, não aproveita tempo ficto". O entendimento reforça que, a partir da EC 20/1998, nenhuma legislação infraconstitucional pode criar novas formas de contagem de tempo sem efetiva contribuição ou exercício de atividade. Por se tratar de tese fixada em repercussão geral, vincula os demais órgãos do Poder Judiciário e a Administração. Para o RGPS, o impacto é indireto: a vedação atinge principalmente os RPPSs, mas reflete-se na contagem recíproca (CTC com tempo fictício é recusada pelo INSS).
 :::
 
 #### 5.10.5 Impacto da vedação no RGPS
@@ -672,15 +672,15 @@ Os fatores de conversão são calculados pela razão entre o tempo máximo de co
 
 A aplicação é simples: multiplica-se o tempo de atividade especial pelo fator correspondente. Assim, 10 anos de atividade especial (25 anos) de um segurado homem convertem-se em 14 anos de tempo comum (10 × 1,40 = 14). O segurado "ganha" 4 anos de tempo de contribuição pelo exercício de atividade em condições nocivas.
 
-#### 5.11.2 STJ Tema 422 — Fator aplicável e direito à conversão
+#### 5.11.2 STJ Temas 422 e 423 — Fator aplicável e direito à conversão
 
-O STJ, no Tema 422 (REsp 1.151.363/MG, Rel. Min. Jorge Mussi), fixou duas teses essenciais:
+O STJ, no julgamento do REsp 1.151.363/MG (Rel. Min. Jorge Mussi), leading case dos **Temas 422 e 423**, firmou duas proposições essenciais:
 
-1. **Permanência do direito à conversão:** A possibilidade de conversão do tempo especial em comum permanece vigente para qualquer período trabalhado, inclusive após 28/05/1998. A controvérsia sobre a supressão do direito decorreu da MP 1.663-10/1998 (e suas reedições), que tentou extinguir a conversão. Porém, a conversão dessa MP na Lei 9.711/1998 não manteve a supressão do § 5º do art. 57 da Lei 8.213/91, preservando o direito.
+1. **Permanência do direito à conversão (Tema 422):** A possibilidade de conversão do tempo especial em comum permanece vigente para qualquer período trabalhado, inclusive após 28/05/1998. A controvérsia sobre a supressão do direito decorreu da MP 1.663-10/1998 (e suas reedições), que tentou extinguir a conversão. Porém, a conversão dessa MP na Lei 9.711/1998 não manteve a supressão do § 5º do art. 57 da Lei 8.213/91, preservando o direito.
 
-2. **Fator da data da concessão:** O fator de conversão aplicável é o previsto na legislação vigente na data da concessão do benefício, não na data em que o trabalho especial foi exercido. Isso significa que períodos antigos (décadas de 1970/1980) podem ser convertidos com os fatores atuais (1,40/1,20 para 25 anos).
+2. **Fator da data da concessão (Tema 423):** O fator de conversão aplicável é o previsto na legislação vigente na data da concessão do benefício, não na data em que o trabalho especial foi exercido. A escolha do fator depende, tão somente, do tempo de contribuição total exigido em lei para a aposentadoria integral, tratando-se de mero cálculo matemático. Isso significa que períodos antigos (décadas de 1970/1980) podem ser convertidos com os fatores atuais (1,40/1,20 para 25 anos).
 
-A segunda tese tem implicação prática relevante: antes do Tema 422, havia controvérsia sobre a possibilidade de aplicar fatores mais recentes a períodos especiais antigos. Com a fixação da tese, consolidou-se que o fator é sempre o vigente na data da aposentadoria, independentemente de quando o trabalho especial foi exercido.
+A segunda proposição tem implicação prática relevante: antes da fixação do Tema 423, havia controvérsia sobre a possibilidade de aplicar fatores mais recentes a períodos especiais antigos. Com a fixação da tese, consolidou-se que o fator é sempre o vigente na data da aposentadoria, independentemente de quando o trabalho especial foi exercido.
 
 #### 5.11.3 Vedação pela EC 103/2019 — art. 25, § 2º
 
@@ -1047,12 +1047,12 @@ O quadro a seguir sintetiza as principais jurisprudências tratadas neste capít
 
 | Tema | Tribunal | Conteúdo | Impacto no JEF |
 |---|---|---|---|
-| Tema 629/STJ | STJ | Cômputo rural pré-1991 s/ contribuição | Pedido mais frequente |
+| Tema 629/STJ | STJ | Ausência de prova material → extinção sem mérito (repropositura) | Pedido mais frequente |
 | Tema 422/STJ | STJ | Conversão especial → comum permanece | Aplicação de fatores |
 | Tema 1.070/STJ | STJ | Soma integral de concomitantes | Revisão de benefícios |
 | Jurisprudência consolidada STJ | STJ | Enquadramento profissional até 1995 | Período especial antigo |
 | Tema 216/TNU | TNU | Aluno-aprendiz — requisitos restritivos | Cômputo de tempo |
-| RE 600.501/STF | STF | Vedação ao tempo fictício | CTC e contagem recíproca |
+| Tema 840/STF (RE 683.621) | STF | Vedação ao tempo fictício | CTC e contagem recíproca |
 | Tema 942/STF (RE 1.014.286) | STF | Conversão especial do RGPS para averbação no RPPS | CTC com fator especial |
 | ADI 6.309/STF | STF | Vedação à conversão pós-EC 103 | Pendente — monitorar |
 | Súmula 75/TNU | TNU | CTPS sem defeito = prova suficiente | Retificação de CNIS |
@@ -1085,11 +1085,11 @@ O capítulo seguinte (Capítulo 6) examinará a aposentadoria por incapacidade p
 
 #### 5.15.2 Jurisprudência
 
-- STF, RE 600.501 — vedação ao tempo fictício.
+- STF, Tema 840 (RE 683.621) — vedação ao tempo fictício ("serviço efetivo, em qualquer regime jurídico" não aproveita tempo ficto).
 - STF, Tema 942 (RE 1.014.286, Rel. Min. Edson Fachin), conversão de tempo especial do RGPS para averbação no RPPS via CTC.
 - STF, Tema 350 (RE 631.240), prévio requerimento administrativo.
 - STF, ADI 6.309, vedação à conversão de tempo especial pós-EC 103 (pendente).
-- STJ, Tema 629 (REsp 1.352.721/SP), cômputo de atividade rural pré-1991 sem contribuição.
+- STJ, Tema 629 (REsp 1.352.721/SP, Rel. Min. Napoleão Nunes Maia Filho), ausência de início de prova material e extinção do processo sem resolução do mérito (possibilidade de repropositura).
 - STJ, Tema 422 (REsp 1.151.363/MG, Rel. Min. Jorge Mussi), conversão de tempo especial em comum.
 - STJ, jurisprudência consolidada sobre enquadramento por categoria profissional até 1995 (Decretos 53.831/1964 e 83.080/1979).
 - STJ, Tema 1.070 (REsp 1.870.793/RS), soma integral de salários em atividades concomitantes.

@@ -49,20 +49,20 @@ A primeira hipótese é a do benefício não concedido. Quando o INSS indefere o
 
 A segunda hipótese envolve o fundo de direito. Pretensões que dizem respeito ao próprio direito à prestação, e não à forma como o benefício foi calculado, não se submetem à decadência. A revisão do Buraco Negro (art. 144, Lei 8.213/91) é o exemplo mais significativo: trata-se do direito ao recálculo de benefícios concedidos entre outubro de 1988 e abril de 1991 conforme as regras da Lei 8.213/91, direito que constitui o próprio fundo da relação jurídica previdenciária. A posição do STJ é pacífica: a prescrição, nessas relações de trato sucessivo, atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação (Súmula 85/STJ).
 
-A terceira hipótese é a das questões que o INSS deveria ter analisado de ofício — campo do **Tema 975** do STJ. Essa tese, fixada em dezembro de 2019, representa a mais relevante limitação ao alcance da decadência decenal em matéria revisional. O Tema 975 deve ser lido em conjunto com o **Tema 966**, que confirmou a incidência da decadência para a escolha da regra de cálculo mais vantajosa. A distinção entre as duas teses é operacionalmente decisiva e merece análise separada.
+A terceira hipótese — que aqui registramos justamente para afastar equívoco recorrente — diz respeito às questões que o INSS não apreciou no ato administrativo de concessão. Poder-se-ia supor que, não tendo havido apreciação, a decadência não correria. Não é o que decidiu o STJ. O **Tema 975**, fixado em dezembro de 2019, assentou exatamente o oposto: *aplica-se* o prazo decadencial de dez anos do art. 103 mesmo às hipóteses em que a questão controvertida não foi apreciada no ato administrativo de concessão. O Tema 975 deve ser lido em conjunto com o **Tema 966**, que confirmou a incidência da decadência para o reconhecimento do direito adquirido ao benefício mais vantajoso. As duas teses, conjugadas, não criam exceção à decadência — ao contrário, delimitam o seu alcance de forma ampla. A distinção entre elas é operacionalmente decisiva e merece análise separada.
 
 A quarta hipótese abrange os fatos supervenientes ao ato de concessão. Quando uma alteração legislativa posterior à concessão repercute sobre o valor do benefício — como a elevação do teto por emenda constitucional —, o segurado não está exercendo pretensão revisional do ato originário, mas sim pretensão decorrente de fato novo. A decadência não pode atingir um direito que sequer existia na data da concessão.
 
 ::: box-jurisprudencia
 **Temas 966 e 975/STJ — Duas faces da decadência nas ações revisionais**
 
-No julgamento dos REsp 1.648.336/RS (Tema 966) e REsp 1.644.191/RS (Tema 975), a 1ª Seção do STJ, em sessão de 11/12/2019 (acórdão publicado em 04/08/2020), fixou duas teses que, conjugadas, delimitam o alcance da decadência:
+No Tema 966 (REsp 1.631.021/RS, leading case, e REsp 1.612.818/RS, 1ª Seção, julgados em 13/02/2019, acórdão publicado em 13/03/2019) e no Tema 975 (REsp 1.648.336/RS, leading case, e REsp 1.644.191/RS, 1ª Seção, julgados em 11/12/2019, acórdão publicado em 04/08/2020), o STJ fixou duas teses que, conjugadas, delimitam de forma ampla o alcance da decadência:
 
-**Tema 966 — confirma a decadência:** "Aplica-se o prazo decadencial de dez anos estabelecido no art. 103 da Lei 8.213/1991 para o reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso." Se o segurado pretende que o INSS deveria ter concedido o benefício por regra de cálculo diversa (mais vantajosa), o prazo decadencial incide.
+**Tema 966 — incide a decadência sobre a escolha do benefício mais vantajoso:** "Incide o prazo decadencial previsto no caput do artigo 103 da Lei 8.213/1991 para reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso." Se o segurado pretende que o INSS deveria ter concedido o benefício por regra de cálculo diversa (mais vantajosa), o prazo decadencial incide.
 
-**Tema 975 — afasta a decadência:** "O prazo decadencial de dez anos (..) não se aplica às hipóteses em que a questão controversa não foi objeto de apreciação no ato administrativo de análise da concessão." Quando o INSS, ao conceder o benefício, deveria ter analisado de ofício determinada questão e não o fez, a decadência não se aplica a essa questão específica.
+**Tema 975 — aplica-se a decadência mesmo às questões não apreciadas no ato de concessão:** "Aplica-se o prazo decadencial de dez anos estabelecido no art. 103, caput, da Lei 8.213/1991 às hipóteses em que a questão controvertida não foi apreciada no ato administrativo de análise de concessão de benefício previdenciário." Ou seja, ainda que o INSS, ao conceder o benefício, não tenha apreciado determinada questão, a decadência decenal corre normalmente sobre o direito de revisão relativo a esse ponto.
 
-A distinção prática: o Tema 966 atinge pretensões em que o segurado faz uma **escolha** entre regras (optar pela regra mais vantajosa). O Tema 975 protege situações em que o INSS **errou por omissão**, deixando de aplicar regra que lhe competia observar de ofício. O exemplo paradigmático do Tema 975 é o cálculo das atividades concomitantes (art. 32, Lei 8.213/91): se o INSS dispunha dos dados no CNIS para aplicar corretamente a soma dos salários de contribuição e não o fez, a decadência não atinge a pretensão revisional relativa a esse ponto.
+A distinção prática: o Tema 966 trata da pretensão de obter benefício por regra de cálculo mais vantajosa (direito adquirido); o Tema 975 esclarece que a falta de apreciação administrativa de uma questão não impede a fluência do prazo decadencial. Nenhuma das duas teses cria exceção à decadência. O equívoco a evitar é supor que o cálculo das atividades concomitantes (art. 32, Lei 8.213/91) escapa ao prazo só porque o INSS dispunha dos dados no CNIS e não aplicou de ofício a soma dos salários de contribuição: pelo Tema 975, a decadência decenal alcança também essa pretensão revisional, contada da concessão.
 :::
 
 #### 17.2.3 Quadro funcional: decadência por tese revisional
@@ -74,8 +74,8 @@ A aplicação do regime de decadência varia conforme a natureza da tese revisio
 | Revisão da vida toda (Tema 1102/STF) | Sim (10 anos da DIB) | Opção por regra de cálculo: integra o ato de concessão | 1º dia do mês seguinte à primeira prestação |
 | Revisão do teto (ECs 20/1998 e 41/2003) | Não, em regra | Readequação decorre de fato superveniente (EC), não do ato de concessão | Prescrição quinquenal das parcelas, apenas |
 | Revisão do Buraco Negro (art. 144) | Não | Fundo de direito — trato sucessivo | Prescrição quinquenal das parcelas |
-| Revisão do art. 29, II (divisor mínimo) | Pode escapar (Temas 966/975) | INSS deveria ter calculado de ofício corretamente | Depende da análise do caso concreto |
-| Atividades concomitantes (Tema 1070/STJ) | Pode escapar (Temas 966/975) | INSS tinha os dados no CNIS e deveria ter aplicado a regra correta | Depende da análise do caso concreto |
+| Revisão do art. 29, II (divisor mínimo) | Sim (10 anos da DIB), conforme Tema 975 | Decadência incide mesmo que o INSS não tenha apreciado a questão de ofício | 1º dia do mês seguinte à primeira prestação |
+| Atividades concomitantes (Tema 1070/STJ) | Sim (10 anos da DIB), conforme Tema 975 | Decadência incide ainda que o INSS dispusesse dos dados no CNIS e não aplicasse a regra | 1º dia do mês seguinte à primeira prestação |
 | Reafirmação da DER (Tema 995/STJ) | Não se aplica | Trata-se de concessão com DER reafirmada, não de revisão | — |
 | Benefício mais vantajoso (Tema 966) | Sim (10 anos da DIB), conforme Tema 966 | O STJ reconheceu que a escolha da regra integra o ato de concessão | 1º dia do mês seguinte à primeira prestação |
 
@@ -310,7 +310,7 @@ A partir de 05/05/2022, o cálculo do salário de benefício observa divisor mí
 
 #### 17.6.4 Escopo atual e prática no JEF
 
-O universo de benefícios elegíveis abrange os concedidos entre 29/11/1999 e aproximadamente 2009. Em maio de 2026, a maioria já ultrapassou o prazo decadencial. A exceção: casos que se enquadram nos Temas 966/975 (INSS deveria ter calculado corretamente de ofício).
+O universo de benefícios elegíveis abrange os concedidos entre 29/11/1999 e aproximadamente 2009. Em maio de 2026, a maioria já ultrapassou o prazo decadencial. E, na linha do Tema 975/STJ, o prazo decenal incide ainda que o INSS não tenha apreciado a questão do divisor no ato de concessão: a falta de apreciação administrativa não suspende a decadência, de modo que o transcurso do decênio, a partir da DIB, inviabiliza a revisão.
 
 ::: box-pratica
 **Como identificar se um benefício é elegível para a revisão do art. 29, II**
@@ -321,7 +321,7 @@ O universo de benefícios elegíveis abrange os concedidos entre 29/11/1999 e ap
 
 **Passo 3:** Obter o CONBAS e identificar o divisor utilizado. Comparar com o divisor correto.
 
-**Passo 4:** Verificar a decadência. Se a DIB é anterior a mais de 10 anos, verificar se o caso se enquadra nos Temas 966/975. Se positivo, a decadência pode não se aplicar.
+**Passo 4:** Verificar a decadência. Se a DIB é anterior a mais de 10 anos, a revisão está, em regra, decaída — e, à luz do Tema 975/STJ, a decadência incide mesmo que o INSS não tenha apreciado a questão do divisor no ato de concessão.
 
 **Passo 5:** Verificar se o benefício já foi revisado administrativamente (Memorando-Circular Conjunto n. 21/DIRBEN/PFE/INSS ou ACP IEPREV). Se já foi, não há interesse de agir (salvo revisão administrativa insuficiente).
 
@@ -386,9 +386,9 @@ Situação diversa da reafirmação é a revisão da DIB para retroação: o seg
 
 A revisão das atividades concomitantes é, entre as teses examinadas neste capítulo, a que mantém maior vitalidade nos JEFs em maio de 2026. A tese vinculante do Tema 1070/STJ e a mecânica de cálculo são analisadas na seção 16.10. Aqui, o enfoque é exclusivamente revisional: decadência, procedimento de instrução e operacionalização nos JEFs.
 
-O fundamento é direto: até a fixação da tese pelo STJ (REsp 1.870.793/RS e REsp 1.870.815/RS, 1ª Seção, Rel. Min. Gurgel de Faria, julgado em 11/05/2022, trânsito em 13/02/2023), o INSS aplicava o art. 32 da Lei 8.213/91 em sua literalidade, calculando o salário de benefício de forma proporcional. O STJ fixou que, para benefícios concedidos a partir de 29/11/1999 (vigência da Lei 9.876/1999), o salário de benefício deve ser calculado com base na soma de todos os salários de contribuição das atividades exercidas.
+O fundamento é direto: até a fixação da tese pelo STJ (REsp 1.870.793/RS e REsp 1.870.815/RS, 1ª Seção, Rel. Min. Sérgio Kukina, julgado em 11/05/2022, trânsito em 13/02/2023), o INSS aplicava o art. 32 da Lei 8.213/91 em sua literalidade, calculando o salário de benefício de forma proporcional. O STJ fixou que, para benefícios concedidos a partir de 29/11/1999 (vigência da Lei 9.876/1999), o salário de benefício deve ser calculado com base na soma de todos os salários de contribuição das atividades exercidas.
 
-A decadência merece exame cuidadoso. Em princípio, a revisão submete-se ao prazo de dez anos do art. 103. Para benefícios concedidos em 1999 ou 2000, o prazo expirou entre 2009 e 2010. A exceção dos Temas 966/975 é relevante: quando o INSS dispunha de todos os dados no CNIS para aplicar a regra correta e não o fez, a decadência pode ser afastada. Essa tese tem sido acolhida por diversas Turmas Recursais, embora sem uniformidade.
+A decadência merece exame cuidadoso. A revisão submete-se ao prazo de dez anos do art. 103. Para benefícios concedidos em 1999 ou 2000, o prazo expirou entre 2009 e 2010. Convém afastar um equívoco frequente: o Tema 975/STJ assentou que a decadência incide ainda que o INSS dispusesse de todos os dados no CNIS para aplicar a regra correta e não o tenha feito — a falta de apreciação administrativa da questão não impede a fluência do prazo. Não há, portanto, exceção a explorar nesse ponto: o decurso do decênio, contado da DIB, inviabiliza a revisão das atividades concomitantes.
 
 O procedimento exige a demonstração de que o segurado exercia duas ou mais atividades na data do requerimento e de que o INSS aplicou a fórmula proporcional. O CNIS é a prova principal (registra vínculos simultâneos e salários). O CONBAS permite verificar se o INSS usou a fórmula proporcional. A memória de cálculo comparativa deve demonstrar a diferença entre RMI proporcional e RMI pela soma integral.
 
@@ -398,7 +398,7 @@ O impacto financeiro pode ser expressivo, especialmente para segurados que exerc
 
 Segurados que exerceram atividades insalubres, perigosas ou penosas podem ter direito a tempo especial não reconhecido na concessão (v. Cap. 8 para a matéria substantiva). O impacto pode ser quantitativo (aumento do tempo de contribuição, elevação do coeficiente) ou qualitativo (alteração da espécie do benefício, de aposentadoria por tempo de contribuição para aposentadoria especial).
 
-A decadência segue a regra geral de dez anos, com a ressalva dos Temas 966/975. Se o segurado apresentou PPP, LTCAT ou formulários DSS-8030/SB-40 no requerimento administrativo e o INSS não os apreciou, a decadência pode não incidir. Se não apresentou documentação à época, incide normalmente.
+A decadência segue a regra geral de dez anos. Mesmo que o segurado tenha apresentado PPP, LTCAT ou formulários DSS-8030/SB-40 no requerimento administrativo e o INSS não os tenha apreciado, a decadência incide — o Tema 975/STJ esclarece que a ausência de apreciação administrativa da questão não impede a fluência do prazo decenal, contado da concessão.
 
 A instrução probatória é o ponto mais complexo. Para períodos anteriores a 28/04/1995 (vigência da Lei 9.032/1995), o enquadramento pode ser por categoria profissional. Para períodos posteriores, exige-se comprovação da exposição efetiva.
 
@@ -406,11 +406,11 @@ A instrução probatória é o ponto mais complexo. Para períodos anteriores a 
 
 A inclusão de tempo rural não computado na concessão segue regime probatório próprio (v. Cap. 9). O cenário típico: segurado urbano que, antes de migrar para a cidade, exerceu atividade rural não computada. A prova exige início de prova material corroborado por testemunhal (Súmula 149/STJ).
 
-A exceção dos Temas 966/975 pode incidir quando o INSS dispunha de dados no sistema (inscrição como segurado especial). Na prática, essa exceção é menos frequente do que na revisão de atividades concomitantes, pois o registro de atividade rural no CNIS é precário para períodos anteriores a 1991.
+A decadência decenal também aqui incide na forma do Tema 975/STJ: ainda que o INSS dispusesse de dados no sistema (inscrição como segurado especial) e não tenha apreciado a questão, o prazo corre da concessão. Soma-se a isso a precariedade do registro de atividade rural no CNIS para períodos anteriores a 1991, que torna o tema, na prática, ainda menos relevante do que na revisão de atividades concomitantes.
 
 #### 17.8.4 Desaposentação — tese encerrada (Tema 503/STF)
 
-A desaposentação foi encerrada pelo STF no RE 661.256 (Tema 503, Rel. Min. Roberto Barroso, Plenário, 26/10/2016). A tese: "No âmbito do RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, §2º, da Lei 8.213/91."
+A desaposentação foi encerrada pelo STF no RE 661.256 (Tema 503, Rel. Min. Dias Toffoli, Plenário, 26/10/2016). A tese: "No âmbito do RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, §2º, da Lei 8.213/91."
 
 Registramos a desaposentação pela relevância histórica. Entre 2008 e 2016, foi uma das teses mais litigadas nos JEFs. O STJ chegou a admiti-la em repetitivo (REsp 1.334.488, Tema 563). A reversão pelo STF encerrou a controvérsia. O magistrado deve indeferir liminarmente eventuais petições iniciais que postulem desaposentação (art. 332, III, CPC).
 
@@ -618,7 +618,7 @@ A sentença revisional contém, em regra, obrigação de fazer: implantação da
 
 **Etapa 1 — Identificar a tese.** Analisar carta de concessão, CNIS e, se possível, CONBAS. Verificar se a tese é fundada em precedente vinculante.
 
-**Etapa 2 — Verificar a decadência.** DIB + 10 anos. Se expirou, verificar se a tese escapa à decadência (fato superveniente, fundo de direito, Temas 966/975). Passo eliminatório.
+**Etapa 2 — Verificar a decadência.** DIB + 10 anos. Se expirou, verificar se a tese escapa à decadência (fato superveniente, fundo de direito). Atenção: a falta de apreciação administrativa da questão não afasta o prazo (Tema 975/STJ). Passo eliminatório.
 
 **Etapa 3 — Obter documentação.** CNIS atualizado, carta de concessão, CONBAS, HISCREWEB. Prova de atividade especial ou rural, se for o caso.
 
@@ -651,11 +651,11 @@ A sentença revisional contém, em regra, obrigação de fazer: implantação da
 
 **Modelo 2 — Procedência parcial (revisão com decadência parcial)**
 
-"Ante o exposto, julgo PARCIALMENTE PROCEDENTE o pedido para: (a) reconhecer a decadência do direito de revisão quanto ao(s) parâmetro(s) [especificar], cujo prazo decenal expirou em [data]; (b) acolher o pedido quanto ao(s) parâmetro(s) [especificar], enquadrado(s) na exceção dos Temas 966/975 do STJ; (c) condenar o INSS ao recálculo e ao pagamento das diferenças, observada a prescrição quinquenal; (d) determinar a implantação no prazo de 30 dias, sob pena de multa. Correção monetária e juros nos termos acima. Publique-se."
+"Ante o exposto, julgo PARCIALMENTE PROCEDENTE o pedido para: (a) reconhecer a decadência do direito de revisão quanto ao(s) parâmetro(s) [especificar], cujo prazo decenal expirou em [data]; (b) acolher o pedido quanto ao(s) parâmetro(s) [especificar], não atingido(s) pela decadência por se tratar de [fato superveniente à concessão / fundo de direito de trato sucessivo]; (c) condenar o INSS ao recálculo e ao pagamento das diferenças, observada a prescrição quinquenal; (d) determinar a implantação no prazo de 30 dias, sob pena de multa. Correção monetária e juros nos termos acima. Publique-se."
 
 **Modelo 3 — Improcedência por decadência**
 
-"Ante o exposto, reconheço a decadência do direito de revisão do benefício nº [NB] (art. 103, caput, Lei 8.213/91) e julgo IMPROCEDENTE o pedido. O benefício foi concedido em [data da DIB], e o prazo decenal expirou em [data]. O caso não se enquadra nas exceções dos Temas 966/975 do STJ, pois [fundamentar]. Sem custas. Sem honorários (art. 55, Lei 9.099/95). Publique-se."
+"Ante o exposto, reconheço a decadência do direito de revisão do benefício nº [NB] (art. 103, caput, Lei 8.213/91) e julgo IMPROCEDENTE o pedido. O benefício foi concedido em [data da DIB], e o prazo decenal expirou em [data]. O caso não se enquadra nas hipóteses de não incidência da decadência (fato superveniente ou fundo de direito), pois [fundamentar], registrando-se que a falta de apreciação administrativa da questão não obsta o prazo (Tema 975/STJ). Sem custas. Sem honorários (art. 55, Lei 9.099/95). Publique-se."
 
 **Modelo 4 — Improcedência por reversão da vida toda (Tema 1102)**
 
@@ -692,10 +692,10 @@ Os quadros abaixo consolidam, em formato de consulta rápida, as informações d
 | Vida toda | Art. 29 × art. 3º, Lei 9.876/99 | Tema 1102/STF | 10 anos (DIB) | Encerrada (reversão nov/2025) |
 | Teto (ECs 20/98 e 41/03) | Art. 14, EC 20; art. 5º, EC 41 | Tema 76/STF | Não se aplica | Viável, volume decrescente |
 | Buraco Negro | Art. 144, Lei 8.213/91 | — | Não se aplica | Residual (biológico) |
-| Art. 29, II (divisor) | Art. 29, II, Lei 8.213/91 | — | 10 anos, salvo Temas 966/975 | Limitada |
-| Atividades concomitantes | Art. 29 × art. 32, Lei 8.213/91 | Tema 1070/STJ | 10 anos, salvo Temas 966/975 | Principal tese ativa |
-| Tempo especial | Arts. 57-58, Lei 8.213/91 | Diversos | 10 anos, salvo Temas 966/975 | Viável |
-| Tempo rural | Art. 55, §3º, Lei 8.213/91 | — | 10 anos, salvo Temas 966/975 | Viável |
+| Art. 29, II (divisor) | Art. 29, II, Lei 8.213/91 | — | 10 anos (DIB), inclusive Tema 975 | Limitada |
+| Atividades concomitantes | Art. 29 × art. 32, Lei 8.213/91 | Tema 1070/STJ | 10 anos (DIB), inclusive Tema 975 | Principal tese ativa |
+| Tempo especial | Arts. 57-58, Lei 8.213/91 | Diversos | 10 anos (DIB), inclusive Tema 975 | Viável |
+| Tempo rural | Art. 55, §3º, Lei 8.213/91 | — | 10 anos (DIB), inclusive Tema 975 | Viável |
 | Desaposentação | — | Tema 503/STF | — | Encerrada (2016) |
 | Melhor DIB | Art. 26, §2º, EC 103/2019 | Tema 966/STJ | 10 anos (DIB) | Viável |
 | Reafirmação da DER | Art. 29 + art. 493 CPC | Tema 995/STJ | Não se aplica | Viável |
@@ -776,21 +776,23 @@ BRASIL. INSS — Diretoria de Benefícios. Memorando-Circular Conjunto nº 21/DI
 
 SUPREMO TRIBUNAL FEDERAL. RE 564.354/SE (Tema 76). Relatora Min. Cármen Lúcia. Plenário. Julgado em 08/09/2010. Revisão do teto — ECs 20/1998 e 41/2003.
 
-SUPREMO TRIBUNAL FEDERAL. RE 661.256/SC (Tema 503). Relator Min. Roberto Barroso. Plenário. Julgado em 26/10/2016. Desaposentação — vedação por ausência de previsão legal.
+SUPREMO TRIBUNAL FEDERAL. RE 661.256/SC (Tema 503). Relator Min. Dias Toffoli. Plenário. Julgado em 26/10/2016. Desaposentação — vedação por ausência de previsão legal.
 
 SUPREMO TRIBUNAL FEDERAL. RE 870.947/SE (Tema 810). Relator Min. Luiz Fux. Plenário. Julgado em 20/09/2017. Correção monetária e juros nas condenações da Fazenda Pública.
 
 SUPREMO TRIBUNAL FEDERAL. RE 631.240/MG (Tema 350). Relator Min. Roberto Barroso. Plenário. Julgado em 03/09/2014. Prévio requerimento administrativo.
 
-SUPREMO TRIBUNAL FEDERAL. RE 1.276.977/RS (Tema 1102). Relator Min. Luiz Fux. Plenário. Julgado em 01/12/2022. Embargos de declaração acolhidos com efeito infringente em 26/11/2025. DJe 29/04/2026. Revisão da vida toda — reversão.
+SUPREMO TRIBUNAL FEDERAL. RE 1.276.977/RS (Tema 1102). Relator Min. Alexandre de Moraes. Plenário. Julgado em 01/12/2022. Embargos de declaração acolhidos com efeito infringente em 26/11/2025. DJe 29/04/2026. Revisão da vida toda — reversão.
 
 SUPREMO TRIBUNAL FEDERAL. ADIs 2.110 e 2.111. Relator Min. Roberto Barroso. Plenário. Julgamento concluído em 21/03/2024. Constitucionalidade do art. 3º da Lei 9.876/1999.
 
 SUPREMO TRIBUNAL FEDERAL. ADI 7873. Relator Min. Luiz Fux. Ajuizamento pela OAB. Pendente de julgamento (maio/2026). Constitucionalidade da EC 136/2025.
 
-SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.870.793/RS e REsp 1.870.815/RS (Tema 1070). Relator Min. Gurgel de Faria. 1ª Seção. Julgado em 11/05/2022. Trânsito em julgado em 13/02/2023. Atividades concomitantes — soma dos salários de contribuição.
+SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.870.793/RS e REsp 1.870.815/RS (Tema 1070). Relator Min. Sérgio Kukina. 1ª Seção. Julgado em 11/05/2022. Trânsito em julgado em 13/02/2023. Atividades concomitantes — soma dos salários de contribuição.
 
-SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.648.336/RS (Tema 966) e REsp 1.644.191/RS (Tema 975). 1ª Seção. Julgado em 11/12/2019. DJe 04/08/2020. Decadência e questões não apreciadas de ofício pelo INSS.
+SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.631.021/RS e REsp 1.612.818/RS (Tema 966). 1ª Seção. Julgado em 13/02/2019. DJe 13/03/2019. Decadência para reconhecimento do direito adquirido ao benefício mais vantajoso.
+
+SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.648.336/RS e REsp 1.644.191/RS (Tema 975). 1ª Seção. Julgado em 11/12/2019. DJe 04/08/2020. Aplicação da decadência às questões não apreciadas no ato administrativo de concessão.
 
 SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.727.063/SP e REsp 1.727.064/SP (Tema 995). 1ª Seção. Julgado em 22/10/2019. Reafirmação da DER.
 

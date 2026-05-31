@@ -190,7 +190,7 @@ Quando o benefício é concedido judicialmente, a fixação da DIB segue regras 
 O STJ, no Tema 995 (REsp 1.727.063/SP e REsp 1.727.064/SP, Primeira Seção, j. 22/10/2019), fixou tese relevante para a reafirmação da DER, admitindo que requisitos implementados após o requerimento administrativo ou o ajuizamento da ação sejam considerados para a concessão do benefício. Essa tese tem aplicação ao auxílio por incapacidade temporária quando, por exemplo, a perícia judicial identifica DII posterior ao requerimento administrativo: a DIB pode ser fixada na DII, desde que dentro do período de qualidade de segurado.
 
 ::: box-jurisprudencia
-O STJ, no Tema 1.013 (REsp 1.786.590/SP, Primeira Seção, j. 01/07/2020), admitiu o recebimento conjunto das rendas do trabalho e do benefício por incapacidade pago retroativamente, no período entre o indeferimento administrativo e a implantação judicial. A análise detalhada do Tema 1.013 e suas implicações práticas encontra-se na seção 7.11.2.
+O STJ, no Tema 1.013 (REsp 1.786.590/SP, Primeira Seção, j. 24/06/2020), admitiu o recebimento conjunto das rendas do trabalho e do benefício por incapacidade pago retroativamente, no período entre o indeferimento administrativo e a implantação judicial. A análise detalhada do Tema 1.013 e suas implicações práticas encontra-se na seção 7.11.2.
 :::
 
 ### 7.7 Duração do Benefício e Alta Programada (COPES)
@@ -207,7 +207,7 @@ A grande controvérsia em torno da alta programada residia em sua constitucional
 
 #### 7.7.2 STF Tema 1.196: Constitucionalidade da Alta Programada
 
-O Supremo Tribunal Federal, no julgamento do RE 1.347.526 (Tema 1.196 da repercussão geral), realizado em plenário virtual entre 5 e 12 de setembro de 2025, declarou, por unanimidade, a constitucionalidade da alta programada. A tese fixada pelo relator, Ministro Cristiano Zanin, foi: "Não viola os artigos 62, caput e § 1º, e 246 da Constituição Federal a estipulação de prazo estimado para a duração de benefício de auxílio por incapacidade temporária, conforme estabelecido nos §§ 8º e 9º do art. 60 da Lei 8.213/1991, com redação dada pelas medidas provisórias 739/2016 e 767/2017, esta última convertida na Lei 13.457/2017."
+O Supremo Tribunal Federal, no julgamento do RE 1.347.526 (Tema 1.196 da repercussão geral), concluído em sessão virtual em 15 de setembro de 2025, declarou, por unanimidade, a constitucionalidade da alta programada. A tese fixada pelo relator, Ministro Cristiano Zanin, foi: "Não viola os artigos 62, caput e § 1º, e 246 da Constituição Federal a estipulação de prazo estimado para a duração de benefício de auxílio-doença, conforme estabelecido nos §§ 8º e 9º do art. 60 da Lei 8.213/1991, com redação dada pelas medidas provisórias 739/2016 e 767/2017, esta última convertida na Lei 13.457/2017."
 
 O STF entendeu que a alta programada constitui opção legislativa legítima voltada à racionalização e à eficiência do sistema previdenciário. O sistema não impede a continuidade da proteção — o segurado que permanece incapacitado pode solicitar prorrogação ilimitadamente, mantendo o fluxo contínuo de pagamentos. A DCB funciona como data-limite presumida, não como cessação definitiva.
 
@@ -341,7 +341,7 @@ O auxílio-acidente (art. 86, Lei n. 8.213/91) é benefício de natureza indeniz
 
 #### 7.13.1 Relação de Precedência: Tema 862/STJ
 
-O STJ, no julgamento do Tema 862 (REsp 1.729.555/SP, Primeira Seção, j. 09/06/2021), fixou tese que esclarece a relação temporal entre os dois benefícios: "O auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio por incapacidade temporária que lhe deu origem, observada, em todo caso, a prescrição quinquenal prevista na Súmula 85/STJ". A tese resolve controvérsia recorrente sobre o termo inicial do auxílio-acidente, que não pode coexistir temporalmente com o auxílio por incapacidade temporária.
+O STJ, no julgamento do Tema 862 (REsp 1.729.555/SP, Primeira Seção, j. 09/06/2021), fixou tese que esclarece a relação temporal entre os dois benefícios: "O termo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei 8.213/91, observando-se a prescrição quinquenal da Súmula 85/STJ". A tese resolve controvérsia recorrente sobre o termo inicial do auxílio-acidente, que não pode coexistir temporalmente com o auxílio por incapacidade temporária.
 
 Na hipótese de o segurado não ter recebido auxílio por incapacidade temporária previamente (porque a lesão não gerou afastamento superior a 15 dias, mas resultou em sequelas), o auxílio-acidente é devido desde a data do requerimento administrativo. Se nem requerimento houve, o termo inicial é a data da citação do INSS.
 
@@ -368,7 +368,7 @@ A perícia judicial é a prova central nas ações envolvendo auxílio por incap
 Na prática, a divergência entre o laudo pericial e a avaliação do médico assistente do segurado é situação recorrente. O juiz deve, nessas hipóteses, ponderar os fundamentos de cada avaliação: a perícia judicial é realizada por profissional equidistante das partes, mas pode não captar a integralidade do quadro clínico em um único exame; o relatório do médico assistente reflete acompanhamento longitudinal, mas pode carecer de imparcialidade. A análise conjunta dos elementos, perícia, relatórios médicos, exames complementares, condições pessoais, é o que confere legitimidade à decisão.
 
 ::: box-jurisprudencia
-O STJ, no Tema 1.246 (REsp 2.082.395/SP, Primeira Seção, j. 13/11/2024), fixou tese de que "é inadmissível recurso especial interposto para rediscutir as conclusões do acórdão recorrido quanto ao preenchimento, em caso concreto em que se controverte quanto a benefício previdenciário por incapacidade (aposentadoria por incapacidade permanente, auxílio por incapacidade temporária ou auxílio-acidente), do requisito legal da incapacidade do segurado para o exercício de atividade laborativa, seja pela vertente de sua existência, de sua extensão (total ou parcial) e/ou de sua duração (temporária ou permanente)". A decisão reforça que a aferição da incapacidade é questão fático-probatória, insuscetível de reexame em recurso especial (Súmula 7/STJ), conferindo estabilidade às decisões dos JEFs e das Turmas Recursais sobre a matéria.
+O STJ, no Tema 1.246 (REsp 2.082.395/SP, Primeira Seção, j. 13/11/2024), fixou tese de que "é inadmissível recurso especial interposto para rediscutir as conclusões do acórdão recorrido quanto ao preenchimento, em caso concreto em que se controverte quanto a benefício por incapacidade (aposentadoria por invalidez, auxílio-doença ou auxílio-acidente), do requisito legal da incapacidade do segurado para o exercício de atividade laborativa, seja pela vertente de sua existência, de sua extensão (total ou parcial) e/ou de sua duração (temporária ou permanente)". A decisão reforça que a aferição da incapacidade é questão fático-probatória, insuscetível de reexame em recurso especial (Súmula 7/STJ), conferindo estabilidade às decisões dos JEFs e das Turmas Recursais sobre a matéria.
 :::
 
 #### 7.14.3 Fungibilidade entre Benefícios por Incapacidade

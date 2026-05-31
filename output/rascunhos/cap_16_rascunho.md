@@ -208,7 +208,7 @@ Ao contrário do que muitos segurados e mesmo alguns operadores do direito supõ
 
 A regra geral do coeficiente 60% + 2% admite exceções expressas no texto da EC 103/2019, conforme a espécie de benefício:
 
-**a) Aposentadoria por incapacidade permanente não acidentária (art. 26, § 3º, I):** O coeficiente é o mesmo da regra geral — 60% + 2% por ano acima de 20 anos (homem) ou 15 anos (mulher). Contudo, a incidência desse coeficiente sobre o benefício por incapacidade tem sido alvo de severa crítica doutrinária, pois o segurado que se torna permanentemente incapaz para o trabalho frequentemente não tem como ampliar seu tempo de contribuição para melhorar o coeficiente. A jurisprudência enfrentou essa questão no Tema 1300/STF, analisado adiante.
+**a) Aposentadoria por incapacidade permanente não acidentária (art. 26, § 2º, III):** O coeficiente é o mesmo da regra geral — 60% + 2% por ano acima de 20 anos (homem) ou 15 anos (mulher). Contudo, a incidência desse coeficiente sobre o benefício por incapacidade tem sido alvo de severa crítica doutrinária, pois o segurado que se torna permanentemente incapaz para o trabalho frequentemente não tem como ampliar seu tempo de contribuição para melhorar o coeficiente. A jurisprudência enfrentou essa questão no Tema 1300/STF, analisado adiante.
 
 **b) Aposentadoria por incapacidade permanente acidentária (art. 26, § 3º, II):** O coeficiente é de 100% do salário de benefício, sem aplicação da regra progressiva. A distinção entre incapacidade acidentária e não acidentária foi mantida pela EC 103 e permanece como uma das mais criticadas desigualdades do sistema.
 
@@ -225,7 +225,7 @@ O Supremo Tribunal Federal enfrentou a matéria no Tema 1300 (RE 1.469.150), em 
 ::: box-jurisprudencia
 **Tema 1300/STF — Constitucionalidade do coeficiente de 60% + 2% para aposentadoria por incapacidade permanente**
 
-No RE 1.469.150 (Tema 1300), julgado em 18/12/2025, o STF declarou constitucional o coeficiente de cálculo previsto no art. 26, §§ 2º e 3º, inciso I, da EC 103/2019, aplicável à aposentadoria por incapacidade permanente de origem não acidentária. A votação foi de 6 a 4, relatoria do Min. Luís Roberto Barroso. Os votos vencidos sustentavam que a aplicação do coeficiente redutor a um benefício por incapacidade violaria a dignidade humana, pois o segurado incapaz não teria como ampliar o tempo de contribuição para melhorar o percentual.
+No RE 1.469.150 (Tema 1300), julgado em 18/12/2025, o STF declarou constitucional o coeficiente de cálculo previsto no art. 26, § 2º, III, da EC 103/2019, aplicável à aposentadoria por incapacidade permanente de origem não acidentária. A votação foi de 6 a 4, relatoria do Min. Luís Roberto Barroso. Os votos vencidos sustentavam que a aplicação do coeficiente redutor a um benefício por incapacidade violaria a dignidade humana, pois o segurado incapaz não teria como ampliar o tempo de contribuição para melhorar o percentual.
 
 **Implicação prática:** Um segurado que se torne permanentemente incapaz para o trabalho com apenas 15 anos de contribuição receberá RMI de 60% do salário de benefício — valor que, após a aplicação do piso constitucional, será elevado ao salário mínimo (R$ 1.621,00 em 2026) se o resultado for inferior a esse patamar. A tese está firmada com repercussão geral, sendo de observância obrigatória para todas as instâncias.
 :::
@@ -420,14 +420,14 @@ O segurado que exerce simultaneamente mais de uma atividade remunerada vinculada
 
 **Alteração pela Lei 13.846/2019.** A Lei 13.846/2019 (conversão da MP 871/2019) deu nova redação ao art. 32, determinando que, no caso de atividades concomitantes, o salário de benefício será calculado com base na soma dos salários de contribuição das atividades exercidas na data do requerimento ou do óbito, observado o teto do RGPS (R$ 8.475,55 em 2026). A regra é simples e direta: somam-se todas as contribuições de cada competência, respeitado o limite máximo do salário de contribuição, e a média aritmética incide sobre esses valores somados.
 
-**Tema 1070/STJ: aplicação retroativa da soma.** O Superior Tribunal de Justiça, no julgamento do Tema 1070 (REsp 1.870.793/RS e REsp 1.870.815/RS, Rel. Min. Gurgel de Faria, 1ª Seção, julgado em 11/05/2022, trânsito em julgado em 13/02/2023), firmou a seguinte tese vinculante: "Após o advento da Lei 9.876/99, e para fins de cálculo do benefício de aposentadoria, no caso do exercício de atividades concomitantes pelo segurado, o salário-de-contribuição deverá ser composto da soma de todas as contribuições previdenciárias por ele vertidas ao sistema, respeitado o teto previdenciário." A tese do Tema 1070 retroage aos benefícios concedidos após a Lei 9.876/1999, não se limitando à vigência da Lei 13.846/2019. Isso significa que segurados aposentados entre novembro de 1999 e junho de 2019 que tiveram o cálculo segregado pelo art. 32 original podem postular a revisão de seu benefício para que a soma das contribuições seja considerada.
+**Tema 1070/STJ: aplicação retroativa da soma.** O Superior Tribunal de Justiça, no julgamento do Tema 1070 (REsp 1.870.793/RS e REsp 1.870.815/RS, Rel. Min. Sérgio Kukina, 1ª Seção, julgado em 11/05/2022, trânsito em julgado em 13/02/2023), firmou a seguinte tese vinculante: "Após o advento da Lei 9.876/99, e para fins de cálculo do benefício de aposentadoria, no caso do exercício de atividades concomitantes pelo segurado, o salário-de-contribuição deverá ser composto da soma de todas as contribuições previdenciárias por ele vertidas ao sistema, respeitado o teto previdenciário." A tese do Tema 1070 retroage aos benefícios concedidos após a Lei 9.876/1999, não se limitando à vigência da Lei 13.846/2019. Isso significa que segurados aposentados entre novembro de 1999 e junho de 2019 que tiveram o cálculo segregado pelo art. 32 original podem postular a revisão de seu benefício para que a soma das contribuições seja considerada.
 
 **Prazo para revisão.** O direito à revisão do benefício com base no Tema 1070 submete-se ao prazo decadencial de dez anos previsto no art. 103 da Lei 8.213/91, contado a partir do primeiro dia do mês seguinte ao da concessão. Para benefícios concedidos há mais de dez anos, o direito à revisão está decaído, salvo se houver causa de suspensão ou interrupção do prazo. Para os benefícios ainda dentro do decênio, a revisão pode ser requerida administrativamente ao INSS ou judicialmente. O tema foi tratado com maior profundidade na seção 10.9, à qual remetemos para os detalhes operacionais do cômputo de atividades concomitantes.
 
 ::: box-jurisprudencia
 **Tema 1070/STJ — Soma dos salários de contribuição de atividades concomitantes**
 
-Processos paradigma: REsp 1.870.793/RS e REsp 1.870.815/RS | 1ª Seção | Rel. Min. Gurgel de Faria | Julgado em 11/05/2022 | Trânsito em julgado: 13/02/2023
+Processos paradigma: REsp 1.870.793/RS e REsp 1.870.815/RS | 1ª Seção | Rel. Min. Sérgio Kukina | Julgado em 11/05/2022 | Trânsito em julgado: 13/02/2023
 
 Tese vinculante: "Após o advento da Lei 9.876/99, e para fins de cálculo do benefício de aposentadoria, no caso do exercício de atividades concomitantes pelo segurado, o salário-de-contribuição deverá ser composto da soma de todas as contribuições previdenciárias por ele vertidas ao sistema, respeitado o teto previdenciário."
 
@@ -591,7 +591,7 @@ O sistema de cálculo dos benefícios do RGPS, embora fundado em operações ari
 | Benefício | Coeficiente | Base de cálculo (SB) | Fundamento |
 |-----------|-------------|---------------------|------------|
 | Aposentadoria programada | 60% + 2% por ano acima de 20H/15M | Média 100% dos SC | Art. 26, §2º, EC 103 |
-| Aposentadoria por incapacidade permanente (comum) | 60% + 2% por ano acima de 20H/15M | Média 100% dos SC | Art. 26, §§ 2º e 3º, I, EC 103 |
+| Aposentadoria por incapacidade permanente (comum) | 60% + 2% por ano acima de 20H/15M | Média 100% dos SC | Art. 26, § 2º, III, EC 103 |
 | Aposentadoria por incapacidade permanente (acidentária) | 100% | Média 100% dos SC | Art. 26, §3º, II, EC 103 |
 | Aposentadoria especial | 60% + 2% por ano acima de 20H/15M | Média 100% dos SC | Art. 26, §2º, EC 103 |
 | Aposentadoria PcD (LC 142/2013) | 100% | Média 100% dos SC (sem fator) | Art. 22, EC 103 |
@@ -685,7 +685,7 @@ BRASIL. Supremo Tribunal Federal. RE 1.276.977/RS (Tema 1.102). Rel. p/ acórdã
 
 BRASIL. Supremo Tribunal Federal. RE 1.469.150/SC (Tema 1.300). Rel. Min. Luís Roberto Barroso. Plenário. Julgado em 18 dez. 2025. *Diário da Justiça Eletrônico*, Brasília, DF, 2026.
 
-BRASIL. Superior Tribunal de Justiça. REsp 1.870.793/RS e REsp 1.870.815/RS (Tema 1.070). Rel. Min. Gurgel de Faria. 1ª Seção. Julgado em 11 maio 2022. Trânsito em julgado: 13 fev. 2023. *Diário da Justiça Eletrônico*, Brasília, DF, 24 maio 2022.
+BRASIL. Superior Tribunal de Justiça. REsp 1.870.793/RS e REsp 1.870.815/RS (Tema 1.070). Rel. Min. Sérgio Kukina. 1ª Seção. Julgado em 11 maio 2022. Trânsito em julgado: 13 fev. 2023. *Diário da Justiça Eletrônico*, Brasília, DF, 24 maio 2022.
 
 BRASIL. Superior Tribunal de Justiça. Tema 995. Rel. Min. Mauro Campbell Marques. 1ª Seção. Julgado em 22 out. 2019. *Diário da Justiça Eletrônico*, Brasília, DF, 2 dez. 2019.
 

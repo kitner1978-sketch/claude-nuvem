@@ -756,7 +756,7 @@ Aqui interessa o impacto da conversão como estratégia para atingir os requisit
 
 #### 11.13.2 Fatores de conversão e acréscimo de TC
 
-A conversão de tempo especial em comum utiliza os fatores multiplicadores previstos no art. 70 do Decreto 3.048/99 (conforme pacificado pelo STJ no Tema 422 — REsp 1.151.363/MG —, que afirmou a possibilidade de conversão de tempo especial em comum a qualquer tempo, com base no art. 57, § 5º, da Lei 8.213/91):
+A conversão de tempo especial em comum utiliza os fatores multiplicadores previstos no art. 70 do Decreto 3.048/99 (conforme pacificado pelo STJ no Tema 422 — REsp 1.151.363/MG —, que firmou a permanência da possibilidade de conversão de tempo especial em comum após 1998, com base no art. 57, § 5º, da Lei 8.213/91):
 
 | Tempo especial (anos) | Fator (homem) | Fator (mulher) |
 |-----------------------|---------------|----------------|
@@ -1055,7 +1055,7 @@ Observação: sem conversão de tempo especial. A conversão de tempo especial e
 ::: box-jurisprudencia
 **Direito ao benefício mais vantajoso — Dever do INSS e do julgador**
 
-O STF consolidou, no Tema 334 (RE 630.501/RS), o entendimento de que o segurado tem direito ao benefício mais vantajoso entre todos aqueles cujos requisitos implementou. No Tema 995, assentou a possibilidade de reafirmação da DER, permitindo considerar fatos supervenientes ao requerimento administrativo. Ambos os precedentes, em conjunto, reforçam a proteção ao segurado na escolha entre regras de transição.
+O STF consolidou, no Tema 334 (RE 630.501/RS), o entendimento de que o segurado tem direito ao benefício mais vantajoso entre todos aqueles cujos requisitos implementou. O STJ, por sua vez, no Tema 995 (REsp 1.727.063, Rel. Min. Mauro Campbell Marques, julg. 22/10/2019), assentou a possibilidade de reafirmação da DER, permitindo considerar fatos supervenientes ao requerimento administrativo. Ambos os precedentes (STF Tema 334 e STJ Tema 995), em conjunto, reforçam a proteção ao segurado na escolha entre regras de transição.
 
 O art. 26, § 6º, da EC 103/2019, ao permitir a exclusão de salários de contribuição que reduzam a média, reforça o princípio do benefício mais vantajoso: o cálculo deve considerar todas as possibilidades de exclusão e de regras aplicáveis, sempre em favor do segurado.
 

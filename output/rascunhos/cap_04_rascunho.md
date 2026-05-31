@@ -36,8 +36,8 @@ referencias:
  - "Lei 8.870/94 (Contribuição Produtor Rural PJ)"
  - "STJ Tema 1.103 (Acréscimos Moratórios na Indenização)"
  - "Art. 21, § 3º, Lei 8.212/91 (Complementação de Contribuições)"
- - "STF Tema 796 (Contribuição sobre Terço de Férias)"
- - "STF Tema 766 (Imunidade CEBAS)"
+ - "STF Tema 985 (Contribuição sobre Terço de Férias)"
+ - "STF Tema 32 (Imunidade CEBAS / lei complementar)"
  - "Portaria Interministerial MPS/MF n. 13, de 09/01/2026"
 ---
 
@@ -157,7 +157,7 @@ Para o cálculo judicial de benefícios, o advogado deve atentar que o modelo de
 
 #### 4.3.1 Estrutura da contribuição do empregador
 
-A contribuição patronal previdenciária é a principal fonte de custeio do RGPS e incide sobre a totalidade das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados e trabalhadores avulsos que prestem serviços à empresa (VIANNA, 2025). O art. 22, incisos I a III, da Lei 8.212/91 disciplina a contribuição patronal em três componentes (o inciso IV, que previa contribuição de 15% sobre o valor da nota fiscal de serviços prestados por cooperativas de trabalho, foi declarado inconstitucional pelo STF no Tema 177 — RE 595.838, j. 23/04/2014):
+A contribuição patronal previdenciária é a principal fonte de custeio do RGPS e incide sobre a totalidade das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados e trabalhadores avulsos que prestem serviços à empresa (VIANNA, 2025). O art. 22, incisos I a III, da Lei 8.212/91 disciplina a contribuição patronal em três componentes (o inciso IV, que previa contribuição de 15% sobre o valor da nota fiscal de serviços prestados por cooperativas de trabalho, foi declarado inconstitucional pelo STF no Tema 166 — RE 595.838, j. 23/04/2014):
 
 a) **Contribuição básica (cota patronal):** 20% sobre o total das remunerações pagas aos segurados empregados e avulsos (art. 22, I). Essa alíquota é fixa, não progressiva, ao contrário da contribuição do segurado, que varia por faixa, o empregador paga 20% sobre toda a folha, sem limite de teto por segurado.
 
@@ -625,7 +625,7 @@ A contribuição sobre a receita bruta substitui integralmente a contribuição 
 
 **Tese fixada:** "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção."
 
-**Fundamento:** O art. 195, I, b, CF/88 (com redação da EC 20/1998) autoriza contribuição social sobre a receita. A Lei 10.256/2001 foi editada após a EC 20/1998, suprindo o vício formal que invalidara a contribuição anterior (Lei 8.540/92, declarada inconstitucional no RE 363.852 — Tema 389).
+**Fundamento:** O art. 195, I, b, CF/88 (com redação da EC 20/1998) autoriza contribuição social sobre a receita. A Lei 10.256/2001 foi editada após a EC 20/1998, suprindo o vício formal que invalidara a contribuição anterior (Lei 8.540/92, declarada inconstitucional no RE 363.852; a cobrança rural sobre a receita anterior à EC 20/1998 é objeto do Tema 202/STF — RE 596.177, j. 01/08/2011).
 
 **Impacto prático:** Encerrou a longa controvérsia sobre a constitucionalidade da contribuição rural sobre a receita. Para o advogado previdenciarista, a consequência é que o empregador rural PF contribui pelo regime especial do art. 25 da Lei 8.212/91 (sobre receita bruta), não pela regra geral do art. 22, I (sobre folha), o que reduz sua carga tributária previdenciária de modo substancial.
 :::
@@ -726,7 +726,7 @@ Parcelas que integram o salário de contribuição:
 - Gratificações e comissões
 - 13º salário (contribuição calculada separadamente, no mês de dezembro)
 - Gorjetas (compulsórias ou espontâneas)
-- Terço constitucional de férias (desde o Tema 796/STF — ver abaixo)
+- Terço constitucional de férias (desde o Tema 985/STF — ver abaixo)
 - Salário in natura (moradia, alimentação fora do PAT, veículo para uso pessoal)
 - Diárias excedentes a 50% da remuneração (quando não sujeitas à prestação de contas)
 - Prêmios e bonificações habituais
@@ -762,7 +762,7 @@ h) **Prêmios e abonos**, a Reforma Trabalhista (Lei 13.467/2017) excluiu os pr�
 | Adicional noturno | Sim | Art. 28, I |
 | Insalubridade/Periculosidade | Sim | Art. 28, I |
 | 13º salário | Sim (separado) | Art. 28, § 7º |
-| Terço de férias | Sim | STF Tema 796 |
+| Terço de férias | Sim | STF Tema 985 |
 | Gorjetas | Sim | Art. 28, I |
 | Comissões | Sim | Art. 28, I |
 | PLR | Não | Art. 28, § 9º, j |
@@ -776,12 +776,12 @@ h) **Prêmios e abonos**, a Reforma Trabalhista (Lei 13.467/2017) excluiu os pr�
 | Prêmios (até 2x/ano) | Não | Art. 457, § 4º, CLT |
 :::
 
-#### 4.12.6 O terço constitucional de férias e o Tema 796/STF
+#### 4.12.6 O terço constitucional de férias e o Tema 985/STF
 
 A incidência de contribuição previdenciária sobre o terço constitucional de férias foi uma das questões previdenciárias mais litigadas no Brasil durante duas décadas. O STJ manteve, durante anos, jurisprudência pacificada no sentido de que o terço de férias tinha natureza indenizatória e, portanto, não integrava o salário de contribuição.
 
 ::: box-jurisprudencia
-**STF — Tema 796 (RE 1.072.485, j. 14/08/2020)**
+**STF — Tema 985 (RE 1.072.485, Rel. Min. Luís Roberto Barroso, j. 31/08/2020)**
 
 **Tese fixada:** "É legítima a incidência de contribuição social sobre o valor satisfeito a título de terço constitucional de férias."
 
@@ -789,7 +789,7 @@ A incidência de contribuição previdenciária sobre o terço constitucional de
 
 **Modulação:** Aplicação ex nunc. Contribuintes que obtiveram decisão transitada em julgado excluindo o terço mantêm o direito (até eventual rescisória). Para novas ações, não cabe mais a discussão.
 
-**Impacto para o segurado (JEF):** Indiretamente favorável — a incidência do terço sobre o SC eleva a média dos salários de contribuição no PBC, resultando em salário de benefício (e RMI) ligeiramente maior. O advogado previdenciarista deve atentar: para segurados que obtiveram exclusão judicial do terço antes do Tema 796, os salários de contribuição registrados no CNIS para aquele período estarão menores do que deveriam, podendo justificar ação de retificação para inclusão do terço e consequente revisão do benefício.
+**Impacto para o segurado (JEF):** Indiretamente favorável — a incidência do terço sobre o SC eleva a média dos salários de contribuição no PBC, resultando em salário de benefício (e RMI) ligeiramente maior. O advogado previdenciarista deve atentar: para segurados que obtiveram exclusão judicial do terço antes do Tema 985, os salários de contribuição registrados no CNIS para aquele período estarão menores do que deveriam, podendo justificar ação de retificação para inclusão do terço e consequente revisão do benefício.
 :::
 
 #### 4.12.7 Evolução histórica do teto
@@ -954,7 +954,7 @@ A complementação é feita mediante GPS com código específico:
 
 **Fundamento:** Art. 21, § 3º, Lei 8.212/91 — "O segurado que tenha contribuído na forma do § 2º deste artigo e pretenda contar o tempo de contribuição correspondente para fins de obtenção da aposentadoria por tempo de contribuição ou da contagem recíproca do tempo de contribuição (..) deverá complementar a respectiva contribuição mensal."
 
-**Nota:** O Tema 1.007/STJ (REsp 1.870.793/RS) não trata de complementação de contribuições, mas sim do cálculo de benefícios com atividades concomitantes (art. 32 da Lei 8.213/91, com redação dada pela Lei 13.846/2019). A base legal para a complementação é diretamente o art. 21, § 3º, da Lei 8.212/91.
+**Nota:** O Tema 1.070/STJ (REsp 1.870.793/RS) não trata de complementação de contribuições, mas sim do cálculo de benefícios com atividades concomitantes (art. 32 da Lei 8.213/91, com redação dada pela Lei 13.846/2019). A base legal para a complementação é diretamente o art. 21, § 3º, da Lei 8.212/91.
 
 **Impacto prático:** A complementação pode ser feita a qualquer tempo, sem decadência, e retroage à competência original. Não há necessidade de requerimento prévio ao INSS para complementar, o segurado paga a GPS e o CNIS deve ser atualizado automaticamente.
 :::
@@ -1199,7 +1199,7 @@ A fiscalização das obrigações do eSocial tem se intensificado desde 2023. Em
 
 #### 4.19.1 Imunidade das entidades beneficentes (art. 195, § 7º, CF/88)
 
-O art. 195, § 7º, da Constituição Federal estabelece que "são isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei". Apesar da terminologia constitucional ("isentas"), o STF reconhece tratar-se de imunidade tributária, pois prevista na própria Constituição — e, portanto, não pode ser restringida por lei infraconstitucional (RE 636.941, Tema 32, j. 13/02/2014).
+O art. 195, § 7º, da Constituição Federal estabelece que "são isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei". Apesar da terminologia constitucional ("isentas"), o STF reconhece tratar-se de imunidade tributária, pois prevista na própria Constituição — e, portanto, não pode ser restringida por lei infraconstitucional (RE 566.622, Tema 32, Rel. Min. Rosa Weber, j. 23/02/2017).
 
 A Lei 12.101/2009 regula os requisitos para a certificação de entidade beneficente de assistência social (CEBAS), indispensável para o gozo da imunidade. Os principais requisitos são:
 
@@ -1225,7 +1225,7 @@ A imunidade do art. 195, § 7º, CF/88, abrange todas as contribuições para a 
 A imunidade NÃO abrange a contribuição do segurado empregado (que é retida na fonte). A entidade beneficente continua obrigada a reter e recolher a contribuição dos seus empregados (alíquotas progressivas), atuando como responsável tributário. O que é imune é a parcela patronal.
 
 ::: box-jurisprudencia
-**STF — Tema 32 (RE 636.941, j. 13/02/2014, confirmado pelo RE 566.622, j. 23/02/2017)**
+**STF — Tema 32 (RE 566.622, Rel. Min. Rosa Weber, j. 23/02/2017)**
 
 **Tese fixada:** "Os requisitos para o gozo de imunidade hão de estar previstos em lei complementar."
 
@@ -1333,7 +1333,7 @@ Na prática dos JEFs, surgem demandas de aposentados que pleiteiam a restituiç�
 ::: box-atencao
 **Atenção — Desaposentação vedada (STF Tema 503):**
 
-O STF, no julgamento do RE 661.256 (Tema 503, Rel. Min. Roberto Barroso, j. 27/10/2016, julgado em conjunto com o RE 381.367 e o RE 827.833), fixou que "no âmbito do Regime Geral de Previdência Social — RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, § 2º, da Lei n. 8.213/91." Essa decisão encerrou definitivamente a controvérsia sobre a possibilidade de o aposentado renunciar à aposentadoria para obter outra mais vantajosa, computando as contribuições posteriores.
+O STF, no julgamento do RE 661.256 (Tema 503, Rel. Min. Dias Toffoli, j. 26/10/2016, julgado em conjunto com o RE 381.367 e o RE 827.833), fixou que "no âmbito do Regime Geral de Previdência Social — RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, § 2º, da Lei n. 8.213/91." Essa decisão encerrou definitivamente a controvérsia sobre a possibilidade de o aposentado renunciar à aposentadoria para obter outra mais vantajosa, computando as contribuições posteriores.
 :::
 
 #### 4.20.5 Impacto da restituição no benefício
@@ -1538,11 +1538,11 @@ As cooperativas de trabalho geram questões específicas de custeio previdenciá
 A empresa tomadora de serviços prestados por cooperativa de trabalho contribui com 15% sobre o valor bruto da nota fiscal ou fatura de prestação de serviços (art. 22, IV, Lei 8.212/91 — contribuição patronal sobre cooperativa). Essa alíquota de 15% substituiu a contribuição patronal de 20% que incidiria se o cooperado fosse contratado como CI diretamente pela empresa.
 
 ::: box-jurisprudencia
-**STF, RE 595.838 (Tema 177, declaração de inconstitucionalidade parcial)**
+**STF, RE 595.838 (Tema 166, declaração de inconstitucionalidade parcial)**
 
-O STF, no julgamento do RE 595.838 (Tema 177, j. 23/04/2014), declarou a inconstitucionalidade do art. 22, IV, da Lei 8.212/91 no tocante às cooperativas de trabalho. A contribuição patronal de 15% sobre o valor bruto da nota fiscal de serviços prestados por cooperativas de trabalho foi considerada incompatível com o art. 195, I, a, da CF/88. Para as demais cooperativas de trabalho, a questão requer análise caso a caso à luz da tese fixada.
+O STF, no julgamento do RE 595.838 (Tema 166, j. 23/04/2014), declarou a inconstitucionalidade do art. 22, IV, da Lei 8.212/91 no tocante às cooperativas de trabalho. A contribuição patronal de 15% sobre o valor bruto da nota fiscal de serviços prestados por cooperativas de trabalho foi considerada incompatível com o art. 195, I, a, da CF/88. Para as demais cooperativas de trabalho, a questão requer análise caso a caso à luz da tese fixada.
 
-**Impacto prático:** A tese fixada pelo STF no Tema 177 alcança as cooperativas de trabalho em geral, não apenas as médicas. A contribuição de 15% sobre a nota fiscal de cooperativas de trabalho foi declarada inconstitucional. A questão remanescente é a aplicação da tese às cooperativas de produção, que têm regime distinto.
+**Impacto prático:** A tese fixada pelo STF no Tema 166 alcança as cooperativas de trabalho em geral, não apenas as médicas. A contribuição de 15% sobre a nota fiscal de cooperativas de trabalho foi declarada inconstitucional. A questão remanescente é a aplicação da tese às cooperativas de produção, que têm regime distinto.
 :::
 
 A situação do cooperado como segurado é análoga à do CI: deve contribuir com 20% sobre a remuneração (ou 11% pelo plano simplificado, se não presta serviço a empresa). A cooperativa, embora não seja empregadora dos cooperados, pode reter a contribuição dos cooperados e repassar ao INSS, por conveniência operacional, prática prevista no art. 216, § 26-A, do Decreto 3.048/99.

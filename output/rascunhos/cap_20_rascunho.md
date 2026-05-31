@@ -499,7 +499,7 @@ Até o julgamento do Tema 1.207 pelo STJ, a matéria gerava divergência entre a
 A segunda corrente, que prevaleceu, sustentava que a compensação deveria ser realizada mês a mês, competência por competência, sem transferência de saldos negativos entre períodos.
 
 ::: box-jurisprudencia
-**Tema 1.207/STJ** (julgado em 07/08/2024, Primeira Seção)
+**Tema 1.207/STJ** (julgado em 20/06/2024, Primeira Seção)
 
 Tese fixada: "A compensação de prestações previdenciárias recebidas na via administrativa, quando da elaboração de cálculos em cumprimento de sentença concessiva de outro benefício, com elas não acumulável, deve ser feita mês a mês, no limite, para cada competência, do valor correspondente ao título judicial, não devendo ser apurado valor mensal ou final negativo ao beneficiário, de modo a evitar a execução invertida ou a restituição indevida."
 
@@ -623,7 +623,7 @@ STJ, Súmula 507 (DJe 17/03/2014) — acumulação auxílio-acidente + aposentad
 
 STJ, Tema 555 (REsp 1.296.673/MG) — mesma tese em repetitivo.
 
-STJ, Tema 1.207 (j. 07/08/2024), compensação de benefícios não acumuláveis mês a mês.
+STJ, Tema 1.207 (j. 20/06/2024), compensação de benefícios não acumuláveis mês a mês.
 
 STF, ADIs 6.254, 6.255, 6.258, 6.271, questionam EC 103/2019 (pendentes).
 

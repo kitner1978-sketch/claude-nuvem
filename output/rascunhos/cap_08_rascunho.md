@@ -110,7 +110,7 @@ A prova do direito adquirido exige a demonstração de que, na data de 13/11/201
 
 ### 8.5 Agentes Nocivos e Enquadramento
 
-O enquadramento da atividade como especial observa regime jurídico variável conforme o período de exercício, em aplicação do princípio tempus regit actum — consolidado pelo STJ nos Temas 174 e 534.
+O enquadramento da atividade como especial observa regime jurídico variável conforme o período de exercício, em aplicação do princípio tempus regit actum — consolidado pelo STJ nos Temas 534 e 546.
 
 #### 8.5.1 Enquadramento por Categoria Profissional (até 28/04/1995)
 
@@ -479,7 +479,7 @@ O segurado que exerce simultaneamente atividades em condições especiais e em c
 
 Quando o segurado exerce atividade especial em dois empregos simultâneos, o tempo especial é contado uma única vez — não há duplicação do cômputo pelo exercício concomitante de duas atividades especiais.
 
-Sobre a soma integral dos salários de contribuição em atividades concomitantes, v. STJ, Tema 1.070 (REsp 1.870.793/RS), que consolidou o entendimento de que, após a Lei 13.846/2019, todos os salários de contribuição são somados, independentemente de serem provenientes de atividades simultâneas (conforme examinado no Capítulo 5).
+Sobre a soma integral dos salários de contribuição em atividades concomitantes, v. STJ, Tema 1.070 (REsp 1.870.793/RS), que consolidou o entendimento de que, após o advento da Lei n. 9.876/99, todos os salários de contribuição são somados, independentemente de serem provenientes de atividades simultâneas (conforme examinado no Capítulo 5).
 
 A questão da atividade concomitante ganha complexidade com a EC 103/2019, que vedou a conversão de tempo especial em comum a partir de sua promulgação. O segurado que exerce, após 13/11/2019, atividade especial em um emprego e atividade comum em outro só pode aproveitar o tempo especial para fins de aposentadoria especial, não pode convertê-lo para somar ao tempo de contribuição comum.
 
@@ -612,7 +612,7 @@ BRASIL. Lei n. 8.213, de 24 de julho de 1991 (arts. 57 e 58). Lei n. 9.032/1995.
 
 #### Jurisprudência
 
-STF, ARE 664.335 (Tema 555 — EPI e aposentadoria especial). STF, RE 791.961 (Tema 709 — vedação ao trabalho especial). STF, ADI 6.309 (constitucionalidade da EC 103/2019 — pendente). STJ, Tema 174. STJ, Tema 422. STJ, Tema 534. STJ, Tema 995. TNU, Súmula 68.
+STF, ARE 664.335 (Tema 555 — EPI e aposentadoria especial). STF, RE 791.961 (Tema 709 — vedação ao trabalho especial). STF, ADI 6.309 (constitucionalidade da EC 103/2019 — pendente). STJ, Tema 422. STJ, Tema 534. STJ, Tema 546. STJ, Tema 995. STJ, Tema 1.070. TNU, Súmula 68.
 
 #### Doutrina
 

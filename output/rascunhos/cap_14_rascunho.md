@@ -50,11 +50,11 @@ O Supremo Tribunal Federal, no julgamento paradigmático do RE 587.365 (Tema 89,
 ::: box-jurisprudencia
 **STF — RE 587.365 (Tema 89): Proteção ao Dependente**
 
-Tese fixada: "No regime anterior à EC 20/1998, o auxílio-reclusão era devido aos dependentes do segurado preso, independentemente da renda por ele auferida."
+Tese fixada: "Segundo decorre do art. 201, IV, da Constituição Federal, a renda do segurado preso é a que deve ser utilizada como parâmetro para a concessão do auxílio-reclusão e não a de seus dependentes."
 
 Fundamentos relevantes para o regime atual:
+- A renda a ser aferida para fins de "baixa renda" é a do **segurado** preso, e não a dos seus dependentes
 - O benefício protege o **dependente**, não o preso
-- A renda a ser aferida para fins de "baixa renda" é a do **segurado**, não a dos dependentes
 - O recolhimento à prisão priva a família de sua fonte de sustento
 - O auxílio-reclusão concretiza o princípio constitucional de proteção à família (art. 226, CF)
 - A restrição a segurados de "baixa renda" (EC 20/1998) é constitucional, pois atende ao princípio da seletividade (art. 194, III, CF)
@@ -177,7 +177,7 @@ O critério de baixa renda é, historicamente, o aspecto mais litigioso do auxí
 
 Essa definição tem consequência prática importante: se o segurado recebia remuneração dentro do limite de baixa renda, o benefício é devido mesmo que os dependentes tenham outras fontes de renda. Inversamente, se o segurado recebia acima do limite, o benefício é indevido mesmo que os dependentes se encontrem em situação de extrema vulnerabilidade.
 
-**O momento da aferição.** O STJ enfrentou essa questão no Tema 896 (REsp 1.485.417/MS), mas a tese sofreu importante delimitação temporal. Na redação reafirmada pela 1ª Seção em julho de 2021, ficou assentado que a tese se aplica **ao regime anterior à vigência da MP 871/2019** (antes de 18/01/2019). Para prisões anteriores a essa data, o critério de aferição do segurado desempregado era a **ausência de renda** no momento da prisão (renda zero), e não o último salário de contribuição. Para prisões a partir de 18/01/2019, aplica-se o novo critério: **média dos salários de contribuição dos 12 meses anteriores ao recolhimento** (art. 80, § 4º, Lei 8.213/91, com a redação da Lei 13.846/2019).
+**O momento da aferição.** O STJ enfrentou essa questão no Tema 896 (REsp 1.485.417/SP), mas a tese sofreu importante delimitação temporal. Na redação reafirmada pela 1ª Seção em julho de 2021, ficou assentado que a tese se aplica **ao regime anterior à vigência da MP 871/2019** (antes de 18/01/2019). Para prisões anteriores a essa data, o critério de aferição do segurado desempregado era a **ausência de renda** no momento da prisão (renda zero), e não o último salário de contribuição. Para prisões a partir de 18/01/2019, aplica-se o novo critério: **média dos salários de contribuição dos 12 meses anteriores ao recolhimento** (art. 80, § 4º, Lei 8.213/91, com a redação da Lei 13.846/2019).
 
 **O parâmetro numérico.** No regime pré-EC 103, o limite de baixa renda era fixado por portaria interministerial, reajustado anualmente. O valor era vinculado ao último salário de contribuição do segurado. Na data de entrada em vigor da EC 103/2019, o limite fixado pela regra de transição (art. 27) era de R$ 1.364,43.
 
@@ -195,10 +195,10 @@ Tese reafirmada pela 1ª Seção (julho/2021): "Para a concessão de auxílio-re
 - No regime novo, mesmo desempregado, apura-se a média dos 12 meses anteriores
 - Não se considera renda posterior à prisão (trabalho prisional, por exemplo)
 
-REsp 1.485.417/MS | 1ª Seção | Rel. Min. Herman Benjamin <!-- ATENÇÃO AUTOR: confirmar relatoria no site do STJ -->
+REsp 1.485.417/SP (leading case da revisão de 2021: REsp 1.842.985/RS) | 1ª Seção | Rel. Min. Herman Benjamin
 :::
 
-**Flexibilização do critério de renda: STJ Tema 1162.** Em julgamento de 12/11/2025 (REsp 1.958.361, Rel. Min. Teodoro Silva Santos, 1ª Seção, unânime) <!-- ATENÇÃO AUTOR: confirmar dados do Tema 1162 (REsp, relator, data do julgamento) no site do STJ -->, o STJ fixou tese em dois pontos: (i) no regime anterior à MP 871/2019, é possível a **flexibilização** do critério econômico, mesmo que a renda do segurado supere o limite em percentual ínfimo; (ii) a partir da MP 871/2019, não é possível flexibilizar o teto de renda bruta (média dos 12 meses), exceto se o Executivo deixar de corrigir anualmente o limite. Essa decisão introduz importante válvula de escape no regime antigo, analogamente à flexibilização do critério de miserabilidade do BPC (Cap. 18), mas fecha a porta para o regime novo.
+**Flexibilização do critério de renda: STJ Tema 1162.** Em julgamento de 12/11/2025 (REsp 1.971.856/1.971.857, leading cases, e REsp 1.958.361, Rel. Min. Assusete Magalhães, 1ª Seção, unânime), o STJ fixou tese em dois pontos: (i) no regime anterior à MP 871/2019, é possível a **flexibilização** do critério econômico, mesmo que a renda do segurado supere o limite em percentual ínfimo; (ii) a partir da MP 871/2019, não é possível flexibilizar o teto de renda bruta (média dos 12 meses), exceto se o Executivo deixar de corrigir anualmente o limite. Essa decisão introduz importante válvula de escape no regime antigo, analogamente à flexibilização do critério de miserabilidade do BPC (Cap. 18), mas fecha a porta para o regime novo.
 
 **Segurado sem renda no momento da prisão.** Situação frequentíssima na prática: o segurado está desempregado (mas dentro do período de graça) quando é preso. No regime anterior à MP 871/2019, a jurisprudência consolidou-se no sentido de que a ausência de renda equivale a renda zero, enquadrando-se automaticamente no conceito de "baixa renda" (Tema 896/STJ). No regime posterior, o critério da média dos 12 meses pode excluir o desempregado que tinha renda alta nos meses anteriores à perda do emprego — situação que gera injustiça e que pode ser impugnada judicialmente.
 
@@ -254,7 +254,7 @@ A evolução do limite nos últimos anos demonstra o impacto da política de rea
 - Segurado com menos de 12 contribuições: média das contribuições existentes
 :::
 
-A questão da flexibilização do limite de baixa renda foi recentemente enfrentada pelo STJ no **Tema 1162** (REsp 1.958.361, julgado em 12/11/2025). A 1ª Seção, por unanimidade, fixou tese em dois pontos: (i) no regime anterior à MP 871/2019, é possível flexibilizar o critério econômico quando a renda supera o limite em percentual ínfimo; (ii) a partir da MP 871/2019, **não é possível** flexibilizar o teto, exceto se o Executivo deixar de corrigir anualmente o limite. Essa decisão tem impacto direto na prática dos JEFs: para prisões anteriores a 18/01/2019, o advogado pode arguir a flexibilização quando a renda excede marginalmente o limite; para prisões posteriores, o parâmetro é objetivo e inflexível.
+A questão da flexibilização do limite de baixa renda foi recentemente enfrentada pelo STJ no **Tema 1162** (REsp 1.971.856/1.971.857 e REsp 1.958.361, Rel. Min. Assusete Magalhães, julgado em 12/11/2025). A 1ª Seção, por unanimidade, fixou tese em dois pontos: (i) no regime anterior à MP 871/2019, é possível flexibilizar o critério econômico quando a renda supera o limite em percentual ínfimo; (ii) a partir da MP 871/2019, **não é possível** flexibilizar o teto, exceto se o Executivo deixar de corrigir anualmente o limite. Essa decisão tem impacto direto na prática dos JEFs: para prisões anteriores a 18/01/2019, o advogado pode arguir a flexibilização quando a renda excede marginalmente o limite; para prisões posteriores, o parâmetro é objetivo e inflexível.
 
 ### 14.8 Carência de 24 Contribuições
 
@@ -1040,7 +1040,7 @@ Por fim, é necessário registrar a importância da advocacia proativa no auxíl
 
 - STF, Tema 89 (RE 587.365) — renda aferida é a do segurado, não dos dependentes.
 - STF, Tema 350 (RE 631.240) — prévio requerimento administrativo.
-- STJ, Tema 896 (REsp 1.485.417/MS), aferição de baixa renda do segurado desempregado.
+- STJ, Tema 896 (REsp 1.485.417/SP), aferição de baixa renda do segurado desempregado.
 - STJ, Tema 1.162, flexibilização do limite de baixa renda (pré-MP 871).
 - STJ, REsp 1.672.295/RS, prisão domiciliar em regime fechado/semiaberto e manutenção do auxílio-reclusão.
 - TNU, Tema 357, monitoração eletrônica e direito adquirido ao auxílio-reclusão (pré-2019).

@@ -48,7 +48,7 @@ Entretanto, a realidade dos Juizados Especiais Federais é consideravelmente mai
 
 Este capítulo examina o universo das aposentadorias por idade no âmbito urbano, compreendendo tanto a regra permanente da aposentadoria programada quanto a regra de transição do art. 18 da EC 103/2019 e o direito adquirido à aposentadoria por idade pré-reforma. As regras de transição dos arts. 15, 16, 17 e 20, que se aplicam predominantemente a segurados com longo tempo de contribuição, serão tratadas no Capítulo 11 (Aposentadoria por Tempo de Contribuição e Regras de Transição), embora aqui se faça a apresentação panorâmica necessária para que o leitor compreenda a interação entre essas regras e saiba orientar o segurado na escolha do benefício mais vantajoso.
 
-A delimitação entre este capítulo e os capítulos vizinhos merece atenção. O Capítulo 9 trata da aposentadoria rural e da aposentadoria por idade híbrida (Tema 1.109/STJ); o Capítulo 11 trata das regras de transição por tempo de contribuição (arts. 15, 16, 17 e 20, EC 103); e o Capítulo 12 trata da aposentadoria da pessoa com deficiência (LC 142/2013). O presente capítulo concentra-se na aposentadoria por idade do segurado urbano, na nova aposentadoria programada e na interface prática entre essas modalidades nos JEFs.
+A delimitação entre este capítulo e os capítulos vizinhos merece atenção. O Capítulo 9 trata da aposentadoria rural e da aposentadoria por idade híbrida (Tema 1007/STJ); o Capítulo 11 trata das regras de transição por tempo de contribuição (arts. 15, 16, 17 e 20, EC 103); e o Capítulo 12 trata da aposentadoria da pessoa com deficiência (LC 142/2013). O presente capítulo concentra-se na aposentadoria por idade do segurado urbano, na nova aposentadoria programada e na interface prática entre essas modalidades nos JEFs.
 
 O advogado previdenciário que atua nos Juizados Especiais Federais precisa dominar não apenas os requisitos normativos de cada regra, mas também a estratégia de escolha entre elas. Um mesmo segurado pode ter direito adquirido à regra antiga, enquadrar-se em uma ou mais regras de transição e, simultaneamente, preencher os requisitos da regra permanente. A identificação do benefício mais vantajoso, em termos de valor mensal e de data de início mais favorável, é tarefa que exige domínio técnico e visão sistêmica do ordenamento previdenciário.
 
@@ -120,7 +120,7 @@ Cabe observar que a regra permanente do art. 201, § 7º, I, aplica-se integralm
 
 A EC 103/2019 não revogou expressamente o art. 25, II, da Lei 8.213/91, que exige carência de 180 contribuições mensais para a aposentadoria por idade. A questão que se colocou, desde a publicação da emenda, foi saber se a carência permanecia como requisito autônomo da aposentadoria programada ou se o tempo de contribuição mínimo previsto no texto constitucional a teria absorvido.
 
-A Turma Nacional de Uniformização, ao julgar o Tema 358 (PUIL 5003963-97.2023.4.03.6302), em outubro de 2024, firmou a tese de que a carência permanece como requisito autônomo, distinto do tempo de contribuição mínimo. A distinção é conceitualmente relevante e tem consequências práticas significativas.
+A Turma Nacional de Uniformização, ao julgar o Tema 358 (PEDILEF 0500179-22.2022.4.05.8311/PE, Rel. Juiz Federal Giovani Bigolin), em outubro de 2024, firmou a tese de que a carência permanece como requisito autônomo, distinto do tempo de contribuição mínimo. A distinção é conceitualmente relevante e tem consequências práticas significativas.
 
 Carência é o número mínimo de contribuições efetivamente recolhidas, computadas mês a mês, sem interrupção de qualidade de segurado que implique perda dos períodos anteriores. Tempo de contribuição, por sua vez, é o período total de atividade vinculada ao RGPS, incluindo períodos computados por força de lei mesmo sem contribuição efetiva, como o tempo de serviço rural anterior a novembro de 1991, que é contado como tempo de contribuição, mas não gera carência.
 
@@ -705,7 +705,7 @@ A Opção B é mais segura, porque garante que o juiz analisará todas as possib
 
 A aposentadoria por idade rural (55/60 anos + 180 meses de atividade rural) e a aposentadoria por idade hibrida (art. 48, para. 3o, Lei 8.213/91) sao tratadas em profundidade no Capitulo 9. Nesta secao, examina-se apenas a interface pratica entre o trabalho rural e a aposentadoria por idade urbana — questao frequente nos JEFs, dada a quantidade de segurados com historico laboral misto (periodos rurais na juventude seguidos de atividade urbana formal).
 
-A regra-chave: o periodo de atividade rural anterior a novembro de 1991 pode ser computado como tempo de contribuicao (art. 55, para. 2o, Lei 8.213/91), mas nao como carencia na aposentadoria por idade urbana comum (Tema 358/TNU, secao 10.6). A excecao e a aposentadoria hibrida (Tema 1.109/STJ), que permite a soma de periodos rurais e urbanos para completar a carencia — alternativa que o advogado deve considerar quando o segurado nao alcanca 180 contribuicoes urbanas.
+A regra-chave: o periodo de atividade rural anterior a novembro de 1991 pode ser computado como tempo de contribuicao (art. 55, para. 2o, Lei 8.213/91), mas nao como carencia na aposentadoria por idade urbana comum (Tema 358/TNU, secao 10.6). A excecao e a aposentadoria hibrida (Tema 1007/STJ), que permite a soma de periodos rurais e urbanos para completar a carencia — alternativa que o advogado deve considerar quando o segurado nao alcanca 180 contribuicoes urbanas.
 
 ::: box-pratica
 **Situação prática — Segurado com período rural e urbano**
@@ -721,7 +721,7 @@ A regra-chave: o periodo de atividade rural anterior a novembro de 1991 pode ser
 
 **Se Joaquim tivesse apenas 160 contribuições urbanas** (e não 288):
 - Carência: 160 < 180 → **não preenche** carência para aposentadoria por idade urbana
-- Alternativa: Aposentadoria por idade **híbrida** (Tema 1.109/STJ — Cap. 9), somando período rural para completar carência
+- Alternativa: Aposentadoria por idade **híbrida** (Tema 1007/STJ — Cap. 9), somando período rural para completar carência
 - Outra alternativa: Aposentadoria por idade **rural** (se manteve atividade rural até próximo do requerimento)
 
 O advogado deve mapear todas as alternativas e orientar o cliente.
@@ -1074,10 +1074,10 @@ As regras de transicao por tempo de contribuicao (arts. 15, 16, 17 e 20 da EC 10
 
 - STF, Tema 1.102 — revisão da vida toda (art. 3º, Lei 9.876/99).
 - STF, Tema 350 (RE 631.240) — prévio requerimento administrativo.
-- STF, ADI 2.111, constitucionalidade de dispositivos da Lei 9.876/99 (fator previdenciario).
+- STF, ADI 2.110/DF e ADI 2.111/DF, constitucionalidade do art. 3º da Lei 9.876/99 (regra de transição/cálculo da RMI).
 - STJ, Tema 995 (REsp 1.727.069/SP e REsp 1.727.063/SP), reafirmação da DER.
 - STJ, Tema 1.070 (REsp 1.870.793/RS), soma integral de salários em atividades concomitantes.
-- STJ, Tema 1.109, aposentadoria por idade híbrida.
+- STJ, Tema 1007 (REsp 1.674.221), aposentadoria por idade híbrida.
 - TNU, Tema 358, carência como requisito autônomo pós-EC 103/2019.
 - Súmula 44/TNU, marco temporal para aferição da carência (art. 142).
 - Súmula 85/STJ, prescrição em relações de trato sucessivo.
