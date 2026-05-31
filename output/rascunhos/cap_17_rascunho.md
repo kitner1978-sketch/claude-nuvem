@@ -501,7 +501,7 @@ O valor da causa deve considerar o impacto conjunto. O magistrado deve atentar p
 
 A querela nullitatis declara a inexistência ou nulidade absoluta de sentença proferida com vício transrescisório — vício que não é sanado pelo trânsito em julgado nem se submete ao prazo da rescisória. As hipóteses clássicas: falta de citação (ou citação nula) e incompetência absoluta do juízo prolator.
 
-O STJ, no REsp 2.095.463/PR (Rel. Min. Nancy Andrighi, 3ª Turma, 18/03/2025), reafirmou que a querela nullitatis é pretensão, e não procedimento específico. A consequência: pode ser formulada como questão incidental ou prejudicial em qualquer processo, sem necessidade de ação autônoma. Para os JEFs, o segurado condenado por sentença sem citação válida pode, por petição nos autos, requerer a declaração de inexistência e a renovação do processo.
+O STJ, no REsp 2.095.463/PR (Rel. Min. Nancy Andrighi, 3ª Turma, 18/03/2025) — precedente firmado em matéria cível, cuja *ratio* processual se aplica por analogia ao processo previdenciário —, reafirmou que a querela nullitatis é pretensão, e não procedimento específico. A consequência: pode ser formulada como questão incidental ou prejudicial em qualquer processo, sem necessidade de ação autônoma. Para os JEFs, o segurado condenado por sentença sem citação válida pode, por petição nos autos, requerer a declaração de inexistência e a renovação do processo.
 
 ::: box-jurisprudencia
 **STJ — REsp 2.095.463/PR: Querela nullitatis como pretensão**
