@@ -5,10 +5,37 @@
       "Claudio Kitner",
       "Luiz Bispo da Silva Neto"
     ],
-    "capitulos_aprovados": 0,
-    "proximo_capitulo": "cap_06",
-    "modo_aprovacao": "individual"
+    "total_capitulos": 23,
+    "capitulos_redigidos": 23,
+    "fase": "pre-publicacao — revisao editorial fina / diagramacao",
+    "fonte_de_verdade": "Este arquivo resume a FASE; o andamento detalhado esta no CHANGELOG.md + git log. Fonte dos capitulos = output/rascunhos/cap_XX_rascunho.md (output/capitulos/ e' export desatualizado e gitignored).",
+    "modo_aprovacao": "obra completa (lotes do pipeline ja superados)"
   },
+  "fase_atual": {
+    "descricao": "Todos os 23 capitulos redigidos e revisados em multiplos passes. Obra em revisao editorial fina e diagramacao para publicacao.",
+    "palavras_aprox": 368301,
+    "pdf": {
+      "arquivo": "output/livro_completo.pdf (gitignored)",
+      "paginas": 1363,
+      "formato": "A5"
+    },
+    "corte_normativo": "legislacao e jurisprudencia ate maio/2026, com atualizacoes pontuais ja incorporadas ate inicio de junho/2026 (ex.: ADI 6.309, j. 03/06/2026; Tema 1.209/STF, j. 18/02/2026)",
+    "marcos": [
+      "v10-v12 (mai/2026): revisao qualitativa completa dos 23 caps (~126 correcoes)",
+      "v13 (31/05/2026): verificacao jurisprudencial contra bases oficiais STJ/STF/TNU (55 correcoes reais, 0 fabricacoes)",
+      "polish (31/05/2026): anti-IA + consistencia bibliografica ABNT",
+      "producao (31/05/2026): ficha catalografica, paginas Apresentacao e Sobre os Autores (placeholders)",
+      "revisao profunda (07/06/2026): blindagem juridica + anti-IA em 21 caps + atualizacao jurisprudencial 2026 — commit 4c9f0b3; auditada (ADI 6.309, Tema 1.209, vida toda verificados corretos contra fontes oficiais)",
+      "fix diagramacao (08/06/2026): tabelas markdown dentro de boxes passam a renderizar como tabela aninhada (58 quadros, antes texto cru) — commit 64ce287"
+    ],
+    "pendencias_pre_publicacao": [
+      "Preencher textos de Apresentacao (pre-textual) e Sobre os Autores (pos-textual)",
+      "Definir ISBN na ficha catalografica",
+      "Conferir flags 'verificar antes da publicacao': valores 2026 (SM R$ 1.621,00, teto R$ 8.475,55) e teses recentissimas pendentes de modulacao",
+      "Harmonizar o corte 'ate maio de 2026' na ficha catalografica com a jurisprudencia de junho/2026 ja incorporada (ADI 6.309)"
+    ]
+  },
+  "_nota_capitulos": "O bloco 'capitulos' abaixo e o registro HISTORICO do pipeline de redacao (status/iteracoes da fase de producao inicial, ate mai/2026). Os campos 'status' por capitulo refletem aquela fase e NAO o estado atual da obra — ver 'fase_atual' acima.",
   "capitulos": {
     "cap_14": {
       "titulo": "Auxílio-Reclusão",
@@ -644,5 +671,5 @@
     }
   },
   "glossario_path": "state/glossario.json",
-  "ultima_atualizacao": "2026-05-10T22:30:00"
+  "ultima_atualizacao": "2026-06-08T00:00:00"
 }
