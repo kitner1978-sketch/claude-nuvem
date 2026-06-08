@@ -987,6 +987,12 @@ def add_box(doc, box_type, text):
             continue
         # Detectar se o segmento é uma lista
         seg_lines = [l.strip() for l in para_text.split('\n') if l.strip()]
+        if seg_lines and len(seg_lines) >= 2 and all(l.startswith('|') for l in seg_lines):
+            # Tabela markdown dentro do box → renderizar como tabela aninhada
+            headers, rows = _parse_table_lines(seg_lines)
+            if headers and rows:
+                add_table_in_cell(cell, headers, rows)
+                continue
         if seg_lines and all(l.startswith('- ') for l in seg_lines):
             # Renderizar como lista bullet dentro do box
             for sl in seg_lines:
@@ -1162,6 +1168,80 @@ def add_table_block(doc, headers, rows):
     # Espaço após tabela
     p_after = doc.add_paragraph()
     set_paragraph_spacing(p_after, before=0, after=4, line_spacing=1.0)
+
+
+def _parse_table_lines(seg_lines):
+    """Converte linhas markdown de tabela (| a | b |) em (headers, rows)."""
+    headers = [c.strip() for c in seg_lines[0].strip('|').split('|')]
+    rows = []
+    for tl in seg_lines[1:]:
+        if re.match(r'^[\|\s\-:]+$', tl):  # linha separadora |---|---|
+            continue
+        cells = [c.strip() for c in tl.strip('|').split('|')]
+        rows.append(cells)
+    return headers, rows
+
+
+def add_table_in_cell(cell, headers, rows):
+    """Renderiza uma tabela markdown DENTRO da célula de um box (tabela aninhada).
+
+    Espelha o estilo de add_table_block, em versão compacta (fonte menor,
+    padding reduzido), para quadros comparativos que ficam dentro de boxes.
+    """
+    num_cols = len(headers)
+    num_rows = 1 + len(rows)
+
+    table = cell.add_table(rows=num_rows, cols=num_cols)
+    table.alignment = WD_TABLE_ALIGNMENT.CENTER
+
+    # Largura 100% da célula do box
+    tbl = table._tbl
+    tblPr = tbl.tblPr if tbl.tblPr is not None else parse_xml(f'<w:tblPr {nsdecls("w")}/>')
+    tblW = parse_xml(f'<w:tblW {nsdecls("w")} w:w="5000" w:type="pct"/>')
+    tblPr.append(tblW)
+
+    # Header row — repetição em multi-página
+    header_row = table.rows[0]
+    trPr = header_row._tr.get_or_add_trPr()
+    trPr.append(parse_xml(f'<w:tblHeader {nsdecls("w")}/>'))
+
+    for j, header_text in enumerate(headers):
+        c = table.cell(0, j)
+        for p in c.paragraphs:
+            p._element.getparent().remove(p._element)
+        p = c.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        set_paragraph_spacing(p, before=1.5, after=1.5, line_spacing=1.0)
+        add_run_with_style(p, header_text.strip(), font_name=FONT_SERIF,
+                          size=Pt(8.4), bold=True, color="2F2923")
+        tc = c._tc
+        tc.get_or_add_tcPr().append(
+            parse_xml(f'<w:shd {nsdecls("w")} w:fill="F0EDE6" w:val="clear"/>'))
+
+    for i, row_data in enumerate(rows):
+        for j in range(num_cols):
+            cell_text = row_data[j].strip() if j < len(row_data) else ""
+            c = table.cell(i + 1, j)
+            for p in c.paragraphs:
+                p._element.getparent().remove(p._element)
+            add_paragraph_with_bold(c, cell_text, size=Pt(8.4),
+                                   color="201B16", alignment=WD_ALIGN_PARAGRAPH.LEFT,
+                                   first_indent=0, space_before=1, space_after=1,
+                                   line_spacing=1.0)
+
+    for row in table.rows:
+        for c in row.cells:
+            c._tc.get_or_add_tcPr().append(parse_xml(
+                f'<w:tcBorders {nsdecls("w")}>'
+                f'  <w:top w:val="single" w:sz="4" w:space="0" w:color="D2C9B8"/>'
+                f'  <w:bottom w:val="single" w:sz="4" w:space="0" w:color="D2C9B8"/>'
+                f'  <w:left w:val="single" w:sz="4" w:space="0" w:color="D2C9B8"/>'
+                f'  <w:right w:val="single" w:sz="4" w:space="0" w:color="D2C9B8"/>'
+                f'</w:tcBorders>'))
+
+    # Word exige um parágrafo após tabela aninhada (e dá respiro visual)
+    p_after = cell.add_paragraph()
+    set_paragraph_spacing(p_after, before=0, after=0, line_spacing=1.0)
 
 
 def add_list_item(doc, text, ordered=False, number=1):
