@@ -38,6 +38,9 @@ referencias:
  - "Art. 21, § 3º, Lei 8.212/91 (Complementação de Contribuições)"
  - "STF Tema 985 (Contribuição sobre Terço de Férias)"
  - "STF Tema 32 (Imunidade CEBAS / lei complementar)"
+ - "STJ Tema 1.174 (Verbas descontadas em folha e base da contribuição patronal)"
+ - "STJ Tema 1.252 (Contribuição patronal sobre Adicional de Insalubridade)"
+ - "STJ Tema 1.342 (Contribuição patronal sobre remuneração do contrato de aprendizagem)"
  - "Portaria Interministerial MPS/MF n. 13, de 09/01/2026"
 ---
 
@@ -86,6 +89,8 @@ A EC 103/2019 introduziu a progressividade por faixas, inspirada na sistemática
 
 O mecanismo de aplicação por faixas opera da seguinte forma: cada parcela da remuneração correspondente a determinada faixa recebe incidência apenas da alíquota respectiva. Esse procedimento resulta numa alíquota efetiva inferior à alíquota nominal da faixa em que o segurado se enquadra.
 
+Nos exemplos a seguir, adotamos um único critério de arredondamento para todo o capítulo: a contribuição de cada faixa é arredondada para dois decimais pelo critério do meio para cima (arredondamento comercial — a terceira casa igual ou superior a 5 eleva a segunda), e o total é a soma das parcelas já arredondadas. É por isso que a 1ª faixa de R$ 1.621,00 (R$ 1.621,00 × 7,5% = R$ 121,575) aparece como R$ 121,58. Diferenças de centavo entre eventuais sistemas de folha decorrem apenas da escolha entre arredondar ou truncar; a metodologia adotada aqui é uniforme em todas as tabelas.
+
 ::: box-pratica
 **Exemplo de cálculo — Segurado empregado com remuneração de R$ 4.000,00 (2026):**
 
@@ -94,7 +99,7 @@ O mecanismo de aplicação por faixas opera da seguinte forma: cada parcela da r
 | 1ª | R$ 1.621,00 | 7,5% | R$ 121,58 |
 | 2ª | R$ 1.281,84 (2.902,84 - 1.621,00) | 9,0% | R$ 115,37 |
 | 3ª | R$ 1.097,16 (4.000,00 - 2.902,84) | 12,0% | R$ 131,66 |
-| 4ª |, | 14,0% |, |
+| 4ª | — | 14,0% | — |
 | **Total** | **R$ 4.000,00** | **Efetiva: 9,22%** | **R$ 368,61** |
 
 Se o modelo antigo estivesse em vigor, esse segurado pagaria 11% sobre R$ 4.000,00 = R$ 440,00. A economia com a progressividade é de R$ 71,39/mês.
@@ -166,7 +171,7 @@ b) **RAT — Riscos Ambientais do Trabalho:** Contribuição adicional destinada
 c) **Contribuição sobre a remuneração de contribuintes individuais:** 20% sobre o total das remunerações pagas ou creditadas a contribuintes individuais que prestem serviço à empresa (art. 22, III).
 
 ::: box-atencao
-**Atenção — Contribuição patronal não se confunde com a do empregado:**
+**Duas obrigações autônomas: a patronal e a do empregado não se confundem**
 
 A contribuição patronal (20%) incide sobre a folha de pagamento da empresa, sem limite de teto por empregado. A contribuição do empregado (7,5% a 14%) incide sobre a remuneração individual, limitada ao teto. As duas obrigações são autônomas e cumulativas. Assim, sobre uma remuneração de R$ 10.000,00 (acima do teto), o empregador paga 20% sobre R$ 10.000,00 (= R$ 2.000,00), enquanto o empregado contribui com ~R$ 988,10 (limitado ao teto de R$ 8.475,55).
 :::
@@ -225,7 +230,7 @@ O financiamento da aposentadoria especial (art. 57 e 58 da Lei 8.213/91) é feit
 Essas alíquotas incidem sobre a remuneração dos segurados expostos a agentes nocivos que ensejam aposentadoria especial. A empresa é obrigada a informar esses segurados no PPP (Perfil Profissiográfico Previdenciário) e no eSocial (evento S-2240 — Condições Ambientais do Trabalho), com indicação dos agentes nocivos e do período de exposição.
 
 ::: box-atencao
-**Atenção — Nexo entre custeio e benefício:**
+**A omissão do empregador no recolhimento do adicional não prejudica o segurado**
 
 A ausência de recolhimento do adicional de RAT pelo empregador NÃO pode prejudicar o segurado na concessão da aposentadoria especial. Conforme jurisprudência consolidada no STJ (AgInt no REsp 1.478.682/RS, 2ª Turma, j. 16/05/2017), a responsabilidade pelo recolhimento é da empresa, e o segurado não pode ser penalizado por omissão do empregador. Nos JEFs, o INSS frequentemente nega a aposentadoria especial alegando ausência de recolhimento do adicional, conduta reiteradamente rechaçada pela jurisprudência. O tema é aprofundado no Capítulo 8 (Aposentadoria Especial).
 :::
@@ -463,7 +468,7 @@ b) **Período pós-desenquadramento:** O segurado passa a contribuir como CI (20
 c) **Transição:** Não há solução de continuidade na filiação. O segurado permanece filiado ao RGPS — muda apenas a categoria e a alíquota.
 
 ::: box-atencao
-**Atenção — Armadilha do desenquadramento retroativo:**
+**Uma armadilha frequente: o desenquadramento retroativo do MEI**
 
 Se o MEI ultrapassou o faturamento de R$ 81.000,00 durante o ano-calendário em mais de 20%, o desenquadramento é retroativo a janeiro daquele ano. Todas as contribuições do período são recalculadas como se fossem de CI, gerando diferenças a recolher com juros e multa. Nos JEFs, surgem ações em que o segurado busca aposentadoria e o INSS identifica, no cruzamento de dados, que houve faturamento acima do limite como MEI em determinados anos. As contribuições do período são consideradas insuficientes (recolheu 5% quando deveria ter recolhido 20%), e o INSS desconta os meses da carência e do tempo de contribuição. O advogado deve verificar o histórico de faturamento do cliente MEI antes do ajuizamento.
 :::
@@ -494,7 +499,7 @@ Aplica-se a qualquer segurado facultativo, sem requisito de renda. O código GPS
 
 #### 4.8.3 Facultativo baixa renda: alíquota de 5%
 
-A Lei 12.470/2011 inseriu o § 2º-A no art. 21 da Lei 8.212/91, criando a alíquota reduzida de 5% sobre o SM para o segurado facultativo de baixa renda. Os requisitos são cumulativos e devem persistir durante todo o período contributivo:
+A Lei 12.470/2011, ao dar nova redação ao art. 21, § 2º, inciso II, alínea 'b', da Lei 8.212/91, criou a alíquota reduzida de 5% sobre o SM para o segurado facultativo de baixa renda. Os requisitos são cumulativos e devem persistir durante todo o período contributivo:
 
 a) Não possuir renda própria de qualquer natureza;
 b) Dedicar-se exclusivamente ao trabalho doméstico no âmbito de sua residência;
@@ -760,7 +765,8 @@ h) **Prêmios e abonos**, a Reforma Trabalhista (Lei 13.467/2017) excluiu os pr�
 | Salário-base | Sim | Art. 28, I, Lei 8.212 |
 | Hora extra | Sim | Art. 28, I |
 | Adicional noturno | Sim | Art. 28, I |
-| Insalubridade/Periculosidade | Sim | Art. 28, I |
+| Insalubridade/Periculosidade | Sim | Art. 28, I; STJ Tema 1.252 |
+| Remuneração do aprendiz (art. 428 CLT) | Sim | STJ Tema 1.342 |
 | 13º salário | Sim (separado) | Art. 28, § 7º |
 | Terço de férias | Sim | STF Tema 985 |
 | Gorjetas | Sim | Art. 28, I |
@@ -776,7 +782,45 @@ h) **Prêmios e abonos**, a Reforma Trabalhista (Lei 13.467/2017) excluiu os pr�
 | Prêmios (até 2x/ano) | Não | Art. 457, § 4º, CLT |
 :::
 
-#### 4.12.6 O terço constitucional de férias e o Tema 985/STF
+#### 4.12.6 A base de cálculo da contribuição patronal nos repetitivos recentes do STJ
+
+Embora a seção trate primordialmente do salário de contribuição do segurado, o conceito de remuneração que o delimita é o mesmo que define a base de cálculo da contribuição patronal (art. 22, I, da Lei 8.212/91). Por isso, os recursos repetitivos julgados pelo STJ em 2024 e 2025 sobre quais parcelas integram (ou não) a base patronal repercutem diretamente sobre a definição de salário de contribuição. Três teses recentes consolidam o entendimento.
+
+A primeira (Tema 1.174) afasta da base patronal as verbas que o empregador apenas desconta em folha por imposição legal, mas que continuam pertencendo ao próprio trabalhador: a lógica é que tais descontos são meras técnicas de arrecadação ou de repasse, e não acréscimo patrimonial do empregador, de modo que não alteram o conceito de salário ou de salário de contribuição. A segunda (Tema 1.252) confirma a incidência sobre o adicional de insalubridade, em razão de sua natureza remuneratória. A terceira (Tema 1.342) define que a remuneração paga ao aprendiz integra a base patronal, do GILRAT e das contribuições de terceiros.
+
+::: box-jurisprudencia
+**STJ — A base de cálculo da contribuição patronal em três repetitivos (2024-2025)**
+
+**Tema 1.174 (REsp 2.005.029/PR, Rel. Min. Herman Benjamin, 1ª Seção, j. 14/08/2024) — o que NÃO integra a base patronal:**
+
+Tese fixada: "As parcelas relativas ao vale-transporte, vale-refeição/alimentação, plano de assistência à saúde (auxílio-saúde, odontológico e farmácia), ao Imposto de Renda retido na fonte (IRRF) dos empregados e à contribuição previdenciária dos empregados, descontadas na folha de pagamento do trabalhador, constituem simples técnica de arrecadação ou de garantia para recebimento do credor, e não modificam o conceito de salário ou de salário contribuição, e, portanto, não modificam a base de cálculo da contribuição previdenciária patronal, do SAT e da contribuição de terceiros."
+
+Em síntese: o valor descontado do empregado (sua contribuição previdenciária, o IRRF, a coparticipação no vale-transporte, no vale-refeição/alimentação e no plano de saúde) é despesa do trabalhador retida na fonte, não do empregador. Por isso não pode ser somado à base sobre a qual incidem os 20% patronais (e o RAT/SAT e as contribuições a terceiros).
+
+**Tema 1.252 (REsp 2.050.498, Rel. Min. Herman Benjamin, 1ª Seção, j. 20/06/2024) — o que INTEGRA a base patronal:**
+
+Tese fixada: "Incide a Contribuição Previdenciária patronal sobre o Adicional de Insalubridade, em razão da sua natureza remuneratória."
+
+**Tema 1.342 (REsp 2.191.479, Rel. Min. Maria Thereza de Assis Moura, 1ª Seção, j. 13/08/2025) — o que INTEGRA a base patronal:**
+
+Tese fixada: "A remuneração decorrente do contrato de aprendizagem (art. 428 da CLT) integra a base de cálculo da contribuição previdenciária patronal, da Contribuição do Grau de Incidência de Incapacidade Laborativa decorrente dos Riscos Ambientais do Trabalho (GIIL-RAT) e das contribuições a terceiros."
+
+**Quadro-síntese:**
+
+| Parcela | Integra a base patronal? | Precedente STJ |
+|---------|--------------------------|----------------|
+| Contribuição previdenciária do empregado (descontada em folha) | Não | Tema 1.174 |
+| IRRF do empregado (retido na fonte) | Não | Tema 1.174 |
+| Vale-transporte (coparticipação descontada) | Não | Tema 1.174 |
+| Vale-refeição/alimentação (coparticipação descontada) | Não | Tema 1.174 |
+| Plano de assistência à saúde/odontológico/farmácia (coparticipação descontada) | Não | Tema 1.174 |
+| Adicional de insalubridade | Sim | Tema 1.252 |
+| Remuneração do contrato de aprendizagem (art. 428 CLT) | Sim | Tema 1.342 |
+
+**Impacto prático:** Esses repetitivos interessam sobretudo às ações tributárias do empregador (em regra fora dos JEFs, por ultrapassarem o teto de 60 SM). Para o segurado, o reflexo é indireto, mas relevante na retificação de CNIS: como o adicional de insalubridade e a remuneração do aprendiz têm natureza remuneratória, integram o salário de contribuição e devem compor a média do PBC. Já as parcelas afastadas pelo Tema 1.174 (descontos do próprio empregado) jamais foram acréscimo à remuneração — sua exclusão da base patronal não reduz o salário de contribuição do segurado, que continua calculado sobre a remuneração bruta a ele devida.
+:::
+
+#### 4.12.7 O terço constitucional de férias e o Tema 985/STF
 
 A incidência de contribuição previdenciária sobre o terço constitucional de férias foi uma das questões previdenciárias mais litigadas no Brasil durante duas décadas. O STJ manteve, durante anos, jurisprudência pacificada no sentido de que o terço de férias tinha natureza indenizatória e, portanto, não integrava o salário de contribuição.
 
@@ -792,7 +836,7 @@ A incidência de contribuição previdenciária sobre o terço constitucional de
 **Impacto para o segurado (JEF):** Indiretamente favorável — a incidência do terço sobre o SC eleva a média dos salários de contribuição no PBC, resultando em salário de benefício (e RMI) ligeiramente maior. O advogado previdenciarista deve atentar: para segurados que obtiveram exclusão judicial do terço antes do Tema 985, os salários de contribuição registrados no CNIS para aquele período estarão menores do que deveriam, podendo justificar ação de retificação para inclusão do terço e consequente revisão do benefício.
 :::
 
-#### 4.12.7 Evolução histórica do teto
+#### 4.12.8 Evolução histórica do teto
 
 O limite máximo do salário de contribuição (teto) sofreu diversas alterações ao longo do tempo. Para o cálculo de benefícios, o teto vigente na data de cada competência limita o salário de contribuição daquele mês. Os principais marcos são:
 
@@ -815,7 +859,7 @@ O limite máximo do salário de contribuição (teto) sofreu diversas alteraçõ
 O STJ, no julgamento do REsp 1.113.222/SC (1ª Seção, j. 23/02/2012), fixou que os benefícios concedidos com base em salários de contribuição limitados ao teto vigente à época devem ser reajustados com observância do novo teto sempre que este for majorado por emenda constitucional. Essa tese resultou na chamada "revisão do teto" — aplicável a benefícios concedidos entre 05/04/1991 (Lei 8.213) e 31/12/2003, cujo salário de benefício foi limitado pelo teto então vigente mas que, recalculado com os tetos da EC 20/1998 (R$ 1.200,00) e da EC 41/2003 (R$ 2.400,00), resultaria em valor superior. A revisão é objeto frequente de ações nos JEFs.
 :::
 
-#### 4.12.8 Salário in natura e sua incidência
+#### 4.12.9 Salário in natura e sua incidência
 
 O salário in natura, também chamado de salário-utilidade, consiste em prestações não monetárias fornecidas habitualmente pelo empregador ao empregado. A CLT, no art. 458, estabelece que, além do pagamento em dinheiro, compreendem-se no salário as prestações in natura que a empresa fornecer habitualmente ao empregado.
 
@@ -833,7 +877,7 @@ A Lei 10.243/2001 alterou o § 2º do art. 458 da CLT, excluindo expressamente d
 Nas ações de retificação de CNIS, a discussão sobre salário in natura pode surgir quando o segurado alega que recebia parcela não registrada no CNIS (moradia, alimentação) que deveria integrar o SC e, consequentemente, elevar o salário de benefício. O ônus da prova é do segurado, que deve demonstrar: (i) o fornecimento habitual da utilidade; (ii) o caráter retributivo (não instrumental); (iii) o valor mensal da utilidade. Comprovados esses elementos, o juiz determina a retificação do CNIS com inclusão da parcela in natura no salário de contribuição dos períodos correspondentes.
 :::
 
-#### 4.12.9 Décimo terceiro salário e contribuição
+#### 4.12.10 Décimo terceiro salário e contribuição
 
 O 13º salário integra o salário de contribuição, mas com peculiaridade: sua contribuição é calculada separadamente da remuneração mensal (art. 28, § 7º, Lei 8.212/91). Isso significa que o 13º tem incidência autônoma — não é somado ao salário do mês de pagamento para efeito de enquadramento nas faixas progressivas. A contribuição sobre o 13º é recolhida em dezembro (ou na rescisão, proporcionalmente), utilizando-se as faixas progressivas sobre o valor integral do 13º.
 
@@ -1016,15 +1060,15 @@ Quando uma das atividades é exercida como empregado e outra como CI, a contribu
 **Exemplo — Atividades concomitantes (empregado + CI):**
 
 José é engenheiro:
-- Empregado na Empresa X: salário R$ 6.000,00 — contribuição retida na fonte (progressiva)
+- Empregado na Empresa X: salário R$ 6.000,00 — contribuição retida na fonte pelas alíquotas progressivas, resultando em ~R$ 641,52
 - Consultor autônomo (CI): renda R$ 3.000,00/mês prestando a pessoas físicas
 
 Teto 2026: R$ 8.475,55
-Diferença: R$ 8.475,55 - R$ 6.000,00 = R$ 2.475,55
+Diferença: R$ 8.475,55 − R$ 6.000,00 = R$ 2.475,55
 
-José deve recolher como CI apenas 20% x R$ 2.475,55 = R$ 495,11 (não 20% x R$ 3.000,00).
+A contribuição como empregado é prioritária e consome a base até R$ 6.000,00. Como CI, José recolhe 20% apenas sobre a diferença entre o teto e o seu salário de empregado, ou seja, 20% × R$ 2.475,55 = R$ 495,11 (não 20% × R$ 3.000,00). Embora sua renda como CI seja de R$ 3.000,00, a parcela que excede o teto (R$ 524,45) não é tributada.
 
-Se a soma das remunerações (R$ 9.000,00) ultrapassa o teto, a contribuição total fica limitada ao desconto máximo (~R$ 988,10 como empregado) + 20% sobre a diferença até o teto.
+Em síntese: sobre os R$ 6.000,00 de emprego incidem as alíquotas progressivas (~R$ 641,52, retidos na fonte pela Empresa X); sobre a diferença até o teto incidem os 20% de CI (R$ 495,11). As duas contribuições, somadas, esgotam o teto sem duplicar a base.
 :::
 
 #### 4.15.3 Prescrição e decadência do direito de recolher em atraso
@@ -1034,7 +1078,7 @@ O art. 45 da Lei 8.212/91 (com redação dada pela Lei 11.941/2009) prevê prazo
 A jurisprudência consolidou que o segurado pode indenizar contribuições em atraso a qualquer tempo, sem prazo prescricional ou decadencial. Isso porque a indenização é faculdade do segurado (não obrigação imposta pelo fisco), e o art. 45-A não estabelece prazo para exercício desse direito. Todavia, quanto mais antigo o período, mais difícil será a comprovação da atividade — e o INSS exige documentação robusta.
 
 ::: box-atencao
-**Atenção — Diferença entre prescrição tributária e direito de indenizar:**
+**Não confundir: prescrição tributária e direito de indenizar são institutos distintos**
 
 - **Prescrição tributária (5 anos):** O INSS/RFB não pode cobrar contribuições devidas há mais de 5 anos. Decai o crédito tributário.
 - **Direito de indenizar (sem prazo):** O segurado pode voluntariamente pagar contribuições de qualquer período pretérito, desde que comprove atividade. Não há prazo extintivo para esse direito.
@@ -1046,7 +1090,15 @@ Na prática: um segurado pode indenizar período de 1985-1990 em 2026, mesmo que
 
 #### 4.16.1 Segurado em gozo de benefício por incapacidade
 
-O segurado que recebe auxílio por incapacidade temporária (antigo auxílio-doença) ou aposentadoria por incapacidade permanente (antiga aposentadoria por invalidez) não precisa contribuir para manter a qualidade de segurado durante o período de gozo. O tempo de benefício é computado como tempo de contribuição (art. 55, II, Lei 8.213/91), sem necessidade de recolhimento. Contudo, o cômputo desse período para fins de carência é limitado: conforme o Tema 365/TNU, o período de gozo de benefício por incapacidade não é computado para as 120 contribuições previstas no art. 15, § 1º, da Lei 8.213/91 (manutenção da qualidade de segurado). Para segurados empregados, o período de benefício pode contar para carência quando intercalado com atividade laborativa, mas a matéria está sujeita a restrições jurisprudenciais — devendo-se consultar a posição atualizada da TNU e do STJ.
+O segurado que recebe auxílio por incapacidade temporária (antigo auxílio-doença) ou aposentadoria por incapacidade permanente (antiga aposentadoria por invalidez) não precisa contribuir para manter a qualidade de segurado durante o período de gozo. O tempo de benefício é computado como tempo de contribuição (art. 55, II, Lei 8.213/91), sem necessidade de recolhimento.
+
+É preciso, contudo, não confundir três institutos que costumam ser tratados em conjunto:
+
+a) **Período de graça (manutenção da qualidade de segurado):** o art. 15, II, da Lei 8.213/91 mantém a qualidade de segurado de quem está em gozo de benefício, independentemente de contribuição. O art. 15, § 1º, por sua vez, *amplia* esse período de graça em mais 12 meses para o segurado que já tiver pago mais de 120 contribuições mensais sem perda da qualidade. O § 1º trata, portanto, de extensão do período de graça — não de carência. A propósito, a TNU fixou no Tema 365 que o período de gozo de benefício por incapacidade intercalado entre contribuições não pode ser computado para integrar essas 120 contribuições exigidas para a prorrogação do período de graça.
+
+b) **Tempo de contribuição:** o período de gozo do benefício por incapacidade conta integralmente como tempo de contribuição (art. 55, II, Lei 8.213/91), sem necessidade de recolhimento.
+
+c) **Carência:** o cômputo do tempo de gozo como carência segue regra própria. Para o segurado empregado, o período de benefício por incapacidade pode contar para carência quando *intercalado* com períodos de atividade ou contribuição, conforme entendimento consolidado na jurisprudência da TNU e do STJ (tema sobre o qual se deve consultar a posição atualizada antes do ajuizamento). Fora da hipótese de intercalação, o tempo de gozo, embora seja tempo de contribuição, não é automaticamente computado como carência.
 
 Situação distinta ocorre com o aposentado que retorna ao trabalho: o aposentado por idade ou tempo de contribuição que volta a exercer atividade remunerada é segurado obrigatório e deve contribuir normalmente (art. 12, § 4º, Lei 8.212/91). Contudo, essas contribuições não geram novo benefício (vedação à desaposentação — Tema 503/STF), salvo o salário-família e a reabilitação profissional.
 
@@ -1199,7 +1251,7 @@ A fiscalização das obrigações do eSocial tem se intensificado desde 2023. Em
 
 #### 4.19.1 Imunidade das entidades beneficentes (art. 195, § 7º, CF/88)
 
-O art. 195, § 7º, da Constituição Federal estabelece que "são isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei". Apesar da terminologia constitucional ("isentas"), o STF reconhece tratar-se de imunidade tributária, pois prevista na própria Constituição — e, portanto, não pode ser restringida por lei infraconstitucional (RE 566.622, Tema 32, Rel. Min. Rosa Weber, j. 23/02/2017).
+O art. 195, § 7º, da Constituição Federal estabelece que "são isentas de contribuição para a seguridade social as entidades beneficentes de assistência social que atendam às exigências estabelecidas em lei". Apesar da terminologia constitucional ("isentas"), o STF reconhece tratar-se de imunidade tributária, pois prevista na própria Constituição — e, portanto, não pode ser restringida por lei infraconstitucional (RE 566.622, Tema 32, Rel. Min. Marco Aurélio, j. 23/02/2017).
 
 A Lei 12.101/2009 regula os requisitos para a certificação de entidade beneficente de assistência social (CEBAS), indispensável para o gozo da imunidade. Os principais requisitos são:
 
@@ -1225,13 +1277,13 @@ A imunidade do art. 195, § 7º, CF/88, abrange todas as contribuições para a 
 A imunidade NÃO abrange a contribuição do segurado empregado (que é retida na fonte). A entidade beneficente continua obrigada a reter e recolher a contribuição dos seus empregados (alíquotas progressivas), atuando como responsável tributário. O que é imune é a parcela patronal.
 
 ::: box-jurisprudencia
-**STF — Tema 32 (RE 566.622, Rel. Min. Rosa Weber, j. 23/02/2017)**
+**STF — Tema 32 (RE 566.622, Rel. Min. Marco Aurélio, j. 23/02/2017)**
 
 **Tese fixada:** "Os requisitos para o gozo de imunidade hão de estar previstos em lei complementar."
 
 **Fundamento:** A imunidade do art. 195, § 7º, CF/88 é norma de eficácia limitada — depende de lei complementar para definir seus requisitos. A lei que define os requisitos deve ser complementar (art. 146, II, CF/88), não ordinária. Contudo, o STF admitiu que a Lei 12.101/2009 (lei ordinária) é constitucional na medida em que regulamenta requisitos já previstos no art. 14 do CTN (recepcionado como lei complementar).
 
-**Impacto prático:** A discussão sobre a natureza formal da lei regulamentadora perdeu relevância prática após o Tema 32, os requisitos do art. 14 do CTN e da Lei 12.101/2009 são os parâmetros vigentes. A controvérsia residual é sobre requisitos adicionais impostos por normas infralegais (portarias, decretos) que eventualmente restringem a imunidade além do previsto na lei.
+**Repercussão na prática forense:** A discussão sobre a natureza formal da lei regulamentadora perdeu relevância prática após o Tema 32, os requisitos do art. 14 do CTN e da Lei 12.101/2009 são os parâmetros vigentes. A controvérsia residual é sobre requisitos adicionais impostos por normas infralegais (portarias, decretos) que eventualmente restringem a imunidade além do previsto na lei.
 :::
 
 #### 4.19.3 Santas Casas e hospitais filantrópicos
@@ -1293,16 +1345,32 @@ Se a RFB negar o pedido ou não se manifestar em prazo razoável, o segurado pod
 ::: box-pratica
 **Exemplo — Restituição por recolhimento acima do teto:**
 
-Fernanda trabalha como empregada na Empresa A (salário R$ 5.000,00) e na Empresa B (salário R$ 4.500,00). Ambas retêm contribuição previdenciária integral sobre as respectivas remunerações.
+Fernanda trabalha como empregada na Empresa A (salário R$ 5.000,00) e na Empresa B (salário R$ 4.500,00). Cada empregador, isoladamente, aplica as alíquotas progressivas sobre a sua própria folha, como se aquele fosse o único vínculo da segurada. A retenção, portanto, recomeça em cada empresa pela 1ª faixa (7,5%).
 
-Contribuição retida pela Empresa A: ~R$ 471,57 (progressiva sobre R$ 5.000,00)
-Contribuição retida pela Empresa B: ~R$ 417,37 (progressiva sobre R$ 4.500,00)
-Total retido: ~R$ 888,94
+Contribuição retida pela Empresa A (progressiva sobre R$ 5.000,00) — R$ 501,52:
+
+| Faixa | Base | Alíquota | Contribuição |
+|-------|------|----------|-------------|
+| 1ª | R$ 1.621,00 | 7,5% | R$ 121,58 |
+| 2ª | R$ 1.281,84 | 9,0% | R$ 115,37 |
+| 3ª | R$ 1.451,43 | 12,0% | R$ 174,17 |
+| 4ª | R$ 645,73 (5.000,00 − 4.354,27) | 14,0% | R$ 90,40 |
+
+Contribuição retida pela Empresa B (progressiva sobre R$ 4.500,00) — R$ 431,52:
+
+| Faixa | Base | Alíquota | Contribuição |
+|-------|------|----------|-------------|
+| 1ª | R$ 1.621,00 | 7,5% | R$ 121,58 |
+| 2ª | R$ 1.281,84 | 9,0% | R$ 115,37 |
+| 3ª | R$ 1.451,43 | 12,0% | R$ 174,17 |
+| 4ª | R$ 145,73 (4.500,00 − 4.354,27) | 14,0% | R$ 20,40 |
+
+Total retido: R$ 933,04 (R$ 501,52 + R$ 431,52)
 
 Soma das remunerações: R$ 9.500,00 (acima do teto de R$ 8.475,55)
-Contribuição devida: ~R$ 988,10 (sobre o teto)
+Contribuição devida sobre o teto: ~R$ 988,10
 
-Retenção efetiva supera a contribuição devida? Neste caso não significativamente, mas se os salários fossem ambos de R$ 6.000,00, haveria retenção de ~R$ 943,14, quando o máximo devido seria ~R$ 988,10 sobre o teto. A situação se agrava com três ou mais vínculos simultâneos.
+Neste caso específico, a retenção somada (R$ 933,04) ainda fica abaixo do máximo devido sobre o teto (~R$ 988,10), de modo que não há excesso a restituir. O excesso surge quando a soma das duas retenções, calculadas isoladamente, supera a contribuição-teto. Basta elevar os dois salários: se ambos fossem de R$ 6.000,00, cada vínculo geraria retenção de R$ 641,52, somando R$ 1.283,04 — quase R$ 295,00 acima do teto de ~R$ 988,10, valor integralmente restituível. A distorção decorre de cada empregador reiniciar a progressividade pela 1ª faixa e agrava-se a cada vínculo adicional.
 
 **Procedimento:**
 1. Obter extrato detalhado do CNIS com todas as remunerações e contribuições
@@ -1324,7 +1392,7 @@ c) **Prazo:** 5 anos do pagamento indevido (art. 168, I, CTN).
 
 #### 4.20.4 Restituição de contribuições do aposentado que retorna ao trabalho
 
-O aposentado que retorna ao trabalho é segurado obrigatório e contribui normalmente (art. 12, § 4º, Lei 8.212/91). Essas contribuições, contudo, não geram direito a novo benefício (vedação à desaposentação, STF Tema 503). A constitucionalidade dessa cobrança sem contraprestação é controversa. Sustentamos que a exigência cria situação de desequilíbrio jurídico: o aposentado contribui compulsoriamente sem qualquer perspectiva de benefício próprio. Ainda assim, o STF considerou legítima a exigência no julgamento do Tema 503, fundamentando que a contribuição previdenciária tem natureza tributária e solidária — o aposentado contribui para o sistema, não para si.
+O aposentado que retorna ao trabalho é segurado obrigatório e contribui normalmente (art. 12, § 4º, Lei 8.212/91). Essas contribuições, contudo, não geram direito a novo benefício (vedação à desaposentação, STF Tema 503). A questão da legitimidade dessa cobrança sem contraprestação individual está, hoje, juridicamente pacificada: ao apreciar o Tema 503, o STF considerou-a constitucional, fundamentando que a contribuição previdenciária tem natureza tributária e solidária — o aposentado contribui para o sistema, não para si. De lege lata, portanto, a exigência é válida e as ações que a impugnam estão fadadas ao insucesso. Registramos, de lege ferenda, a crítica de que a cobrança gera situação de desequilíbrio para o aposentado, que contribui compulsoriamente sem qualquer perspectiva de benefício próprio — ressalva que, todavia, não infirma a higidez constitucional já reconhecida pela Suprema Corte.
 
 Há, contudo, uma exceção relevante: o aposentado por incapacidade permanente (antiga invalidez) que retorna ao trabalho tem seu benefício cessado (art. 46, Lei 8.213/91). Nesse caso, as contribuições pós-retorno geram direito a novo período de carência e tempo de contribuição, pois o segurado não está mais aposentado.
 
@@ -1333,7 +1401,9 @@ Na prática dos JEFs, surgem demandas de aposentados que pleiteiam a restituiç�
 ::: box-atencao
 **Atenção — Desaposentação vedada (STF Tema 503):**
 
-O STF, no julgamento do RE 661.256 (Tema 503, Rel. Min. Dias Toffoli, j. 26/10/2016, julgado em conjunto com o RE 381.367 e o RE 827.833), fixou que "no âmbito do Regime Geral de Previdência Social — RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, § 2º, da Lei n. 8.213/91." Essa decisão encerrou definitivamente a controvérsia sobre a possibilidade de o aposentado renunciar à aposentadoria para obter outra mais vantajosa, computando as contribuições posteriores.
+O STF, no julgamento do RE 661.256 (Tema 503, j. 26/10/2016, julgado em conjunto com o RE 381.367 e o RE 827.833), fixou que "no âmbito do Regime Geral de Previdência Social — RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, § 2º, da Lei n. 8.213/91." Essa decisão encerrou definitivamente a controvérsia sobre a possibilidade de o aposentado renunciar à aposentadoria para obter outra mais vantajosa, computando as contribuições posteriores.
+
+*Nota sobre a relatoria:* o RE 661.256 foi originalmente distribuído ao Min. Roberto Barroso (relator), prevalecendo, contudo, a divergência inaugurada pelo Min. Teori Zavascki; o acórdão foi redigido pelo Min. Dias Toffoli, designado redator para o acórdão. Por isso, é comum a referência ao Tema 503 sob a relatoria do Min. Dias Toffoli, embora a relatoria originária seja do Min. Roberto Barroso.
 :::
 
 #### 4.20.5 Impacto da restituição no benefício
@@ -1351,7 +1421,7 @@ A GPS é o instrumento de pagamento da contribuição previdenciária para contr
 | 1007 | CI — plano normal | 20% | Trimestral permitido |
 | 1104 | CI, plano normal (trimestral) | 20% | Trimestral sobre SM |
 | 1163 | CI, plano simplificado | 11% | Apenas sobre SM |
-| 1406 | Facultativo, plano normal | 20% |, |
+| 1406 | Facultativo, plano normal | 20% | — |
 | 1473 | Facultativo, simplificado | 11% | Apenas sobre SM |
 | 1929 | Facultativo, baixa renda | 5% | CadÚnico obrigatório |
 | 1910 | MEI, complementação | 15% | Para cômputo TC |
@@ -1535,7 +1605,7 @@ A tutela de urgência em matéria de custeio previdenciário exige cautela redob
 
 As cooperativas de trabalho geram questões específicas de custeio previdenciário. O cooperado que presta serviço por intermédio de cooperativa de trabalho é contribuinte individual (art. 12, V, g, Lei 8.212/91). A contribuição incide sobre a remuneração efetivamente recebida pelo cooperado.
 
-A empresa tomadora de serviços prestados por cooperativa de trabalho contribui com 15% sobre o valor bruto da nota fiscal ou fatura de prestação de serviços (art. 22, IV, Lei 8.212/91 — contribuição patronal sobre cooperativa). Essa alíquota de 15% substituiu a contribuição patronal de 20% que incidiria se o cooperado fosse contratado como CI diretamente pela empresa.
+É essencial advertir, de saída, que a contribuição patronal de 15% da empresa tomadora sobre o valor da nota fiscal de cooperativas de trabalho **não está mais em vigor**: o art. 22, IV, da Lei 8.212/91 foi declarado inconstitucional pelo STF no Tema 166 (RE 595.838, j. 23/04/2014), como detalha o box adiante. A descrição que segue tem, pois, valor histórico e serve à compreensão de períodos pretéritos e da ratio do precedente. Antes da declaração de inconstitucionalidade, a empresa tomadora de serviços prestados por cooperativa de trabalho contribuía com 15% sobre o valor bruto da nota fiscal ou fatura de prestação de serviços (art. 22, IV, Lei 8.212/91 — contribuição patronal sobre cooperativa), alíquota que substituía a contribuição patronal de 20% que incidiria se o cooperado fosse contratado como CI diretamente pela empresa.
 
 ::: box-jurisprudencia
 **STF, RE 595.838 (Tema 166, declaração de inconstitucionalidade parcial)**
@@ -1550,7 +1620,7 @@ A situação do cooperado como segurado é análoga à do CI: deve contribuir co
 Nos JEFs, cooperados frequentemente buscam reconhecimento de vínculo empregatício (descaracterização da relação cooperativa), caso em que as contribuições devem ser recalculadas como se fossem de empregado. A questão é primariamente trabalhista (competência da Justiça do Trabalho), mas repercute na esfera previdenciária quando o cooperado/empregado busca benefício no INSS e o CNIS registra contribuições como CI em vez de empregado.
 
 ::: box-atencao
-**Atenção — Cooperativa "de fachada" e fraude previdenciária:**
+**Cooperativa "de fachada": a fraude que descaracteriza o vínculo**
 
 Algumas empresas constituem cooperativas fictícias para reduzir o custo previdenciário, em vez de contratar empregados (contribuição patronal de 20% + RAT), contratam cooperativa (15% sobre NF). O vínculo de subordinação, habitualidade e pessoalidade descaracteriza a relação cooperativa e configura fraude trabalhista e previdenciária. Nos JEFs, o segurado pode comprovar a fraude e obter o reconhecimento do vínculo empregatício, com reflexos no cálculo do benefício (salário de contribuição mais elevado como empregado do que como cooperado/CI).
 :::
@@ -1622,3 +1692,11 @@ GOES, Hugo. **Manual de Direito Previdenciário.** 19. ed. Rio de Janeiro: Ferre
 SANTOS, Marisa Ferreira dos; CALEJON, Celia. **Direito Previdenciário Esquematizado.** 15. ed. São Paulo: Saraiva, 2025.
 
 VIANNA, Cláudia Salles Vilela. **Previdência Social: Custeio e Benefícios.** 6. ed. São Paulo: LTr, 2025.
+
+#### Jurisprudência (repetitivos sobre base de cálculo da contribuição patronal)
+
+BRASIL. Superior Tribunal de Justiça. **Tema Repetitivo 1.174** (REsp 2.005.029/PR, Rel. Min. Herman Benjamin, 1ª Seção, j. 14/08/2024): as parcelas relativas ao vale-transporte, vale-refeição/alimentação, plano de assistência à saúde, ao IRRF e à contribuição previdenciária dos empregados, descontadas em folha, não integram a base de cálculo da contribuição previdenciária patronal, do SAT e das contribuições a terceiros.
+
+BRASIL. Superior Tribunal de Justiça. **Tema Repetitivo 1.252** (REsp 2.050.498, Rel. Min. Herman Benjamin, 1ª Seção, j. 20/06/2024): incide a contribuição previdenciária patronal sobre o adicional de insalubridade, em razão de sua natureza remuneratória.
+
+BRASIL. Superior Tribunal de Justiça. **Tema Repetitivo 1.342** (REsp 2.191.479, Rel. Min. Maria Thereza de Assis Moura, 1ª Seção, j. 13/08/2025): a remuneração decorrente do contrato de aprendizagem (art. 428 da CLT) integra a base de cálculo da contribuição previdenciária patronal, do GILRAT e das contribuições a terceiros.

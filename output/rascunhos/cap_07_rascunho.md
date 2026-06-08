@@ -13,7 +13,7 @@ O auxílio por incapacidade temporária — denominação atribuída pela Emenda
 
 Em termos quantitativos, o auxílio por incapacidade temporária responde pela maior parcela dos benefícios por incapacidade concedidos pelo INSS, superando a aposentadoria por incapacidade permanente em volume de concessões. Opera na interseção entre a proteção previdenciária e a realidade laboral do segurado, envolvendo questões de avaliação médica, fixação de datas, cálculo de renda, cessação administrativa e judicialização.
 
-O marco normativo do benefício está em constante transformação. Desde a edição da Lei n. 8.213/91, o benefício foi objeto de sucessivas alterações legislativas — com destaque para as Medidas Provisórias 739/2016 e 767/2017, convertida na Lei n. 13.457/2017, que introduziram o sistema de alta programada (COPES); a EC 103/2019, que modificou a nomenclatura e impactou o cálculo do salário de benefício; a Lei n. 13.846/2019, voltada ao combate a fraudes previdenciárias; e, mais recentemente, a Portaria Conjunta MPS/INSS n. 13/2026, que reformulou o sistema Atestmed para análise documental sem perícia presencial. A jurisprudência, por sua vez, consolidou entendimentos fundamentais nos Temas 1.013 e 1.246 do STJ, no Tema 1.196 do STF e nas Súmulas 47, 53, 72 e 78 da TNU, que serão examinados ao longo deste capítulo.
+O marco normativo do benefício está em constante transformação. Desde a edição da Lei n. 8.213/91, o benefício foi objeto de sucessivas alterações legislativas — com destaque para as Medidas Provisórias 739/2016 e 767/2017, convertida na Lei n. 13.457/2017, que introduziram o sistema de alta programada (COPES); a EC 103/2019, que modificou a nomenclatura e impactou o cálculo do salário de benefício; a Lei n. 13.846/2019, voltada ao combate a fraudes previdenciárias; e, mais recentemente, a Portaria Conjunta MPS/INSS n. 13, de 21 de março de 2026, que reformulou o sistema Atestmed para análise documental sem perícia presencial. A jurisprudência, por sua vez, consolidou entendimentos fundamentais nos Temas 1.013 e 1.246 do STJ, no Tema 1.196 do STF e nas Súmulas 47, 53, 72 e 78 da TNU, que serão examinados ao longo deste capítulo.
 
 Este capítulo abrange desde os requisitos legais e a distinção entre as espécies previdenciária e acidentária até as questões de cessação, reabilitação profissional e estratégia processual nos JEFs.
 
@@ -31,7 +31,7 @@ A alteração terminológica promovida pela EC 103/2019, de "auxílio-doença" p
 
 O benefício exerce, ainda, função de ponte entre a incapacidade e a reabilitação (IBRAHIM; BRAGANÇA; FOLMANN, 2025). Nos termos do art. 62 da Lei n. 8.213/91, o segurado em gozo de auxílio por incapacidade temporária que estiver insusceptível de recuperação para sua atividade habitual deverá ser submetido a processo de reabilitação profissional para exercício de outra atividade, mantendo-se o benefício até a conclusão do programa ou até a conversão em aposentadoria por incapacidade permanente. Essa função de ponte confere ao benefício dimensão que transcende a mera substituição de renda: o auxílio por incapacidade temporária é instrumento de proteção social que viabiliza a transição do segurado para uma nova atividade produtiva, preservando sua dignidade e sua inserção no mercado de trabalho.
 
-A distinção conceitual entre o auxílio por incapacidade temporária e a aposentadoria por incapacidade permanente, embora aparentemente simples, temporariedade versus permanência, revela-se complexa na aplicação prática. A fronteira entre as duas espécies é definida pelo prognóstico de recuperação: se há expectativa razoável de que o segurado retome a capacidade laborativa (com ou sem reabilitação), o benefício correto é o auxílio; se a incapacidade é irreversível e omniprofissional, a aposentadoria é devida. Na prática, porém, muitos segurados permanecem em gozo de auxílio por incapacidade temporária por anos consecutivos, em sucessivas prorrogações, sem que o INSS proceda à conversão em aposentadoria ou à efetiva reabilitação — situação que a doutrina denomina "auxílio-doença permanente", paradoxo que evidencia disfuncionalidades pontuais do sistema.
+A distinção conceitual entre o auxílio por incapacidade temporária e a aposentadoria por incapacidade permanente reduz-se, no plano teórico, a um par de opostos — temporariedade versus permanência —, mas é justamente na aplicação prática que ela revela toda a sua complexidade. A fronteira entre as duas espécies é definida pelo prognóstico de recuperação: se há expectativa razoável de que o segurado retome a capacidade laborativa (com ou sem reabilitação), o benefício correto é o auxílio; se a incapacidade é irreversível e omniprofissional — isto é, para toda e qualquer atividade que garanta a subsistência —, a aposentadoria é devida. Na prática, porém, muitos segurados permanecem em gozo de auxílio por incapacidade temporária por anos consecutivos, em sucessivas prorrogações, sem que o INSS proceda à conversão em aposentadoria ou à efetiva reabilitação — situação que a doutrina denomina "auxílio-doença permanente", paradoxo que evidencia disfuncionalidades pontuais do sistema.
 
 ### 7.2 Evolução Legislativa
 
@@ -49,7 +49,7 @@ A Medida Provisória n. 871/2019, convertida na Lei n. 13.846/2019, introduziu n
 
 A EC 103/2019 alterou a nomenclatura do benefício (de "auxílio-doença" para "auxílio por incapacidade temporária") e impactou o cálculo da renda mensal, ao modificar a base de cálculo do salário de benefício, tema que será examinado na seção 7.8.
 
-Mais recentemente, a Portaria Conjunta MPS/INSS n. 83/2025 (confirmar numeração e órgão emissor no DOU) autorizou, em caráter excepcional e transitório, a ampliação do prazo máximo de concessão do auxílio por incapacidade temporária via análise documental (Atestmed) para até 60 dias. A Portaria Conjunta MPS/INSS n. 13/2026 reformulou integralmente o sistema Atestmed, elevando o prazo máximo por análise documental para até 90 dias e fixando o limite acumulado de 180 dias sem perícia presencial.
+Mais recentemente, sucessivos atos infralegais ampliaram o prazo máximo de concessão do auxílio por incapacidade temporária via análise documental (Atestmed). A Portaria Conjunta MPS/INSS n. 13, de 21 de março de 2026, reformulou integralmente o sistema, elevando o prazo máximo por análise documental para até 90 dias e fixando o limite acumulado de 180 dias sem perícia presencial.
 
 ### 7.3 Requisitos Legais
 
@@ -71,7 +71,7 @@ Quando o segurado perde a qualidade e posteriormente se refilia ao RGPS, aplica-
 
 #### 7.3.4 Incapacidade para o Trabalho ou Atividade Habitual
 
-O requisito nuclear do benefício é a incapacidade para o trabalho ou para a atividade habitual do segurado. Diferentemente da aposentadoria por incapacidade permanente, que exige incapacidade omniprofissional (para qualquer atividade que garanta a subsistência), o auxílio por incapacidade temporária exige apenas incapacidade para a atividade habitual, ou seja, aquela efetivamente exercida pelo segurado no momento do surgimento da incapacidade.
+O requisito nuclear do benefício é a incapacidade para o trabalho ou para a atividade habitual do segurado. Diferentemente da aposentadoria por incapacidade permanente, que exige incapacidade omniprofissional, o auxílio por incapacidade temporária exige apenas incapacidade para a atividade habitual, ou seja, aquela efetivamente exercida pelo segurado no momento do surgimento da incapacidade.
 
 Essa distinção possui consequências práticas relevantes. Um pedreiro com fratura no braço está incapacitado para sua atividade habitual (construção civil), ainda que pudesse, em tese, exercer atividade sedentária. Nessa hipótese, faz jus ao auxílio por incapacidade temporária, pois a análise é restrita à atividade habitual. Já para a aposentadoria por incapacidade permanente, seria necessário demonstrar que a incapacidade o impede de exercer qualquer atividade remunerada que lhe garanta o sustento.
 
@@ -81,23 +81,23 @@ A definição de "atividade habitual" deve considerar não apenas a profissão f
 
 O art. 59, caput, da Lei n. 8.213/91 exige que a incapacidade perdure por mais de 15 dias consecutivos. Para o segurado empregado, os primeiros 15 dias de afastamento são de responsabilidade do empregador, que deve pagar a remuneração integral (art. 60, § 3º, da Lei n. 8.213/91). O benefício previdenciário é devido a partir do 16º dia de afastamento.
 
-A Lei n. 13.457/2017 acrescentou o § 4º ao art. 60, estabelecendo que, quando a incapacidade decorrer de uma mesma doença, os períodos de afastamento inferiores a 15 dias podem ser somados se, dentro do intervalo de 60 dias, perfizerem mais de 15 dias no total. Essa regra visa impedir a fragmentação de afastamentos — situação em que o empregado se afasta repetidamente por períodos curtos pela mesma patologia, sem que nenhum deles, isoladamente, supere o prazo legal.
+A Lei n. 13.457/2017 deu nova redação ao § 4º do art. 60, disciplinando a hipótese de nova incapacidade decorrente da mesma doença. Estabelece o dispositivo que, sobrevindo nova incapacidade pela mesma doença dentro de 60 dias contados da cessação do benefício anterior, a empresa fica desobrigada do pagamento relativo aos 15 primeiros dias de afastamento, prorrogando-se o benefício anteriormente concedido e descontando-se os dias eventualmente trabalhados no intervalo. Não se trata, como por vezes se supõe, de mera soma aritmética de janelas curtas até perfazer 15 dias: o que a norma faz é reabrir ou prorrogar o mesmo benefício, dispensando novo período de carência do segurado e nova responsabilidade patronal pelos 15 dias, sempre que a recidiva ocorra na curta janela de 60 dias e tenha por causa a mesma patologia. A finalidade é evitar que a fragmentação de afastamentos sucessivos pela mesma doença, dentro de período exíguo, gere ônus repetido para a empresa e descontinuidade na proteção do segurado.
 
 ::: box-atencao
-Para os demais segurados (contribuinte individual, trabalhador avulso, segurado especial, segurado facultativo), o benefício é devido desde a data do início da incapacidade (art. 60, § 1º), pois não existe a figura do "empregador" responsável pelos primeiros 15 dias. Nesses casos, não se aplica a regra do 16º dia — o benefício começa na DII, observada a data do requerimento administrativo como limite para a retroação dos efeitos financeiros.
+Para os demais segurados (contribuinte individual, trabalhador avulso, segurado especial, segurado facultativo), o benefício é devido desde a data do início da incapacidade. Essa regra não decorre do § 1º do art. 60 — que trata especificamente do requerimento após o 30º dia —, mas da própria sistemática do caput do art. 60 conjugada com a inexistência, para esses segurados, da figura do "empregador" responsável pelos primeiros 15 dias de afastamento. Não havendo quem responda pelo período inicial, não há por que aplicar a regra do 16º dia: o benefício começa na DII, observada a data do requerimento administrativo como limite para a retroação dos efeitos financeiros, na forma adiante examinada (seção 7.6.2).
 :::
 
 ### 7.4 Espécies: Previdenciário (B31) e Acidentário (B91)
 
-O auxílio por incapacidade temporária desdobra-se, conforme a doutrina (IBRAHIM; BRAGANÇA; FOLMANN, 2025; SANTOS; CALEJON, 2025), em duas espécies conforme a origem da incapacidade: o auxílio por incapacidade temporária previdenciário (espécie B31) e o auxílio por incapacidade temporária acidentário (espécie B91). A distinção, aparentemente simples — o B31 decorre de doença ou acidente comum, enquanto o B91 decorre de acidente do trabalho, doença profissional ou doença do trabalho —, produz consequências jurídicas substanciais que justificam tratamento pormenorizado.
+O auxílio por incapacidade temporária desdobra-se, conforme a doutrina (IBRAHIM; BRAGANÇA; FOLMANN, 2025; SANTOS; CALEJON, 2025), em duas espécies conforme a origem da incapacidade: o auxílio por incapacidade temporária previdenciário (espécie B31) e o auxílio por incapacidade temporária acidentário (espécie B91). A linha divisória é, à primeira vista, trivial — o B31 decorre de doença ou acidente comum, enquanto o B91 decorre de acidente do trabalho, doença profissional ou doença do trabalho —, mas dela derivam consequências jurídicas substanciais que justificam tratamento pormenorizado.
 
 #### 7.4.1 Diferenças Fundamentais
 
-A primeira diferença concerne à carência. O auxílio acidentário (B91) dispensa carência integralmente (art. 26, II, Lei n. 8.213/91), enquanto o previdenciário (B31) exige, em regra, 12 contribuições mensais, ressalvadas as hipóteses de dispensa já examinadas.
+A diferença mais imediata concerne à carência. O auxílio acidentário (B91) dispensa carência integralmente (art. 26, II, Lei n. 8.213/91), enquanto o previdenciário (B31) exige, em regra, 12 contribuições mensais, ressalvadas as hipóteses de dispensa já examinadas.
 
-A segunda diferença refere-se aos efeitos trabalhistas. O segurado empregado que recebe auxílio acidentário (B91) goza de estabilidade provisória no emprego pelo prazo mínimo de 12 meses após a cessação do benefício, nos termos do art. 118 da Lei n. 8.213/91. Essa garantia não se aplica ao beneficiário do B31. Além disso, durante o afastamento por B91, o empregador deve continuar depositando o FGTS na conta vinculada do trabalhador (art. 15, § 5º, da Lei n. 8.036/90), obrigação inexistente no caso do B31.
+No plano trabalhista, a distinção é igualmente sensível. O segurado empregado que recebe auxílio acidentário (B91) goza de estabilidade provisória no emprego pelo prazo mínimo de 12 meses após a cessação do benefício, nos termos do art. 118 da Lei n. 8.213/91. Essa garantia não se aplica ao beneficiário do B31. Além disso, durante o afastamento por B91, o empregador deve continuar depositando o FGTS na conta vinculada do trabalhador (art. 15, § 5º, da Lei n. 8.036/90), obrigação inexistente no caso do B31.
 
-A terceira diferença diz respeito à competência jurisdicional. As ações relativas a acidente do trabalho contra o INSS são de competência da Justiça Estadual (art. 109, I, da CF/88), enquanto as demandas referentes ao B31 são processadas perante a Justiça Federal (ou os Juizados Especiais Federais, quando o valor da causa não exceder 60 salários mínimos). Essa regra comporta exceção quando a demanda envolve pretensão de conversão do benefício de B31 para B91: se o pedido principal é a conversão, a competência é da Justiça Estadual; se a conversão é pedido acessório em ação de concessão perante a Justiça Federal, há controvérsia jurisprudencial.
+Há, ainda, repercussão sobre a competência jurisdicional. As ações relativas a acidente do trabalho contra o INSS são de competência da Justiça Estadual (art. 109, I, da CF/88), enquanto as demandas referentes ao B31 são processadas perante a Justiça Federal (ou os Juizados Especiais Federais, quando o valor da causa não exceder 60 salários mínimos). Essa regra comporta exceção quando a demanda envolve pretensão de conversão do benefício de B31 para B91: se o pedido principal é a conversão, a competência é da Justiça Estadual; se a conversão é pedido acessório em ação de concessão perante a Justiça Federal, há controvérsia jurisprudencial.
 
 ::: box-jurisprudencia
 A competência da Justiça Estadual para as ações de acidente do trabalho contra o INSS decorre do art. 109, I, da CF/88, que exclui da competência da Justiça Federal "as causas relativas a falências, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho". O STF, na Súmula 501, consolidou que "compete à Justiça Ordinária Estadual o processo e o julgamento, em ambas as instâncias, das causas de acidente do trabalho, ainda que promovidas contra a União, suas autarquias, empresas públicas ou sociedades de economia mista". Não obstante, quando a ação é proposta perante o JEF com pedido de concessão de auxílio por incapacidade temporária e, no curso do processo, a perícia identifica nexo ocupacional, a conversão de espécie (B31 para B91) pode ser determinada pelo próprio juízo federal como questão incidental, sem deslocamento de competência, segundo orientação dominante nos Tribunais Regionais Federais.
@@ -107,7 +107,7 @@ A competência da Justiça Estadual para as ações de acidente do trabalho cont
 
 A identificação da natureza acidentária do benefício foi modificada pela Lei n. 11.430/2006, regulamentada pelo Decreto n. 6.042/2007, que instituiu o Nexo Técnico Epidemiológico Previdenciário (NTEP). Trata-se de instrumento de presunção relativa do nexo causal entre a doença e o trabalho, baseado na correlação estatística entre o código CID-10 da patologia e a atividade econômica da empresa (código CNAE).
 
-Quando o NTEP é aplicado, presume-se que a incapacidade tem origem ocupacional, invertendo-se o ônus da prova (CASTRO; LAZZARI, 2025; KERTZMAN, 2025): cabe à empresa demonstrar que a doença não possui nexo com o trabalho. Essa inversão representou avanço significativo na proteção do trabalhador, que anteriormente enfrentava a difícil tarefa de provar o nexo causal em doenças de natureza multifatorial (como lesões por esforço repetitivo, distúrbios osteomusculares e transtornos mentais relacionados ao trabalho).
+Quando o NTEP é aplicado, presume-se que a incapacidade tem origem ocupacional, invertendo-se o ônus da prova (CASTRO; LAZZARI, 2025; KERTZMAN, 2025): cabe à empresa demonstrar que a doença não possui nexo com o trabalho. Essa inversão deslocou para o empregador o ônus que antes recaía sobre o trabalhador, a quem cabia a difícil tarefa de provar o nexo causal em doenças de natureza multifatorial (como lesões por esforço repetitivo, distúrbios osteomusculares e transtornos mentais relacionados ao trabalho).
 
 O empregador que discordar do enquadramento pelo NTEP pode apresentar impugnação administrativa ao INSS, no prazo de 15 dias da ciência da decisão, instruída com documentação técnica que demonstre a inexistência do nexo. A decisão administrativa é passível de recurso ao Conselho de Recursos da Previdência Social (CRPS).
 
@@ -129,16 +129,16 @@ Na prática pericial, a distinção entre incapacidade para a atividade habitual
 
 #### 7.5.2 Transtornos Mentais e a Nova Epidemiologia da Incapacidade
 
-Fenômeno de crescente relevância nos JEFs, já destacado por Savaris (2019) e Porto (2024), é o aumento expressivo dos afastamentos por transtornos mentais e comportamentais. Os dados administrativos do INSS revelam que transtornos depressivos (CID F32-F33), transtornos de ansiedade (CID F41), reações ao estresse grave e transtornos de adaptação (CID F43), incluindo a síndrome de burnout (esgotamento profissional), classificada pela OMS como CID-11 QD85, figuram entre as principais causas de concessão de auxílio por incapacidade temporária na última década.
+Fenômeno de crescente relevância nos JEFs, já destacado por Savaris (2019) e Porto (2024), é o aumento expressivo dos afastamentos por transtornos mentais e comportamentais. Os dados administrativos do INSS revelam que transtornos depressivos (CID F32-F33), transtornos de ansiedade (CID F41), reações ao estresse grave e transtornos de adaptação (CID F43), incluindo a síndrome de burnout (esgotamento profissional), figuram entre as principais causas de concessão de auxílio por incapacidade temporária na última década. Convém registrar, desde logo, que o sistema previdenciário brasileiro ainda opera com a CID-10, na qual o burnout é codificado como Z73.0; a CID-11, que individualizou a síndrome no código QD85, embora em vigor internacionalmente desde 2022, não foi plenamente adotada pelo INSS para fins de enquadramento.
 
-A avaliação da incapacidade por transtornos mentais apresenta desafios específicos. Diferentemente de patologias ortopédicas ou cardiológicas, em que exames complementares objetivos (radiografias, eletrocardiogramas) podem atestar a limitação funcional, os transtornos mentais dependem preponderantemente de avaliação clínica — anamnese, entrevista psiquiátrica, aplicação de escalas validadas. A subjetividade inerente a essa avaliação gera divergências frequentes entre o perito administrativo (que dispõe de tempo limitado para o exame), o médico assistente (que acompanha o paciente longitudinalmente) e o perito judicial.
+A avaliação da incapacidade por transtornos mentais impõe dificuldades próprias. Diferentemente de patologias ortopédicas ou cardiológicas, em que exames complementares objetivos (radiografias, eletrocardiogramas) podem atestar a limitação funcional, os transtornos mentais dependem preponderantemente de avaliação clínica — anamnese, entrevista psiquiátrica, aplicação de escalas validadas. A subjetividade inerente a essa avaliação gera divergências frequentes entre o perito administrativo (que dispõe de tempo limitado para o exame), o médico assistente (que acompanha o paciente longitudinalmente) e o perito judicial.
 
 A especificidade dos transtornos mentais exige adaptação dos critérios tradicionais de avaliação da incapacidade. Não basta verificar se o segurado possui capacidade física para uma atividade laborativa; é necessário avaliar se ele consegue manter concentração, interação social, tomada de decisão e resiliência emocional nas condições reais do ambiente de trabalho. A Classificação Internacional de Funcionalidade (CIF) da OMS oferece arcabouço metodológico adequado, pois considera não apenas a deficiência (alteração da função corporal), mas também as limitações de atividade e as restrições de participação social, à luz dos fatores ambientais e pessoais.
 
-Nos JEFs, a boa prática recomenda a nomeação de perito psiquiatra quando a patologia predominante for de natureza mental, evitando-se a perícia por clínico geral para quadros psiquiátricos complexos. Os quesitos devem contemplar: (a) diagnóstico psiquiátrico segundo a CID-10; (b) grau de comprometimento funcional nas atividades de vida diária e laborativa; (c) prognóstico com e sem tratamento adequado; (d) se o segurado está em acompanhamento psiquiátrico/psicológico e se a adesão ao tratamento é satisfatória; (e) se há risco de agravamento pelo retorno imediato ao trabalho.
+Na rotina dos Juizados, temos por boa prática a nomeação de perito psiquiatra quando a patologia predominante for de natureza mental, evitando-se a perícia por clínico geral para quadros psiquiátricos complexos. Os quesitos devem contemplar: (a) diagnóstico psiquiátrico segundo a CID-10; (b) grau de comprometimento funcional nas atividades de vida diária e laborativa; (c) prognóstico com e sem tratamento adequado; (d) se o segurado está em acompanhamento psiquiátrico/psicológico e se a adesão ao tratamento é satisfatória; (e) se há risco de agravamento pelo retorno imediato ao trabalho.
 
 ::: box-atencao
-A síndrome de burnout (esgotamento profissional), reconhecida pela OMS na CID-11 como fenômeno ocupacional, apresenta peculiaridade relevante para o enquadramento do benefício: quando o burnout é a causa da incapacidade, há fundamento para a concessão do benefício na espécie acidentária (B91), e não previdenciária (B31), por se tratar de doença relacionada ao trabalho. O enquadramento correto da espécie é essencial para assegurar ao segurado a estabilidade provisória de 12 meses e o depósito do FGTS durante o afastamento. Na via judicial, a perícia deve investigar o nexo causal entre as condições de trabalho e o desenvolvimento do burnout, podendo-se aplicar o NTEP quando a correlação CID × CNAE assim indicar. **Nota**: O INSS ainda opera com a CID-10, na qual o burnout é classificado como Z73.0. A CID-11 (QD85), embora em vigor internacionalmente desde 2022, ainda não foi plenamente adotada pelo sistema previdenciário brasileiro.
+A síndrome de burnout (esgotamento profissional), reconhecida pela OMS como fenômeno ocupacional, apresenta peculiaridade relevante para o enquadramento do benefício: quando o burnout é a causa da incapacidade, há fundamento defensável, embora controvertido, para a concessão do benefício na espécie acidentária (B91), e não previdenciária (B31), por se sustentar tratar-se de doença relacionada ao trabalho. O enquadramento da espécie repercute diretamente na garantia da estabilidade provisória de 12 meses e do depósito do FGTS durante o afastamento. Na via judicial, a perícia deve investigar o nexo causal entre as condições de trabalho e o desenvolvimento do burnout, podendo-se aplicar o NTEP quando a correlação CID × CNAE assim indicar. Registre-se, porém, que o INSS ainda codifica o quadro pela CID-10 (Z73.0), o que pode dificultar, na esfera administrativa, o reconhecimento automático do nexo ocupacional.
 :::
 
 #### 7.5.3 Perícia Médica: Procedimento e Valoração
@@ -157,13 +157,13 @@ A formulação de quesitos na perícia judicial dos JEFs é decisiva para a qual
 
 O Atestmed, análise documental para concessão de benefício por incapacidade sem perícia presencial, representa inovação significativa no procedimento administrativo do INSS. Originalmente concebido como medida emergencial durante a pandemia de COVID-19, o sistema foi aperfeiçoado e incorporado definitivamente ao fluxo de concessão.
 
-Na versão atualizada pela Portaria Conjunta MPS/INSS n. 13/2026, o Atestmed permite a concessão do auxílio por incapacidade temporária por até 90 dias em cada análise, com limite acumulado de 180 dias sem perícia presencial. O segurado apresenta atestado médico e documentação clínica pelo sistema Meu INSS, e a decisão (concessão ou indeferimento) é proferida por perito médico federal com base exclusivamente na documentação. Se o prazo de 90 dias for insuficiente, o pedido de prorrogação exige perícia presencial.
+Na versão atualizada pela Portaria Conjunta MPS/INSS n. 13, de 21 de março de 2026, o Atestmed permite a concessão do auxílio por incapacidade temporária por até 90 dias em cada análise, com limite acumulado de 180 dias sem perícia presencial. O segurado apresenta atestado médico e documentação clínica pelo sistema Meu INSS, e a decisão (concessão ou indeferimento) é proferida por perito médico federal com base exclusivamente na documentação. Se o prazo de 90 dias for insuficiente, o pedido de prorrogação exige perícia presencial.
 
 O Atestmed representou ganho de eficiência na tramitação dos requerimentos, reduzindo filas e prazos de espera que historicamente constituíam obstáculo ao acesso efetivo à proteção previdenciária. Contudo, a análise exclusivamente documental carrega limitações inerentes: o perito não examina fisicamente o segurado, o que pode resultar em subavaliação da incapacidade (especialmente em patologias de difícil objetivação, como dor crônica e transtornos mentais) ou, inversamente, em concessão de prazos incompatíveis com a gravidade real do quadro.
 
 #### 7.5.5 Doença Preexistente e Progressão/Agravamento
 
-O art. 59, parágrafo único, da Lei n. 8.213/91 (incluído pela Lei n. 13.846/2019, correspondente ao art. 42, § 2º, para a aposentadoria por incapacidade permanente) estabelece que não será devido o auxílio por incapacidade temporária ao segurado que se filiar ao RGPS já portador da doença ou da lesão invocada como causa para o benefício, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão (IBRAHIM; BRAGANÇA; FOLMANN, 2025).
+O art. 59, parágrafo único, da Lei n. 8.213/91 (redação original) estabelece que não será devido o auxílio por incapacidade temporária ao segurado que se filiar ao RGPS já portador da doença ou da lesão invocada como causa para o benefício, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão (IBRAHIM; BRAGANÇA; FOLMANN, 2025). Trata-se de regra análoga à do art. 42, § 2º, da mesma Lei, aplicável à aposentadoria por incapacidade permanente.
 
 A norma consagra distinção fundamental, já examinada no Capítulo 3: doença preexistente não se confunde com incapacidade preexistente. O dado juridicamente relevante é o momento em que se iniciou a incapacidade (DII), e não o momento em que a doença foi diagnosticada (DID). Se o segurado já era portador da doença ao filiar-se, mas a incapacidade só sobreveio posteriormente, por progressão natural da patologia ou por agravamento decorrente das condições de trabalho, o benefício é devido.
 
@@ -181,7 +181,7 @@ Quando o empregado requerer o benefício após o 30º dia do afastamento, a DIB 
 
 #### 7.6.2 Demais Segurados
 
-Conforme examinado na seção 7.3.5, os demais segurados (contribuinte individual, trabalhador avulso, segurado especial e segurado facultativo) recebem o benefício desde a DII (art. 60, § 1º). Se o requerimento for apresentado após o 30.o dia da incapacidade, a DIB será fixada na DER.
+Conforme examinado na seção 7.3.5, os demais segurados (contribuinte individual, trabalhador avulso, segurado especial e segurado facultativo) recebem o benefício desde a DII — solução que deriva do caput do art. 60 e da ausência de empregador responsável pelos 15 dias iniciais, não de regra autônoma do § 1º. A esse parágrafo reserva-se hipótese diversa: se o requerimento for apresentado após o 30º dia da incapacidade, a DIB será fixada na DER, e não na DII (art. 60, § 1º). O dispositivo opera, assim, como regra de limitação temporal da retroação, e não como fonte do início do benefício na DII.
 
 #### 7.6.3 DIB na Via Judicial
 
@@ -203,13 +203,15 @@ O sistema de alta programada foi instituído pelos §§ 8º e 9º do art. 60 da 
 
 O segurado que se mantiver incapacitado ao final do prazo estimado pode solicitar prorrogação, mediante pedido formulado nos 15 dias anteriores à DCB. Se a prorrogação for indeferida, o segurado pode apresentar pedido de reconsideração ou recurso ao Conselho de Recursos da Previdência Social (CRPS), no prazo de 30 dias.
 
+A sistemática da alta programada conta, ainda, com regra supletiva de aplicação cotidiana nos JEFs. Nos termos do art. 60, § 9º, da Lei n. 8.213/91, na ausência de fixação do prazo de que trata o § 8º — isto é, quando o perito do INSS concede o benefício sem estipular a data de cessação —, o benefício cessa após o prazo de 120 dias, contado da concessão ou da reativação, salvo se o segurado requerer a sua prorrogação. Na prática, examinamos com frequência cessações automáticas operadas com base nesse prazo supletivo: quando a carta de concessão não traz DCB expressa, a verificação da legalidade da cessação passa por confrontar a data de cessação efetivamente lançada no sistema com o termo legal de 120 dias e, sobretudo, por aferir se o segurado foi cientificado e teve oportunidade de requerer a prorrogação. A cessação operada antes de exaurido o prazo supletivo, ou sem ciência adequada ao segurado, é impugnável.
+
 A grande controvérsia em torno da alta programada residia em sua constitucionalidade. Argumentava-se que a cessação automática, sem nova avaliação médica, violaria os princípios da dignidade humana e da proteção social, pois submeteria o segurado ao risco de perder o benefício sem que sua capacidade laborativa houvesse sido efetivamente atestada. A questão foi pacificada pelo STF no julgamento do Tema 1.196 da repercussão geral.
 
 #### 7.7.2 STF Tema 1.196: Constitucionalidade da Alta Programada
 
 O Supremo Tribunal Federal, no julgamento do RE 1.347.526 (Tema 1.196 da repercussão geral), concluído em sessão virtual em 15 de setembro de 2025, declarou, por unanimidade, a constitucionalidade da alta programada. A tese fixada pelo relator, Ministro Cristiano Zanin, foi: "Não viola os artigos 62, caput e § 1º, e 246 da Constituição Federal a estipulação de prazo estimado para a duração de benefício de auxílio-doença, conforme estabelecido nos §§ 8º e 9º do art. 60 da Lei 8.213/1991, com redação dada pelas medidas provisórias 739/2016 e 767/2017, esta última convertida na Lei 13.457/2017."
 
-O STF entendeu que a alta programada constitui opção legislativa legítima voltada à racionalização e à eficiência do sistema previdenciário. O sistema não impede a continuidade da proteção — o segurado que permanece incapacitado pode solicitar prorrogação ilimitadamente, mantendo o fluxo contínuo de pagamentos. A DCB funciona como data-limite presumida, não como cessação definitiva.
+O STF entendeu que a alta programada constitui opção legislativa legítima voltada à racionalização e à eficiência do sistema previdenciário. O sistema não impede a continuidade da proteção: o segurado que permanece incapacitado pode formular prorrogações sucessivas, sem limite legal de número, mantendo-se o pagamento enquanto a perícia atestar a permanência da incapacidade. Convém não ler nessa abertura uma garantia de manutenção incondicional do benefício — a continuidade do fluxo de pagamentos depende, a cada pedido, de avaliação pericial favorável. A DCB funciona, portanto, como data-limite presumida, e não como cessação definitiva nem como pagamento perpétuo.
 
 ::: box-atencao
 Com o julgamento do Tema 1.196/STF, a constitucionalidade da alta programada está pacificada com efeito vinculante. Nos JEFs, não é mais viável a tese de inconstitucionalidade do sistema COPES. A estratégia processual deve focar na inadequação da DCB fixada no caso concreto, demonstrando, por perícia judicial, que o prazo estimado é insuficiente para a recuperação, e não na invalidade abstrata do sistema. Quando a perícia judicial fixar prazo de incapacidade superior à DCB administrativa, o juiz deve determinar a prorrogação até a data indicada pelo perito, sem necessidade de declarar inconstitucionalidade.
@@ -219,7 +221,7 @@ Com o julgamento do Tema 1.196/STF, a constitucionalidade da alta programada est
 
 O segurado cujo benefício está próximo da DCB e que se mantém incapacitado dispõe de três vias administrativas: prorrogação, pedido de reconsideração e recurso.
 
-A prorrogação deve ser solicitada nos 15 dias que antecedem a DCB, pelo sistema Meu INSS ou por telefone (135). Enquanto a prorrogação estiver em análise, o pagamento do benefício é mantido. Após a Portaria Conjunta MPS/INSS n. 13/2026, se o benefício original foi concedido via Atestmed e o acumulado não ultrapassou 180 dias, a prorrogação pode ser decidida documentalmente; caso contrário, exige-se perícia presencial.
+A prorrogação deve ser solicitada nos 15 dias que antecedem a DCB, pelo sistema Meu INSS ou por telefone (135). Enquanto a prorrogação estiver em análise, o pagamento do benefício é mantido. Após a Portaria Conjunta MPS/INSS n. 13, de 21 de março de 2026, se o benefício original foi concedido via Atestmed e o acumulado não ultrapassou 180 dias, a prorrogação pode ser decidida documentalmente; caso contrário, exige-se perícia presencial.
 
 O pedido de reconsideração cabe quando o benefício já foi cessado (DCB expirada) e o segurado apresenta fato novo ou documentação médica atualizada que demonstre a continuidade da incapacidade. O prazo é de 30 dias da ciência da cessação.
 
@@ -231,7 +233,7 @@ As regras gerais de apuração do salário de benefício — período básico de
 
 #### 7.8.1 Coeficiente de 91%
 
-A renda mensal do auxílio por incapacidade temporária corresponde a 91% do salário de benefício (art. 61, Lei 8.213/91). O coeficiente é fixo — não varia conforme tempo de contribuição ou idade. O valor não pode ser inferior ao salário mínimo (art. 201, § 2º, CF/88) nem superior ao teto do RGPS (em 2026, R$ 8.475,55, conforme Portaria MPS n. 02/2026 — confirmar publicação oficial antes da impressão).
+A renda mensal do auxílio por incapacidade temporária corresponde a 91% do salário de benefício (art. 61, Lei 8.213/91). O coeficiente é fixo — não varia conforme tempo de contribuição ou idade. O valor não pode ser inferior ao salário mínimo (art. 201, § 2º, CF/88) nem superior ao teto do RGPS (em 2026, R$ 8.475,55).
 
 #### 7.8.2 Divergência sobre a Aplicabilidade do Art. 26 da EC 103/2019
 
@@ -319,7 +321,7 @@ O descumprimento da cota sujeita a empresa a multa administrativa, aplicada pela
 
 #### 7.12.4 Limitações Práticas do Programa
 
-Não obstante o arcabouço normativo robusto, o programa de reabilitação profissional do INSS enfrenta limitações práticas significativas que comprometem sua efetividade. A insuficiência de equipes multidisciplinares nas agências do INSS, a escassez de convênios com instituições de formação profissional e a padronização excessiva dos programas, que frequentemente se limitam a cursos genéricos de informática ou artesanato, desconectados das aptidões e limitações do segurado — são deficiências recorrentemente apontadas pela doutrina e pela jurisprudência.
+Não obstante a previsão legal detalhada, o programa de reabilitação profissional do INSS enfrenta limitações práticas que comprometem sua efetividade. A insuficiência de equipes multidisciplinares nas agências do INSS, a escassez de convênios com instituições de formação profissional e a padronização excessiva dos programas, que frequentemente se limitam a cursos genéricos de informática ou artesanato, desconectados das aptidões e limitações do segurado — são deficiências recorrentemente apontadas pela doutrina e pela jurisprudência.
 
 O perfil socioeconômico predominante dos segurados que necessitam de reabilitação, trabalhadores manuais de baixa escolaridade, com idade superior a 40 anos e limitações físicas residuais, exige programas de requalificação adaptados à realidade do mercado de trabalho local. A oferta de curso de informática a um segurado analfabeto funcional, por exemplo, não constitui reabilitação efetiva, pois não proporciona real capacidade de reinserção profissional.
 
@@ -347,9 +349,9 @@ Na hipótese de o segurado não ter recebido auxílio por incapacidade temporár
 
 #### 7.13.2 Inacumulabilidade
 
-O art. 124, inciso V, da Lei n. 8.213/91 veda a acumulação de auxílio por incapacidade temporária com auxílio-acidente, quando o auxílio-acidente se referir à mesma lesão que originou o afastamento. A inacumulabilidade é específica: se o auxílio-acidente decorrer de lesão anterior e o auxílio por incapacidade temporária referir-se a patologia distinta, a acumulação é possível.
+A vedação de acumulação entre o auxílio por incapacidade temporária e o auxílio-acidente, quando este se referir à mesma lesão que originou o afastamento, decorre da conjugação do art. 124, caput e parágrafo único, da Lei n. 8.213/91 (que veda, como regra, o recebimento conjunto de mais de um benefício à conta do RGPS, ressalvadas as hipóteses de cumulação previstas em lei) com o art. 86, § 2º, da mesma Lei, na redação dada pela Lei n. 9.528/1997, segundo o qual o auxílio-acidente é devido a partir do dia seguinte ao da cessação do auxílio-doença que lhe deu origem. Preferimos ancorar a inacumulabilidade nesses dispositivos, e não em inciso isolado do art. 124, porque a impossibilidade de coexistência temporal entre as duas prestações é, antes de tudo, consequência da própria sistemática indenizatória do auxílio-acidente: ele pressupõe a consolidação das lesões e a cessação do benefício por incapacidade que lhe é anterior. A inacumulabilidade, portanto, é específica: se o auxílio-acidente decorrer de lesão anterior e consolidada, e o auxílio por incapacidade temporária referir-se a patologia distinta e superveniente, a acumulação é possível, pois não há a mesma lesão a unificar as prestações.
 
-Quanto à acumulação do auxílio-acidente com aposentadoria, a Lei n. 9.528/1997 alterou o art. 86, § 2º, da Lei n. 8.213/91, vedando a acumulação para auxílios-acidente concedidos após sua vigência. Para os concedidos anteriormente, a acumulação permanece.
+Quanto à acumulação do auxílio-acidente com aposentadoria, a Lei n. 9.528/1997 introduziu a vedação por meio do art. 86, § 2º e § 3º, da Lei n. 8.213/91, c/c o art. 124, parágrafo único, impedindo o recebimento conjunto para os auxílios-acidente cujo fato gerador seja posterior à sua vigência. Para os anteriores, a acumulação permanece, observada a regra de transição reconhecida pela jurisprudência (que toma por marco a data do acidente ou da consolidação das lesões, e não a do requerimento).
 
 ### 7.14 Questões Processuais nos JEFs
 
@@ -377,7 +379,7 @@ A fungibilidade entre benefícios por incapacidade é princípio consolidado nos
 
 #### 7.14.4 Honorários Periciais e Sucumbência
 
-Nos JEFs, não há condenação em honorários advocatícios quando a sentença é favorável ao segurado (art. 55, caput, da Lei n. 9.099/95 c/c art. 1º da Lei n. 10.259/2001). Os honorários periciais são pagos pela Justiça Federal, nos termos da Resolução CJF n. 558/2024 (que atualizou os valores e procedimentos anteriormente previstos na Resolução 305/2014), quando a parte autora é beneficiária da justiça gratuita — o que é a regra nas ações previdenciárias. Quando a sentença é desfavorável ao segurado, incide a condenação em honorários advocatícios e custas, ficando a execução suspensa enquanto o beneficiário mantiver a condição de hipossuficiente (art. 98, § 3º, CPC).
+No microssistema dos Juizados, não há condenação em honorários advocatícios quando a sentença é favorável ao segurado (art. 55, caput, da Lei n. 9.099/95 c/c art. 1º da Lei n. 10.259/2001). Os honorários periciais são pagos pela Justiça Federal, nos termos da Resolução CJF n. 558/2024 (que atualizou os valores e procedimentos anteriormente previstos na Resolução 305/2014), quando a parte autora é beneficiária da justiça gratuita — o que é a regra nas ações previdenciárias. Quando a sentença é desfavorável ao segurado, incide a condenação em honorários advocatícios e custas, ficando a execução suspensa enquanto o beneficiário mantiver a condição de hipossuficiente (art. 98, § 3º, CPC).
 
 #### 7.14.5 Efeitos da Sentença e Implantação do Benefício
 
@@ -458,7 +460,7 @@ Admite-se, contudo, a acumulação do auxílio por incapacidade temporária com:
 **Fórmula de cálculo:**
 - DII antes de 13/11/2019: Média dos 80% maiores SC × 91%
 - DII a partir de 13/11/2019: Média de 100% dos SC × 91%
-- Teto 2026: R$ 8.475,55 (confirmar portaria oficial) | Piso: salário mínimo
+- Teto 2026: R$ 8.475,55 | Piso: salário mínimo (R$ 1.621,00)
 :::
 
 ### 7.20 Aspectos Práticos da Concessão Administrativa
@@ -483,9 +485,9 @@ O segurado que tiver seu benefício indeferido administrativamente deve observar
 
 O auxílio por incapacidade temporária responde à contingência mais comum do trabalhador brasileiro e concentra a maior parcela do contencioso previdenciário nos JEFs. A legislação dos últimos anos alterou o cálculo (EC 103/2019), a duração (alta programada/COPES, constitucionalizada pelo STF no Tema 1.196) e o procedimento de concessão (Atestmed), exigindo do operador do direito atualização permanente.
 
-A distinção entre as espécies previdenciária (B31) e acidentária (B91) é negligenciada com mais frequência do que deveria na prática forense. As consequências em matéria de carência, estabilidade, FGTS e competência jurisdicional são relevantes demais para ficarem em segundo plano. O nexo técnico epidemiológico previdenciário (NTEP) representou avanço na identificação da natureza ocupacional das doenças, embora sua aplicação ainda enfrente resistências e impugnações.
+Observamos, na prática forense, que a distinção entre as espécies previdenciária (B31) e acidentária (B91) é negligenciada com mais frequência do que deveria. As consequências em matéria de carência, estabilidade, FGTS e competência jurisdicional são relevantes demais para ficarem em segundo plano. O nexo técnico epidemiológico previdenciário (NTEP) representou avanço na identificação da natureza ocupacional das doenças, embora sua aplicação ainda enfrente resistências e impugnações.
 
-O programa de reabilitação profissional (arts. 89 a 93, Lei n. 8.213/91) é, ao mesmo tempo, elo essencial e calcanhar de Aquiles do sistema. O modelo legal prevê programa individualizado, multidisciplinar e articulado com o mercado de trabalho. A prática do INSS se limita a cursos genéricos e certificação pro forma. O resultado é um segurado reabilitado no papel e inempregável na vida. A superação dessa distância exige investimento em recursos humanos, parcerias interinstitucionais e adaptação dos programas à realidade socioeconômica regional — desafio que transcende o âmbito judicial, mas que impacta diretamente a atuação dos JEFs.
+O programa de reabilitação profissional (arts. 89 a 93, Lei n. 8.213/91) é, ao mesmo tempo, elo essencial e calcanhar de Aquiles do sistema. O modelo legal prevê programa individualizado, multidisciplinar e articulado com o mercado de trabalho. A prática do INSS, porém, frequentemente se limita a cursos genéricos e certificação pro forma. O resultado, como temos visto reiteradamente no julgamento desses feitos, é um segurado reabilitado no papel e inempregável na vida. A superação dessa distância exige investimento em recursos humanos, parcerias interinstitucionais e adaptação dos programas à realidade socioeconômica regional — desafio que transcende o âmbito judicial, mas que impacta diretamente a atuação dos JEFs.
 
 Os Temas 862, 995, 1.013 e 1.246 do STJ, o Tema 1.196 do STF e as Súmulas 47, 53, 72 e 78 da TNU formam arcabouço jurisprudencial sólido, que vai da fixação da DIB e da cumulação de rendas do trabalho com benefício retroativo até a inadmissibilidade de recurso especial para rediscussão da incapacidade.
 
@@ -499,7 +501,55 @@ A constitucionalidade do COPES, declarada pelo STF, não elimina a responsabilid
 
 #### Legislação
 
+BRASIL. Constituição da República Federativa do Brasil de 1988, art. 109, I e § 3º, e art. 201, I e § 2º.
+
+BRASIL. Emenda Constitucional n. 103, de 12 de novembro de 2019, art. 26.
+
+BRASIL. Lei n. 8.213, de 24 de julho de 1991 (Plano de Benefícios da Previdência Social), arts. 25, 26, 27-A, 59 a 63, 86, 89 a 93, 118, 124 e 151.
+
+BRASIL. Lei n. 8.036, de 11 de maio de 1990 (FGTS), art. 15, § 5º.
+
+BRASIL. Lei n. 9.032, de 28 de abril de 1995.
+
+BRASIL. Lei n. 9.528, de 10 de dezembro de 1997.
+
+BRASIL. Lei n. 9.876, de 26 de novembro de 1999.
+
+BRASIL. Lei n. 10.259, de 12 de julho de 2001 (Juizados Especiais Federais).
+
+BRASIL. Lei n. 10.666, de 8 de maio de 2003.
+
+BRASIL. Lei n. 11.430, de 26 de dezembro de 2006 (NTEP).
+
+BRASIL. Lei n. 13.457, de 26 de junho de 2017 (alta programada/COPES).
+
+BRASIL. Lei n. 13.846, de 18 de junho de 2019.
+
+BRASIL. Decreto n. 3.048, de 6 de maio de 1999 (Regulamento da Previdência Social), com as alterações do Decreto n. 10.410, de 30 de junho de 2020.
+
+BRASIL. Decreto n. 6.042, de 12 de fevereiro de 2007 (regulamentação do NTEP).
+
+BRASIL. Portaria Conjunta MPS/INSS n. 13, de 21 de março de 2026 (reformulação do sistema Atestmed).
+
 #### Jurisprudência
+
+STF. RE 1.347.526, Tema 1.196 da repercussão geral (constitucionalidade da alta programada). Rel. Min. Cristiano Zanin, j. 15/09/2025.
+
+STF. RE 631.240, Tema 350 da repercussão geral (exigência de requerimento administrativo prévio). Súmula 501 do STF (competência da Justiça Estadual para acidente do trabalho).
+
+STJ. Tema 862 (REsp 1.729.555/SP, Primeira Seção, j. 09/06/2021) — termo inicial do auxílio-acidente.
+
+STJ. Tema 995 (REsp 1.727.063/SP e REsp 1.727.064/SP, Primeira Seção, j. 22/10/2019) — reafirmação da DER.
+
+STJ. Tema 1.013 (REsp 1.786.590/SP, Primeira Seção, j. 24/06/2020) — cumulação de rendas do trabalho e do benefício pago retroativamente.
+
+STJ. Tema 1.246 (REsp 2.082.395/SP, Primeira Seção, j. 13/11/2024) — inadmissibilidade de recurso especial para rediscutir incapacidade. Súmula 7/STJ.
+
+STJ. Súmula 85 (prescrição quinquenal das parcelas).
+
+TNU. Súmula 47 (condições pessoais e sociais na incapacidade parcial); Súmula 53 (incapacidade preexistente ao reingresso); Súmula 72 (atividade remunerada durante a incapacidade); Súmula 78 (doenças estigmatizantes).
+
+TNU. Tema 300 (manutenção da qualidade de segurado durante o limbo previdenciário).
 
 #### Doutrina
 

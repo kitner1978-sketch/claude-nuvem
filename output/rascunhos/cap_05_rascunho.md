@@ -30,6 +30,8 @@ referencias:
  - "STJ Tema 629 (Prova Material — Extinção sem Mérito)"
  - "STJ Tema 422 (Conversão Tempo Especial)"
  - "STJ Tema 1.070 (Atividades Concomitantes)"
+ - "STJ Tema 1.188 (Sentença Trabalhista Homologatória — Prova Material)"
+ - "STJ Tema 1.238 (Aviso Prévio Indenizado — Cômputo de Tempo)"
  - "STF Tema 942 (Conversão Tempo Especial RGPS → RPPS via CTC)"
  - "TNU Tema 216 (Aluno-Aprendiz)"
  - "Súmula 96/TCU (Aluno-Aprendiz)"
@@ -114,12 +116,28 @@ O reflexo das sentenças trabalhistas no CNIS gera controvérsia frequente nos J
 
 A jurisprudência dos TRFs e da TNU é consolidada no sentido de que a sentença trabalhista constitui início de prova material do vínculo empregatício, mas não vincula o INSS de forma absoluta quando proferida com base exclusivamente em revelia do empregador ou em acordo judicial homologado sem instrução probatória. Nesses casos, o INSS pode exigir documentos complementares para confirmar a existência efetiva do vínculo.
 
+Esse entendimento foi recentemente consolidado pelo STJ em sede de recursos repetitivos. No julgamento do **Tema 1.188** (REsp 1.938.265, Rel. Min. Benedito Gonçalves, Primeira Seção, j. 11/09/2024), a Corte distinguiu a sentença trabalhista propriamente cognitiva — fruto de instrução probatória — daquela meramente homologatória de acordo, que não examina o mérito do vínculo. Para esta última, exigem-se elementos de prova contemporâneos ao período que se pretende reconhecer.
+
+::: box-jurisprudencia
+**STJ Tema 1.188 — Sentença trabalhista homologatória de acordo como início de prova material**
+
+No REsp 1.938.265 (Rel. Min. Benedito Gonçalves, Primeira Seção, j. 11/09/2024), o STJ fixou a seguinte tese: "A sentença trabalhista homologatória de acordo, assim como a anotação na CTPS e demais documentos dela decorrentes, somente será considerada início de prova material válida, conforme o disposto no art. 55, § 3º, da Lei 8.213/91, quando houver nos autos elementos probatórios contemporâneos que comprovem os fatos alegados e sejam aptos a demonstrar o tempo de serviço no período que se pretende reconhecer na ação previdenciária, exceto na hipótese de caso fortuito ou força maior." Na prática, a sentença homologatória de acordo, isoladamente, não basta para o reconhecimento do tempo de serviço perante o INSS: é indispensável que o segurado apresente documentação contemporânea ao vínculo (contracheques, registros funcionais, recolhimentos de FGTS, anotações regulares na CTPS acompanhadas de outros indícios). Ressalva-se a hipótese de caso fortuito ou força maior que tenha impossibilitado a preservação dos documentos da época.
+:::
+
 No CNIS, os vínculos decorrentes de reclamatória trabalhista recebem o indicador "PREC" (pendência de reclamatória), sinalizando que a inclusão foi feita por via judicial e que pode haver necessidade de verificação adicional. O indicador não invalida o vínculo, mas autoriza o INSS a requerer documentação complementar.
 
 ::: box-pratica
 **Reclamatória trabalhista como prova no JEF**
 
 Ao instruir ação previdenciária com vínculo reconhecido em reclamatória trabalhista, o advogado deve juntar: (a) cópia integral da sentença trabalhista (não apenas certidão de objeto e pé); (b) provas documentais produzidas no processo trabalhista (contracheques, depoimentos testemunhais); (c) comprovante de recolhimento das contribuições previdenciárias determinado pela sentença trabalhista (ou certidão de que o empregador foi condenado ao recolhimento). Essa documentação robustece o pedido e dificulta a recusa do INSS.
+:::
+
+Questão correlata, decorrente da rescisão do contrato de trabalho, é a do **aviso prévio indenizado**. Não raro o segurado pretende somar ao tempo de contribuição o período correspondente ao aviso prévio que, não trabalhado, foi pago em pecúnia na rescisão. O STJ pacificou a controvérsia, em sentido desfavorável ao segurado, no julgamento do **Tema 1.238** (REsp 2.068.311, Rel. Min. Mauro Campbell Marques, Primeira Seção, j. 06/02/2025), fixando a tese de que "Não é possível o cômputo do período de aviso prévio indenizado como tempo de serviço para fins previdenciários." A razão de decidir reside na natureza indenizatória (e não remuneratória de efetiva prestação de serviço) da parcela: como não houve trabalho nem filiação no interregno correspondente, falta o suporte fático para o reconhecimento do período como tempo de contribuição. Distingue-se, portanto, o aviso prévio *trabalhado* — durante o qual há efetiva prestação de serviço e, consequentemente, tempo computável — do aviso prévio *indenizado*, cujo lapso não se converte em tempo de serviço previdenciário.
+
+::: box-atencao
+**STJ Tema 1.238 — Aviso prévio indenizado não é tempo de contribuição**
+
+No REsp 2.068.311 (Rel. Min. Mauro Campbell Marques, Primeira Seção, j. 06/02/2025), o STJ firmou que "Não é possível o cômputo do período de aviso prévio indenizado como tempo de serviço para fins previdenciários." A consequência prática é direta: o intervalo de 30 dias (ou mais, na projeção proporcional da Lei 12.506/2011) pago a título de aviso prévio indenizado não estende a data de baixa do vínculo para fins de cômputo de tempo de contribuição. O advogado deve atentar para essa limitação ao calcular o tempo total do segurado, especialmente em situações-limite nas quais poucos dias seriam decisivos para o enquadramento em regra de transição. A tese alcança apenas o aviso prévio indenizado; o aviso prévio efetivamente trabalhado segue computável como qualquer período de atividade.
 :::
 
 #### 5.2.6 O CNIS como instrumento de planejamento previdenciário
@@ -179,7 +197,7 @@ Na prática, falhas no sistema fazem com que muitos valores de sentenças trabal
 
 #### 5.3.5 Retificação e o prazo decadencial — questão controversa
 
-Uma questão recorrente é se o prazo decadencial de 10 anos do art. 103 da Lei 8.213/91 aplica-se à retificação do CNIS. A resposta depende do contexto:
+Indaga-se com frequência se o prazo decadencial de 10 anos do art. 103 da Lei 8.213/91 aplica-se à retificação do CNIS. A resposta depende do contexto:
 
 - **Retificação para concessão de novo benefício:** Não há decadência, pois o segurado ainda não está aposentado. A retificação é pressuposto da concessão, e o direito de requerer benefício não decai (apenas prescreve).
 
@@ -253,7 +271,7 @@ A regra de que "o tempo de serviço do segurado trabalhador rural, anterior à d
 
 #### 5.4.5 O limite etário e o trabalho rural na infância
 
-Questão frequente nos JEFs diz respeito à idade mínima para o reconhecimento de trabalho rural. A Constituição Federal proíbe o trabalho de menores de 16 anos (salvo como aprendiz a partir dos 14 — art. 7º, XXXIII). Contudo, a jurisprudência previdenciária consolidou o entendimento de que a vedação constitucional visa proteger o menor, não prejudicá-lo: se o menor efetivamente trabalhou, o reconhecimento do tempo é direito seu, sob pena de penalizá-lo duplamente (trabalhou irregularmente na infância e ainda se veria privado do cômputo do período).
+Poucos temas suscitam tanta hesitação na instrução das ações rurais quanto a idade mínima para o reconhecimento do trabalho no campo. A Constituição Federal proíbe o trabalho de menores de 16 anos (salvo como aprendiz a partir dos 14 — art. 7º, XXXIII). Contudo, a jurisprudência previdenciária consolidou o entendimento de que a vedação constitucional visa proteger o menor, não prejudicá-lo: se o menor efetivamente trabalhou, o reconhecimento do tempo é direito seu, sob pena de penalizá-lo duplamente (trabalhou irregularmente na infância e ainda se veria privado do cômputo do período).
 
 A TNU e os TRFs reconhecem atividade rural a partir dos 12 anos de idade (idade mínima usual na jurisprudência, embora haja precedentes que admitem períodos a partir dos 10 anos em casos excepcionais). Essa posição encontra respaldo na realidade socioeconômica do campo brasileiro, onde o trabalho infantil em regime de economia familiar era, e em muitas regiões ainda é, prática generalizada.
 
@@ -265,7 +283,7 @@ Para períodos rurais na infância (12 a 16 anos), a estratégia probatória dev
 
 #### 5.4.6 Descontinuidade da atividade rural e descaracterização
 
-Questão recorrente nos JEFs é a descontinuidade da atividade rural e seus efeitos sobre o reconhecimento do tempo. O segurado que intercalou períodos rurais com períodos urbanos pode ter dificuldades em demonstrar a contemporaneidade da prova material e a continuidade do trabalho agrícola.
+A descontinuidade da atividade rural e seus efeitos sobre o reconhecimento do tempo merecem exame à parte. O segurado que intercalou períodos rurais com períodos urbanos pode ter dificuldades em demonstrar a contemporaneidade da prova material e a continuidade do trabalho agrícola.
 
 A jurisprudência dos TRFs e da TNU tem sido relativamente flexível nesse aspecto. O STJ, no Tema 1.007, reconheceu que "tempo rural remoto e descontínuo, anterior à Lei 8.213/91, pode ser computado para aposentadoria híbrida sem recolhimento de contribuições, independentemente da predominância do labor misto ou do tipo de trabalho no implemento etário." A orientação aplica-se também ao cômputo de tempo rural para aposentadoria por tempo de contribuição, desde que o período específico esteja adequadamente comprovado.
 
@@ -293,7 +311,7 @@ Maria trabalhou na roça com os pais de 1978 (quando tinha 12 anos) até 1986 (q
 
 Para períodos posteriores a novembro de 1991, o tratamento varia conforme a categoria do segurado (v. Cap. 2 para o detalhamento de cada categoria):
 
-- **Segurado especial (art. 11, VII):** Continua com direito à aposentadoria por idade rural (55/60 anos) sem necessidade de contribuição, bastando a comprovação de 180 meses de atividade rural (art. 39, I, Lei 8.213/91). Porém, se pretender aposentadoria por tempo de contribuição, o período pós-1991 somente será computado mediante recolhimento ou indenização.
+- **Segurado especial (art. 11, VII):** Continua com direito à aposentadoria por idade rural (60 anos homem / 55 anos mulher) sem necessidade de contribuição, bastando a comprovação de 180 meses de atividade rural (art. 39, I, Lei 8.213/91). Porém, se pretender aposentadoria por tempo de contribuição, o período pós-1991 somente será computado mediante recolhimento ou indenização.
 
 - **Contribuinte individual rural (art. 11, V, "a"):** O período posterior a 1991 exige recolhimento de contribuições ou indenização (art. 45-A, Lei 8.212/91) para cômputo como tempo de contribuição.
 
@@ -342,7 +360,7 @@ A questão da contagem para carência merece aprofundamento. Embora o art. 55, �
 
 #### 5.5.4 Tiro de Guerra e outros serviços auxiliares
 
-Questão que surge com frequência é a do Tiro de Guerra — modalidade de serviço militar obrigatório prestado em municípios que não possuem Organização Militar. O período de Tiro de Guerra é geralmente inferior ao serviço militar regular (em torno de 6 a 10 meses), mas é igualmente reconhecido como tempo de contribuição. O documento comprobatório é o Certificado de Reservista de 2ª categoria ou a certidão do Tiro de Guerra.
+Merece tratamento específico o Tiro de Guerra — modalidade de serviço militar obrigatório prestado em municípios que não possuem Organização Militar. O período de Tiro de Guerra é geralmente inferior ao serviço militar regular (em torno de 6 a 10 meses), mas é igualmente reconhecido como tempo de contribuição. O documento comprobatório é o Certificado de Reservista de 2ª categoria ou a certidão do Tiro de Guerra.
 
 Outra hipótese é o CPOR (Centro de Preparação de Oficiais da Reserva) e o NPOR (Núcleo de Preparação de Oficiais da Reserva), nos quais o reservista frequenta cursos de formação por período determinado. O tempo de CPOR/NPOR também é computável como tempo de contribuição, mediante certidão específica do órgão militar.
 
@@ -358,7 +376,7 @@ Quando o segurado perdeu o Certificado de Reservista ou quando o documento não 
 
 A Súmula 96 do Tribunal de Contas da União estabelece: "Conta-se para todos os efeitos, como tempo de serviço público, o período de trabalho prestado, na qualidade de aluno-aprendiz, em Escola Pública Profissional, desde que comprovada a retribuição pecuniária à conta do Orçamento, admitindo-se, como tal, o recebimento de alimentação, fardamento, material escolar e parcela de renda auferida com a execução de encomendas para terceiros."
 
-Embora a Súmula tenha sido editada no contexto do serviço público, sua aplicação estendeu-se ao RGPS por força do art. 62 do Decreto 3.048/99, que inclui o período de aluno-aprendiz em escola técnica federal entre os períodos computáveis como tempo de contribuição. A numeração exata do inciso deve ser conferida na redação vigente, pois o Decreto 10.410/2020 reestruturou vários dispositivos do art. 62.
+Embora a Súmula tenha sido editada no contexto do serviço público, sua aplicação estendeu-se ao RGPS por força do Decreto 3.048/99, que inclui o período de aluno-aprendiz em escola técnica entre os períodos computáveis como tempo de contribuição, desde que comprovados a retribuição à conta do orçamento público (ainda que indireta) e o vínculo empregatício. A previsão constava originalmente do art. 60, inciso XXII, revogado pelo Decreto 10.410/2020, que a reposicionou no art. 188-G, inciso IX, do mesmo Regulamento — dispositivo vigente.
 
 O período típico abrangido situa-se entre as décadas de 1950 e 1990, quando as Escolas Técnicas Federais (ETFs), Escolas Agrotécnicas Federais e instituições como SENAI e SENAC mantinham programas de formação profissional nos quais os alunos executavam trabalhos produtivos para terceiros, com retribuição, em dinheiro, alimentação ou fardamento, custeada pelo orçamento público.
 
@@ -549,23 +567,22 @@ A tese fixada pelo STJ viabiliza a revisão de benefícios concedidos entre 29/1
 Para compreender o impacto da mudança legislativa, considere o seguinte exemplo:
 
 **Segurado Pedro** aposentou-se em março de 2018 (antes da Lei 13.846/2019) com dois vínculos concomitantes:
-- Atividade principal (Professor): salário de contribuição R$ 4.000,00 — 360 contribuições
-- Atividade secundária (Contabilista autônomo): salário de contribuição R$ 3.000,00 — 240 contribuições
+- Atividade principal (Professor): salário de contribuição R$ 4.000,00 — 300 contribuições (atividade mais longa, eleita como principal)
+- Atividade secundária (Contabilista autônomo): salário de contribuição R$ 3.000,00 — apenas 108 contribuições (nove anos de exercício paralelo)
 
 **Pelo cálculo proporcional antigo (art. 32, incisos I a III, Lei 8.213/91, redação original):**
-- Atividade principal: salário de benefício de R$ 4.000,00 (integral)
-- Atividade secundária: R$ 3.000,00 × (240/180) = R$ 3.000,00 × 1,33 = R$ 3.000,00 (limitado ao percentual integral, pois 240 > 180 carência)
-- Salário de benefício total: R$ 4.000,00 + R$ 3.000,00 = R$ 7.000,00
 
-Neste exemplo, como Pedro tinha mais de 180 contribuições na atividade secundária, o prejuízo foi menor. Contudo, em casos onde a atividade secundária tinha poucas contribuições, o percentual proporcional podia ser drasticamente inferior.
+Na sistemática histórica, o salário de benefício da atividade secundária não entrava integralmente: tomava-se o salário de benefício *daquela* atividade e aplicava-se a proporção entre o número de meses de contribuição na atividade secundária e o número de meses exigidos para a carência do benefício pretendido (no caso, 180 meses para a aposentadoria por tempo de contribuição). Assim:
+- Atividade principal: salário de benefício de R$ 4.000,00 (integral, por ser a atividade preponderante)
+- Atividade secundária: R$ 3.000,00 × (108/180) = R$ 3.000,00 × 0,60 = R$ 1.800,00
+- Salário de benefício total: R$ 4.000,00 + R$ 1.800,00 = R$ 5.800,00
 
-**Considerando segurado com apenas 90 contribuições na atividade secundária:**
-- Atividade secundária: R$ 3.000,00 × (90/180) = R$ 1.500,00
-- Salário de benefício total: R$ 4.000,00 + R$ 1.500,00 = R$ 5.500,00
-- Pela soma integral: R$ 4.000,00 + R$ 3.000,00 = R$ 7.000,00
-- Diferença mensal: R$ 1.500,00
+**Pela soma integral (entendimento do Tema 1.070/STJ):**
+- R$ 4.000,00 + R$ 3.000,00 = R$ 7.000,00 (respeitado o teto)
 
-Essa diferença de R$ 1.500,00 mensais justifica amplamente a ação de revisão baseada no Tema 1.070/STJ, observado o prazo decadencial.
+**Diferença mensal: R$ 1.200,00.** Como Pedro tinha menos de 180 contribuições na atividade secundária, o cálculo proporcional reduziu o aproveitamento daquele salário a 60% do seu valor, gerando prejuízo direto. Esse é exatamente o efeito distorcivo que o Tema 1.070 corrige: o segurado contribuiu sobre os R$ 3.000,00 integrais, mas via apenas R$ 1.800,00 refletidos no benefício.
+
+Quanto menor o número de contribuições na atividade secundária em relação aos 180 meses de carência, mais severo o prejuízo. Um segurado com apenas 90 contribuições na atividade secundária veria esse salário reduzido à metade (90/180 = 0,50), e um com 36 contribuições, a um quinto (36/180 = 0,20). Essa diferença mensal — que pode alcançar centenas ou milhares de reais — justifica amplamente a ação de revisão baseada no Tema 1.070/STJ, observado o prazo decadencial.
 
 ::: box-pratica
 **Cálculo da prescrição e decadência na revisão por concomitância**
@@ -620,7 +637,7 @@ A vedação ao tempo fictício não atinge períodos que a própria lei expressa
 
 - **Atividade rural anterior a 1991** (art. 55, § 2º, Lei 8.213/91): embora não haja recolhimento, existe exercício efetivo de atividade e previsão legal expressa;
 - **Serviço militar obrigatório** (art. 55, I, Lei 8.213/91): a imposição estatal justifica o cômputo;
-- **Aluno-aprendiz** (art. 62, Decreto 3.048/99): existe retribuição e previsão normativa;
+- **Aluno-aprendiz** (art. 188-G, IX, Decreto 3.048/99): existe retribuição e previsão normativa;
 - **Gozo de benefício por incapacidade intercalado** (art. 55, § 2º, Lei 8.213/91): o afastamento decorre de contingência social protegida;
 - **Conversão de tempo especial em comum** (para períodos anteriores a 13/11/2019): existe exercício efetivo em condições nocivas que justifica o acréscimo.
 
@@ -652,7 +669,7 @@ No RGPS, o impacto prático da vedação ao tempo fictício é limitado, pois o 
 
 - **Tentativa de cômputo de licença-prêmio em dobro por ex-servidor:** Quando o ex-servidor busca aposentadoria no RGPS e pretende levar tempo fictício (licença-prêmio em dobro) via CTC, o INSS pode recusar com fundamento na vedação.
 
-- **Conversão de tempo especial pós-EC 103:** A vedação é invocada pelo INSS para negar a conversão de tempo especial em comum para períodos posteriores a 13/11/2019, argumentando que o acréscimo resultante da conversão configura tempo fictício. A questão é objeto da ADI 6.309 no STF.
+- **Conversão de tempo especial pós-EC 103:** A vedação é invocada pelo INSS para negar a conversão de tempo especial em comum para períodos posteriores a 13/11/2019, argumentando que o acréscimo resultante da conversão configura tempo fictício. No julgamento da ADI 6.309 (j. 03/06/2026), o STF manteve a constitucionalidade dessa vedação para períodos posteriores a 13/11/2019 (afastando, no mesmo julgado, a exigência de idade mínima da aposentadoria especial).
 
 - **Tempo residência médica:** Algumas legislações estaduais anteriormente computavam a residência médica em dobro. Com a vedação, esse cômputo não é mais admitido em nenhum regime.
 
@@ -672,26 +689,26 @@ Os fatores de conversão são calculados pela razão entre o tempo máximo de co
 
 A aplicação é simples: multiplica-se o tempo de atividade especial pelo fator correspondente. Assim, 10 anos de atividade especial (25 anos) de um segurado homem convertem-se em 14 anos de tempo comum (10 × 1,40 = 14). O segurado "ganha" 4 anos de tempo de contribuição pelo exercício de atividade em condições nocivas.
 
-#### 5.11.2 STJ Temas 422 e 423 — Fator aplicável e direito à conversão
+#### 5.11.2 STJ Temas 422, 423 e 546 — Direito à conversão e fator aplicável
 
-O STJ, no julgamento do REsp 1.151.363/MG (Rel. Min. Jorge Mussi), leading case dos **Temas 422 e 423**, firmou duas proposições essenciais:
+No julgamento do REsp 1.151.363/MG (Rel. Min. Jorge Mussi), leading case dos **Temas 422 e 423**, o STJ firmou duas proposições essenciais sobre a conversão de tempo especial em comum:
 
 1. **Permanência do direito à conversão (Tema 422):** A possibilidade de conversão do tempo especial em comum permanece vigente para qualquer período trabalhado, inclusive após 28/05/1998. A controvérsia sobre a supressão do direito decorreu da MP 1.663-10/1998 (e suas reedições), que tentou extinguir a conversão. Porém, a conversão dessa MP na Lei 9.711/1998 não manteve a supressão do § 5º do art. 57 da Lei 8.213/91, preservando o direito.
 
-2. **Fator da data da concessão (Tema 423):** O fator de conversão aplicável é o previsto na legislação vigente na data da concessão do benefício, não na data em que o trabalho especial foi exercido. A escolha do fator depende, tão somente, do tempo de contribuição total exigido em lei para a aposentadoria integral, tratando-se de mero cálculo matemático. Isso significa que períodos antigos (décadas de 1970/1980) podem ser convertidos com os fatores atuais (1,40/1,20 para 25 anos).
+2. **Natureza do fator de conversão (Tema 423):** A adoção deste ou daquele fator de conversão (1,40, 1,75 ou 2,33, conforme o caso) não constitui regra previdenciária de direito material, mas mero cálculo matemático: o fator corresponde à proporção entre o tempo total exigido para a aposentadoria integral e o tempo exigido para a aposentadoria especial. É operação aritmética, não escolha discricionária.
 
-A segunda proposição tem implicação prática relevante: antes da fixação do Tema 423, havia controvérsia sobre a possibilidade de aplicar fatores mais recentes a períodos especiais antigos. Com a fixação da tese, consolidou-se que o fator é sempre o vigente na data da aposentadoria, independentemente de quando o trabalho especial foi exercido.
+A esses dois enunciados soma-se uma terceira diretriz, fixada em julgamento autônomo e frequentemente confundida com o Tema 423: o **Tema 546/STJ** (REsp 1.310.034/PR), segundo o qual "a lei vigente por ocasião da aposentadoria é a aplicável ao direito à conversão entre tempos de serviço especial e comum, independentemente do regime jurídico à época da prestação do serviço". É essa tese — e não a do Tema 423 — que autoriza converter períodos especiais remotos (décadas de 1970/1980) pelos fatores em vigor na data da aposentadoria (1,40/1,20 para 25 anos). A distinção é relevante na peça processual: o advogado deve invocar o Tema 422 para a permanência do direito após 1998, o Tema 423 para a natureza matemática do fator e o Tema 546 para a definição do fator pela legislação vigente na data da concessão.
 
 #### 5.11.3 Vedação pela EC 103/2019 — art. 25, § 2º
 
 O art. 25, § 2º, da EC 103/2019 dispõe que será reconhecida a conversão de tempo especial em comum apenas para o trabalho exercido até a data de entrada em vigor da emenda (13/11/2019). Para períodos trabalhados em condições especiais após essa data, a conversão está vedada.
 
-A vedação significa que o segurado que trabalha em condições nocivas após 13/11/2019 somente poderá utilizar esse tempo para fins de aposentadoria especial (com os novos requisitos de idade + tempo), mas não poderá converter o período em tempo comum para aposentadoria programada. A restrição é significativa, especialmente para segurados que não completarão 25 anos de atividade especial e que, sob o regime anterior, poderiam converter os anos especiais trabalhados em tempo comum com acréscimo.
+A vedação significa que o segurado que trabalha em condições nocivas após 13/11/2019 somente poderá utilizar esse tempo para fins de aposentadoria especial (observado o tempo de exposição exigido), mas não poderá converter o período em tempo comum para aposentadoria programada. A restrição é significativa, especialmente para segurados que não completarão 25 anos de atividade especial e que, sob o regime anterior, poderiam converter os anos especiais trabalhados em tempo comum com acréscimo.
 
 ::: box-jurisprudencia
-**ADI 6.309 — Constitucionalidade da vedação à conversão**
+**ADI 6.309 — Constitucionalidade da vedação à conversão (confirmada)**
 
-A CNTI (Confederação Nacional dos Trabalhadores na Indústria) ajuizou a ADI 6.309 questionando, entre outros pontos, a constitucionalidade da vedação à conversão de tempo especial em comum pelo art. 25, § 2º, da EC 103/2019. O argumento central é que a conversão constitui compensação pelo exercício de atividade nociva à saúde, tendo natureza indenizatória — sua supressão violaria o princípio da proteção ao trabalhador e a vedação ao retrocesso social. O julgamento encontra-se suspenso no STF (placar parcial de 2×2, pela constitucionalidade: Min. Barroso e Gilmar Mendes; pela inconstitucionalidade: Min. Fachin e Rosa Weber). Nota: a Min. Rosa Weber aposentou-se em outubro de 2023, de modo que o julgamento poderá ser retomado com composição diversa, podendo alterar o resultado. Até decisão final, a vedação permanece vigente.
+A CNTI (Confederação Nacional dos Trabalhadores na Indústria) ajuizou a ADI 6.309 questionando, entre outros pontos, a constitucionalidade da vedação à conversão de tempo especial em comum pelo art. 25, § 2º, da EC 103/2019. O argumento central era que a conversão constitui compensação pelo exercício de atividade nociva à saúde, tendo natureza indenizatória — sua supressão violaria o princípio da proteção ao trabalhador e a vedação ao retrocesso social. No julgamento de 03/06/2026 (ADI 6.309, Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça), o Tribunal Pleno do STF, por 6 votos a 5, **confirmou a constitucionalidade da vedação à conversão** para períodos posteriores a 13/11/2019, não acolhendo, nesse ponto, o argumento de lacuna de proteção. No mesmo julgamento, contudo, o Tribunal **declarou inconstitucional a exigência de idade mínima** da aposentadoria especial, mantendo a nova forma de cálculo. A eventual modulação de efeitos será definida na publicação do acórdão. Conclusão prática: a vedação à conversão pós-13/11/2019 permanece vigente.
 :::
 
 #### 5.11.4 Direito adquirido e marco temporal
@@ -705,14 +722,14 @@ Um segurado que trabalhou em condições especiais de 2000 a 2025, por exemplo, 
 ::: box-pratica
 **Estratégia para período especial misto (antes/depois da EC 103)**
 
-Para segurados com período especial que transpassa 13/11/2019, a melhor estratégia é: (1) converter o período anterior à EC em tempo comum (fator 1,40/1,20); (2) avaliar se o período posterior, somado ao anterior, completará os 25 anos para aposentadoria especial com os novos requisitos (idade mínima + pontos); (3) se não completar, usar o tempo convertido para aposentadoria programada pela regra de transição mais favorável. Essa análise deve considerar a idade atual do segurado e o tempo faltante em cada cenário.
+Para segurados com período especial que transpassa 13/11/2019, a melhor estratégia é: (1) converter o período anterior à EC em tempo comum (fator 1,40/1,20); (2) avaliar se o período posterior, somado ao anterior, completará os 25 anos de exposição para aposentadoria especial (afastada a exigência de idade mínima pela ADI 6.309); (3) se não completar, usar o tempo convertido para aposentadoria programada pela regra de transição mais favorável. Essa análise deve considerar a idade atual do segurado e o tempo faltante em cada cenário.
 :::
 
 #### 5.11.5 Exemplos numéricos de conversão
 
 **Exemplo 1 — Conversão simples (período integral anterior à EC 103):**
 
-Carlos trabalhou como eletricista (atividade especial de 25 anos) em indústria de 1990 a 2015 (25 anos). Em vez de requerer aposentadoria especial (que exigiria os novos requisitos de idade mínima pós-EC 103, se requerida após 13/11/2019), Carlos pode converter todo o período:
+Carlos trabalhou como eletricista (atividade especial de 25 anos) em indústria de 1990 a 2015 (25 anos). Em vez de requerer aposentadoria especial (cuja exigência de idade mínima introduzida pela EC 103/2019 foi, posteriormente, declarada inconstitucional pelo STF na ADI 6.309, j. 03/06/2026), Carlos pode converter todo o período:
 - 25 anos × 1,40 = 35 anos de tempo comum
 - Com 35 anos de tempo comum, Carlos pode se aposentar pela regra de transição do pedágio 50% (se faltavam menos de 2 anos em 13/11/2019) ou pela regra de pontos.
 
@@ -726,13 +743,13 @@ Ana trabalhou como enfermeira em UTI hospitalar (atividade especial de 25 anos) 
 - Total para aposentadoria programada: 27 anos e 10 meses
 - Período especial total (sem conversão): 21 anos, insuficiente para aposentadoria especial (exige 25 anos + idade)
 
-Neste cenário, Ana não atinge nem a aposentadoria especial (faltam 4 anos) nem a aposentadoria programada (faltam 2 anos e 2 meses de tempo, mais idade de 62 anos). Porém, a conversão lhe acresceu 3 anos fictícios (17a10m - 14a10m = 3 anos), aproximando-a da aposentadoria.
+Neste cenário, Ana não atinge nem a aposentadoria especial (faltam 4 anos) nem a aposentadoria programada (faltam 2 anos e 2 meses de tempo, mais idade de 62 anos). Porém, a conversão lhe acresceu 3 anos adicionais decorrentes do fator de conversão (17a10m - 14a10m = 3 anos), aproximando-a da aposentadoria — acréscimo que não constitui tempo fictício, pois corresponde a exercício efetivo em condições nocivas (seção 5.10.3).
 
 **Exemplo 3 — Impacto financeiro da conversão na pontuação:**
 
 Roberto, 58 anos em 2026, tem 32 anos de tempo comum urbano. Se reconhecidos 5 anos de atividade especial (exposição a ruído) no início da carreira:
-- Sem conversão: 32 anos de TC + 58 de idade = 90 pontos (precisa de 103 pontos em 2026 para a regra de pontos — art. 15 da EC 103/2019, que exigia 96 pontos em 2019 e acrescenta 1 ponto/ano, atingindo 103 em 2026 para homens e 93 para mulheres —, faltam 13)
-- Com conversão: 5 anos × 1,40 = 7 anos convertidos. TC total = 32 - 5 + 7 = 34 anos. Pontos = 34 + 58 = 92 (faltam 11, ainda insuficiente em 2026; porém, a conversão antecipa o cumprimento do requisito: se Roberto continuar trabalhando, atingirá os 105 pontos — teto do art. 15, alcançado em 2028 — antes do que atingiria sem a conversão, pois a cada ano soma 2 pontos, em vez de 1 ponto/ano se não tivesse a conversão)
+- Sem conversão: 32 anos de TC + 58 de idade = 90 pontos. A regra de pontos exige 103 pontos em 2026 (art. 15 da EC 103/2019: o patamar era de 96 pontos em 2019 e acresce 1 ponto a cada ano, alcançando 103 para homens e 93 para mulheres em 2026, até o teto de 105 pontos para homens, fixado em 2028). Faltam, portanto, 13 pontos.
+- Com conversão: 5 anos × 1,40 = 7 anos convertidos. TC total = 32 - 5 + 7 = 34 anos. Pontos = 34 + 58 = 92 — ainda insuficiente em 2026, mas faltam apenas 11. O efeito da conversão é um acréscimo único de 2 pontos de TC (de 90 para 92), e não uma alteração na velocidade de acumulação: tanto com quanto sem conversão, cada ano de trabalho adiante soma 2 pontos (1 de idade e 1 de tempo de contribuição). O ganho está em antecipar o requisito — Roberto parte de um patamar mais alto e, mantendo-se em atividade, cumpre os pontos exigidos um ano antes do que cumpriria sem a conversão.
 
 ::: box-pratica
 **Tabela de referência rápida, ganho de tempo pela conversão**
@@ -762,6 +779,8 @@ Essa evolução temporal repercute diretamente na conversão: períodos especiai
 **Jurisprudência consolidada do STJ — Enquadramento por categoria profissional**
 
 O STJ consolidou o entendimento de que, para o período anterior à Lei 9.032/1995, o reconhecimento da atividade especial pode se dar por enquadramento na categoria profissional prevista nos Decretos 53.831/1964 e 83.080/1979. Não se exige laudo técnico ou PPP para esses períodos. A tese beneficia especialmente trabalhadores que exerceram profissões típicas de exposição (vigilantes, telefonistas, motoristas) em épocas nas quais a documentação patronal era precária.
+
+**Ressalva importante:** o enquadramento por categoria profissional até 1995 não dispensa a análise específica de cada agente e de cada atividade — e a matéria comporta nuances que serão aprofundadas no capítulo de aposentadoria especial. O exemplo do vigilante é ilustrativo: o STF, no Tema 1.209 (RE 1.368.225, j. 18/02/2026), firmou que a atividade de vigilante não se caracteriza como especial — com ou sem o uso de arma de fogo — quando fundada apenas na periculosidade (risco de assalto ou de violência); o reconhecimento da especialidade exige a efetiva exposição habitual e permanente a agentes nocivos à saúde, não bastando a periculosidade da função nem a nomenclatura do cargo. Assim, a citação de "vigilantes, telefonistas e motoristas" neste capítulo serve apenas como exemplo histórico de categorias listadas nos decretos da época, não como afirmação de que toda atividade dessas categorias seja automaticamente especial. Remete-se o leitor ao capítulo próprio para o exame de cada agente nocivo e da evolução jurisprudencial respectiva.
 :::
 
 #### 5.11.7 Conversão inversa: tempo comum em especial
@@ -798,7 +817,7 @@ Alguns acordos preveem cláusula de benefício integral: quando o segurado cumpr
 
 #### 5.12.4 Principais acordos bilaterais
 
-O Brasil possui acordos previdenciários com mais de 25 países e blocos, incluindo:
+O Brasil mantém acordos previdenciários — bilaterais e multilaterais — com diversos países e blocos. Entre os mais relevantes para a prática nos JEFs, destacam-se os seguintes instrumentos:
 
 | País/Bloco | Decreto | Vigência |
 |---|---|---|
@@ -807,7 +826,7 @@ O Brasil possui acordos previdenciários com mais de 25 países e blocos, inclui
 | Itália | Dec. 1.576/1995 | 1995 |
 | Alemanha | Dec. 99.377/1990 | 1990 |
 | Japão | Dec. 7.702/2012 | 2012 |
-| EUA | Dec. 8.358/2014 | 2018 (efetivo) |
+| EUA | Dec. 9.422/2018 | 2018 (efetivo em 01/10/2018) |
 | França | Dec. 3.598/2000 | 2000 |
 | Chile | Dec. 2.860/1998 | 1998 |
 | Coreia do Sul | Dec. 10.514/2020 | 2020 |
@@ -815,9 +834,7 @@ O Brasil possui acordos previdenciários com mais de 25 países e blocos, inclui
 | Índia | Dec. 11.075/2022 | 2022 |
 | Luxemburgo | Dec. 11.020/2022 | 2022 |
 | Mercosul (multilateral) | Dec. 5.722/2006 | 2006 |
-| Ibero-Americano (multilateral) | Dec. 8.358/2014¹ | 2014 |
-
-¹ *Nota:* O Decreto 8.358/2014 refere-se ao Acordo Brasil-EUA. O decreto de promulgação do Acordo Multilateral Ibero-Americano de Seguridade Social deve ser confirmado na base legislativa federal, pois a numeração na tabela pode conter imprecisão.
+| Ibero-Americano (multilateral) | Dec. 8.358/2014 | 2014 |
 
 #### 5.12.5 Acordo Multilateral do Mercosul
 
@@ -842,7 +859,7 @@ A particularidade do acordo japonês é a existência de efeitos retroativos: pe
 
 #### 5.12.7 Acordo Brasil-EUA: aspectos relevantes
 
-O acordo previdenciário entre Brasil e Estados Unidos (Decreto 8.358/2014, em vigor desde 01/10/2018) é relativamente recente e tem impacto crescente, dada a significativa comunidade de brasileiros que trabalham ou trabalharam nos EUA. O acordo permite:
+O acordo previdenciário entre Brasil e Estados Unidos (Decreto 9.422/2018, em vigor desde 01/10/2018) é relativamente recente e tem impacto crescente, dada a significativa comunidade de brasileiros que trabalham ou trabalharam nos EUA. O acordo permite:
 
 - **Totalização de períodos:** Contribuições ao Social Security americano podem ser somadas ao tempo brasileiro para cumprimento de requisitos;
 - **Isenção de dupla contribuição:** Trabalhadores deslocados temporariamente (até 5 anos) contribuem apenas no país de origem;
@@ -858,19 +875,9 @@ Situação comum nos JEFs: Marcos, brasileiro, trabalhou no Japão de 1995 a 201
 
 #### 5.12.8 Dificuldades práticas na operacionalização dos acordos
 
-A experiência nos JEFs revela dificuldades recorrentes na operacionalização dos acordos internacionais:
+A experiência nos JEFs revela que o gargalo dos acordos internacionais raramente está no direito material e quase sempre na operacionalização. O obstáculo mais sensível é a demora no processamento: a comunicação entre os organismos de ligação — mediante formulários próprios de cada acordo (BRA/JPN para o Japão, BRA/USA para os Estados Unidos, e assim por diante) — depende da confirmação do país contraparte e pode arrastar-se por meses ou anos. A essa lentidão soma-se a dificuldade de obtenção da documentação estrangeira, agravada nos países sem cooperação administrativa ágil e diante de segurados que, décadas depois, já não conservam os comprovantes do período trabalhado no exterior. Quando os documentos finalmente chegam, surgem entraves adicionais: a conversão de valores entre sistemas previdenciários de bases de cálculo distintas, necessária ao cálculo pro rata, e a exigência de tradução juramentada para a juntada em juízo. O quadro torna-se ainda mais delicado na pensão por morte decorrente de óbito ocorrido no exterior, cuja certificação pelos organismos de ligação costuma ser extremamente morosa.
 
-- **Demora no processamento:** A comunicação entre organismos de ligação pode levar meses ou anos. O INSS deve processar formulários de ligação (BRA/JPN para Japão, BRA/USA para EUA, etc.) e aguardar confirmação do país contraparte;
-
-- **Documentação estrangeira:** A obtenção de comprovantes de contribuição no exterior pode ser complexa, especialmente para países sem acordos de cooperação administrativa ágil. Muitos segurados não possuem documentos do período trabalhado no exterior;
-
-- **Conversão de moeda e cálculo pro rata:** O cálculo do benefício proporcional exige conversão de valores entre sistemas previdenciários com bases de cálculo distintas;
-
-- **Idioma e tradução:** Documentos estrangeiros devem ser traduzidos por tradutor juramentado quando juntados em processo judicial;
-
-- **Morte do segurado no exterior:** Pensão por morte em casos de óbito no exterior exige certificação pelos organismos de ligação e pode ser extremamente demorada.
-
-Para o advogado que atua nos JEFs, a orientação prática é: (a) verificar se existe acordo com o país em questão; (b) identificar os formulários específicos do acordo; (c) instruir o requerimento administrativo com toda a documentação disponível do período no exterior; (d) se houver indeferimento ou demora injustificada (superior a 1 ano), ajuizar ação no JEF com pedido de antecipação de tutela para que o INSS processe o requerimento.
+Diante desse cenário, a orientação prática ao advogado que atua nos JEFs é metódica: verificar, de início, se existe acordo com o país em questão; identificar os formulários específicos daquele instrumento; instruir o requerimento administrativo com toda a documentação disponível do período no exterior; e, havendo indeferimento ou demora injustificada (superior a um ano), ajuizar ação no JEF com pedido de antecipação de tutela para que o INSS processe o requerimento.
 
 #### 5.12.9 Competência judicial e questões processuais
 
@@ -991,7 +998,7 @@ R: Sim, quando intercalado entre períodos de atividade (art. 55, § 2º, Lei 8.
 R: Não. A CTC é irreversível (art. 130, § 14, Decreto 3.048/99). Uma vez averbada no regime instituidor, o tempo não retorna ao regime de origem.
 
 **P: Atividade rural após 1991 como segurado especial exige contribuição?**
-R: Depende do benefício. Para aposentadoria por idade rural (55/60 anos): não exige. Para aposentadoria por tempo de contribuição ou programada: exige indenização (art. 45-A). Para cômputo como segurado especial em aposentadoria híbrida: não exige (STJ Tema 1.007).
+R: Depende do benefício. Para aposentadoria por idade rural (60 anos homem / 55 anos mulher): não exige. Para aposentadoria por tempo de contribuição ou programada: exige indenização (art. 45-A). Para cômputo como segurado especial em aposentadoria híbrida: não exige (STJ Tema 1.007).
 
 **P: A conversão de tempo especial para período anterior à EC 103 pode ser feita a qualquer tempo?**
 R: Sim. O segurado mantém o direito de converter o período especial anterior a 13/11/2019, mesmo que requeira a aposentadoria anos ou décadas depois. O direito é adquirido na data do exercício da atividade.
@@ -1019,7 +1026,7 @@ O reconhecimento de tempo de contribuição responde pela maioria das ações pr
 
 5. **Revisar benefícios por concomitância:** Identificar segurados aposentados entre 1999 e 2019 com múltiplos vínculos, verificando se houve aplicação do cálculo proporcional indevido (Tema 1.070/STJ).
 
-6. **Converter tempo especial com segurança:** Aplicar os fatores corretos (1,40/1,20 para 25 anos), respeitar o marco temporal da EC 103/2019 (13/11/2019) e monitorar o julgamento da ADI 6.309.
+6. **Converter tempo especial com segurança:** Aplicar os fatores corretos (1,40/1,20 para 25 anos) e respeitar o marco temporal da EC 103/2019 (13/11/2019). No julgamento da ADI 6.309 (03/06/2026), o STF manteve a vedação à conversão para períodos posteriores a 13/11/2019 e afastou a exigência de idade mínima da aposentadoria especial.
 
 7. **Utilizar acordos internacionais:** Orientar brasileiros que trabalharam no exterior sobre a possibilidade de totalização de períodos, maximizando o aproveitamento contributivo em dois ou mais países.
 
@@ -1031,7 +1038,7 @@ A tabela a seguir sintetiza os períodos computáveis e suas condições:
 | Rural pós-1991 (segurado especial) | Art. 39, I, Lei 8.213 | Não (para aposentadoria por idade rural) | Sim (para ap. idade rural) |
 | Rural pós-1991 (CI rural) | Art. 45-A, Lei 8.212 | Sim (indenização) | Não |
 | Serviço militar obrigatório | Art. 55, I, Lei 8.213 | Não | Sim |
-| Aluno-aprendiz | Art. 62, Dec. 3.048 + Súmula 96/TCU | Não | Sim (quando aceito) |
+| Aluno-aprendiz | Art. 188-G, IX, Dec. 3.048/99 + Súmula 96/TCU | Não | Sim (quando aceito) |
 | Contagem recíproca (CTC) | Arts. 94-99, Lei 8.213 + art. 201, § 9º, CF | Sim (no regime de origem) | Variável |
 | Gozo de benefício por incapacidade | Art. 55, § 2º, Lei 8.213 | Não | Não |
 | Tempo especial convertido | Art. 57, § 5º + art. 70, Dec. 3.048 | Sim (atividade especial) | Sim |
@@ -1048,13 +1055,16 @@ O quadro a seguir sintetiza as principais jurisprudências tratadas neste capít
 | Tema | Tribunal | Conteúdo | Impacto no JEF |
 |---|---|---|---|
 | Tema 629/STJ | STJ | Ausência de prova material → extinção sem mérito (repropositura) | Pedido mais frequente |
-| Tema 422/STJ | STJ | Conversão especial → comum permanece | Aplicação de fatores |
+| Temas 422 e 423/STJ | STJ | Conversão especial → comum permanece após 1998 (422); fator é mero cálculo matemático (423) | Direito à conversão |
+| Tema 546/STJ | STJ | Lei vigente na data da aposentadoria define o fator de conversão | Aplicação de fatores |
 | Tema 1.070/STJ | STJ | Soma integral de concomitantes | Revisão de benefícios |
+| Tema 1.188/STJ | STJ | Sentença trabalhista homologatória de acordo exige prova contemporânea (art. 55, § 3º) | Prova de tempo de serviço |
+| Tema 1.238/STJ | STJ | Aviso prévio indenizado não é tempo de serviço previdenciário | Cômputo de tempo |
 | Jurisprudência consolidada STJ | STJ | Enquadramento profissional até 1995 | Período especial antigo |
 | Tema 216/TNU | TNU | Aluno-aprendiz — requisitos restritivos | Cômputo de tempo |
 | Tema 840/STF (RE 683.621) | STF | Vedação ao tempo fictício | CTC e contagem recíproca |
 | Tema 942/STF (RE 1.014.286) | STF | Conversão especial do RGPS para averbação no RPPS | CTC com fator especial |
-| ADI 6.309/STF | STF | Vedação à conversão pós-EC 103 | Pendente — monitorar |
+| ADI 6.309/STF | STF | Vedação à conversão pós-EC 103 | Julgada (03/06/2026): vedação à conversão mantida; idade mínima da especial afastada |
 | Súmula 75/TNU | TNU | CTPS sem defeito = prova suficiente | Retificação de CNIS |
 | Súmula 74/TNU | TNU | Rural pós-1991 segurado especial | Cômputo sem contribuição |
 | Súmula 149/STJ | STJ | Prova exclusivamente testemunhal vedada | Atividade rural |
@@ -1080,7 +1090,7 @@ O capítulo seguinte (Capítulo 6) examinará a aposentadoria por incapacidade p
 - Lei n. 13.846, de 18 de junho de 2019 (atividades concomitantes — art. 32).
 - Lei n. 9.796, de 5 de maio de 1999 (compensação previdenciária).
 - Lei n. 6.226, de 14 de julho de 1975, e Lei n. 6.864, de 1º de dezembro de 1980 (contagem recíproca).
-- Decreto n. 3.048, de 6 de maio de 1999 (arts. 19-B, 19-C, 62, 70, 150-A).
+- Decreto n. 3.048, de 6 de maio de 1999 (arts. 19-B, 19-C, 70, 150-A, 188-G, IX — aluno-aprendiz, com a redação do Decreto n. 10.410/2020).
 - IN INSS/PRES n. 128/2022.
 
 #### 5.15.2 Jurisprudência
@@ -1088,11 +1098,14 @@ O capítulo seguinte (Capítulo 6) examinará a aposentadoria por incapacidade p
 - STF, Tema 840 (RE 683.621) — vedação ao tempo fictício ("serviço efetivo, em qualquer regime jurídico" não aproveita tempo ficto).
 - STF, Tema 942 (RE 1.014.286, Rel. Min. Edson Fachin), conversão de tempo especial do RGPS para averbação no RPPS via CTC.
 - STF, Tema 350 (RE 631.240), prévio requerimento administrativo.
-- STF, ADI 6.309, vedação à conversão de tempo especial pós-EC 103 (pendente).
+- STF, ADI 6.309 (Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça, j. 03/06/2026), constitucionalidade da EC 103/2019: vedação à conversão de tempo especial pós-13/11/2019 mantida; idade mínima da aposentadoria especial declarada inconstitucional; nova forma de cálculo mantida.
 - STJ, Tema 629 (REsp 1.352.721/SP, Rel. Min. Napoleão Nunes Maia Filho), ausência de início de prova material e extinção do processo sem resolução do mérito (possibilidade de repropositura).
-- STJ, Tema 422 (REsp 1.151.363/MG, Rel. Min. Jorge Mussi), conversão de tempo especial em comum.
+- STJ, Temas 422 e 423 (REsp 1.151.363/MG, Rel. Min. Jorge Mussi), conversão de tempo especial em comum: permanência do direito após 28/05/1998 (Tema 422) e natureza meramente matemática do fator de conversão (Tema 423).
+- STJ, Tema 546 (REsp 1.310.034/PR), a lei vigente por ocasião da aposentadoria é a aplicável ao direito à conversão entre tempos de serviço especial e comum.
 - STJ, jurisprudência consolidada sobre enquadramento por categoria profissional até 1995 (Decretos 53.831/1964 e 83.080/1979).
 - STJ, Tema 1.070 (REsp 1.870.793/RS), soma integral de salários em atividades concomitantes.
+- STJ, Tema 1.188 (REsp 1.938.265, Rel. Min. Benedito Gonçalves, j. 11/09/2024), sentença trabalhista homologatória de acordo como início de prova material apenas com elementos contemporâneos (art. 55, § 3º, Lei 8.213/91).
+- STJ, Tema 1.238 (REsp 2.068.311, Rel. Min. Mauro Campbell Marques, j. 06/02/2025), impossibilidade de cômputo do período de aviso prévio indenizado como tempo de serviço para fins previdenciários.
 - TNU, Tema 216, aluno-aprendiz (requisitos restritivos).
 - Súmula 149/STJ, vedação de prova exclusivamente testemunhal para atividade rural.
 - Súmula 577/STJ, extensão temporal da prova rural antes do documento mais antigo.

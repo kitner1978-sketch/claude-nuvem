@@ -31,7 +31,7 @@ referencias:
  - "Decreto 3.048/99 (arts. 70, 181-A a 181-F, 188-A a 188-F)"
  - "STF Tema 503 (desaposentação — vedação)"
  - "STJ Tema 422 (conversão tempo especial em comum — art. 57, § 5º)"
- - "ADI 6.309 (vedação conversão tempo especial pós-EC 103)"
+ - "ADI 6.309 (vedação à conversão mantida; idade mínima afastada — 2026)"
  - "CASTRO/LAZZARI, Manual, 28ª ed. (2025)"
  - "IBRAHIM, Curso, 27ª ed. (2025)"
  - "AMADO, Curso, 19ª ed. (2025)"
@@ -159,7 +159,7 @@ O advogado deve verificar, para cada cliente:
 **Se Roberto requerer agora (2026), com 42 anos de TC e 64 anos de idade:**
 - Pode exercer o direito adquirido (regra anterior com fator), OU
 - Pode optar por regra de transição (art. 15, 16, 17 ou 20)
-- O fator em 2026: Tc=42, Id=64, Es≈19,0 → f ≈ 0,684 × 1,770 = **1,211** (fator > 1!)
+- O fator em 2026: Tc=42, Id=64, Es≈19,0 (tabela IBGE 2024) → f ≈ 0,684 × 1,770 = **1,211** (fator > 1!)
 - RMI direito adquirido: R$ 5.800 × 1,211 = **R$ 7.023,80** (limitado ao teto RGPS R$ 8.475,55)
 - RMI art. 15: R$ 5.100 (média 100%) × (60% + 2%×22) = R$ 5.100 × 104% = **R$ 5.304,00**
 - **O direito adquirido com fator é mais vantajoso** porque Roberto tem 64 anos e 42 anos de TC, gerando fator > 1,0.
@@ -229,7 +229,7 @@ O cálculo do benefício pela regra do art. 15 segue a fórmula da EC 103/2019:
 Ana atinge coeficiente de 100% porque tem 35 anos de TC (20 anos excedentes sobre o piso de 15 para mulher). Seguradas com menos TC terão coeficiente menor.
 
 **Comparativo:** Se Ana tivesse apenas 30 anos de TC (mínimo exigido):
-- Pontuação: 58 + 30 = 88 < 93 → **não atinge em 2026** (atingiria em 2025 com 87 pontos.. precisa verificar ano a ano)
+- Pontuação: 58 + 30 = 88 < 93 → **não atinge em 2026** (tampouco atingiria em 2025, quando a exigência para a mulher era de 92 pontos: 88 < 92)
 - Coeficiente com 30 anos: 60% + 2% × (30 - 15) = 90%
 - RMI: R$ 4.200 × 90% = **R$ 3.780,00**
 :::
@@ -337,13 +337,15 @@ O fator previdenciário inferior a 1,0 reduz o valor do benefício, às vezes dr
 
 **Exemplo devastador:**
 - **Marcos**, homem, 54 anos, 36 anos TC (tinha 33 anos em 2019, faltava 2 anos → pedágio = 1 ano → precisava de 36 anos total → completou).
-- Fator previdenciário: Tc=36, Id=54, Es≈25,3 → f ≈ (36×0,31/25,3) × [1+(54+11,16)/100] = 0,441 × 1,6516 = **0,728**
+- Fator previdenciário: Tc=36, Id=54, Es≈25,3 (tabela IBGE 2024) → f ≈ (36×0,31/25,3) × [1+(54+11,16)/100] = 0,441 × 1,6516 = **0,728**
 - Média 80% maiores: R$ 6.000,00
 - RMI pelo pedágio 50%: R$ 6.000 × 0,728 = **R$ 4.368,00**
 
-**Se Marcos esperasse até 2028 (58 anos, 40 TC):**
-- Art. 15: pontos = 58 + 40 = 98 ≥ 105? Não. Mas em 2031 (61 anos, 43 TC): 104 < 105. Somente em 2032 atingiria.
-- Mas pelo art. 20 (pedágio 100%): 60 anos (em 2032) + 35 TC + pedágio → verificar.
+**E se Marcos esperasse?** O problema é que nenhuma regra de transição lhe oferece saída próxima:
+- **Art. 15 (pontos):** em 2028 (56 anos, 38 TC) teria 94 pontos, abaixo dos 105 exigidos para o homem; a pontuação só seria alcançada em 2034, já com 62 anos (62 + 44 = 106 ≥ 105).
+- **Art. 20 (pedágio 100%):** exige 60 anos de idade — Marcos só os completa em 2032. Nessa data, com idade e TC suficientes, obteria coeficiente de 100% sobre a média de 100% dos SC, sem a incidência do fator redutor.
+
+Ou seja: aposentar-se já, pelo pedágio 50% com fator de 0,728, custa-lhe quase 27% do benefício; esperar significa adiar a aposentadoria por vários anos. É exatamente essa a armadilha — a regra está disponível, mas o fator a torna desvantajosa, e as alternativas só amadurecem no médio prazo.
 
 **Conclusão:** O pedágio 50% é vantajoso quase exclusivamente para segurados com fator previdenciário ≥ 1,0, ou seja, com idade igual ou superior a aproximadamente 63-65 anos e TC de 35+ anos. Para segurados mais jovens, é uma armadilha.
 :::
@@ -478,7 +480,7 @@ A fórmula pode ser decomposta em dois fatores multiplicativos:
 
 A Lei 9.876/99 prevê acréscimos fictícios ao tempo de contribuição exclusivamente para fins de cálculo do fator:
 
-- **Mulher:** +5 anos ao Tc na fórmula (não ao TC real para fins de requisito)
+- **Mulher:** +5 anos ao Tc na fórmula (não ao TC real para fins de requisito); a mulher não professora **não** recebe acréscimo na Id — o bônus de idade é exclusivo do professor (homem ou mulher)
 - **Professor (exclusivamente magistério em educação infantil, fundamental e médio):** +5 anos ao Tc e +5 anos à Id na fórmula
 - **Professora:** +10 anos ao Tc (+5 como mulher + 5 como professora) e +5 anos à Id
 
@@ -592,15 +594,15 @@ Na nossa experiência, a regra de pontos (art. 15) é a mais litigada nos JEFs p
 | Direito adquirido 85/95 | 56+33=89 < 96 → **Não** | — | — |
 | Art. 15 (pontos) | 63+40=103 ≥ 103 → **Sim** | R$ 5.400 × (60%+2%×20) = R$ 5.400 × 100% | **R$ 5.400** |
 | Art. 16 (idade) | 63 < 64,5 → **Não** (em 2026) | — | — |
-| Art. 17 (pedágio 50%) | Faltavam 2 anos em 2019 → **Sim** (limite) | R$ 6.200 × f(Tc=40,Id=63,Es≈20,8) | **R$ 6.200 × 1,162 = R$ 7.204** (teto!) |
+| Art. 17 (pedágio 50%) | Faltavam 2 anos em 2019 → **Sim** (limite) | R$ 6.200 × f(Tc=40,Id=63,Es≈20,4) | **R$ 6.200 × 1,064 = R$ 6.597** |
 | Art. 20 (pedágio 100%) | 60 ✅, 35 TC ✅, pedágio 2 anos → 37 total, tem 40 ✅ | R$ 5.400 × 100% | **R$ 5.400** |
 
 **Resultados:**
-- Pedágio 50% (R$ 7.204, limitado ao teto R$ 8.475,55) → **MELHOR** (fator > 1 + base 80% maiores)
+- Pedágio 50% (R$ 6.597) → **MELHOR** (fator > 1 + base 80% maiores)
 - Art. 15 e Art. 20: R$ 5.400 cada
 - Art. 16: não elegível em 2026
 
-**Lição:** O pedágio 50%, quando o fator é favorável (> 1,0), pode superar todas as demais regras por combinar a base mais elevada (80% maiores) com um multiplicador que amplifica o benefício. Mas esse cenário é específico: segurado com 63 anos, 40 anos TC e fator de 1,162.
+**Lição:** O pedágio 50%, quando o fator é favorável (> 1,0), pode superar todas as demais regras por combinar a base mais elevada (80% maiores) com um multiplicador que amplifica o benefício. Aqui, o fator de Carlos é apenas levemente superior a 1,0 (≈ 1,064, calculado com Es ≈ 20,4 anos aos 63 anos, conforme a tabela de sobrevida da seção 11.18.5), mas a vantagem decisiva vem da base de cálculo: a média dos 80% maiores SC (R$ 6.200) supera em quase R$ 800 a média de 100% (R$ 5.400) usada pelas demais regras. O resultado (R$ 6.597) supera os R$ 5.400 das regras dos arts. 15 e 20 em R$ 1.197 mensais. Note-se que basta um fator próximo de 1,0 — não é preciso um multiplicador elevado — para que a base mais favorável faça o pedágio 50% prevalecer.
 :::
 
 ::: box-atencao
@@ -661,7 +663,7 @@ Essa vedação tem consequências importantes nas regras de transição: o segur
 6. **Calcular o benefício**, o tempo averbado integra o TC para todos os fins (coeficiente 60%+2%, cálculo do fator, pontuação)
 7. **Atenção ao prazo:** a expedição da CTC pode levar meses; iniciar o procedimento com antecedência
 
-**Importante:** O tempo averbado computa para TC e para carência (cada mês averbado = um mês de carência), desde que efetivamente comprovada a contribuição no regime de origem.
+**Importante:** O tempo averbado computa para TC e para carência (cada mês averbado = um mês de carência), desde que efetivamente comprovada a contribuição no regime de origem. **Cautela:** o cômputo do tempo de RPPS averbado por CTC como carência para o RGPS não é automático em todos os cenários — há controvérsia administrativa, sobretudo quanto a períodos sem recolhimento individualizado ou a vínculos estatutários antigos. Convém confirmar, na CTC e no processo administrativo, o reconhecimento expresso desse tempo também para fins de carência, evitando expectativa excessiva.
 
 **Exemplo numérico:**
 **Helena**, mulher, 58 anos em 2026. RGPS: 22 anos de TC. RPPS (ex-servidora estadual): 10 anos.
@@ -750,7 +752,7 @@ Porém, há uma distinção crucial quanto à **carência**: o tempo rural pré-
 
 #### 11.13.1 Remissão ao Cap. 8 e delimitação
 
-O Capítulo 8 deste livro tratou em profundidade da aposentadoria especial e da conversão de tempo especial em comum, incluindo os fatores de conversão, o enquadramento por agente nocivo, a vedação da conversão para períodos posteriores a 13/11/2019 (art. 25, § 2º, EC 103/2019) e a ADI 6.309 pendente no STF. Remete-se o leitor à seção 8.9 para os fundamentos gerais.
+O Capítulo 8 deste livro tratou em profundidade da aposentadoria especial e da conversão de tempo especial em comum, incluindo os fatores de conversão, o enquadramento por agente nocivo, a vedação da conversão para períodos posteriores a 13/11/2019 (art. 25, § 2º, EC 103/2019) e a ADI 6.309, julgada pelo STF em 03/06/2026, no que a vedação à conversão foi mantida (afastada, no mesmo julgado, a idade mínima da aposentadoria especial). Remete-se o leitor à seção 8.9 para os fundamentos gerais.
 
 Aqui interessa o impacto da conversão como estratégia para atingir os requisitos das regras de transição por TC.
 
@@ -789,8 +791,9 @@ A conversão pode ser decisiva para atingir os 35 anos de TC (homem) ou 30 anos 
 - Art. 15 (pontos): 60 + 39 = 99 < 103 em 2026 → NÃO atinge em 2026 (atinge em 2028 com 101)
 - Art. 16 (idade progressiva): 60 < 64,5 → NÃO atinge em 2026
 - Art. 20 (pedágio 100%): 60 anos ✅, 35 TC ✅, em 13/11/2019 tinha 24 anos TC (convertido: 15×1,4=21 + 3=24), faltavam 11 anos → pedágio 11 anos → precisa de 46 TC total → NÃO atinge
-- **Recálculo para Art. 15 em 2028:** 62 + 41 = 103 ≥ 105? Não, mas em 2028 homem precisa de 105 pontos → NÃO atinge
-- **Recálculo:** na verdade, os pontos para homem estabilizam em 105 a partir de 2028. Com 62 + 41 = 103 < 105 → aguardar 2029 (63 + 42 = 105 ✅)
+- Art. 15 (pontos) em anos seguintes: a pontuação exigida do homem sobe progressivamente até estabilizar em 105 a partir de 2028. Em 2028 Paulo teria 62 anos e 41 TC (103 pontos < 105) e em 2029, 63 anos e 42 TC, alcançando exatamente os **105 pontos exigidos** ✅.
+
+Conclui-se que a primeira regra disponível para Paulo é o art. 15, em **2029**.
 
 A conversão transformou um segurado sem qualquer regra de transição disponível em um segurado com aposentadoria viável, ainda que em horizonte futuro.
 
@@ -805,9 +808,9 @@ Para o segurado que continua exercendo atividade especial, o impacto é signific
 
 Essa vedação cria uma situação paradoxal: o segurado que permanece exposto a agentes nocivos após 2019, e que portanto continua a sofrer desgaste diferenciado em sua saúde, é penalizado previdenciariamente, pois não pode converter o tempo posterior. O fundamento do legislador constituinte derivado foi que a aposentadoria especial tem regras próprias (art. 19 da EC 103/2019), e o segurado que permanece em atividade especial deve buscar a aposentadoria especial (se atingir os requisitos de 15, 20 ou 25 anos de atividade especial), e não a conversão para aposentadoria comum.
 
-Na atuação forense, contudo, muitos segurados possuem tempo especial insuficiente para a aposentadoria especial mas que, se convertido, viabilizaria a aposentadoria por TC. Nesses casos, a vedação gera lacuna de proteção que é o fundamento material da ADI 6.309.
+Na atuação forense, contudo, muitos segurados possuem tempo especial insuficiente para a aposentadoria especial mas que, se convertido, viabilizaria a aposentadoria por TC. Nesses casos, a vedação gera lacuna de proteção que foi o fundamento material da ADI 6.309. No julgamento de 03/06/2026, porém, o STF **manteve a vedação à conversão** — o argumento da lacuna de proteção não prevaleceu nesse ponto. No mesmo julgamento, o Tribunal **afastou a exigência de idade mínima** da aposentadoria especial.
 
-A ADI 6.309, que até o fechamento desta edição permanecia pendente de julgamento no STF, questiona a constitucionalidade dessa vedação. Se julgada procedente, reabrirá a possibilidade de conversão para períodos posteriores a 13/11/2019, o que beneficiará milhares de segurados nas regras de transição. A decisão é aguardada com grande expectativa pela comunidade previdenciária, pois pode alterar de forma significativa o panorama de cálculo das aposentadorias por TC para segurados com atividade especial parcial.
+A ADI 6.309 (Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça) foi julgada parcialmente procedente pelo Tribunal Pleno do STF em 03/06/2026, por 6 votos a 5. Quanto à conversão, o Tribunal **confirmou a constitucionalidade da vedação** para períodos posteriores a 13/11/2019 — de modo que a conversão desses períodos permanece vedada, mantendo-se íntegro o panorama de cálculo descrito nesta seção. Por outro lado, declarou inconstitucional a idade mínima da aposentadoria especial e manteve a nova forma de cálculo. A eventual modulação de efeitos será definida na publicação do acórdão.
 
 ::: box-pratica
 **Como calcular o TC total com conversão de tempo especial**
@@ -832,13 +835,17 @@ A ADI 6.309, que até o fechamento desta edição permanecia pendente de julgame
 - **TC total = 14 + 5 + 15 = 34 anos** (sem conversão seriam 30 anos)
 :::
 
+::: box-atencao
+**Cautela ao usar tempo de vigilante para compor o TC**
+
+A conversão de tempo especial é estratégia poderosa para completar o TC nas regras de transição, mas pressupõe que o período seja efetivamente reconhecido como especial. Atenção redobrada ao tempo de **vigilante**: o STF, no **Tema 1.209**, firmou que a atividade de vigilante não é especial pela mera periculosidade — exige-se a comprovação, na forma da legislação de cada época, do uso de arma de fogo e da exposição efetiva a risco à integridade física. Antes de incluir tempo de vigilante no cálculo do TC convertido, portanto, é indispensável verificar se o período preenche esses requisitos; do contrário, a projeção de elegibilidade ruirá. O enquadramento da atividade de vigilante e os contornos do Tema 1.209 são tratados em detalhe no Capítulo 8 (aposentadoria especial e conversão de tempo).
+:::
+
 ### 11.14 Planejamento Previdenciário: Quando Esperar, Quando Requerer
 
 #### 11.14.1 Conceito e importância
 
-O planejamento previdenciário consiste na análise técnica e projetiva da situação do segurado, considerando todas as variáveis relevantes — idade, TC, salários de contribuição, regras aplicáveis — para determinar o momento ótimo de requerimento da aposentadoria (KERTZMAN, 2025; AMADO, 2025). Com quatro regras de transição simultâneas e cálculos de benefício distintos, o planejamento deixou de ser diferencial e tornou-se obrigação. Entendemos que o advogado que apresenta ao cliente uma única regra, sem comparar com as demais, incorre em negligência profissional — temos visto casos em que a diferença entre a regra escolhida e a regra ótima ultrapassava R$ 500/mês.
-
-O advogado que orienta o cliente sem realizar simulações numéricas por cada regra disponível está abaixo do padrão de diligência exigido. A diferença entre requerer no momento certo ou no momento errado pode representar centenas de milhares de reais ao longo da vida do segurado.
+O planejamento previdenciário consiste na análise técnica e projetiva da situação do segurado, considerando todas as variáveis relevantes — idade, TC, salários de contribuição, regras aplicáveis — para determinar o momento ótimo de requerimento da aposentadoria (KERTZMAN, 2025; AMADO, 2025). Com quatro regras de transição simultâneas e cálculos de benefício distintos, o planejamento deixou de ser diferencial e tornou-se obrigação. Temos visto casos em que a diferença entre a regra escolhida e a regra ótima ultrapassava R$ 500/mês — o que, projetado pela expectativa de sobrevida do segurado, representa centenas de milhares de reais ao longo da vida.
 
 O planejamento previdenciário para aposentadoria por TC deve considerar três horizontes temporais:
 
@@ -848,7 +855,7 @@ O planejamento previdenciário para aposentadoria por TC deve considerar três h
 
 A vedação da desaposentação (STF, Tema 503, RE 661.256) torna o planejamento ainda mais crítico: uma vez concedida a aposentadoria, o segurado não pode renunciar a ela para obter outra mais vantajosa no RGPS. A escolha é definitiva. O princípio firmado pelo STF é claro: "somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação'". Portanto, o segurado que se aposenta por uma regra menos vantajosa não terá como "corrigir" a escolha posteriormente.
 
-Esta irreversibilidade impõe ao advogado o dever de apresentar ao cliente todas as opções disponíveis, com cálculos detalhados, antes do requerimento. O planejamento previdenciário não é mero exercício teórico — é obrigação profissional cuja negligência pode configurar responsabilidade civil do advogado.
+Esta irreversibilidade impõe ao advogado o dever de apresentar ao cliente todas as opções disponíveis, com cálculos detalhados, antes do requerimento: simular uma única regra, sem confrontá-la com as demais, fica abaixo do padrão de diligência exigido e expõe o profissional à responsabilidade civil por eventual prejuízo irreversível ao segurado.
 
 #### 11.14.2 Variáveis decisórias
 
@@ -910,8 +917,7 @@ Onde:
 - **Opção A inviável em 2026**
 
 **Opção B — Esperar até 2027 pelo art. 15:**
-- Pontos em 2027: 59 + 34 = 93 = 93 (2027 mulher permanece 93? Não: 2027 = 94 pontos mulher)
-- Pontos em 2027: 59 + 34 = 93 < 94 → NÃO atinge
+- Em 2027 a exigência para a mulher sobe a 94 pontos; 59 + 34 = 93 < 94 → NÃO atinge
 - Em 2028: 60 + 35 = 95 ≥ 95 (2028) → **SIM**
 
 **Opção C — Art. 20 (pedágio 100%):**
@@ -993,7 +999,7 @@ A seção 11.10 apresentou um quadro comparativo simplificado. Neste tópico, ap
 - TC: 37,33 anos ≥ 35 ✅
 - Pontos: 62 + 37,33 = 99,33 < 103 (2026) → **NÃO ELEGÍVEL em 2026**
 - Projeção 2027: 63 + 38,33 = 101,33 < 104 → NÃO
-- Projeção 2028: 64 + 39,33 = 103,33 ≥ 105 (estabilizado) → NÃO
+- Projeção 2028: 64 + 39,33 = 103,33 < 105 (estabilizado) → NÃO
 - Projeção 2029: 65 + 40,33 = 105,33 ≥ 105 → **ELEGÍVEL em 2029**
 
 **Cálculo (projeção 2029):**
@@ -1034,7 +1040,7 @@ Observação: sem conversão de tempo especial. A conversão de tempo especial e
 - Projeção 2028: 39,33 ≥ 39,17 → **ELEGÍVEL em 2028** (com 64 anos e 39,33 TC)
 
 **Cálculo (projeção 2028):**
-- Média 100% SC: R$ 5.600,00 (sem exclusão no art. 20, que não é de regra geral; na verdade o art. 26, § 6º aplica-se a todas as regras da EC 103)
+- Média 100% SC: R$ 5.600,00 (sem exclusão); o art. 26, § 6º (exclusão de SC) aplica-se também ao art. 20
 - Com exclusão: R$ 5.900,00
 - Coeficiente: **100%** (integral, sem escalonamento)
 - RMI: R$ 5.900 × 100% = **R$ 5.900,00**
@@ -1094,7 +1100,7 @@ A prova na ação de aposentadoria por TC no JEF envolve:
 Base principal da prova de TC. O CNIS tem presunção de veracidade (art. 19, Decreto 3.048/99), cabendo ao segurado impugnar registros incorretos ou complementar períodos não registrados.
 
 **b) CTPS (Carteira de Trabalho e Previdência Social):**
-Complementa o CNIS. Anotações em CTPS gozam de presunção juris tantum de veracidade, com fundamento direto no art. 19 do Decreto 3.048/99 (reforçado, por analogia, pela Súmula 12/TST).
+Complementa o CNIS. Anotações em CTPS gozam de presunção juris tantum de veracidade, cujo fundamento clássico e direto é a Súmula 12/TST, ao lado do registro no CNIS e do art. 19 do Decreto 3.048/99.
 
 **c) PPP (Perfil Profissiográfico Previdenciário):**
 Essencial quando há pretensão de conversão de tempo especial. O PPP deve ser contemporâneo ao período especial e conter informações sobre agentes nocivos, intensidade, técnica de medição e EPI utilizados.
@@ -1462,6 +1468,8 @@ Para facilitar a consulta, apresentam-se os valores de referência atualizados p
 | Idade art. 20 — Professor (fixa) | 55 anos |
 | Idade art. 20 — Professora (fixa) | 52 anos |
 
+> **Nota sobre a expectativa de sobrevida (Es).** Os valores de Es desta tabela de referência seguem a Tábua Completa de Mortalidade do IBGE de 2024 (~25,3 aos 55; ~22,6 aos 60; ~19,0 aos 65), aplicável às simulações com data-base 2026. Como o fator previdenciário usa a tábua **vigente na data do requerimento** (Lei 9.876/1999; art. 29, § 7º a 9º, Lei 8.213/91), os exemplos que projetam o fator em anos-base distintos adotam a tábua daquele ano — por isso o cálculo de Roberto em 2019 emprega Es ≈ 24,0 aos 57 anos (IBGE 2019), enquanto seus números de 2026 e os de Marcos usam a IBGE 2024. A divergência aparente entre as duas Es não é incoerência, mas reflexo da atualização anual da tábua.
+
 #### 11.18.6 Perspectivas e prazo de vigência
 
 As regras de transição da EC 103/2019 não possuem prazo de vigência expresso — permanecerão aplicáveis enquanto existirem segurados filiados ao RGPS antes de 13/11/2019. Na prática, considerando que um segurado com 18 anos em 2019 pode se aposentar por volta de 2054 (com 53 anos e 35 de TC), as regras de transição permanecerão relevantes por mais três décadas.
@@ -1496,10 +1504,10 @@ Até lá, a multiplicidade de regras simultâneas exige do advogado domínio té
 
 - STF, Tema 503 — vedação da desaposentação.
 - STF, ADI 2.111 — constitucionalidade do fator previdenciário.
-- STF, ADI 6.309, vedação à conversão de tempo especial pós-EC 103 (pendente).
+- STF, ADI 6.309 (Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça, j. 03/06/2026), constitucionalidade da EC 103/2019: vedação à conversão de tempo especial pós-13/11/2019 mantida; idade mínima da aposentadoria especial declarada inconstitucional; nova forma de cálculo mantida.
 - STJ, Tema 422 (REsp 1.151.363/MG, Rel. Min. Jorge Mussi), conversão de tempo especial em comum.
 - STF, Tema 334 (RE 630.501/RS), direito ao benefício mais vantajoso.
-- STJ, Tema 995 (REsp 1.727.069/SP e REsp 1.727.063/SP), reafirmação da DER.
+- STJ, Tema 995 (REsp 1.727.063/SP, Rel. Min. Mauro Campbell Marques, j. 22/10/2019), reafirmação da DER.
 - TNU, Tema 216, aluno-aprendiz (requisitos restritivos).
 - Súmula 12/TST, presunção de veracidade das anotações em CTPS.
 

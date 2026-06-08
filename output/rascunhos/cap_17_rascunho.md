@@ -3,7 +3,7 @@ capitulo: 17
 titulo: "Revisão de Benefícios Previdenciários"
 parte: "IV — Pensões, Auxílios e Benefício Assistencial"
 tags: [cap_17, revisao_beneficios, vida_toda, teto, buraco_negro, reafirmacao_DER]
-data: "2026-05-15"
+data: "2026-06-15"
 ---
 
 ## Capítulo 17 — Revisão de Benefícios Previdenciários
@@ -17,6 +17,12 @@ Entendemos que o perfil das ações revisionais nos JEFs é marcado pela complex
 As causas que ensejam revisão podem ser agrupadas em quatro categorias. A primeira é o erro administrativo: o INSS aplicou incorretamente as normas vigentes na data de concessão, seja por equívoco no cômputo dos salários de contribuição, na identificação do período básico de cálculo, no coeficiente de cálculo ou na incidência do fator previdenciário. A segunda é a mudança jurisprudencial: tribunais superiores firmam entendimento mais favorável ao segurado sobre a interpretação de dispositivos que regem o cálculo, como ocorreu com a revisão das atividades concomitantes (Tema 1070/STJ) e, em sentido reverso, com a revisão da vida toda (Tema 1102/STF). A terceira é a alteração legislativa superveniente que repercute sobre benefícios já concedidos, como as ECs 20/1998 e 41/2003 que elevaram o teto do RGPS. A quarta é a inclusão de tempo de contribuição ou de serviço não computado na concessão original: períodos rurais, atividades especiais não reconhecidas, contribuições vertidas em atividades concomitantes que não foram consideradas.
 
 Sustentamos que o capítulo deve servir como guia funcional. As regras de cálculo foram analisadas nos Capítulos 10 e 16; a dogmática da decadência e da prescrição pertence ao Capítulo 21. Aqui, para cada tese revisional, identificamos o regime de decadência aplicável, o procedimento adequado, os documentos necessários, as particularidades probatórias e as questões processuais que o magistrado dos JEFs enfrenta na rotina forense. As teses tratadas são: decadência decenal aplicada (17.2); vida toda após a reversão (17.3); teto — ECs 20/1998 e 41/2003 (17.4); Buraco Negro (17.5); art. 29, II — divisor mínimo (17.6); melhor DIB e reafirmação da DER (17.7); e demais teses relevantes (17.8).
+
+::: box-atencao
+**Nota sobre os valores monetários de 2026**
+
+Os valores em reais empregados ao longo deste capítulo tomam por base o salário mínimo de R$ 1.621,00 e, por consequência, o limite de alçada do JEF de R$ 97.260,00 (60 salários mínimos), parâmetros projetados para 2026. Como o salário mínimo é reajustado anualmente, esses montantes — e quaisquer cálculos deles derivados — devem ser conferidos com o valor do salário mínimo vigente na data de leitura. Para evitar repetição, essa ressalva fica aqui registrada de uma vez e vale para todas as cifras de 2026 mencionadas adiante.
+:::
 
 
 ### 17.2 Decadência Decenal Aplicada às Teses Revisionais
@@ -56,7 +62,7 @@ A quarta hipótese abrange os fatos supervenientes ao ato de concessão. Quando 
 ::: box-jurisprudencia
 **Temas 966 e 975/STJ — Duas faces da decadência nas ações revisionais**
 
-No Tema 966 (REsp 1.631.021/RS, leading case, e REsp 1.612.818/RS, 1ª Seção, julgados em 13/02/2019, acórdão publicado em 13/03/2019) e no Tema 975 (REsp 1.648.336/RS, leading case, e REsp 1.644.191/RS, 1ª Seção, julgados em 11/12/2019, acórdão publicado em 04/08/2020), o STJ fixou duas teses que, conjugadas, delimitam de forma ampla o alcance da decadência:
+No Tema 966 (REsp 1.631.021/RS, leading case, e REsp 1.612.818/RS, 1ª Seção, Rel. Min. Mauro Campbell Marques, julgados em 13/02/2019, acórdão publicado em 13/03/2019) e no Tema 975 (REsp 1.648.336/RS, leading case, e REsp 1.644.191/RS, 1ª Seção, Rel. Min. Herman Benjamin, julgados em 11/12/2019, acórdão publicado em 04/08/2020), o STJ fixou duas teses que, conjugadas, delimitam de forma ampla o alcance da decadência. Convém registrar que as duas teses foram firmadas em momentos distintos — o Tema 966 quase um ano antes do Tema 975 —, e que ambas são anteriores à EC 103/2019: tratam, portanto, da decadência sob a sistemática de cálculo pré-reforma, sem interpretar a Reforma da Previdência.
 
 **Tema 966 — incide a decadência sobre a escolha do benefício mais vantajoso:** "Incide o prazo decadencial previsto no caput do artigo 103 da Lei 8.213/1991 para reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso." Se o segurado pretende que o INSS deveria ter concedido o benefício por regra de cálculo diversa (mais vantajosa), o prazo decadencial incide.
 
@@ -101,7 +107,15 @@ O quadro começou a mudar em março de 2024, quando o STF concluiu o julgamento 
 
 A modulação dos efeitos acompanhou a reversão: (a) os valores recebidos em decorrência de decisões judiciais, definitivas ou provisórias, proferidas até 5 de abril de 2024 são irrepetíveis; (b) os autores cujas ações estavam pendentes até essa data ficam isentos de condenação em honorários advocatícios e custas processuais.
 
-Em maio de 2026, o Ministro Luiz Edson Fachin chegou a requerer destaque para apreciação em plenário físico dos novos embargos de declaração, nos quais se discutia a proposta do Ministro Toffoli de ampliar a modulação. O destaque foi posteriormente retirado e, em 15/05/2026, o Plenário Virtual rejeitou os embargos, derrotada a proposta de ampliação e mantida a modulação fixada em 26/11/2025. A cronologia completa consta do Quadro 17.2, na seção 17.13.
+Ainda no primeiro semestre de 2026, o Ministro Luiz Edson Fachin chegou a requerer destaque para apreciação em plenário físico dos novos embargos de declaração, nos quais se discutia a proposta do Ministro Toffoli de ampliar a modulação. O destaque foi posteriormente retirado e, em 15/05/2026, o Plenário Virtual rejeitou os embargos, derrotada a proposta de ampliação e mantida a modulação fixada em 26/11/2025. A cronologia completa consta do Quadro 17.2, na seção 17.13.
+
+::: box-atencao
+**Nota editorial sobre os marcos posteriores ao fechamento desta edição**
+
+A tese-base aqui sustentada — a superação da revisão da vida toda — está consolidada desde o julgamento das ADIs 2.110 e 2.111 (2024), que reconheceram a constitucionalidade e a cogência do art. 3º da Lei 9.876/1999. É esse o fundamento estável da exposição.
+
+Os marcos processuais subsequentes (acolhimento dos embargos com efeito infringente em 26/11/2025; publicação do acórdão em 29/04/2026; rejeição de novos embargos em 15/05/2026) refletem o estado do processo no encerramento desta edição (junho de 2026) e são descritos com a precisão de datas, votação e composição apenas para situar o leitor no encadeamento dos atos. Recomendamos que, na data de leitura, o estágio processual mais recente do RE 1.276.977/RS (Tema 1102) seja verificado diretamente no sítio do STF, sobretudo quanto a eventuais embargos pendentes e ao alcance final da modulação. A descrição desses atos não deve ser lida como atestado de trânsito em julgado definitivo da reversão.
+:::
 
 #### 17.3.2 Impacto nos processos em curso
 
@@ -144,7 +158,7 @@ O magistrado que ainda possui ações de revisão da vida toda em acervo deve ad
 Para sentenças em lote, a fundamentação pode ser padronizada. Quanto à sucumbência, a modulação isenta os autores de honorários, custas e perícias quando a ação foi ajuizada antes de 5 de abril de 2024. Para ações posteriores, aplica-se o regime ordinário, com a ressalva de que o beneficiário da gratuidade tem a exigibilidade suspensa (art. 98, §3º, CPC).
 
 ::: box-pratica
-**Como sentenciar ações de revisão da vida toda em maio/2026**
+**Como sentenciar ações de revisão da vida toda (estado em junho/2026)**
 
 **1. Ações ajuizadas antes de 05/04/2024 (ainda pendentes):**
 - Julgar improcedente com base no Tema 1102/STF (embargos de declaração de 26/11/2025).
@@ -180,9 +194,9 @@ Outro aprendizado: a interface entre ADI e recurso extraordinário com repercuss
 
 A revisão do teto é uma das teses revisionais de maior longevidade nos JEFs. Para a mecânica de cálculo e exemplos numéricos, v. seção 16.7.3. Aqui nos concentramos no procedimento, na prova e nas questões processuais.
 
-O STF, no RE 564.354 (Tema 76, Rel. Min. Cármen Lúcia, Plenário, 08/09/2010), reconheceu que os segurados cujo salário de benefício havia sido limitado pelo teto vigente na data da concessão têm direito à readequação quando o teto é elevado por emenda constitucional. As ECs 20/1998 e 41/2003 elevaram o teto do RGPS, cujos valores foram fixados pelas portarias regulamentadoras em R$ 1.200,00 (a partir de junho de 1999) e R$ 2.400,00 (a partir de maio de 2004, por meio da Portaria Interministerial MPS/MF 19/2004). A elevação superou o reajuste ordinário dos benefícios, de modo que segurados cujo salário de benefício original (sem limitação) ultrapassava o teto antigo passaram a ter direito a benefício mais elevado. O fundamento: o teto opera como limite externo à RMI; ampliado o limite, o benefício se expande até o novo patamar, respeitado o salário de benefício originalmente apurado.
+O STF, no RE 564.354 (Tema 76, Rel. Min. Cármen Lúcia, Plenário, 08/09/2010), reconheceu que os segurados cujo salário de benefício havia sido limitado pelo teto vigente na data da concessão têm direito à readequação quando o teto é elevado por emenda constitucional. As ECs 20/1998 e 41/2003 elevaram o teto do RGPS. Quanto à EC 20/1998, convém distinguir dois valores que não se confundem: (i) o **teto nominal** de R$ 1.200,00, fixado diretamente pelo art. 14 da própria EC — e não por portaria —, com vigência a partir de dezembro de 1998; e (ii) o **teto operante** em junho de 1999, já reajustado pelos mesmos índices aplicados aos benefícios em manutenção, e que, por força desse reajuste, situava-se em patamar superior àquele R$ 1.200,00 nominais. É esse teto reajustado, e não o valor nominal originário, que delimita a readequação a partir de junho de 1999. Já o teto de R$ 2.400,00 foi veiculado pela Portaria Interministerial MPS/MF 19/2004, com efeitos a partir de maio de 2004. A elevação superou o reajuste ordinário dos benefícios, de modo que segurados cujo salário de benefício original (sem limitação) ultrapassava o teto antigo passaram a ter direito a benefício mais elevado. O fundamento: o teto opera como limite externo à RMI; ampliado o limite, o benefício se expande até o novo patamar, respeitado o salário de benefício originalmente apurado.
 
-O alcance da tese abrange benefícios com DIB entre 5 de abril de 1991 (vigência da Lei 8.213/91) e a data anterior à implementação do novo teto pela EC 41/2003 (regulamentado pela Portaria MPS/MF 19/2004, a partir de maio de 2004). Para esses benefícios, se o salário de benefício (sem limitação) era superior ao teto vigente na data da concessão, o segurado tem direito à readequação.
+O alcance da tese não se resolve por um corte único, porque houve duas readequações sucessivas do teto, cada qual com seu marco temporal próprio. A primeira decorreu da EC 20/1998, cujo limite nominal (R$ 1.200,00, art. 14 da própria EC) operou a partir de junho de 1999, já com o reajuste ordinário aplicado aos benefícios à época; a segunda, da EC 41/2003, regulamentada pela Portaria Interministerial MPS/MF 19/2004, com efeitos a partir de maio de 2004 (R$ 2.400,00). Em consequência, o universo de benefícios atingidos varia conforme o teto invocado: a readequação pela EC 20/1998 aproveita aos benefícios concedidos antes de junho de 1999 cujo salário de benefício (sem limitação) superava o teto então vigente; a readequação pela EC 41/2003 aproveita aos benefícios concedidos antes de maio de 2004 que, mesmo após o primeiro reposicionamento, permaneciam represados pelo teto. Há, portanto, dois cortes — junho de 1999 e maio de 2004 —, e não um único limite em 2004. Para qualquer desses benefícios, presente a limitação na concessão, o segurado tem direito à readequação ao(s) novo(s) teto(s) na medida do salário de benefício originalmente apurado.
 
 A readequação não altera os elementos que compuseram o salário de benefício (salários de contribuição, PBC, coeficiente, fator previdenciário). O que muda é apenas o limite que incide sobre a RMI. Essa distinção tem consequência direta sobre a decadência: como a readequação decorre de fato superveniente, a tese predominante é de que a decadência do art. 103 não se aplica. A prescrição, por sua vez, atinge apenas as parcelas vencidas antes do quinquênio anterior à propositura da ação (Súmula 85/STJ).
 
@@ -202,25 +216,9 @@ A atualidade da tese merece reflexão. Os benefícios atingidos foram concedidos
 
 #### 17.4.4 Cálculo de diferenças
 
-Para o cálculo detalhado do impacto financeiro da revisão do teto, v. Capítulo 16, seção 16.7.3. Registramos aqui a lógica processual:
+Para o cálculo detalhado do impacto financeiro da revisão do teto, v. Capítulo 16, seção 16.7.3. A liquidação segue, no essencial, as sete etapas descritas adiante para a sentença revisional (seção 17.11.2) — recálculo, projeção de reajustes, apuração da diferença mensal, prescrição quinquenal, correção e juros, dedução de pagamentos e verificação do limite de RPV —, com três particularidades próprias do teto que não convém repetir em forma de novo checklist, mas registrar em prosa.
 
-::: box-pratica
-**Passo a passo do cálculo de diferenças na revisão do teto**
-
-**Etapa 1:** Recuperar o salário de benefício (SB) apurado na concessão, sem limitação ao teto. Fonte: CONBAS.
-
-**Etapa 2:** Verificar se o SB era superior ao teto vigente na data da concessão. Se não era, a revisão é incabível.
-
-**Etapa 3:** Aplicar os reajustes anuais (INPC) ao SB sem limitação, mês a mês, desde a concessão. Aplicar o coeficiente de cálculo ao SB reajustado para obter a RMI revisada. Limitar a RMI revisada ao teto vigente em cada competência (inclusive os novos tetos das ECs 20/1998 e 41/2003).
-
-**Etapa 4:** Subtrair, em cada mês, a RMI efetivamente paga da RMI revisada.
-
-**Etapa 5:** Aplicar a prescrição quinquenal: excluir as diferenças anteriores aos cinco anos que antecedem a citação.
-
-**Etapa 6:** Aplicar correção monetária e juros sobre cada diferença mensal, conforme o regime vigente no período (INPC + juros de mora até dez/2021; SELIC de dez/2021 a ago/2025; IPCA + 2% a.a. a partir da EC 136/2025, observada a pendência da ADI 7873).
-
-**Etapa 7:** Somar as diferenças corrigidas. Verificar se o montante se enquadra no limite de RPV (60 SM = R$ 97.260,00 em 2026 [valor projetado — verificar o salário mínimo vigente na data de publicação]).
-:::
+A primeira é o ponto de partida: parte-se do salário de benefício apurado na concessão *sem* a limitação ao teto (fonte: CONBAS), e a revisão só é cabível se esse SB superava o teto então vigente. A segunda diz respeito à mecânica do reposicionamento: a RMI revisada percorre os reajustes anuais (INPC) mês a mês, mas permanece limitada, em cada competência, ao teto vigente — inclusive aos novos tetos das ECs 20/1998 e 41/2003 —, de modo que a diferença só aflora a partir do momento em que o SB reajustado deixa de ser represado pelo teto majorado. A terceira é o regime de correção e juros, idêntico ao das demais condenações: IPCA-E para as condenações judiciais, com juros de mora, até nov/2021 (Tema 810/STF, reservado o INPC ao reajuste do benefício em manutenção); SELIC de dez/2021 a ago/2025; e IPCA + 2% a.a. a partir da EC 136/2025, observada a pendência da ADI 7873 (v. seção 17.11.3). Apurado o total corrigido, verifica-se o enquadramento no limite de RPV (60 SM = R$ 97.260,00 em 2026; v. a nota da seção 17.1).
 
 O efeito cascata dos reajustes merece atenção especial. A readequação ao teto na data da EC não se limita àquele mês: o benefício readequado passa a receber os reajustes subsequentes sobre a base majorada, produzindo diferenças cumulativas ao longo dos anos.
 
@@ -252,7 +250,7 @@ O art. 144 da Lei 8.213/91 assegura o direito ao recálculo dos benefícios conc
 A prescrição quinquenal atinge apenas as parcelas vencidas. O segurado (ou pensionista) pode, a qualquer tempo, postular a revisão do Buraco Negro. Receberá, contudo, apenas as diferenças dos últimos cinco anos.
 :::
 
-#### 17.5.4 Viabilidade atual (maio/2026)
+#### 17.5.4 Viabilidade atual (junho/2026)
 
 A viabilidade prática é limitada por fator biológico incontornável. Os segurados que se aposentaram entre 1988 e 1991 tinham, em regra, entre 55 e 65 anos. Em 2026, teriam entre 90 e 103 anos. A mortalidade natural reduziu drasticamente o universo de beneficiários.
 
@@ -290,9 +288,11 @@ A controvérsia surgiu com a redação dada pela Lei 9.876/1999 ao art. 29, II. 
 
 O reconhecimento administrativo veio por meio do Memorando-Circular Conjunto n. 21/DIRBEN/PFE/INSS, de 15/04/2010. O INSS admitiu que havia aplicado o divisor mínimo de forma indevida a benefícios calculados pela regra definitiva do art. 29, II, comprometendo-se à revisão administrativa.
 
-O escopo abrangia, em princípio, os benefícios por incapacidade concedidos entre 29/11/1999 e aproximadamente 2009. A ACP movida pelo IEPREV (processo 0002320-59.2012.4.03.6183/SP) ampliou o alcance, com eficácia nacional.
+O escopo abrangia, em princípio, os benefícios por incapacidade concedidos entre 29/11/1999 e aproximadamente 2009. A ACP movida pelo IEPREV (processo 0002320-59.2012.4.03.6183/SP, ajuizada perante a Justiça Federal em São Paulo) buscou ampliar o alcance da revisão para além desse universo, postulando eficácia nacional da tutela coletiva.
 
-Na prática dos JEFs, a existência da revisão administrativa gera questão sobre o interesse de agir. A jurisprudência tem admitido o interesse quando o INSS não procedeu à revisão em prazo razoável.
+O alcance subjetivo e territorial da coisa julgada nessa ACP, contudo, não é dado pacífico e o magistrado deve manejá-lo com cautela. A redação do art. 16 da Lei 7.347/85 limita a eficácia da coisa julgada coletiva aos limites da competência territorial do órgão prolator — restrição cuja constitucionalidade e cujo alcance foram longamente debatidos no STF e no STJ, com oscilações sobre a possibilidade de eficácia erga omnes nacional. Por isso, ao invocar-se a ACP do IEPREV como fundamento de mérito ou de afastamento do interesse de agir, convém aferir, no caso concreto, o teor do dispositivo e o estágio (eventual trânsito em julgado) da decisão coletiva, em vez de pressupor extensão nacional automática.
+
+Na prática dos JEFs, a existência da revisão administrativa — e, conforme o caso, da tutela coletiva — gera questão sobre o interesse de agir individual. A jurisprudência tem admitido o interesse quando o INSS não procedeu à revisão em prazo razoável, ou quando não demonstrada a abrangência do segurado pela coisa julgada coletiva.
 
 #### 17.6.3 Lei 14.331/2022 — art. 135-A, divisor mínimo de 108
 
@@ -310,7 +310,7 @@ A partir de 05/05/2022, o cálculo do salário de benefício observa divisor mí
 
 #### 17.6.4 Escopo atual e prática no JEF
 
-O universo de benefícios elegíveis abrange os concedidos entre 29/11/1999 e aproximadamente 2009. Em maio de 2026, a maioria já ultrapassou o prazo decadencial. E, na linha do Tema 975/STJ, o prazo decenal incide ainda que o INSS não tenha apreciado a questão do divisor no ato de concessão: a falta de apreciação administrativa não suspende a decadência, de modo que o transcurso do decênio, a partir da DIB, inviabiliza a revisão.
+O universo de benefícios elegíveis abrange os concedidos entre 29/11/1999 e aproximadamente 2009. Em junho de 2026, a maioria já ultrapassou o prazo decadencial. E, na linha do Tema 975/STJ, o prazo decenal incide ainda que o INSS não tenha apreciado a questão do divisor no ato de concessão: a falta de apreciação administrativa não suspende a decadência, de modo que o transcurso do decênio, a partir da DIB, inviabiliza a revisão.
 
 ::: box-pratica
 **Como identificar se um benefício é elegível para a revisão do art. 29, II**
@@ -336,9 +336,11 @@ O segurado que preenche requisitos para mais de uma regra de aposentadoria tem d
 
 A dimensão revisional surge quando o INSS concede o benefício por regra que não é a mais vantajosa. Na nossa experiência, o sistema informatizado do INSS calcula o benefício pela regra que primeiro identifica como satisfeita, sem necessariamente comparar todas as regras aplicáveis. Essa revisão submete-se ao prazo decadencial de dez anos (Tema 966/STJ).
 
+Convém precisar a relação entre os dois fundamentos, porque eles operam em planos temporais distintos. O art. 26, §2º, da EC 103/2019 é norma positivada que assegura, na sistemática pós-reforma, a aplicação da regra mais vantajosa entre as cabíveis. O Tema 966/STJ, por sua vez, é precedente anterior à EC 103, firmado sob a sistemática de cálculo pré-reforma, e cuida especificamente da incidência da decadência sobre a pretensão de obter o benefício mais vantajoso (direito adquirido). O Tema 966 não interpreta a EC 103: o que dele se extrai, e se reaproveita aqui, é a tese de que o prazo decadencial de dez anos alcança a pretensão de revisar a escolha da regra de cálculo, conclusão que permanece útil sob qualquer das sistemáticas.
+
 #### 17.7.2 Reafirmação da DER — Tema 995/STJ: dimensão processual
 
-A reafirmação da DER permite ao magistrado considerar fatos supervenientes ao requerimento administrativo para fins de concessão (v. Cap. 10, seção 10.8.2 para a tese substantiva). A tese vinculante do Tema 995/STJ (REsp 1.727.063/SP e REsp 1.727.064/SP) admite a reafirmação para o momento em que implementados os requisitos, inclusive entre o ajuizamento e a decisão.
+A reafirmação da DER permite ao magistrado considerar fatos supervenientes ao requerimento administrativo para fins de concessão (v. Cap. 10, seção 10.8.2 para a tese substantiva). A tese vinculante do Tema 995/STJ (REsp 1.727.063/SP e REsp 1.727.064/SP, 1ª Seção, Rel. Min. Mauro Campbell Marques, julgado em 23/10/2019, DJe 02/12/2019) admite a reafirmação para o momento em que implementados os requisitos, inclusive entre o ajuizamento e a decisão.
 
 Na prática do JEF, a reafirmação é invocada em duas situações. Na primeira, o segurado ajuíza ação antes de preencher todos os requisitos e, durante o processo, completa idade ou carência. Na segunda, durante a instrução, verifica-se que os requisitos somente foram preenchidos em data posterior ao requerimento. O juiz, aplicando o Tema 995 e o art. 493 do CPC (fatos supervenientes), reafirma a DER.
 
@@ -384,9 +386,9 @@ Situação diversa da reafirmação é a revisão da DIB para retroação: o seg
 
 #### 17.8.1 Revisão de atividades concomitantes — Tema 1070/STJ
 
-A revisão das atividades concomitantes é, entre as teses examinadas neste capítulo, a que mantém maior vitalidade nos JEFs em maio de 2026. A tese vinculante do Tema 1070/STJ e a mecânica de cálculo são analisadas na seção 16.10. Aqui, o enfoque é exclusivamente revisional: decadência, procedimento de instrução e operacionalização nos JEFs.
+A revisão das atividades concomitantes é, entre as teses examinadas neste capítulo, a que mantém maior vitalidade nos JEFs em junho de 2026. A tese vinculante do Tema 1070/STJ e a mecânica de cálculo são analisadas na seção 16.10. Aqui, o enfoque é exclusivamente revisional: decadência, procedimento de instrução e operacionalização nos JEFs.
 
-O fundamento é direto: até a fixação da tese pelo STJ (REsp 1.870.793/RS e REsp 1.870.815/RS, 1ª Seção, Rel. Min. Sérgio Kukina, julgado em 11/05/2022, trânsito em 13/02/2023), o INSS aplicava o art. 32 da Lei 8.213/91 em sua literalidade, calculando o salário de benefício de forma proporcional. O STJ fixou que, para benefícios concedidos a partir de 29/11/1999 (vigência da Lei 9.876/1999), o salário de benefício deve ser calculado com base na soma de todos os salários de contribuição das atividades exercidas.
+O fundamento é direto: até a fixação da tese pelo STJ (REsp 1.870.793/RS e REsp 1.870.815/RS, 1ª Seção, Rel. Min. Sérgio Kukina, julgado em 11/05/2022, trânsito em 13/02/2023), o INSS aplicava o art. 32 da Lei 8.213/91 em sua literalidade, calculando o salário de benefício de forma proporcional. O STJ fixou que, para benefícios concedidos a partir de 29/11/1999 (vigência da Lei 9.876/1999), o salário de benefício deve ser calculado com base na soma de todos os salários de contribuição das atividades exercidas. O corte temporal é deliberado e tem consequência prática direta: para os benefícios anteriores a essa vigência, subsiste a sistemática proporcional do art. 32 da Lei 8.213/91 em sua redação original (regra de transição), de modo que a tese revisional do Tema 1070 não alcança, indistintamente, toda concomitância anterior a 29/11/1999 — sob pena de leitura equivocada de que qualquer benefício do regime pré-Lei 9.876/99 seria igualmente revisável pela soma integral.
 
 A decadência merece exame cuidadoso. A revisão submete-se ao prazo de dez anos do art. 103. Para benefícios concedidos em 1999 ou 2000, o prazo expirou entre 2009 e 2010. Convém afastar um equívoco frequente: o Tema 975/STJ assentou que a decadência incide ainda que o INSS dispusesse de todos os dados no CNIS para aplicar a regra correta e não o tenha feito — a falta de apreciação administrativa da questão não impede a fluência do prazo. Não há, portanto, exceção a explorar nesse ponto: o decurso do decênio, contado da DIB, inviabiliza a revisão das atividades concomitantes.
 
@@ -410,15 +412,15 @@ A decadência decenal também aqui incide na forma do Tema 975/STJ: ainda que o 
 
 #### 17.8.4 Desaposentação — tese encerrada (Tema 503/STF)
 
-A desaposentação foi encerrada pelo STF no RE 661.256 (Tema 503, Rel. Min. Dias Toffoli, Plenário, 26/10/2016). A tese: "No âmbito do RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, §2º, da Lei 8.213/91."
+A desaposentação foi encerrada pelo STF no RE 661.256 (Tema 503, Rel. orig. Min. Roberto Barroso, Red. p/ acórdão Min. Dias Toffoli, Plenário, 26/10/2016). A tese: "No âmbito do RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, §2º, da Lei 8.213/91."
 
-Registramos a desaposentação pela relevância histórica. Entre 2008 e 2016, foi uma das teses mais litigadas nos JEFs. O STJ chegou a admiti-la em repetitivo (REsp 1.334.488, Tema 563). A reversão pelo STF encerrou a controvérsia. O magistrado deve indeferir liminarmente eventuais petições iniciais que postulem desaposentação (art. 332, III, CPC).
+Registramos a desaposentação pela relevância histórica. Entre 2008 e 2016, foi uma das teses mais litigadas nos JEFs. O STJ chegou a admiti-la em repetitivo (REsp 1.334.488/SC, Tema 563, Rel. Min. Herman Benjamin, 1ª Seção, j. 08/05/2013). A reversão pelo STF encerrou a controvérsia. O magistrado deve indeferir liminarmente eventuais petições iniciais que postulem desaposentação (art. 332, III, CPC).
 
 ### 17.9 Procedimento da Ação Revisional no JEF
 
 #### 17.9.1 Competência
 
-A competência dos JEFs é fixada pelo art. 3º, caput, da Lei 10.259/2001: causas de competência da Justiça Federal até sessenta salários mínimos. Em maio de 2026, esse limite corresponde a R$ 97.260,00 (60 × R$ 1.621,00) [valor projetado — verificar o salário mínimo vigente na data de publicação].
+A competência dos JEFs é fixada pelo art. 3º, caput, da Lei 10.259/2001: causas de competência da Justiça Federal até sessenta salários mínimos. Em junho de 2026, esse limite corresponde a R$ 97.260,00 (60 × R$ 1.621,00; v. a nota sobre valores monetários de 2026, na seção 17.1).
 
 O valor da causa na ação revisional é composto pela soma das diferenças vencidas (prescrição quinquenal) e das doze parcelas vincendas (art. 292, §§1º e 2º, CPC). Quando o valor ultrapassa o limite, o autor pode renunciar ao excedente (art. 3º, §3º, Lei 10.259/2001). A renúncia é irrevogável: o segurado abre mão do valor que excede sessenta SM e não poderá cobrá-lo posteriormente. Onde instalada Vara do Juizado Especial, a competência é absoluta (art. 3º, caput, da Lei 10.259/2001; STJ, CC 127.506/SC).
 
@@ -563,7 +565,7 @@ A sentença revisional nos JEFs é, em regra, ilíquida: reconhece o direito, fi
 
 **Etapa 6 — Deduzir valores já pagos:** Se o INSS efetuou pagamentos parciais (revisão administrativa, RPV anterior), descontar para evitar enriquecimento sem causa.
 
-**Etapa 7 — Apurar o valor total e verificar RPV:** Se o valor líquido não exceder 60 SM (R$ 97.260,00 em 2026 [valor projetado]), pagamento por RPV. Se exceder, precatório, salvo renúncia ao excedente.
+**Etapa 7 — Apurar o valor total e verificar RPV:** Se o valor líquido não exceder 60 SM (R$ 97.260,00 em 2026; v. nota na seção 17.1), pagamento por RPV. Se exceder, precatório, salvo renúncia ao excedente.
 :::
 
 #### 17.11.3 Correção monetária e juros — três regimes
@@ -574,26 +576,28 @@ A atualização dos valores devidos seguiu três regimes distintos, e o magistra
 
 **Regime 2 — EC 113/2021 (dezembro de 2021 a agosto de 2025).** A SELIC como índice único de atualização, englobando correção e juros. A mudança simplificou o cálculo.
 
-**Regime 3 — EC 136/2025 (a partir de setembro de 2025).** IPCA acrescido de juros simples de 2% ao ano, com teto: a soma não pode exceder a SELIC acumulada no mesmo período. Em maio de 2026, a SELIC está em 14,50% ao ano [valor projetado para a data de publicação — verificar a taxa vigente na data de leitura]. O IPCA acumulado gira em torno de 4,5% [projeção]. IPCA (4,5%) + 2% = ~6,5%, inferior à SELIC (14,50%), sem incidência do teto. Na prática, o credor previdenciário recebe atualização de ~6,5% a.a., contra 14,50% sob o regime anterior.
+**Regime 3 — EC 136/2025 (a partir de setembro de 2025).** IPCA acrescido de juros simples de 2% ao ano, com teto: a soma não pode exceder a SELIC acumulada no mesmo período. Uma ressalva metodológica é indispensável aqui: o IPCA é índice de **correção monetária** (recompõe a inflação do período, capitalizando-se sobre a base atualizada), ao passo que os 2% a.a. são **juros simples** (incidem linearmente sobre o valor, sem capitalização). As duas grandezas, por operarem mecânicas distintas, não se somam de forma aritmeticamente direta; a expressão "IPCA + 2%" é uma síntese da composição, e não uma taxa única a ser aplicada em bloco. O resultado efetivo dependerá, em cada execução, do IPCA acumulado e da taxa SELIC vigentes no período de apuração. A título ilustrativo, em cenário de SELIC elevada (a SELIC esteve em patamar próximo a 14,5% a.a. em meados de 2026 [verificar a taxa vigente na data de leitura]), a remuneração resultante do regime da EC 136 tende a situar-se bem abaixo da que vigorava sob a SELIC plena, ficando, em regra, aquém do teto e dispensando o seu acionamento. Na prática, o credor previdenciário passa a receber atualização sensivelmente inferior à do regime anterior.
 
 ::: box-quadro
 **Três regimes de correção monetária e juros nas condenações previdenciárias**
 
-| Período | Regime | Correção monetária | Juros de mora | Resultado prático (estimado, maio/2026) |
+| Período | Regime | Correção monetária | Juros de mora | Resultado prático (estimado, junho/2026) |
 |---|---|---|---|---|
 | Até nov/2021 | Pré-EC 113 | IPCA-E (condenações judiciais) / INPC (manutenção do benefício) | 0,5% a.m. ou poupança | Variável conforme período |
-| Dez/2021 a ago/2025 | EC 113/2021 | SELIC (índice único, engloba correção + juros) | Englobados na SELIC | ~13% a.a. (média do período) |
-| A partir de set/2025 | EC 136/2025 | IPCA + 2% a.a. (juros simples), teto SELIC | Englobados (IPCA + 2%) | ~6,5% a.a. [projeção] |
+| Dez/2021 a ago/2025 | EC 113/2021 | SELIC (índice único, engloba correção + juros) | Englobados na SELIC | Acompanha a SELIC vigente em cada mês do período (taxa de dois dígitos na maior parte do intervalo) |
+| A partir de set/2025 | EC 136/2025 | IPCA + 2% a.a. (juros simples), teto SELIC | Englobados (IPCA + 2%) | A depender do IPCA e da SELIC vigentes; em regra, bem abaixo do regime SELIC |
 :::
+
+*Os percentuais indicados são meramente referenciais e dependem dos índices efetivamente apurados em cada período; IPCA (correção monetária) e os 2% a.a. (juros simples) não compõem taxa única somável de forma direta.*
 
 #### 17.11.4 ADI 7873 — Constitucionalidade da EC 136/2025
 
-A EC 136/2025 é objeto da ADI 7873, ajuizada pela OAB, com relatoria do Min. Luiz Fux. Até maio de 2026, o STF não concedeu cautelar, e a EC 136 está em vigor. O magistrado deve aplicar o regime da EC 136 aos precatórios e RPVs expedidos a partir de setembro de 2025, ressalvando a possibilidade de alteração em caso de acolhimento da ADI.
+A EC 136/2025 é objeto da ADI 7873, ajuizada pela OAB, com relatoria do Min. Luiz Fux. Até junho de 2026, o STF não concedeu cautelar, e a EC 136 está em vigor. O magistrado deve aplicar o regime da EC 136 aos precatórios e RPVs expedidos a partir de setembro de 2025, ressalvando a possibilidade de alteração em caso de acolhimento da ADI.
 
 ::: box-atencao
 **EC 136/2025 — Impacto nos valores das ações revisionais**
 
-A EC 136/2025 reduziu a remuneração dos créditos judiciais previdenciários. Antes (EC 113): SELIC (~14,50% a.a.). Agora: IPCA + 2% a.a. (~6,5%). Diferença de ~8 pontos percentuais/ano.
+A EC 136/2025 reduziu a remuneração dos créditos judiciais previdenciários. Antes (EC 113), a atualização seguia a SELIC integral; agora, segue o IPCA acrescido de juros simples de 2% a.a., limitada à SELIC do período. Em cenário de SELIC elevada, a diferença a favor do regime anterior é expressiva — a depender, em cada caso, da SELIC e do IPCA vigentes no período de apuração (lembrando que IPCA e os 2% obedecem a metodologias distintas e não compõem taxa única aplicável em bloco).
 
 **Para o segurado:** perda de valor real enquanto aguarda pagamento.
 
@@ -604,7 +608,7 @@ A EC 136/2025 reduziu a remuneração dos créditos judiciais previdenciários. 
 
 #### 17.11.5 RPV e precatório
 
-Se o valor total, por beneficiário, não excede 60 SM (R$ 97.260,00 em 2026 [projeção]), pagamento por RPV (prazo de sessenta dias úteis, art. 17, Lei 10.259/2001). Se excede, precatório. O autor pode renunciar ao excedente para enquadrar em RPV — renúncia irrevogável.
+Se o valor total, por beneficiário, não excede 60 SM (R$ 97.260,00 em 2026; v. nota na seção 17.1), pagamento por RPV (prazo de sessenta dias, na literalidade do art. 17 da Lei 10.259/2001). Se excede, precatório. O autor pode renunciar ao excedente para enquadrar em RPV — renúncia irrevogável.
 
 Os honorários advocatícios, quando devidos, são requisitados em separado, em nome do advogado (art. 85, §14, CPC). A contribuição previdenciária incidente sobre as diferenças deve ser descontada antes da expedição da RPV.
 
@@ -699,6 +703,8 @@ Os quadros abaixo consolidam, em formato de consulta rápida, as informações d
 | Desaposentação | — | Tema 503/STF | — | Encerrada (2016) |
 | Melhor DIB | Art. 26, §2º, EC 103/2019 | Tema 966/STJ | 10 anos (DIB) | Viável |
 | Reafirmação da DER | Art. 29 + art. 493 CPC | Tema 995/STJ | Não se aplica | Viável |
+
+*Quanto à Melhor DIB, o fundamento positivado (art. 26, §2º, EC 103/2019) e o precedente do Tema 966/STJ operam em planos temporais distintos: o Tema 966 é anterior à EC 103 e trata da decadência sobre o direito adquirido ao benefício mais vantajoso sob a sistemática pré-reforma, não interpretando a EC 103 (v. seção 17.7.1).*
 :::
 
 ::: box-quadro
@@ -712,6 +718,8 @@ Os quadros abaixo consolidam, em formato de consulta rápida, as informações d
 | 26/11/2025 | Embargos de declaração acolhidos com efeito infringente. Reversão integral. |
 | 29/04/2026 | Publicação no DJe do acórdão dos embargos (reversão). |
 | 15/05/2026 | Novos embargos sobre ampliação da modulação rejeitados (Plenário Virtual); retirado o destaque do Min. Fachin. Modulação mantida sem ampliação. |
+
+*O fundamento estável deste quadro são as ADIs 2.110 e 2.111 (constitucionalidade e cogência do art. 3º da Lei 9.876/1999, 2024). Os marcos de 2025-2026 (acolhimento dos embargos, publicação do acórdão e rejeição dos novos embargos) retratam o estado processual no fechamento da edição e estão sujeitos a alteração; confira-se o andamento atual do RE 1.276.977/RS no sítio do STF na data de leitura. V. nota editorial na seção 17.3.1.*
 :::
 
 ::: box-quadro
@@ -776,7 +784,7 @@ BRASIL. INSS — Diretoria de Benefícios. Memorando-Circular Conjunto nº 21/DI
 
 SUPREMO TRIBUNAL FEDERAL. RE 564.354/SE (Tema 76). Relatora Min. Cármen Lúcia. Plenário. Julgado em 08/09/2010. Revisão do teto — ECs 20/1998 e 41/2003.
 
-SUPREMO TRIBUNAL FEDERAL. RE 661.256/SC (Tema 503). Relator Min. Dias Toffoli. Plenário. Julgado em 26/10/2016. Desaposentação — vedação por ausência de previsão legal.
+SUPREMO TRIBUNAL FEDERAL. RE 661.256/SC (Tema 503). Relator originário Min. Roberto Barroso; redator para o acórdão Min. Dias Toffoli. Plenário. Julgado em 26/10/2016. Desaposentação — vedação por ausência de previsão legal.
 
 SUPREMO TRIBUNAL FEDERAL. RE 870.947/SE (Tema 810). Relator Min. Luiz Fux. Plenário. Julgado em 20/09/2017. Correção monetária e juros nas condenações da Fazenda Pública.
 
@@ -786,17 +794,17 @@ SUPREMO TRIBUNAL FEDERAL. RE 1.276.977/RS (Tema 1102). Relator Min. Alexandre de
 
 SUPREMO TRIBUNAL FEDERAL. ADIs 2.110 e 2.111. Relator Min. Roberto Barroso. Plenário. Julgamento concluído em 21/03/2024. Constitucionalidade do art. 3º da Lei 9.876/1999.
 
-SUPREMO TRIBUNAL FEDERAL. ADI 7873. Relator Min. Luiz Fux. Ajuizamento pela OAB. Pendente de julgamento (maio/2026). Constitucionalidade da EC 136/2025.
+SUPREMO TRIBUNAL FEDERAL. ADI 7873. Relator Min. Luiz Fux. Ajuizamento pela OAB. Pendente de julgamento (junho/2026). Constitucionalidade da EC 136/2025.
 
 SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.870.793/RS e REsp 1.870.815/RS (Tema 1070). Relator Min. Sérgio Kukina. 1ª Seção. Julgado em 11/05/2022. Trânsito em julgado em 13/02/2023. Atividades concomitantes — soma dos salários de contribuição.
 
-SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.631.021/RS e REsp 1.612.818/RS (Tema 966). 1ª Seção. Julgado em 13/02/2019. DJe 13/03/2019. Decadência para reconhecimento do direito adquirido ao benefício mais vantajoso.
+SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.631.021/RS e REsp 1.612.818/RS (Tema 966). Relator Min. Mauro Campbell Marques. 1ª Seção. Julgado em 13/02/2019. DJe 13/03/2019. Decadência para reconhecimento do direito adquirido ao benefício mais vantajoso.
 
-SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.648.336/RS e REsp 1.644.191/RS (Tema 975). 1ª Seção. Julgado em 11/12/2019. DJe 04/08/2020. Aplicação da decadência às questões não apreciadas no ato administrativo de concessão.
+SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.648.336/RS e REsp 1.644.191/RS (Tema 975). Relator Min. Herman Benjamin. 1ª Seção. Julgado em 11/12/2019. DJe 04/08/2020. Aplicação da decadência às questões não apreciadas no ato administrativo de concessão.
 
-SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.727.063/SP e REsp 1.727.064/SP (Tema 995). 1ª Seção. Julgado em 22/10/2019. Reafirmação da DER.
+SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.727.063/SP e REsp 1.727.064/SP (Tema 995). Relator Min. Mauro Campbell Marques. 1ª Seção. Julgado em 23/10/2019. DJe 02/12/2019. Reafirmação da DER.
 
-SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.334.488/SC (Tema 563). 1ª Seção. Julgado em 08/05/2013. Desaposentação — admitida pelo STJ (posteriormente superado pelo Tema 503/STF).
+SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.334.488/SC (Tema 563). Relator Min. Herman Benjamin. 1ª Seção. Julgado em 08/05/2013. Recurso repetitivo. Desaposentação — admitida pelo STJ (posteriormente superada pelo Tema 503/STF).
 
 SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 2.095.463/PR. Relatora Min. Nancy Andrighi. 3ª Turma. Julgado em 18/03/2025. DJe 21/03/2025. Querela nullitatis — pretensão, não procedimento.
 

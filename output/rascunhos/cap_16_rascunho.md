@@ -146,9 +146,23 @@ f = 0,3758 × 1,6692 = 0,6272
 A simulação evidencia o efeito redutor severo do fator para seguradas que se aposentam antes dos 60 anos, mesmo com tempo de contribuição razoável. Comparativamente, se Beatriz postergasse a aposentadoria por 3 anos (60 anos de idade, 30 anos de TC efetivo, Tc = 35 com bônus), o fator subiria para aproximadamente 0,78, redução da penalização em mais de 10 pontos percentuais.
 :::
 
-#### 16.4.3 Constitucionalidade: ADI 2.111
+#### 16.4.3 Constitucionalidade: ADI 2.111 e Tema 616/STF
 
 O fator previdenciário foi objeto de controle concentrado de constitucionalidade na ADI 2.111, que impugnava a Lei n. 9.876/99 por alegada violação aos princípios da irredutibilidade do valor dos benefícios e da preservação do seu valor real. O Supremo Tribunal Federal, em julgamento final concluído em 21 de março de 2024, declarou a constitucionalidade do fator previdenciário, por maioria, entendendo que a fórmula atuarial constitui mecanismo legítimo de equilíbrio financeiro e atuarial do sistema previdenciário, nos termos do art. 201, caput, da Constituição Federal.
+
+A orientação sinalizada na ADI 2.111 foi reafirmada, agora sob a sistemática da repercussão geral, no Tema 616 do STF (RE 639.856, Rel. Min. Gilmar Mendes, j. 19/08/2025). A tese firmada tem recorte específico: cuida da incidência do fator sobre os segurados abrangidos pela regra de transição da EC 20/1998, isto é, aqueles filiados ao RGPS antes da data de promulgação dessa Emenda. Nesses termos, o Tribunal assentou que "é constitucional a aplicação do fator previdenciário, instituído pela Lei 9.876/1999, aos benefícios concedidos a segurados filiados ao Regime Geral de Previdência Social antes de 16.12.1998, abrangidos pela regra de transição do art. 9º da EC 20/98". A conclusão reforça o entendimento de que a incorporação do fator atuarial ao cálculo, ainda que para segurados já filiados ao tempo da reforma de 1998, não ofende direito adquirido nem a irredutibilidade do valor real do benefício.
+
+A constitucionalidade do fator previdenciário, em sua dimensão mais ampla, já havia sido reafirmada pelo STF, em repercussão geral, no Tema 1.091 (RE 1.221.630, j. 05/06/2020). Ali, por reafirmação de jurisprudência (plenário virtual), o Tribunal fixou tese de alcance geral sobre a própria fórmula instituída pela Lei n. 9.876/99, e não apenas sobre um grupo específico de segurados: "É constitucional o fator previdenciário previsto no art. 29, caput, incisos e parágrafos, da Lei nº 8.213/91, com a redação dada pelo art. 2º da Lei nº 9.876/99." Os dois precedentes de repercussão geral, portanto, se complementam: o Tema 1.091 assenta, em termos gerais, a compatibilidade do fator com a Constituição; o Tema 616 confirma sua incidência mesmo sobre os segurados filiados antes da EC 20/1998. Somados à ADI 2.111, esses julgados consolidam, sob diferentes ângulos e com eficácia vinculante, a higidez constitucional do fator previdenciário.
+
+::: box-jurisprudencia
+**Tema 616/STF — Constitucionalidade do fator previdenciário (segurados da transição da EC 20/1998)**
+
+No RE 639.856 (Tema 616, Rel. Min. Gilmar Mendes, j. 19/08/2025), o STF, sob repercussão geral, firmou a seguinte tese: "É constitucional a aplicação do fator previdenciário, instituído pela Lei 9.876/1999, aos benefícios concedidos a segurados filiados ao Regime Geral de Previdência Social antes de 16.12.1998, abrangidos pela regra de transição do art. 9º da EC 20/98."
+
+**Alcance:** o precedente confirma, com eficácia vinculante, a validade da incidência do fator previdenciário inclusive sobre os segurados já filiados ao sistema antes da EC 20/1998, afastando a alegação de violação a direito adquirido. Soma-se à declaração de constitucionalidade da Lei n. 9.876/99 obtida na ADI 2.111 (j. 21/03/2024), consolidando o entendimento de que a fórmula atuarial é compatível com a Constituição.
+
+**Reforço em repercussão geral (Tema 1.091/STF):** em sentido convergente, e de forma mais abrangente, o STF já havia firmado, por reafirmação de jurisprudência, a tese do Tema 1.091 (RE 1.221.630, j. 05/06/2020): "É constitucional o fator previdenciário previsto no art. 29, caput, incisos e parágrafos, da Lei nº 8.213/91, com a redação dada pelo art. 2º da Lei nº 9.876/99." Enquanto o Tema 616 trata do recorte dos segurados da transição da EC 20/1998, o Tema 1.091 atesta a constitucionalidade da própria fórmula em termos gerais.
+:::
 
 A declaração de constitucionalidade teve repercussão direta sobre outra controvérsia relevante. O art. 3º da Lei n. 9.876/99, que estabeleceu a regra de transição para os segurados filiados antes de sua vigência, permitindo o cálculo pela média dos 80% maiores salários de contribuição em vez da regra anterior dos 36 últimos meses, foi declarado norma cogente, de aplicação obrigatória, e não norma dispositiva que pudesse ser afastada por opção do segurado.
 
@@ -360,7 +374,33 @@ No RE 564.354 (Tema 76, rel. Min. Cármen Lúcia, j. 08/09/2010), o STF reconhec
 
 A aplicação prática da revisão do teto exige a reconstituição do salário de benefício original, sem limitação ao teto, para verificar se o segurado faz jus à readequação. Essa informação nem sempre está disponível nos sistemas do INSS, o que pode demandar diligência complementar (requisição do processo administrativo de concessão ou consulta ao CONBAS).
 
-#### 16.7.4 Teto especial: salário-maternidade
+A tese do Tema 76 foi, posteriormente, estendida pelo próprio STF aos benefícios concedidos no chamado "buraco negro" — período compreendido entre a promulgação da Constituição (05/10/1988) e a entrada em vigor da Lei n. 8.213/91 (05/04/1991), em que os benefícios foram concedidos sem que o sistema constitucional de proteção houvesse sido ainda regulamentado. No Tema 930 (RE 937.595, Rel. Min. Luís Roberto Barroso, j. 03/02/2017), o Tribunal afastou a tese de que esses benefícios estariam excluídos da revisão do teto e assentou, com eficácia vinculante, que eles "não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral." O precedente complementa o Tema 76: a readequação aos novos tetos não se limita aos benefícios concedidos sob a vigência da Lei n. 8.213/91, alcançando também os do "buraco negro", desde que a verificação seja feita individualmente, segundo os mesmos parâmetros do RE 564.354.
+
+::: box-jurisprudencia
+**Tema 930/STF — Readequação aos tetos (ECs 20/1998 e 41/2003) dos benefícios do "buraco negro"**
+
+No RE 937.595 (Tema 930, Rel. Min. Luís Roberto Barroso, j. 03/02/2017), o STF, sob repercussão geral, firmou a tese: "Os benefícios concedidos entre 05.10.1988 e 05.04.1991 (período do buraco negro) não estão, em tese, excluídos da possibilidade de readequação segundo os tetos instituídos pelas EC´s nº 20/1998 e 41/2003, a ser aferida caso a caso, conforme os parâmetros definidos no julgamento do RE 564.354, em regime de repercussão geral."
+
+**Alcance:** o precedente estende a possibilidade de readequação ao teto, reconhecida no Tema 76 (RE 564.354), aos benefícios concedidos no "buraco negro" — aqueles deferidos entre a promulgação da CF/1988 e a vigência da Lei n. 8.213/91. A readequação não é automática: deve ser aferida caso a caso, observados os mesmos parâmetros do RE 564.354, ou seja, verifica-se se o salário de benefício original, sem a limitação do teto então vigente, era superior aos tetos das ECs 20/1998 e 41/2003.
+:::
+
+#### 16.7.4 Benefícios anteriores à CF/1988 e os tetos das ECs 20/1998 e 41/2003: Tema 1.140/STJ
+
+A readequação aos tetos das ECs 20/1998 e 41/2003 suscitou questão própria em relação aos benefícios concedidos antes da Constituição Federal de 1988. Para esses benefícios, discutia-se qual limitador deveria ser utilizado no cálculo da adequação aos novos tetos constitucionais, considerando que, no regime anterior, o sistema operava com a técnica do "menor valor-teto" e do "maior valor-teto", e não com um teto único como o do RGPS atual.
+
+O Superior Tribunal de Justiça enfrentou a controvérsia no Tema 1.140 (REsp 1.957.733, Rel. Min. Gurgel de Faria, j. 14/08/2024), firmando a seguinte tese: "Para efeito de adequação dos benefícios previdenciários concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais n. 20/1998 e 41/2003, no cálculo devem-se aplicar os limitadores vigentes à época de sua concessão (menor e maior valor teto), utilizando-se o teto do salário de contribuição estabelecido em cada uma das emendas constitucionais como maior valor teto, e o equivalente à metade daquele salário de contribuição como menor valor teto."
+
+Na prática, a tese determina que a readequação respeite os limitadores efetivamente vigentes em cada competência: o cálculo não se faz pela simples aplicação do novo teto único, mas pela reconstrução da sistemática do menor e do maior valor-teto. Como maior valor-teto, adota-se o teto do salário de contribuição estabelecido por cada Emenda Constitucional (R$ 1.200,00 na EC 20/1998 e R$ 2.400,00 na EC 41/2003); como menor valor-teto, a metade desse mesmo salário de contribuição. Essa orientação preserva a coerência interna do regime de cálculo dos benefícios mais antigos e evita distorções decorrentes da aplicação retroativa, e descontextualizada, de um teto único concebido para sistemática diversa.
+
+::: box-jurisprudencia
+**Tema 1.140/STJ — Adequação aos tetos das ECs 20/1998 e 41/2003 dos benefícios anteriores à CF/1988**
+
+No REsp 1.957.733 (Tema 1.140, Rel. Min. Gurgel de Faria, j. 14/08/2024; leading case acompanhado do REsp 1.958.465), a 1ª Seção do STJ firmou a tese: "Para efeito de adequação dos benefícios previdenciários concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais n. 20/1998 e 41/2003, no cálculo devem-se aplicar os limitadores vigentes à época de sua concessão (menor e maior valor teto), utilizando-se o teto do salário de contribuição estabelecido em cada uma das emendas constitucionais como maior valor teto, e o equivalente à metade daquele salário de contribuição como menor valor teto."
+
+**Implicação prática:** complementa o Tema 76/STF na disciplina da revisão do teto, esclarecendo que, para os benefícios mais antigos (anteriores à CF/1988), a adequação deve observar a técnica do menor e do maior valor-teto de cada competência, e não a aplicação de um teto único. A situação do julgamento, à data de fechamento desta edição, é de acórdão publicado com recurso extraordinário pendente — sem trânsito em julgado —, de modo que eventual revisão pelo STF deve ser acompanhada.
+:::
+
+#### 16.7.5 Teto especial: salário-maternidade
 
 O salário-maternidade constitui exceção à regra geral do teto do RGPS. Para a segurada empregada, o benefício corresponde à remuneração integral (art. 72 da Lei n. 8.213/91), podendo ultrapassar o teto do RGPS. Nessa hipótese, o teto aplicável é o subsídio mensal de Ministro do Supremo Tribunal Federal, por força da regra constitucional que veda remuneração de servidores e agentes públicos acima desse patamar (art. 37, XI, CF), aplicada por analogia ao salário-maternidade pago pelo RGPS.
 
@@ -681,11 +721,19 @@ BRASIL. Supremo Tribunal Federal. ADI 2.110/DF e ADI 2.111/DF. Rel. Min. Nunes M
 
 BRASIL. Supremo Tribunal Federal. RE 564.354/SE (Tema 76). Rel. Min. Cármen Lúcia. Plenário. Julgado em 8 set. 2010. *Diário da Justiça Eletrônico*, Brasília, DF, 15 fev. 2011.
 
+BRASIL. Supremo Tribunal Federal. RE 639.856 (Tema 616). Rel. Min. Gilmar Mendes. Plenário. Julgado em 19 ago. 2025. *Diário da Justiça Eletrônico*, Brasília, DF, 2025.
+
+BRASIL. Supremo Tribunal Federal. RE 937.595 (Tema 930). Rel. Min. Luís Roberto Barroso. Plenário. Julgado em 3 fev. 2017. *Diário da Justiça Eletrônico*, Brasília, DF, 2017.
+
+BRASIL. Supremo Tribunal Federal. RE 1.221.630 (Tema 1.091). Rel. Min. Presidente. Plenário (reafirmação de jurisprudência). Julgado em 5 jun. 2020. *Diário da Justiça Eletrônico*, Brasília, DF, 2020.
+
 BRASIL. Supremo Tribunal Federal. RE 1.276.977/RS (Tema 1.102). Rel. p/ acórdão Min. Alexandre de Moraes (julgamento original, dez. 2022); embargos com efeitos infringentes julgados em 26 nov. 2025 (tese revertida). Plenário. *Diário da Justiça Eletrônico*, Brasília, DF, 2025.
 
 BRASIL. Supremo Tribunal Federal. RE 1.469.150/SC (Tema 1.300). Rel. Min. Luís Roberto Barroso. Plenário. Julgado em 18 dez. 2025. *Diário da Justiça Eletrônico*, Brasília, DF, 2026.
 
 BRASIL. Superior Tribunal de Justiça. REsp 1.870.793/RS e REsp 1.870.815/RS (Tema 1.070). Rel. Min. Sérgio Kukina. 1ª Seção. Julgado em 11 maio 2022. Trânsito em julgado: 13 fev. 2023. *Diário da Justiça Eletrônico*, Brasília, DF, 24 maio 2022.
+
+BRASIL. Superior Tribunal de Justiça. REsp 1.957.733 e REsp 1.958.465 (Tema 1.140). Rel. Min. Gurgel de Faria. 1ª Seção. Julgado em 14 ago. 2024. *Diário da Justiça Eletrônico*, Brasília, DF, 2024.
 
 BRASIL. Superior Tribunal de Justiça. Tema 995. Rel. Min. Mauro Campbell Marques. 1ª Seção. Julgado em 22 out. 2019. *Diário da Justiça Eletrônico*, Brasília, DF, 2 dez. 2019.
 

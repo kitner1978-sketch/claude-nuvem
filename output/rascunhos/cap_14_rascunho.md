@@ -17,7 +17,7 @@ O fundamento constitucional do auxílio-reclusão encontra-se no art. 201, incis
 
 Na redação conferida pela EC 103/2019, o art. 201, IV, da CF passou a dispor que a previdência social atenderá "auxílio-reclusão para os dependentes das pessoas de baixa renda". O § 5º do mesmo artigo, também incluído pela EC 103, estabeleceu que "é vedada a concessão, por lei, de auxílio-reclusão quando o recluso estiver em regime aberto" e fixou o valor do benefício em um salário-mínimo.
 
-O auxílio-reclusão não é benefício destinado ao preso. Trata-se de prestação previdenciária paga aos **dependentes** do segurado recolhido à prisão, com o objetivo de garantir a subsistência da família que perde sua fonte de renda em razão do encarceramento. O segurado é o elemento de conexão, é sua qualidade de segurado e sua filiação ao RGPS que geram o direito, mas os titulares do benefício são exclusivamente os dependentes. Essa distinção, aparentemente singela, tem consequências jurídicas profundas e foi expressamente afirmada pelo Supremo Tribunal Federal no julgamento do RE 587.365 (Tema 89).
+O auxílio-reclusão não é benefício destinado ao preso. Trata-se de prestação previdenciária paga aos **dependentes** do segurado recolhido à prisão, com o objetivo de garantir a subsistência da família que perde sua fonte de renda em razão do encarceramento. O segurado é o elemento de conexão, é sua qualidade de segurado e sua filiação ao RGPS que geram o direito, mas os titulares do benefício são exclusivamente os dependentes. Essa distinção, aparentemente singela, tem consequências jurídicas profundas: decorre da própria estrutura do art. 201, IV, c/c o art. 226 da CF, e foi reafirmada como premissa pelo Supremo Tribunal Federal no julgamento do RE 587.365 (Tema 89) — observando-se que a tese vinculante ali fixada versa especificamente sobre o parâmetro de renda a ser aferido (a do segurado, e não a dos dependentes), e não sobre a titularidade do benefício, que repousa diretamente no texto constitucional.
 
 ::: box-atencao
 **A EC 103/2019 transformou radicalmente o auxílio-reclusão**
@@ -27,16 +27,18 @@ O advogado previdenciarista deve ter especial atenção ao regime jurídico apli
 **Regime antigo (fato gerador anterior a 18/01/2019):**
 - Dispensado de carência (art. 26, I, Lei 8.213/91, redação anterior à Lei 13.846/2019)
 - Qualquer regime prisional (fechado, semiaberto ou aberto)
-- Valor escalonado (100%, 90%, 80%, 60% conforme faixas de renda)
+- Valor calculado como a aposentadoria por invalidez: 100% do salário de benefício (piso de 1 SM, teto do RGPS)
 - Limite de baixa renda aferido pelo último salário de contribuição do segurado
 
 **Regime novo (fato gerador a partir de 18/01/2019):**
 - Carência de 24 contribuições mensais (desde 18/01/2019 — MP 871/2019, consolidada pela Lei 13.846/2019)
 - Apenas regime fechado (art. 80, Lei 8.213), semiaberto: controvérsia
 - Valor fixo de 1 salário-mínimo (R$ 1.621,00 em 2026), a partir de 13/11/2019 (EC 103)
-- Limite de baixa renda: média dos 12 últimos salários ≤ R$ 1.906,04 (valor de 2025 — verificar atualização pela Portaria MPS/MF para 2026)
+- Limite de baixa renda: média dos 12 últimos salários ≤ limite anual da Portaria Interministerial MPS/MF (R$ 1.906,04 — limite do exercício de 2025; v. referência única abaixo)
 
 A data determinante é o **recolhimento à prisão**, não a data da sentença condenatória.
+
+**Sobre o limite de baixa renda (referência única).** Adotamos, ao longo deste capítulo, o valor de **R$ 1.906,04**, fixado para 2025 pela Portaria Interministerial MPS/MF n. 6/2025. Esse teto é reajustado anualmente pelos mesmos índices aplicados aos benefícios do RGPS (art. 27, § 1º, da EC 103/2019); a Portaria MPS/MF para 2026, editada em janeiro, atualiza o montante conforme o reajuste do exercício. Sempre que o texto referir "R$ 1.906,04", o leitor deve compreendê-lo como o limite vigente no exercício do fato gerador, substituindo-o pelo valor da portaria do ano correspondente. Para evitar repetições, não reiteramos essa advertência a cada tabela.
 
 **Nota:** Entre 18/01/2019 e 12/11/2019 (MP 871/2019, convertida na Lei 13.846/2019), vigeu regime intermediário com carência de 24 contribuições e restrição ao regime fechado, porém com valor calculado conforme as regras da pensão por morte (não o valor fixo de 1 SM, que só se aplica a partir de 13/11/2019 pela EC 103).
 :::
@@ -50,23 +52,24 @@ O Supremo Tribunal Federal, no julgamento paradigmático do RE 587.365 (Tema 89,
 ::: box-jurisprudencia
 **STF — RE 587.365 (Tema 89): Proteção ao Dependente**
 
-Tese fixada: "Segundo decorre do art. 201, IV, da Constituição Federal, a renda do segurado preso é a que deve ser utilizada como parâmetro para a concessão do auxílio-reclusão e não a de seus dependentes."
+Tese fixada (objeto vinculante): "Segundo decorre do art. 201, IV, da Constituição Federal, a renda do segurado preso é a que deve ser utilizada como parâmetro para a concessão do auxílio-reclusão e não a de seus dependentes."
 
-Fundamentos relevantes para o regime atual:
-- A renda a ser aferida para fins de "baixa renda" é a do **segurado** preso, e não a dos seus dependentes
-- O benefício protege o **dependente**, não o preso
+**Núcleo da tese.** O que o Tema 89 efetivamente fixou, em caráter vinculante, é o **parâmetro de aferição da renda**: para fins de enquadramento como "baixa renda", afere-se a renda do **segurado** preso, não a dos dependentes. É a esse comando — e somente a ele — que se deve invocar o Tema 89 ao impugnar indeferimentos do INSS.
+
+**Fundamentos e rationale do acórdão (não confundir com a tese vinculante).** A afirmação de que o benefício protege o **dependente**, e não o preso, integra a fundamentação do julgado e a própria estrutura do art. 201, IV, c/c o art. 226 da CF, mas não constitui o dispositivo vinculante do tema. Trata-se de fundamento autônomo, extraído da natureza do instituto, e assim deve ser citado:
+- A renda aferida para "baixa renda" é a do **segurado** preso, e não a dos dependentes (tese vinculante)
+- O benefício protege o **dependente**, não o preso — premissa estrutural do instituto (art. 201, IV, c/c art. 226, CF), e não tese fixada no Tema 89
 - O recolhimento à prisão priva a família de sua fonte de sustento
-- O auxílio-reclusão concretiza o princípio constitucional de proteção à família (art. 226, CF)
 - A restrição a segurados de "baixa renda" (EC 20/1998) é constitucional, pois atende ao princípio da seletividade (art. 194, III, CF)
 
-Relator: Min. Ricardo Lewandowski | Julgamento: 25/03/2009 | DJe: 08/05/2009
+Relator: Min. Ricardo Lewandowski | Tribunal Pleno | Mérito julgado (repercussão geral) em 25/03/2009
 :::
 
 A função social do auxílio-reclusão opera em múltiplas dimensões. Em primeiro lugar, garante a dignidade dos dependentes, frequentemente mulheres com filhos pequenos, que se veem repentinamente privados da fonte de renda familiar. Em segundo lugar, funciona como mecanismo de prevenção à marginalização dos dependentes, evitando que a prisão do provedor familiar produza efeitos cascata de vulnerabilidade social. Em terceiro lugar, serve como instrumento de ressocialização indireta: ao garantir a subsistência da família durante o período de reclusão, o benefício preserva o vínculo familiar que constitui fator determinante para a reinserção social do preso.
 
-A perspectiva de gênero é especialmente relevante. Dados do Departamento Penitenciário Nacional (DEPEN/SISDEPEN) indicam que o Brasil possui a terceira maior população carcerária do mundo, com aproximadamente 830 mil presos (dados de 2024). Dessa população, cerca de 95% são homens, em sua esmagadora maioria jovens (18 a 29 anos), negros (67%) e com ensino fundamental incompleto (51%). Os dependentes que requerem o auxílio-reclusão são, correspondentemente, em sua imensa maioria mulheres, companheiras, esposas e mães, que assumem sozinhas a responsabilidade pelo sustento e cuidado dos filhos.
+A perspectiva de gênero é especialmente relevante. Os dados do Departamento Penitenciário Nacional, consolidados no Sistema de Informações do Departamento Penitenciário Nacional (SISDEPEN) e nos Levantamentos Nacionais de Informações Penitenciárias, indicam que o Brasil possui uma das maiores populações carcerárias do mundo, da ordem de 830 mil presos. Os perfis sociodemográficos extraídos dos painéis do SISDEPEN são, há anos, consistentes: a esmagadora maioria da população prisional é composta por homens (cerca de 95%), em sua maior parte jovens (na faixa de 18 a 29 anos), pessoas negras (em torno de dois terços) e de baixa escolaridade (cerca de metade com, no máximo, ensino fundamental incompleto). Os percentuais aqui referidos devem ser lidos como ordens de grandeza estáveis dos levantamentos do DEPEN/SISDEPEN, e não como números de um único exercício, pois variam marginalmente a cada atualização semestral do sistema; o leitor deve confirmar o dado do período pertinente no painel oficial do SISDEPEN. Os dependentes que requerem o auxílio-reclusão são, correspondentemente, em sua imensa maioria mulheres — companheiras, esposas e mães — que assumem sozinhas a responsabilidade pelo sustento e cuidado dos filhos.
 
-A desproporção entre a população carcerária e o número de auxílios-reclusão efetivamente pagos é reveladora da seletividade do sistema. Segundo dados do Boletim Estatístico da Previdência Social (BEPS), em novembro de 2023 havia apenas 15.917 auxílios-reclusão ativos, com valor médio de R$ 1.344,80. Isso significa que menos de 2% dos presos brasileiros geram o benefício para seus dependentes, o que se explica pela combinação de: (i) informalidade laboral (muitos presos nunca contribuíram para o RGPS); (ii) perda da qualidade de segurado antes da prisão; (iii) renda acima do limite de baixa renda; (iv) desconhecimento do direito pelos dependentes; e (v) dificuldades operacionais para requerer o benefício. O auxílio-reclusão representou, em 2023, menos de 0,1% do orçamento total do INSS — desmentindo categoricamente o mito de que o benefício consome parcela significativa dos recursos previdenciários.
+A desproporção entre a população carcerária e o número de auxílios-reclusão efetivamente pagos é reveladora da seletividade do sistema. Segundo o Boletim Estatístico da Previdência Social (BEPS) referente à competência de novembro de 2023 — última edição consolidada à época de fechamento deste capítulo —, havia 15.917 auxílios-reclusão ativos, com valor médio de R$ 1.344,80. Tal como advertimos quanto aos dados do SISDEPEN, esse número deve ser lido como **ordem de grandeza** da competência indicada: o estoque e o valor médio variam mês a mês, e o leitor deve confirmar a cifra atualizada na edição mais recente do BEPS (Secretaria de Regime Geral de Previdência Social, publicação mensal), cujo histórico é disponibilizado no portal Dados Abertos da Previdência. Ainda assim, a ordem de grandeza é estável e expressiva: menos de 2% dos presos brasileiros geram o benefício para seus dependentes, o que se explica pela combinação de: (i) informalidade laboral (muitos presos nunca contribuíram para o RGPS); (ii) perda da qualidade de segurado antes da prisão; (iii) renda acima do limite de baixa renda; (iv) desconhecimento do direito pelos dependentes; e (v) dificuldades operacionais para requerer o benefício. O auxílio-reclusão representou, em 2023, menos de 0,1% do orçamento total do INSS — desmentindo categoricamente o mito de que o benefício consome parcela significativa dos recursos previdenciários.
 
 Negar o auxílio-reclusão em situações onde os requisitos legais estão preenchidos equivale, na prática, a penalizar duplamente a família do preso: pela perda da liberdade do provedor e pela supressão da proteção previdenciária.
 
@@ -145,7 +148,7 @@ A qualidade de segurado do preso tem peculiaridades que merecem análise detida:
 
 **Extensão do período de graça após a soltura.** Quando o segurado é solto, inicia-se o período de graça ordinário do art. 15 da Lei 8.213/91 (12 meses, prorrogáveis para 24 meses se contar com mais de 120 contribuições, e para 36 meses se comprovado desemprego). Esse período é contado a partir da data da soltura, não da data do último recolhimento anterior à prisão. A previsão visa permitir a reinserção social e laboral do egresso.
 
-**Facultatividade da contribuição durante a reclusão.** O segurado preso pode, se desejar, contribuir como segurado facultativo durante o período de reclusão (art. 116, § 3º, Decreto 3.048/99). Essa contribuição é relevante para fins de carência (especialmente no regime pós-EC 103, que exige 24 contribuições para o auxílio-reclusão) e para contagem de tempo de contribuição. A contribuição como facultativo durante a reclusão, contudo, é rara na prática, considerando que a maioria dos segurados presos é de baixa renda e não dispõe de recursos para efetuar recolhimentos.
+**Facultatividade da contribuição durante a reclusão.** O segurado preso que não esteja vinculado obrigatoriamente ao RGPS pode, se desejar, filiar-se como segurado facultativo durante o período de reclusão (art. 13 da Lei 8.213/91, que define o facultativo, regulamentado pelo art. 11, § 1º, e pelo art. 116, § 3º, do Decreto 3.048/99 — este último cuida especificamente do recolhido à prisão que não exerça atividade remunerada). Cumpre, todavia, demarcar com precisão o alcance dessas contribuições: elas relevam para a contagem de tempo de contribuição e para a carência de **benefícios futuros** (inclusive de eventual novo auxílio-reclusão decorrente de novo fato gerador), mas **não** servem para compor a carência do auxílio-reclusão já deflagrado pela prisão em curso. Como se demonstra na seção 14.8, a posição majoritária exige que a carência esteja integralmente cumprida na data do fato gerador (recolhimento à prisão), de modo que contribuições vertidas após esse marco não retroagem para suprir carência inexistente quando do encarceramento. A contribuição como facultativo durante a reclusão, contudo, é rara na prática, considerando que a maioria dos segurados presos é de baixa renda e não dispõe de recursos para efetuar recolhimentos.
 
 **Qualidade de segurado pré-prisão.** Questão delicada surge quando o segurado é recolhido à prisão já sem qualidade de segurado, isto é, quando a prisão ocorre após o término do período de graça. Nessa hipótese, não há direito ao auxílio-reclusão, pois o fato gerador (recolhimento à prisão) encontra o segurado sem cobertura previdenciária. O INSS deve verificar a qualidade de segurado na data do efetivo recolhimento.
 
@@ -159,8 +162,8 @@ A qualidade de segurado do preso tem peculiaridades que merecem análise detida:
 - Se NÃO → perda da qualidade → AR indeferido
 
 **Passo 4:** Se o segurado contribuiu como facultativo durante a reclusão:
-- Contar essas contribuições para fins de carência (24 meses pós-EC 103)
-- Se atingiu 24 contribuições durante a reclusão, cumprirá a carência retroativamente? **Controvérsia**, posição majoritária: a carência deve estar cumprida na data do recolhimento
+- Essas contribuições contam para benefícios futuros e para eventual novo fato gerador, **não** para a carência do AR já deflagrado
+- Se atingiu 24 contribuições durante a reclusão, cumprirá a carência retroativamente? **Controvérsia**, posição majoritária: a carência deve estar cumprida na data do recolhimento (contribuições posteriores não retroagem)
 
 **Passo 5:** Período de graça pós-soltura:
 - 12 meses a partir da soltura (regra geral)
@@ -177,7 +180,7 @@ O critério de baixa renda é, historicamente, o aspecto mais litigioso do auxí
 
 Essa definição tem consequência prática importante: se o segurado recebia remuneração dentro do limite de baixa renda, o benefício é devido mesmo que os dependentes tenham outras fontes de renda. Inversamente, se o segurado recebia acima do limite, o benefício é indevido mesmo que os dependentes se encontrem em situação de extrema vulnerabilidade.
 
-**O momento da aferição.** O STJ enfrentou essa questão no Tema 896 (REsp 1.485.417/SP), mas a tese sofreu importante delimitação temporal. Na redação reafirmada pela 1ª Seção em julho de 2021, ficou assentado que a tese se aplica **ao regime anterior à vigência da MP 871/2019** (antes de 18/01/2019). Para prisões anteriores a essa data, o critério de aferição do segurado desempregado era a **ausência de renda** no momento da prisão (renda zero), e não o último salário de contribuição. Para prisões a partir de 18/01/2019, aplica-se o novo critério: **média dos salários de contribuição dos 12 meses anteriores ao recolhimento** (art. 80, § 4º, Lei 8.213/91, com a redação da Lei 13.846/2019).
+**O momento da aferição.** O STJ enfrentou essa questão no Tema 896 (REsp 1.485.417/MS), mas a tese sofreu importante delimitação temporal. Na redação reafirmada pela 1ª Seção em julho de 2021 (revisão julgada nos REsp 1.842.985/PR e 1.842.974/PR), ficou assentado que a tese se aplica **ao regime anterior à vigência da MP 871/2019** (antes de 18/01/2019). Para prisões anteriores a essa data, o critério de aferição do segurado desempregado era a **ausência de renda** no momento da prisão (renda zero), e não o último salário de contribuição. Para prisões a partir de 18/01/2019, aplica-se o novo critério: **média dos salários de contribuição dos 12 meses anteriores ao recolhimento** (art. 80, § 4º, Lei 8.213/91, com a redação da Lei 13.846/2019).
 
 **O parâmetro numérico.** No regime pré-EC 103, o limite de baixa renda era fixado por portaria interministerial, reajustado anualmente. O valor era vinculado ao último salário de contribuição do segurado. Na data de entrada em vigor da EC 103/2019, o limite fixado pela regra de transição (art. 27) era de R$ 1.364,43.
 
@@ -188,17 +191,17 @@ Tese reafirmada pela 1ª Seção (julho/2021): "Para a concessão de auxílio-re
 
 **Aplicação temporal:**
 - Até 17/01/2019: critério de ausência de renda (segurado desempregado = renda zero = baixa renda)
-- A partir de 18/01/2019 — MP 871/2019 (18/01/2019), convertida na Lei 13.846/2019 (18/06/2019): critério de média dos 12 últimos salários de contribuição
+- A partir de 18/01/2019 (MP 871, depois Lei 13.846/2019): critério de média dos 12 últimos salários de contribuição
 
 **Relevância prática:**
 - No regime antigo, segurado desempregado = baixa renda presumida
 - No regime novo, mesmo desempregado, apura-se a média dos 12 meses anteriores
 - Não se considera renda posterior à prisão (trabalho prisional, por exemplo)
 
-REsp 1.485.417/SP (leading case da revisão de 2021: REsp 1.842.985/RS) | 1ª Seção | Rel. Min. Herman Benjamin
+Tese originária: REsp 1.485.417/MS (1ª Seção, DJe 02/08/2018). Revisão/reafirmação: REsp 1.842.985/PR e REsp 1.842.974/PR (1ª Seção, julgados em 24/02/2021, DJe 01/07/2021), que delimitaram a tese ao regime anterior à MP 871/2019. Rel. Min. Herman Benjamin.
 :::
 
-**Flexibilização do critério de renda: STJ Tema 1162.** Em julgamento de 12/11/2025 (REsp 1.971.856/1.971.857, leading cases, e REsp 1.958.361, Rel. Min. Assusete Magalhães, 1ª Seção, unânime), o STJ fixou tese em dois pontos: (i) no regime anterior à MP 871/2019, é possível a **flexibilização** do critério econômico, mesmo que a renda do segurado supere o limite em percentual ínfimo; (ii) a partir da MP 871/2019, não é possível flexibilizar o teto de renda bruta (média dos 12 meses), exceto se o Executivo deixar de corrigir anualmente o limite. Essa decisão introduz importante válvula de escape no regime antigo, analogamente à flexibilização do critério de miserabilidade do BPC (Cap. 18), mas fecha a porta para o regime novo.
+**Flexibilização do critério de renda.** Para o regime pré-MP 871/2019, o STJ admitiu a flexibilização do critério econômico quando a renda do segurado supera o limite em percentual ínfimo, em solução análoga à que a Corte construiu para a miserabilidade do BPC (Cap. 18). Reservamos o exame detido dessa tese — fixada no Tema 1162/STJ — para a seção 14.7, onde tratamos do critério de baixa renda no regime atual e da fronteira que o repetitivo estabeleceu entre os dois regimes. Adiantamos apenas o essencial para a prática deste tópico: no regime antigo, a margem de flexibilização existe; no regime novo, o teto é, em regra, objetivo e inflexível.
 
 **Segurado sem renda no momento da prisão.** Situação frequentíssima na prática: o segurado está desempregado (mas dentro do período de graça) quando é preso. No regime anterior à MP 871/2019, a jurisprudência consolidou-se no sentido de que a ausência de renda equivale a renda zero, enquadrando-se automaticamente no conceito de "baixa renda" (Tema 896/STJ). No regime posterior, o critério da média dos 12 meses pode excluir o desempregado que tinha renda alta nos meses anteriores à perda do emprego — situação que gera injustiça e que pode ser impugnada judicialmente.
 
@@ -218,7 +221,7 @@ Apesar da tese cristalina do STF (Tema 89), o INSS ainda indeferiu milhares de r
 
 Com a EC 103/2019, o conceito de "baixa renda" ganhou nova conformação. O art. 27, § 1º, da EC 103 estabeleceu que, até que lei discipline o acesso ao auxílio-reclusão, serão utilizados como critérios de renda os vigentes na data de entrada em vigor da emenda, reajustados pelos mesmos índices aplicados aos benefícios do RGPS. Essa regra de transição manteve a sistemática de fixação do limite por portaria interministerial.
 
-O valor-limite para 2025, fixado pela Portaria Interministerial MPS/MF n. 6/2025, é de **R$ 1.906,04** (valor de 2025 — verificar atualização pela Portaria MPS/MF para 2026). Esse valor corresponde ao teto da **média dos salários de contribuição dos 12 meses anteriores ao recolhimento à prisão** para enquadramento como segurado de baixa renda. Note-se a mudança de critério introduzida pela MP 871/2019 (18/01/2019), convertida na Lei 13.846/2019 (18/06/2019): não se utiliza mais o "último salário de contribuição", mas a média aritmética dos 12 últimos salários de contribuição apurados em período não superior a 15 meses.
+O valor-limite para 2025, fixado pela Portaria Interministerial MPS/MF n. 6/2025, é de **R$ 1.906,04** — montante que, na forma da referência única firmada na seção 14.1, deve ser substituído pelo teto da portaria do exercício para fatos geradores de 2026. Esse valor corresponde ao teto da **média dos salários de contribuição dos 12 meses anteriores ao recolhimento à prisão** para enquadramento como segurado de baixa renda. Note-se a mudança de critério introduzida pela MP 871/2019 (já examinada na seção 14.3): não se utiliza mais o "último salário de contribuição", mas a média aritmética dos 12 últimos salários de contribuição apurados em período não superior a 15 meses.
 
 A evolução do limite nos últimos anos demonstra o impacto da política de reajuste:
 
@@ -234,7 +237,7 @@ A evolução do limite nos últimos anos demonstra o impacto da política de rea
 ::: box-pratica
 **Verificação prática do enquadramento como baixa renda (2025)**
 
-**Limite vigente:** R$ 1.906,04 (média dos 12 últimos salários de contribuição) (valor de 2025 — verificar atualização pela Portaria MPS/MF para 2026)
+**Limite vigente (2025):** R$ 1.906,04 (média dos 12 últimos salários de contribuição). Para fatos geradores de 2026, aplicar o valor da Portaria MPS/MF do exercício, na forma da referência única da seção 14.1.
 
 **Passo 1:** Apurar a média dos salários de contribuição dos 12 meses anteriores à prisão
 - Empregado/doméstico/avulso: média dos 12 últimos salários no CNIS
@@ -245,8 +248,8 @@ A evolução do limite nos últimos anos demonstra o impacto da política de rea
 - Facultativo: média das 12 últimas contribuições
 
 **Passo 2:** Comparar com o limite vigente na data do recolhimento
-- Se ≤ R$ 1.906,04 (2025) → enquadrado como baixa renda → verificar demais requisitos (verificar limite atualizado para 2026)
-- Se > R$ 1.906,04 (2025) → NÃO enquadrado → AR indeferido (verificar limite atualizado para 2026)
+- Se ≤ limite do exercício (R$ 1.906,04 em 2025) → enquadrado como baixa renda → verificar demais requisitos
+- Se > limite do exercício → NÃO enquadrado → AR indeferido
 
 **Passo 3:** Situações especiais
 - Segurado com múltiplos vínculos: somar todas as remunerações de cada mês para calcular a média
@@ -254,35 +257,19 @@ A evolução do limite nos últimos anos demonstra o impacto da política de rea
 - Segurado com menos de 12 contribuições: média das contribuições existentes
 :::
 
-A questão da flexibilização do limite de baixa renda foi recentemente enfrentada pelo STJ no **Tema 1162** (REsp 1.971.856/1.971.857 e REsp 1.958.361, Rel. Min. Assusete Magalhães, julgado em 12/11/2025). A 1ª Seção, por unanimidade, fixou tese em dois pontos: (i) no regime anterior à MP 871/2019, é possível flexibilizar o critério econômico quando a renda supera o limite em percentual ínfimo; (ii) a partir da MP 871/2019, **não é possível** flexibilizar o teto, exceto se o Executivo deixar de corrigir anualmente o limite. Essa decisão tem impacto direto na prática dos JEFs: para prisões anteriores a 18/01/2019, o advogado pode arguir a flexibilização quando a renda excede marginalmente o limite; para prisões posteriores, o parâmetro é objetivo e inflexível.
+A questão da flexibilização do limite de baixa renda foi enfrentada pelo STJ no **Tema 1162** (leading case REsp 1.958.361, e REsp 1.971.856 e 1.971.857, 1ª Seção). Conforme o registro oficial do repetitivo, a **afetação** coube à relatoria da Min. Assusete Magalhães (ProAfR julgado em 23/08/2022, DJe 01/09/2022); o **acórdão de mérito**, contudo, foi relatado pelo Min. Teodoro Silva Santos, com julgamento **concluído em 12/11/2025** pela Primeira Seção e acórdão publicado em 19/11/2025. A sucessão de relatoria entre a fase de afetação e o julgamento de mérito é o que explica a coexistência dos dois nomes nos registros do feito; ao citar o repetitivo, deve-se atribuir o voto condutor ao relator do acórdão (Min. Teodoro Silva Santos). A Seção fixou tese em dois pontos: (i) no regime anterior à MP 871/2019, é possível flexibilizar o critério econômico quando a renda supera o limite em percentual ínfimo; (ii) a partir da MP 871/2019, **não é possível** flexibilizar o teto, exceto se o Executivo deixar de corrigir anualmente o limite. Reputamos a segunda ressalva especialmente relevante e, na prática, subexplorada: a inflexibilidade do teto no regime novo é condicionada à efetiva atualização anual pelo Poder Executivo, de modo que a omissão ou o atraso na edição da portaria reabre, por exceção expressa do próprio repetitivo, espaço para a flexibilização. A tese tem, assim, impacto direto na prática dos JEFs — para prisões anteriores a 18/01/2019, cabe arguir a flexibilização quando a renda excede marginalmente o limite; para prisões posteriores, o parâmetro é objetivo, salvo a hipótese de desatualização administrativa do teto.
 
 ### 14.8 Carência de 24 Contribuições
 
-A exigência de carência de 24 contribuições mensais para o auxílio-reclusão é inovação introduzida pela MP 871/2019 (18/01/2019), convertida na Lei 13.846/2019 (18/06/2019), e constitucionalizada pela EC 103/2019. A carência já vigorava desde 18/01/2019, data da MP 871; a Lei 13.846 consolidou a exigência sem inaugurá-la.
+A exigência de carência de 24 contribuições mensais para o auxílio-reclusão é inovação introduzida pela MP 871/2019, convertida na Lei 13.846/2019, e constitucionalizada pela EC 103/2019. A carência já vigorava desde 18/01/2019, data da MP 871; a Lei 13.846 consolidou a exigência sem inaugurá-la.
 
-No regime anterior à MP 871/2019 (18/01/2019), convertida na Lei 13.846/2019 (18/06/2019), o auxílio-reclusão era expressamente dispensado de carência pelo art. 26, I, da Lei 8.213/91, que incluía o auxílio-reclusão no rol de benefícios independentes de carência, ao lado da pensão por morte. Bastava que o segurado mantivesse a qualidade de segurado na data do recolhimento à prisão.
+No regime anterior à MP 871/2019, o auxílio-reclusão era expressamente dispensado de carência pelo art. 26, I, da Lei 8.213/91, que incluía o auxílio-reclusão no rol de benefícios independentes de carência, ao lado da pensão por morte. Bastava que o segurado mantivesse a qualidade de segurado na data do recolhimento à prisão.
 
-A nova exigência de 24 contribuições mensais é a mais elevada carência do sistema previdenciário brasileiro, superando inclusive a carência de 180 contribuições da aposentadoria programada em termos proporcionais (considerando que o auxílio-reclusão é benefício de risco, não programável). Essa desproporção suscita fundadas dúvidas sobre a constitucionalidade da exigência.
+A nova exigência de 24 contribuições mensais é a mais elevada carência entre os **benefícios de risco** do sistema — aqueles cujo fato gerador é um evento imprevisível e não programável, como a morte, a incapacidade ou, aqui, o encarceramento. O cotejo pertinente não é com a aposentadoria programada (180 contribuições), pois esta pressupõe justamente um percurso contributivo planejado ao longo da vida laboral; comparar as duas em valor absoluto seria equivocado, já que respondem a lógicas distintas. O ponto crítico é outro: dentro da categoria dos benefícios de cobertura de risco — em que o segurado não tem como antecipar o sinistro e ajustar seu histórico contributivo —, o auxílio-reclusão passou a exigir mais do que qualquer outro (a pensão por morte, p. ex., permanece sem carência para concessão). É nessa desproporção *intracategoria* que reside a fragilidade constitucional da exigência.
 
-**Argumentos de inconstitucionalidade:**
+**A tese de inconstitucionalidade.** O argumento mais robusto contra a carência não é, a nosso ver, formal, mas material: trata-se da **desproporcionalidade entre o requisito e o risco coberto**. O encarceramento é evento abrupto e imprevisível, que atinge sobretudo segurados de baixa renda com vínculos informais, intermitentes ou de curta duração — exatamente o perfil que tem maior dificuldade de acumular 24 contribuições contínuas. A exigência opera, nessa medida, como filtro que exclui da proteção justamente quem dela mais necessita, em tensão direta com o princípio da universalidade da cobertura (art. 194, I, CF). A esse núcleo somam-se dois reforços de menor densidade dogmática, mas relevantes: a alegação de **retrocesso social**, pois a carência saltou de zero para 24 contribuições sem contrapartida protetiva; e a de **discriminação indireta**, na medida em que o perfil socioeconômico da população carcerária — predominantemente jovem, negra e de baixa escolaridade — sugere impacto desproporcional sobre grupos já marginalizados. Os dois últimos, embora retoricamente fortes, dependem de premissas empíricas e principiológicas que tribunais tendem a examinar com cautela; recomendamos articulá-los como reforço da desproporcionalidade, e não como fundamento autônomo.
 
-1. **Desproporcionalidade:** A carência de 24 contribuições é desproporcional ao risco coberto. O segurado de baixa renda, frequentemente com vínculos empregatícios informais ou intermitentes, tem dificuldade de acumular 24 contribuições contínuas. A exigência funciona como mecanismo de exclusão dos mais vulneráveis.
-
-2. **Violação ao princípio da universalidade da cobertura** (art. 194, I, CF): A carência elevada restringe o acesso ao benefício justamente para a população que mais necessita da proteção previdenciária, trabalhadores informais, intermitentes e de curta duração.
-
-3. **Retrocesso social:** A elevação da carência de 0 (zero) para 24 contribuições configura, segundo parte da doutrina, violação ao princípio da vedação do retrocesso social.
-
-4. **Discriminação indireta:** O perfil socioeconômico da população carcerária brasileira, predominantemente jovem, negra e de baixa escolaridade, sugere que a carência de 24 contribuições produz impacto desproporcionalmente maior sobre grupos já marginalizados.
-
-**Argumentos de constitucionalidade:**
-
-1. **Livre conformação do legislador:** A CF atribui ao legislador a competência para definir os requisitos dos benefícios previdenciários, inclusive a carência. A fixação em 24 contribuições está dentro da margem de discricionariedade legislativa.
-
-2. **Equilíbrio atuarial:** A carência mais elevada reflete preocupações legítimas com a sustentabilidade do sistema, evitando que segurados com contribuição mínima gerem benefícios de longa duração para seus dependentes. A exposição de motivos da MP 871/2019 citou expressamente a necessidade de coibir abusos e fraudes na concessão do AR.
-
-3. **Coerência sistemática:** Outros benefícios também tiveram seus requisitos elevados pela EC 103/2019, em movimento de restrição generalizada. A pensão por morte, embora permaneça sem carência para concessão (art. 26, I, Lei 8.213/91), passou a exigir 18 contribuições mensais como requisito para duração estendida do benefício ao cônjuge/companheiro (art. 77, § 2º, V-b, Lei 8.213/91) — sem elas, a duração é de apenas 4 meses.
-
-4. **Experiência comparada:** Sistemas previdenciários de outros países exigem períodos contributivos mínimos equivalentes ou superiores para benefícios análogos, o que sugere que a carência de 24 meses não é irrazoável no contexto internacional.
+**A tese de constitucionalidade.** Em sentido contrário, sustenta-se que a fixação de carência insere-se na **livre conformação do legislador**, a quem a Constituição confiou a definição dos requisitos dos benefícios, dentro de margem de discricionariedade que comportaria os 24 meses. A esse argumento de competência agrega-se o de **equilíbrio atuarial**: a carência mais elevada responderia a preocupações legítimas de sustentabilidade, evitando que contribuições mínimas gerem benefícios de longa duração — preocupação que a exposição de motivos da MP 871/2019 verbalizou ao invocar a necessidade de coibir abusos e fraudes. Há, ainda, um argumento de **coerência sistemática**, embora ele deva ser manejado com ressalva: é certo que a EC 103/2019 elevou requisitos de modo generalizado, mas o paralelo com a pensão por morte é apenas parcial, pois esta permanece **sem carência para concessão** (art. 26, I, Lei 8.213/91) — as 18 contribuições do art. 77, § 2º, V-b, condicionam não a concessão, mas a duração estendida do benefício ao cônjuge. Por fim, invoca-se a experiência comparada, de menor peso, segundo a qual sistemas estrangeiros exigem períodos contributivos equivalentes para benefícios análogos.
 
 ::: box-atencao
 **Carência de 24 contribuições: impacto desproporcional**
@@ -345,10 +332,12 @@ Essa divergência gera controvérsia relevante:
 | Data | Norma | Regime prisional exigido |
 |------|-------|--------------------------|
 | Até 17/01/2019 | Lei 8.213/91 (redação original) | Qualquer regime (fechado, semiaberto, aberto) |
-| 18/01/2019 a 12/11/2019 | MP 871/2019 (18/01/2019), convertida na Lei 13.846/2019 (18/06/2019) | **Apenas regime fechado** |
+| 18/01/2019 a 12/11/2019 | MP 871/2019 (convertida na Lei 13.846/2019) | **Apenas regime fechado** |
 | A partir de 13/11/2019 | EC 103/2019, art. 201, § 5º | CF: veda apenas aberto (fechado e semiaberto) / Lei: apenas fechado |
 
 Na prática administrativa, o INSS aplica o art. 80 e concede o AR apenas para regime fechado. Nos JEFs, há espaço para arguir a inconstitucionalidade parcial do art. 80 e pleitear o benefício no regime semiaberto, com fundamento direto na CF.
+
+Tomamos posição nessa controvérsia. Parece-nos que a leitura que melhor harmoniza lei e Constituição é a ampliativa: ao vedar a concessão apenas no regime aberto, o art. 201, § 5º, da CF traçou o limite do que o legislador poderia excluir, e a exclusão legal do semiaberto avança sobre espaço que o constituinte derivado, podendo restringi-lo, optou por preservar. Não se trata de exigir do legislador que conceda o benefício em todo regime não vedado, mas de reconhecer que a supressão do semiaberto, por via ordinária, esvazia parcialmente a garantia constitucional sem amparo em distinção material relevante — afinal, no semiaberto o segurado permanece impedido de prover livremente o sustento da família, que é precisamente o risco que o auxílio-reclusão cobre. Reconhecemos, porém, que a jurisprudência ainda não pacificou o tema e que a tese restritiva conta com respaldo relevante; daí por que a arguição deve ser sempre acompanhada da demonstração concreta do regime fixado pelo juízo da execução.
 
 **Progressão de regime.** Quando o segurado progride do regime fechado para o semiaberto, o INSS cessa automaticamente o AR (com base no art. 80 — "regime fechado"). Se o dependente discordar, pode judicializar alegando que a CF permite o semiaberto. Se o segurado progride para o regime aberto, a cessação é incontroversa, vedação constitucional expressa.
 
@@ -573,7 +562,7 @@ Situação comum nos JEFs: o segurado preso é casado formalmente com uma pessoa
 
 O valor do auxílio-reclusão sofreu radical transformação com a EC 103/2019 (CASTRO; LAZZARI, 2025), passando de um modelo proporcional à renda do segurado para um valor fixo de um salário-mínimo.
 
-**Regime antigo (fatos geradores anteriores a 13/11/2019).** No regime anterior, o valor do auxílio-reclusão correspondia a um percentual do salário de benefício do segurado, calculado na forma do art. 29 da Lei 8.213/91, observadas as faixas escalonadas fixadas pela legislação da época. Na prática, o valor era calculado como se aposentadoria por incapacidade permanente fosse, correspondendo a 100% do salário de benefício para segurados com renda até determinado patamar, com escalonamento descendente para faixas superiores. O valor era proporcional à contribuição do segurado e refletia, portanto, o princípio contributivo.
+**Regime antigo (fatos geradores anteriores a 13/11/2019).** No regime anterior à EC 103/2019, o auxílio-reclusão era calculado **exatamente como a aposentadoria por invalidez** (hoje aposentadoria por incapacidade permanente) a que o segurado teria direito na data do recolhimento à prisão, na forma do art. 80 c/c o art. 29 da Lei 8.213/91. Isso significa **100% do salário de benefício** — não havia, portanto, redução percentual do próprio auxílio-reclusão por faixas de renda. O valor era proporcional à contribuição do segurado (refletindo o princípio contributivo): variava conforme o salário de benefício, mas sempre na proporção integral de 100% deste, observados o piso de 1 SM e o teto do RGPS. Convém não confundir esse cálculo com o **escalonamento por faixas de renda**, que é fenômeno do *valor-limite* de "baixa renda" (e, em outros benefícios, do percentual da renda mensal inicial): no auxílio-reclusão do regime antigo, o percentual aplicado ao salário de benefício era único — 100% —, e o escalonamento só comparece, historicamente, na sistemática de cálculo de outros benefícios e no patamar de aferição da baixa renda, não em uma alegada redução gradual do AR.
 
 **Regime novo (EC 103/2019).** O art. 201, § 5º, da CF, com a redação dada pela EC 103/2019, fixou o valor do auxílio-reclusão em **um salário-mínimo** (R$ 1.621,00 em 2026). Trata-se de valor fixo, independente da remuneração que o segurado auferia antes da prisão. O segurado que recebia R$ 500,00 e o que recebia o limite de baixa renda gerarão, ambos, auxílio-reclusão de R$ 1.621,00.
 
@@ -585,7 +574,7 @@ Essa uniformização tem consequências ambivalentes. Por um lado, simplifica o 
 | Aspecto | Regime antigo (pré-EC 103) | Regime novo (pós-EC 103) |
 |---------|---------------------------|--------------------------|
 | Base de cálculo | Salário de benefício | Não há (valor fixo) |
-| Valor | Proporcional (100% a 60%) | R$ 1.621,00 (1 SM em 2026) |
+| Valor | 100% do salário de benefício (= aposentadoria por invalidez) | R$ 1.621,00 (1 SM em 2026) |
 | Reajuste | INPC (como benefícios em geral) | Reajuste do SM |
 | Rateio entre dependentes | Sim (entre mesma classe) | Sim (entre mesma classe) |
 | Valor mínimo | 1 SM | 1 SM |
@@ -595,8 +584,8 @@ Essa uniformização tem consequências ambivalentes. Por um lado, simplifica o 
 **Exemplo prático (2025):**
 - Segurado empregado, último salário R$ 1.500,00, preso em 2025
 - Regime novo: AR = R$ 1.621,00 (1 SM), independente do salário
-- Se houvesse dois dependentes (cônjuge + 1 filho menor): rateio de R$ 1.621,00 entre ambos? Não, cada um recebe o valor integral se estiver na mesma classe (Classe I)
-- Na verdade, o AR de R$ 1.621,00 é pago globalmente ao conjunto de dependentes da mesma classe
+- Se houvesse dois dependentes (cônjuge + 1 filho menor, ambos da Classe I): o benefício **não** se multiplica por cabeça. Há um único auxílio-reclusão de R$ 1.621,00, pago globalmente ao conjunto de dependentes da mesma classe e entre eles **rateado em partes iguais** (R$ 810,50 para cada um, no exemplo)
+- Atenção: cada dependente **não** recebe 1 SM integral; o valor único de 1 SM é dividido entre os codependentes da mesma classe. Cessando a cota de um deles (p. ex., maioridade do filho), a parcela acresce aos remanescentes (princípio do direito de acrescer da pensão por morte, aplicável por analogia — Cap. 19)
 :::
 
 ### 14.14 Data de Início do Benefício (DIB)
@@ -607,7 +596,7 @@ A data de início do benefício segue regras específicas que combinam a data do
 
 **Requerimento após 90 dias.** Se o requerimento é formulado após 90 dias da prisão, a DIB é a data do requerimento administrativo (DER). Os valores referentes ao período entre o recolhimento e o requerimento são perdidos — não há pagamento retroativo. Essa regra é particularmente prejudicial aos dependentes de presos provisórios, que frequentemente desconhecem o direito ao benefício ou enfrentam dificuldades para reunir a documentação necessária no prazo de 90 dias.
 
-**Para dependentes menores ou incapazes.** A Lei 8.213/91 (art. 74, com a redação dada pela Lei 13.846/2019) prevê que, para dependentes menores de 16 anos, a DIB retroage à data do recolhimento, independentemente do momento do requerimento. Essa proteção é coerente com o princípio do melhor interesse da criança (art. 227, CF) e reconhece que o menor não pode ser penalizado pela inércia do representante legal.
+**Para dependentes menores ou incapazes.** A regra geral de retroação do auxílio-reclusão segue, por analogia, o art. 74 da Lei 8.213/91 (com a redação dada pela Lei 13.846/2019): a DIB retroage à data do fato gerador quando o requerimento é formulado no prazo de **90 dias**; após esse prazo, a DIB fixa-se na data do requerimento (DER). Para o **dependente absolutamente incapaz** — em especial o menor de 16 anos —, esse prazo não corre em seu desfavor: contra ele não fluem prazos de prescrição e decadência (art. 198, I, do Código Civil, c/c art. 79 da Lei 8.213/91, que afasta a prescrição em favor do incapaz). A consequência prática é que, requerido o benefício enquanto perdura a menoridade (ou a incapacidade), a DIB retroage à data do recolhimento mesmo que ultrapassado o prazo de 90 dias, preservando-se as parcelas pretéritas dentro do quinquênio anterior ao requerimento. Não se trata, portanto, de retroação irrestrita "sempre", mas da suspensão, em favor do incapaz, do prazo que de outro modo limitaria a retroação. A solução é coerente com o princípio do melhor interesse da criança (art. 227, CF) e reconhece que o menor não pode ser penalizado pela inércia do representante legal.
 
 ::: box-atencao
 **DIB retroativa: 90 dias é contado da prisão, não da condenação**
@@ -617,7 +606,7 @@ O prazo de 90 dias para retroação da DIB é contado da **data do efetivo recol
 **Consequências práticas:**
 - Preso provisório em 01/01/2025, requerimento em 15/03/2025: DIB = 01/01/2025 (dentro de 90 dias)
 - Preso provisório em 01/01/2025, requerimento em 15/04/2025: DIB = 15/04/2025 (fora de 90 dias)
-- Se o dependente é menor de 16 anos: DIB = 01/01/2025 independentemente da data do requerimento
+- Se o dependente é absolutamente incapaz (menor de 16 anos): não corre contra ele o prazo de 90 dias — requerido o AR durante a menoridade, a DIB retroage a 01/01/2025, respeitada a prescrição quinquenal das parcelas (art. 79 da Lei 8.213/91 c/c art. 198, I, do CC)
 
 **Orientação:** Instruir os dependentes a requerer o AR imediatamente após a prisão, mesmo que a documentação esteja incompleta. O requerimento pode ser complementado posteriormente, mas o marco temporal é a data do protocolo.
 :::
@@ -754,15 +743,15 @@ Na prática, surgem três cenários:
 
 **Antes da EC 103:** O STJ e os TRFs consolidaram entendimento de que o segurado aposentado que é preso não gera auxílio-reclusão para seus dependentes (vedação do art. 80, Lei 8.213/91). Contudo, a aposentadoria permanece sendo paga ao segurado preso, podendo este, por procuração, direcionar os valores a seus dependentes.
 
-**Após a EC 103:** O art. 27, § 2º, da EC 103 prevê expressamente a possibilidade de transferência do benefício. O aposentado preso pode requerer que sua aposentadoria seja paga a seus dependentes como auxílio-reclusão. O valor transferido corresponde ao valor da aposentadoria, não ao valor do AR (1 SM). Essa distinção é relevante: o aposentado que recebia R$ 3.000,00 de aposentadoria pode transferir integralmente esse valor aos dependentes.
+**Após a EC 103:** O art. 27, § 2º, da EC 103 prevê expressamente a possibilidade de transferência do benefício. O aposentado preso pode requerer que sua aposentadoria seja paga a seus dependentes como auxílio-reclusão. O valor transferido corresponde, em princípio, ao valor da aposentadoria, e não ao valor do AR (1 SM). Há, contudo, **controvérsia ainda não pacificada** sobre eventual limitação desse montante: o dispositivo carece de regulamentação que defina se a transferência se opera integralmente ou se sujeita a teto (por exemplo, ao valor de 1 SM próprio do AR pós-EC 103, ou ao redutor da pensão por morte). Enquanto não sobrevém disciplina específica, defende-se a transferência integral com fundamento na literalidade da norma — que fala em transferir "aquele" benefício, sem ressalva de valor —, mas o ponto comporta resistência administrativa. Assim, o aposentado que recebia R$ 3.000,00 de aposentadoria pode pleitear a transferência integral desse valor aos dependentes, ciente de que a extensão exata do mecanismo permanece sujeita a definição jurisprudencial e regulamentar.
 
 **Questão não pacificada:** Se o aposentado não opta pela transferência, os dependentes podem requerer auxílio-reclusão independente? Posição majoritária: NÃO, pois a aposentadoria é mantida e pode ser administrada por procuração. O AR pressupõe a ausência de renda, que é suprida pela aposentadoria mantida.
 :::
 
 **Acumulação do auxílio-reclusão com outros benefícios.** A acumulação segue as regras gerais analisadas no Capítulo 20, com as seguintes particularidades:
 
-- **AR + pensão por morte:** Em princípio, possível, pois são benefícios de natureza diversa (AR substitui renda do segurado preso; PM substitui renda do segurado falecido). Contudo, a EC 103/2019 (art. 24) impõe escalonamento na acumulação, que pode reduzir significativamente o valor total.
-- **AR + BPC/LOAS:** Vedado, pois o BPC é benefício assistencial que exige miserabilidade, e o recebimento do AR constitui renda que pode descaracterizar o requisito.
+- **AR + pensão por morte:** Em princípio, possível, pois são benefícios de natureza diversa (AR substitui renda do segurado preso; PM substitui renda do segurado falecido). A incidência do escalonamento do art. 24 da EC 103/2019 sobre essa acumulação é, contudo, **questão controvertida**: o dispositivo refere-se literalmente à acumulação de "pensão por morte" com "aposentadoria" (e entre pensões de regimes distintos), não mencionando expressamente o auxílio-reclusão. Há quem sustente a aplicação analógica do redutor — por ser o AR, no regime atual, calculado e estruturado à semelhança da pensão por morte —, e há quem a rejeite, por se tratar de norma restritiva de direito, insuscetível de interpretação ampliativa. Não há, na base consultada, repetitivo que pacifique a questão; recomendamos, por cautela, sinalizar a controvérsia na petição e subsidiariamente impugnar a aplicação automática do redutor pelo INSS. A matéria é tratada em profundidade no Cap. 20.
+- **AR + BPC/LOAS:** Não se trata, a rigor, de vedação legal automática de acumulação, mas de **descaracterização do requisito de miserabilidade por composição de renda**. O valor do auxílio-reclusão integra a renda do grupo familiar para fins de aferição do BPC (Lei 8.742/93, art. 20); a depender da composição familiar e do critério de renda per capita aplicável, esse acréscimo **pode** — não necessariamente — afastar a condição de miserabilidade que o BPC exige. Assim, a incompatibilidade é casuística e econômica, e não uma proibição abstrata de cumulação. Remete-se ao Cap. 18 para o exame detido do critério de miserabilidade e das hipóteses de exclusão de rendas do cálculo.
 - **AR + salário-maternidade:** Possível, pois são benefícios com fatos geradores e finalidades distintos.
 - **AR + Bolsa Família/Auxílio Brasil/benefícios assistenciais:** O valor do AR é computado como renda familiar para fins de programas assistenciais, podendo afetar o enquadramento.
 
@@ -831,17 +820,17 @@ O auxílio-reclusão suscita diversas questões que transcendem a aplicação or
 
 **Segurada presa e salário-maternidade.** A segurada recolhida à prisão que dá à luz tem direito ao salário-maternidade (art. 71, Lei 8.213/91). A questão é se o salário-maternidade substitui ou se acumula com eventual auxílio-reclusão que estivesse sendo pago aos dependentes de outro segurado preso (situação rara, mas possível). Em princípio, não há vedação à acumulação, pois os benefícios têm fatos geradores, titulares e finalidades distintos (ver Cap. 13, seção 13.14).
 
-**MEI preso.** O Microempreendedor Individual (MEI) que é recolhido à prisão gera direito ao auxílio-reclusão para seus dependentes, desde que: (a) estivesse em dia com as contribuições no momento da prisão (ou dentro do período de graça); (b) sua renda se enquadre como baixa renda; e (c) cumpra a carência de 24 contribuições (no regime pós-EC 103). A particularidade é que o MEI contribui com 5% do SM (alíquota reduzida), o que pode gerar dúvida sobre a contagem dessas contribuições para fins de carência do AR. A resposta é afirmativa: a contribuição do MEI, independentemente da alíquota, conta para carência de todos os benefícios, incluindo o auxílio-reclusão.
+**MEI preso.** O Microempreendedor Individual (MEI) que é recolhido à prisão gera direito ao auxílio-reclusão para seus dependentes, desde que: (a) estivesse em dia com as contribuições no momento da prisão (ou dentro do período de graça); (b) sua renda se enquadre como baixa renda; e (c) cumpra a carência de 24 contribuições (no regime pós-EC 103). A particularidade é que o MEI contribui com 5% do SM (alíquota reduzida), o que pode gerar dúvida sobre a contagem dessas contribuições para fins de carência do AR. A resposta é afirmativa **para a carência do auxílio-reclusão**: a carência é contagem de meses (art. 24, Lei 8.213/91), e cada competência recolhida pelo MEI, ainda que pela alíquota reduzida, integra essa contagem. Cumpre, todavia, evitar a generalização: a contribuição reduzida do MEI/baixa renda (5% ou 11% do SM, art. 21, § 2º, Lei 8.212/91) **não** confere acesso, sem complementação, aos benefícios que exigem **tempo de contribuição** — notadamente a aposentadoria por tempo de contribuição —, salvo se o segurado complementar o recolhimento na forma do art. 21, § 3º, da Lei 8.212/91 (alíquota complementar para atingir os 20%). Em síntese: para a carência do AR, a contribuição do MEI computa normalmente; para a aposentadoria por tempo de contribuição, exige complementação.
 
 **Preso estrangeiro.** O segurado estrangeiro recolhido à prisão no Brasil gera direito ao auxílio-reclusão para seus dependentes, desde que mantivesse vínculo com o RGPS (como empregado, por exemplo) e preenchesse os demais requisitos. A nacionalidade é irrelevante para o direito previdenciário. Contudo, se os dependentes residem no exterior, a operacionalização do pagamento pode apresentar dificuldades práticas. Acordos internacionais de previdência social (analisados no Cap. 5) podem ser relevantes quando o segurado estrangeiro tem contribuições em ambos os países.
 
-**Trabalho prisional e auxílio-reclusão.** O preso que trabalha durante a reclusão (atividade laborativa dentro do estabelecimento penal ou trabalho externo no regime semiaberto) aufere remuneração. Essa remuneração não afeta o auxílio-reclusão dos dependentes, pois: (a) a renda relevante é a do momento do recolhimento à prisão (Tema 896/STJ), não a posterior; e (b) a remuneração do trabalho prisional é geralmente ínfima (3/4 do salário-mínimo, art. 29, LEP) e não se confunde com a renda que o segurado auferia quando livre.
+**Trabalho prisional e auxílio-reclusão.** O preso que trabalha durante a reclusão (atividade laborativa dentro do estabelecimento penal ou trabalho externo no regime semiaberto) aufere remuneração. Essa remuneração não afeta o auxílio-reclusão dos dependentes, pois: (a) a renda relevante é a do momento do recolhimento à prisão (Tema 896/STJ), não a posterior; e (b) a remuneração do trabalho prisional, que por lei não pode ser inferior a 3/4 do salário-mínimo (art. 29, LEP — piso, e não teto), não se confunde com a renda que o segurado auferia quando livre.
 
 **Indulto e comutação.** A concessão de indulto (extinção da pena) ou comutação (redução da pena) pelo Presidente da República pode afetar o auxílio-reclusão. O indulto pleno acarreta a soltura do segurado e, consequentemente, a cessação do AR. A comutação, se resultar em progressão ao regime aberto, cessa o AR no regime pós-EC 103. Se a comutação mantiver o segurado em regime fechado ou semiaberto, o AR permanece inalterado.
 
 **Detração penal e auxílio-reclusão.** A detração (art. 42, CP), cômputo do tempo de prisão provisória na pena definitiva, não afeta o auxílio-reclusão, pois o benefício é devido durante todo o período de efetivo recolhimento, independentemente do cômputo para fins penais.
 
-**Segurado preso que contribui como facultativo.** Durante a reclusão, o segurado pode contribuir como segurado facultativo (art. 116, § 3º, Decreto 3.048/99). Essas contribuições são relevantes para: (i) contagem de tempo de contribuição para futura aposentadoria; (ii) manutenção ativa do CNIS; e (iii) eventual comprovação de carência para benefícios futuros. Na rotina previdenciária, é raro que presos contribuam, dada a vulnerabilidade econômica, mas a possibilidade existe e deve ser orientada pelo advogado em casos estratégicos.
+**Segurado preso que contribui como facultativo.** Durante a reclusão, o segurado que não exerça atividade remunerada que o filie obrigatoriamente ao RGPS pode contribuir como segurado facultativo (art. 13 da Lei 8.213/91, regulamentado pelo art. 11, § 1º, e pelo art. 116, § 3º, do Decreto 3.048/99). Essas contribuições são relevantes para: (i) contagem de tempo de contribuição para futura aposentadoria; (ii) manutenção ativa do CNIS; e (iii) eventual comprovação de carência para benefícios futuros. Na rotina previdenciária, é raro que presos contribuam, dada a vulnerabilidade econômica, mas a possibilidade existe e deve ser orientada pelo advogado em casos estratégicos.
 
 **Dependente menor sob guarda ou tutela.** O menor sob guarda ou tutela do segurado preso é dependente para fins de auxílio-reclusão, aplicando-se as mesmas regras da pensão por morte (Cap. 19). A prova de guarda ou tutela exige decisão judicial. Menores em acolhimento institucional que dependiam economicamente do segurado antes da prisão: situação não prevista expressamente, mas passível de enquadramento por interpretação extensiva.
 
@@ -870,7 +859,7 @@ O estrangeiro que trabalha regularmente no Brasil e contribui para o RGPS é seg
 ::: box-jurisprudencia
 **Morte do segurado preso: conversão automática AR → PM**
 
-**STJ, REsp 1.485.417/SP:** "A conversão do auxílio-reclusão em pensão por morte, em caso de falecimento do segurado durante a reclusão, é automática, devendo operar-se a partir da data do óbito, sem necessidade de novo requerimento administrativo."
+**Fundamento legal — art. 80, parágrafo único, da Lei 8.213/91:** falecendo o segurado durante a reclusão, o auxílio-reclusão converte-se em pensão por morte, automaticamente e a partir da data do óbito, sem necessidade de novo requerimento administrativo. A conversão decorre diretamente do texto legal, e não de tese repetitiva específica; a jurisprudência de instância ordinária é apenas confirmatória do comando estatutário.
 
 **TRF1, AC 0022658-41.2014.4.01.9199:** "A exigência do INSS de novo requerimento administrativo para conversão do auxílio-reclusão em pensão por morte viola o art. 80, parágrafo único, da Lei 8.213/91, que expressamente prevê a conversão automática."
 
@@ -892,7 +881,7 @@ O auxílio-reclusão, a despeito de seu baixo impacto orçamentário, é benefí
 | Carência | Sem carência específica | 24 contribuições mensais |
 | Regime prisional | Qualquer (fechado, semiaberto, aberto) | Apenas regime fechado (art. 80) — semiaberto: controvérsia |
 | Critério baixa renda | Último salário de contribuição ≤ limite | Média 12 últimos salários ≤ limite |
-| Limite baixa renda 2025 | N/A (aplica-se o da época) | R$ 1.906,04 (valor de 2025 — verificar atualização pela Portaria MPS/MF para 2026) |
+| Limite baixa renda | N/A (aplica-se o da época) | R$ 1.906,04 (2025); valor do exercício pela Portaria MPS/MF |
 | Valor do benefício | Proporcional ao salário de benefício | 1 SM (R$ 1.621,00 em 2026) |
 | Dependentes | Classes do art. 16, Lei 8.213 | Classes do art. 16, Lei 8.213 |
 | Manutenção | Atestado carcerário trimestral | Atestado carcerário trimestral |
@@ -938,7 +927,7 @@ O auxílio-reclusão, a despeito de seu baixo impacto orçamentário, é benefí
  - NÃO → Sem direito ao AR (avaliar tese de inconstitucionalidade)
  - SIM → Passo 5
 
-5. A média dos 12 últimos salários do segurado era ≤ R$ 1.906,04 (limite 2025 — verificar atualização pela Portaria MPS/MF para 2026)?
+5. A média dos 12 últimos salários do segurado era ≤ ao limite do exercício (R$ 1.906,04 em 2025)?
  - NÃO → Sem direito ao AR
  - SIM → Passo 6
 
@@ -954,7 +943,7 @@ O auxílio-reclusão, a despeito de seu baixo impacto orçamentário, é benefí
 - [ ] Obter certidão de recolhimento com indicação do regime prisional
 - [ ] Consultar CNIS do segurado (qualidade de segurado + contribuições)
 - [ ] Verificar carência: 24 contribuições (ou 12 pela regra da metade)
-- [ ] Verificar média dos 12 últimos salários de contribuição (limite de baixa renda: R$ 1.906,04 em 2025 — verificar atualização pela Portaria MPS/MF para 2026)
+- [ ] Verificar média dos 12 últimos salários de contribuição (limite de baixa renda: R$ 1.906,04 em 2025; valor do exercício pela Portaria MPS/MF)
 - [ ] Reunir documentação de dependência (casamento, nascimento, união estável)
 - [ ] Requerer no prazo de 90 dias (para retroação da DIB)
 
@@ -1003,11 +992,13 @@ O auxílio-reclusão, a despeito de seu baixo impacto orçamentário, é benefí
 | Item | Valor (R$) |
 |------|-----------|
 | Salário mínimo (valor do AR pós-EC 103) | 1.621,00 |
-| Limite de baixa renda para AR (média 12 meses) | 1.906,04 (valor de 2025 — verificar atualização pela Portaria MPS/MF para 2026) |
+| Limite de baixa renda para AR (média 12 meses)* | 1.906,04 |
 | Teto do RGPS | 8.475,55 |
 | Teto JEF (60 SM) | 97.260,00 |
 | Contribuição mínima MEI (5% SM) | 81,05 |
 | Contribuição mínima facultativo simplificado (11% SM) | 178,31 |
+
+\* Limite de baixa renda fixado para 2025 (Portaria Interministerial MPS/MF n. 6/2025), único valor oficialmente consolidado. Para fatos geradores de 2026, aplica-se o montante da portaria do exercício, reajustado pelos índices dos benefícios do RGPS (art. 27, § 1º, da EC 103/2019), conforme a referência única estabelecida na seção 14.1.
 
 **Perspectivas e tendências**
 
@@ -1026,13 +1017,13 @@ Por fim, é necessário registrar a importância da advocacia proativa no auxíl
 - Constituição Federal de 1988 (arts. 194, III; 201, IV e § 5º; 226).
 - EC 20/1998 (inserção do critério de "baixa renda").
 - EC 103/2019 (arts. 27 e 27, § 1º — regra de transição; § 5º do art. 201 — vedação do regime aberto e valor de 1 SM).
-- Lei n. 8.213, de 24 de julho de 1991 (arts. 15, 16, 26, I, 27-A, 74, 77, § 2º, V, 80, 103).
+- Lei n. 8.213, de 24 de julho de 1991 (arts. 13, 15, 16, 26, I, 27-A, 74, 77, § 2º, V, 79, 80, 103).
 - Lei n. 10.666, de 8 de maio de 2003 (art. 2º, manutenção da qualidade de segurado durante a reclusão).
 - MP 871, de 18 de janeiro de 2019 (carência de 24 contribuições, regime fechado, média de 12 salários).
 - Lei n. 13.846, de 18 de junho de 2019 (conversão da MP 871/2019, consolidando as alterações).
 - Lei n. 13.964, de 24 de dezembro de 2019 (Pacote Anticrime, alterações na LEP).
 - Lei n. 3.807, de 26 de agosto de 1960 (LOPS, art. 43).
-- Decreto n. 3.048, de 6 de maio de 1999 (arts. 116, 117, 118).
+- Decreto n. 3.048, de 6 de maio de 1999 (arts. 11, § 1º; 116; 117; 118).
 - IN INSS/PRES n. 128/2022.
 - Portarias Interministeriais MPS/MF (tabela anual de limite de baixa renda).
 
@@ -1040,8 +1031,8 @@ Por fim, é necessário registrar a importância da advocacia proativa no auxíl
 
 - STF, Tema 89 (RE 587.365) — renda aferida é a do segurado, não dos dependentes.
 - STF, Tema 350 (RE 631.240) — prévio requerimento administrativo.
-- STJ, Tema 896 (REsp 1.485.417/SP), aferição de baixa renda do segurado desempregado.
-- STJ, Tema 1.162, flexibilização do limite de baixa renda (pré-MP 871).
+- STJ, Tema 896 (REsp 1.485.417/MS; revisão nos REsp 1.842.985/PR e 1.842.974/PR), Rel. Min. Herman Benjamin, aferição de baixa renda do segurado desempregado.
+- STJ, Tema 1.162 (leading case REsp 1.958.361; REsp 1.971.856 e 1.971.857), 1ª Seção. Afetação relatada pela Min. Assusete Magalhães (ProAfR julgado em 23/08/2022, DJe 01/09/2022); acórdão de mérito relatado pelo Min. Teodoro Silva Santos, julgamento concluído em 12/11/2025 e acórdão publicado em 19/11/2025 — flexibilização do limite de baixa renda (pré-MP 871).
 - STJ, REsp 1.672.295/RS, prisão domiciliar em regime fechado/semiaberto e manutenção do auxílio-reclusão.
 - TNU, Tema 357, monitoração eletrônica e direito adquirido ao auxílio-reclusão (pré-2019).
 - Súmula 85/STJ, prescrição em relações de trato sucessivo.

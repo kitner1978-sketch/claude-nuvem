@@ -46,7 +46,7 @@ Essa unificação não foi mera mudança de nomenclatura. Ela alterou a lógica 
 
 Entretanto, a realidade dos Juizados Especiais Federais é consideravelmente mais complexa do que a leitura isolada da regra permanente sugere. A maioria dos segurados que atualmente litigam nos JEFs ingressou no sistema antes da Reforma e, portanto, pode estar sujeita a uma ou mais das cinco regras de transição previstas nos arts. 15 a 20 da EC 103/2019. Além disso, segurados que implementaram os requisitos da antiga aposentadoria por idade (65/60 anos + 180 contribuições) antes de 13/11/2019 preservam o direito adquirido ao benefício na forma da legislação anterior, nos termos do art. 3º da EC 103/2019.
 
-Este capítulo examina o universo das aposentadorias por idade no âmbito urbano, compreendendo tanto a regra permanente da aposentadoria programada quanto a regra de transição do art. 18 da EC 103/2019 e o direito adquirido à aposentadoria por idade pré-reforma. As regras de transição dos arts. 15, 16, 17 e 20, que se aplicam predominantemente a segurados com longo tempo de contribuição, serão tratadas no Capítulo 11 (Aposentadoria por Tempo de Contribuição e Regras de Transição), embora aqui se faça a apresentação panorâmica necessária para que o leitor compreenda a interação entre essas regras e saiba orientar o segurado na escolha do benefício mais vantajoso.
+Este capítulo examina o universo das aposentadorias por idade no âmbito urbano, compreendendo tanto a regra permanente da aposentadoria programada quanto a regra de transição do art. 18 da EC 103/2019 e o direito adquirido à aposentadoria por idade pré-reforma. As regras de transição dos arts. 15, 16, 17 e 20, que se aplicam predominantemente a segurados com longo tempo de contribuição, serão tratadas no Capítulo 11 (Aposentadoria por Tempo de Contribuição e Regras de Transição), embora aqui se faça a apresentação panorâmica necessária para que o leitor compreenda a interação entre essas regras e saiba orientar o segurado na escolha do benefício mais vantajoso. Registre-se, em especial, que a regra do pedágio de 50% (art. 17 da EC 103/2019) é a única reservada a quem, em 13/11/2019, estava a menos de dois anos do tempo de contribuição então exigido (30 anos para a mulher, 35 para o homem): nessa hipótese, o segurado completa o tempo faltante acrescido de pedágio equivalente à metade desse período, sujeitando-se, contudo, à incidência do fator previdenciário — peculiaridade que a distingue das demais transições e que justifica sua aparição apenas marginal nas tabelas comparativas deste capítulo, voltado à aposentadoria por idade.
 
 A delimitação entre este capítulo e os capítulos vizinhos merece atenção. O Capítulo 9 trata da aposentadoria rural e da aposentadoria por idade híbrida (Tema 1007/STJ); o Capítulo 11 trata das regras de transição por tempo de contribuição (arts. 15, 16, 17 e 20, EC 103); e o Capítulo 12 trata da aposentadoria da pessoa com deficiência (LC 142/2013). O presente capítulo concentra-se na aposentadoria por idade do segurado urbano, na nova aposentadoria programada e na interface prática entre essas modalidades nos JEFs.
 
@@ -76,7 +76,7 @@ A EC 20/1998 introduziu modificacoes relevantes na estrutura previdenciaria, mas
 
 A Lei 9.876/99, por sua vez, alterou radicalmente a fórmula de cálculo dos benefícios ao instituir o fator previdenciário e modificar a base de cálculo do salário de benefício. Antes da lei, utilizava-se a média dos 36 últimos salários de contribuição; após a lei, passou-se a utilizar a média dos 80% maiores salários de contribuição de todo o período contributivo, desde julho de 1994. Essa mudança teve impacto significativo na aposentadoria por idade, pois ampliou o período de apuração e, em muitos casos, reduziu o valor do benefício.
 
-A regra de transição do art. 3º da Lei 9.876/99 preservou o direito dos segurados filiados antes de sua vigência a optarem pela regra anterior, quando mais favorável — dispositivo que gerou a chamada "revisão da vida toda" (STF Tema 1.102), cuja definição foi revertida pelo Supremo Tribunal Federal em novembro de 2025, em embargos com efeitos infringentes — v. seção 10.11.3, infra.
+A regra de transição do art. 3º da Lei 9.876/99 preservou o direito dos segurados filiados antes de sua vigência a optarem pela regra anterior, quando mais favorável — dispositivo cuja constitucionalidade foi reconhecida pelo Supremo Tribunal Federal nas ADIs 2.110/DF e 2.111/DF e que esteve no centro da chamada "revisão da vida toda" (STF Tema 1.102). Entendemos relevante registrar, desde já, que essa tese foi superada pelo próprio Supremo: o julgamento de mérito das ADIs 2.110/DF e 2.111/DF — cuja ata foi publicada em 05/04/2024, data que se tornou o marco de modulação — firmou a obrigatoriedade do art. 3º da Lei 9.876/99 em sua interpretação textual, afastando a opção pela regra definitiva. A cronologia processual completa, com a fixação da tese vinculante e os desdobramentos posteriores, é examinada na seção 10.11.3, infra.
 
 #### 10.2.4 A EC 103/2019 e a criação da aposentadoria programada
 
@@ -168,7 +168,7 @@ A aposentadoria programada não pode ser inferior ao salário mínimo vigente (a
 
 O teto do benefício é o teto do RGPS, atualmente fixado em R$ 8.475,55 (Portaria Interministerial MPS/MF n. 13/2026). Isso significa que, mesmo que o segurado tenha contribuído sempre sobre o teto e acumulado tempo suficiente para coeficiente de 100%, a RMI não ultrapassará esse valor. A limitação ao teto aplica-se sobre o valor final, após a aplicação do coeficiente sobre a média.
 
-Ha, ainda, a limitacao prevista no art. 26, para. 5o, da EC 103/2019, segundo a qual o beneficio nao pode exceder a media dos salarios de contribuicao. A limitacao ao "ultimo salario de contribuicao", por sua vez, decorre de regulamentacao infralegal (Decreto 3.048/99) e tem sido objeto de controversia doutrinaria, uma vez que pode penalizar o segurado que sofreu reducao salarial nos ultimos anos de atividade. A interpretacao que vem prevalecendo nos JEFs e de que essa limitacao se aplica apenas quando ha vinculo empregaticio ativo na data do requerimento.
+Cabe distinguir duas balizas frequentemente confundidas na pratica. De um lado, a propria estrutura de calculo do art. 26 da EC 103/2019 impede que o beneficio supere a media dos salarios de contribuicao: como o coeficiente esta limitado a 100% (art. 26, § 5º, segundo o qual o valor do beneficio nao sera inferior ao salario minimo nem superior ao limite maximo do salario de contribuicao do RGPS), a renda mensal jamais excede a media apurada. De outro lado, ha a chamada limitacao ao "ultimo salario de contribuicao", que nao decorre da EC 103/2019, mas de regulamentacao infralegal voltada a impedir a majoracao artificial do beneficio as vesperas do requerimento. Essa segunda limitacao tem sido objeto de critica doutrinaria, por penalizar o segurado que sofreu reducao salarial legitima nos ultimos anos de atividade. Entendemos que tal restricao so se justifica diante de indicio concreto de manipulacao do salario de contribuicao na iminencia da aposentadoria — e nao como teto automatico aplicavel a todo segurado —, interpretacao que, embora ainda nao pacificada, melhor se ajusta ao carater retributivo do regime e ao principio do beneficio mais vantajoso (art. 26, § 2º, da EC 103/2019).
 
 ### 10.4 Regra de Transição: Aposentadoria por Idade (Art. 18, EC 103/2019)
 
@@ -275,7 +275,7 @@ A regra do pedágio de 100% (art. 20) é a única que garante coeficiente de 100
 - TC exigido: 35 anos + pedágio. Em 13/11/2019, Marcos tinha ~31 anos de TC, faltavam 4 anos → pedágio = 4 anos → precisa de 39 anos TC total. Marcos tem 38 → **não preenche ainda** (faltam 12 meses)
 - Se aguardar 1 ano: RMI = R$ 6.000,00 × **100%** = **R$ 6.000,00**
 
-**Conclusão:** Se Marcos puder aguardar mais 1 ano, a regra do pedágio 100% lhe garante R$ 240,00 a mais por mês (R$ 6.000 vs. R$ 5.760), ou R$ 2.880,00/ano. Pode valer a pena esperar. O advogado deve apresentar essa comparação ao cliente.
+**Conclusão:** Se Marcos puder aguardar mais 1 ano, a regra do pedágio 100% lhe garante R$ 240,00 a mais por mês (R$ 6.000 vs. R$ 5.760), ou R$ 2.880,00/ano. Pode valer a pena esperar. Trata-se, em última análise, de uma decisão do próprio segurado, que deve ser tomada à luz de uma comparação numérica transparente entre aposentar-se de imediato e diferir o requerimento.
 :::
 
 ### 10.5 Direito Adquirido à Aposentadoria por Idade Pré-EC 103/2019
@@ -362,7 +362,7 @@ A prática nos JEFs revela uma situação recorrente: o contribuinte individual 
 
 O advogado deve alertar o cliente sobre essa distinção antes de orientá-lo a efetuar recolhimentos retroativos. Em muitos casos, é mais eficiente aguardar o transcurso dos meses faltantes com contribuições em dia do que pagar retroativamente valores que não serão aproveitados para carência.
 
-Excecao: contribuicoes em atraso para periodos em que o segurado exercia atividade como contribuinte individual, com prova da atividade, podem ser computadas para carencia quando o primeiro recolhimento sem atraso tiver ocorrido anteriormente (art. 27, II, Lei 8.213/91 c/c art. 156 do Decreto 3.048/99, com redacao do Decreto 10.410/2020 — verificar a redacao vigente, pois o dispositivo sofreu multiplas alteracoes regulamentares).
+Excecao: contribuicoes em atraso para periodos em que o segurado exercia atividade como contribuinte individual, com prova da atividade, podem ser computadas para carencia quando o primeiro recolhimento sem atraso tiver ocorrido anteriormente (art. 27, II, da Lei 8.213/91, c/c o art. 27-A da mesma lei, na redacao da Lei 13.846/2019, e o art. 26 do Decreto 3.048/99, com a redacao do Decreto 10.410/2020).
 :::
 
 #### 10.6.3 Perda e recuperação da qualidade de segurado
@@ -395,7 +395,7 @@ A questão é controvertida. A jurisprudência predominante nos JEFs e na TNU te
 
 1. **Período intercalado (entre contribuições):** Conta como carência. Ex.: segurado contribuiu de 2010 a 2015, recebeu auxílio por incapacidade temporária de 2015 a 2017, e voltou a contribuir de 2017 em diante. O período 2015-2017 conta como carência.
 
-2. **Período terminal (sem retorno à atividade):** A contagem como carência é mais controvertida. Se o segurado nunca mais contribuiu após o benefício, há quem sustente que o período não pode ser computado como carência por falta de "intercalação." A tendência jurisprudencial, contudo, tem sido mais flexível.
+2. **Período terminal (sem retorno à atividade):** A contagem como carência é mais controvertida. Se o segurado nunca mais contribuiu após o benefício, há quem sustente que o período não pode ser computado como carência por falta de "intercalação." Entendemos, porém, que a exigência de intercalação não deve ser levada ao extremo de penalizar o segurado que, justamente por persistir a incapacidade, ficou impossibilitado de retornar ao trabalho: condicionar o cômputo a um retorno que a própria doença inviabilizou equivaleria a negar proteção a quem mais dela necessita. A tendência jurisprudencial, alinhada a essa compreensão, tem sido mais flexível.
 
 3. **Período de auxílio-acidente:** O auxílio-acidente não suspende a obrigação de contribuir (o segurado continua trabalhando). Portanto, as contribuições efetuadas durante o recebimento de auxílio-acidente contam normalmente como carência.
 :::
@@ -474,7 +474,7 @@ A reafirmação da DER, amplamente examinada pela doutrina (CASTRO; LAZZARI, 202
 ::: box-jurisprudencia
 **STJ Tema 995 — Reafirmação da DER**
 
-No julgamento dos REsp 1.727.069/SP e 1.727.063/SP, a 1ª Seção do STJ fixou a seguinte tese (j. 22/10/2019):
+No julgamento dos REsp 1.727.069/SP e 1.727.063/SP, a 1ª Seção do STJ fixou a seguinte tese (j. 23/10/2019):
 
 "É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir."
 
@@ -529,17 +529,17 @@ A Lei 13.846/2019 alterou o art. 32 da Lei 8.213/91, estabelecendo que os salár
 
 **Pela regra antiga (antes da Lei 13.846/2019):** O emprego seria a atividade principal; a consultoria, atividade secundária com participação proporcional. O resultado seria inferior a R$ 6.500,00.
 
-A revisão de benefícios concedidos pela regra antiga, à luz da Lei 13.846/2019, é objeto do Tema 1.070/STJ (Capítulo 5).
+A revisão de benefícios apurados pelo cálculo proporcional — admitida amplamente, e não apenas após a Lei 13.846/2019 — é objeto do Tema 1.070/STJ (Capítulo 5).
 :::
 
 #### 10.9.3 O Tema 1.070/STJ e o marco temporal
 
-O STJ, no julgamento do Tema 1.070, fixou a tese de que a nova regra do art. 32 da Lei 8.213/91 (soma dos salários de contribuição) aplica-se a benefícios concedidos a partir da vigência da Lei 13.846/2019. Para benefícios concedidos antes dessa data, permanece aplicável a regra do cálculo proporcional, salvo se o segurado requerer a revisão à luz da nova lei. A matéria é objeto de análise detalhada no Capítulo 5 (Reconhecimento, Cômputo e Averbação de Tempo de Contribuição).
+O STJ, no julgamento do Tema 1.070 (REsp 1.870.793/RS, Rel. Min. Sérgio Kukina, 1ª Seção, j. 11/05/2022), fixou a tese de que, "após o advento da Lei 9.876/99, e para fins de cálculo do benefício de aposentadoria, no caso do exercício de atividades concomitantes pelo segurado, o salário-de-contribuição deverá ser composto da soma de todas as contribuições previdenciárias por ele vertidas ao sistema, respeitado o teto previdenciário". O marco temporal da tese, convém sublinhar, **não é a Lei 13.846/2019, mas o advento da Lei 9.876/99**, que ampliou o período básico de cálculo. Por essa razão, a integralidade da soma alcança também benefícios anteriores a 2019: o STJ entendeu que o cálculo proporcional dos incisos do art. 32 (redação original) tornou-se incompatível com a sistemática inaugurada em 1999, afastando-o de forma ampla, e não apenas para benefícios com DER posterior à Lei 13.846/2019. A Lei 13.846/2019 apenas adequou a redação legal a esse entendimento. Sustentamos, em consequência, que o segurado com benefício concedido pela regra proporcional — ainda que anterior a 2019 — tem direito à revisão pela soma integral, observada a prescrição quinquenal. A matéria é objeto de análise detalhada no Capítulo 5 (Reconhecimento, Cômputo e Averbação de Tempo de Contribuição).
 
 ::: box-atencao
 **Atividades concomitantes — cuidados práticos nos JEFs**
 
-1. **Verificar a data da concessão do benefício:** Se anterior à Lei 13.846/2019, pode haver direito à revisão pela soma dos salários de contribuição (Tema 1.070/STJ)
+1. **Verificar se o benefício foi calculado pela regra proporcional:** Benefícios apurados pelo cálculo proporcional do art. 32 (redação original) — inclusive os concedidos antes da Lei 13.846/2019 — comportam revisão pela soma integral dos salários de contribuição (Tema 1.070/STJ), observada a prescrição quinquenal das parcelas
 2. **Verificar o teto:** A soma dos salários de contribuição concomitantes está limitada ao teto do RGPS em cada competência. Se a soma excede o teto, o valor excedente é desconsiderado.
 3. **RPPS × RGPS:** Se uma das atividades é vinculada a regime próprio (servidor público), o tempo concomitante no RGPS não gera contribuições duplicadas — cada regime computa apenas a contribuição vertida para si. A compensação entre regimes é regida pelo art. 201, § 9º-A, CF/88 (Capítulo 5, seção 5.7.5).
 4. **MEI com atividade simultânea:** O MEI que exerce outra atividade como empregado ou CI tem as contribuições somadas normalmente. A contribuição do MEI (5% sobre o SM) soma-se à contribuição da outra atividade.
@@ -563,7 +563,7 @@ Para a aposentadoria compulsória, exige-se cumulativamente:
 
 **b) Carência:** A mesma exigida para a aposentadoria voluntária — 180 contribuições mensais (art. 25, II, Lei 8.213/91) ou conforme a tabela progressiva do art. 142 para filiados antes de 24/07/1991. A exigência de carência na aposentadoria compulsória é objeto de controvérsia doutrinária: há quem sustente que, tratando-se de faculdade do empregador, a carência não deveria ser obstáculo, sob pena de o empregado ficar em situação pior do que a desejada por seu empregador. A posição prevalecente, contudo, é de que a carência é requisito inafastável, pois se trata de benefício previdenciário, não de verba trabalhista.
 
-**c) Iniciativa do empregador:** O requerimento é feito pelo empregador, não pelo segurado. O art. 51, § 1º, da Lei 8.213/91 estabelece que a aposentadoria compulsória "será automática quando o segurado completar 70 (setenta) anos de idade e será compulsória mediante requerimento da empresa, desde que o segurado tenha cumprido o período de carência e completado 70 (setenta) anos de idade, se do sexo masculino, ou 65 (sessenta e cinco) anos de idade, se do sexo feminino." Essa redação, por vezes confusa, tem sido interpretada no sentido de que o empregador pode requerer a aposentadoria a partir do momento em que o empregado atinge a idade e a carência.
+**c) Iniciativa do empregador:** O requerimento é feito pelo empregador, não pelo segurado. Nos termos do art. 51, *caput*, da Lei 8.213/91, a aposentadoria por idade "poderá ser requerida pela empresa, desde que o segurado empregado tenha cumprido o período de carência e completado 70 (setenta) anos de idade, se do sexo masculino, ou 65 (sessenta e cinco) anos, se do feminino, sendo compulsória, caso em que será garantida ao empregado a indenização prevista na legislação trabalhista, considerada como data da rescisão do contrato de trabalho a imediatamente anterior à do início da aposentadoria." O dispositivo confere ao empregador a faculdade de requerer o benefício a partir do momento em que o empregado atinge a idade e a carência exigidas.
 
 **d) Garantia de valor mínimo:** A renda mensal da aposentadoria compulsória não pode ser inferior a um salário mínimo, nos termos do art. 201, § 2º, da CF/88.
 
@@ -575,7 +575,7 @@ A concessão da aposentadoria compulsória suscita questões relevantes na inter
 
 **Cumulação com salário:** Se a aposentadoria compulsória não extinguir o contrato (na hipótese de o empregador optar por manter o empregado), o segurado pode cumular proventos de aposentadoria e salário, pois não há vedação legal à continuidade do trabalho pelo aposentado por idade.
 
-**Indenização compensatória:** O art. 51, § 1º, da Lei 8.213/91 prevê que, na aposentadoria compulsória, o empregado tem direito à indenização prevista na legislação trabalhista, "considerando-se como data da rescisão do contrato de trabalho a imediatamente anterior à do início da aposentadoria." Essa previsão reforça a interpretação de que a aposentadoria compulsória implica rescisão contratual.
+**Indenização compensatória:** O art. 51, *caput*, da Lei 8.213/91 prevê que, na aposentadoria compulsória, o empregado tem direito à indenização prevista na legislação trabalhista, "considerada como data da rescisão do contrato de trabalho a imediatamente anterior à do início da aposentadoria." Essa previsão reforça a interpretação de que a aposentadoria compulsória implica rescisão contratual.
 
 ::: box-atencao
 **Aposentadoria compulsória — pontos de atenção**
@@ -588,7 +588,7 @@ A concessão da aposentadoria compulsória suscita questões relevantes na inter
 
 4. **Rara nos JEFs:** Ações envolvendo aposentadoria compulsória são incomuns nos Juizados Especiais Federais, mas podem surgir em demandas de reconhecimento de tempo de contribuição ou de revisão do valor do benefício concedido compulsoriamente. A situação mais frequente nos JEFs é aquela em que o segurado alega que foi compelido a aceitar uma aposentadoria de valor inferior ao devido, pretendendo a revisão do cálculo ou a concessão por regra mais vantajosa.
 
-5. **Constitucionalidade das idades:** A questao da constitucionalidade da manutencao das idades de 70/65 anos para aposentadoria compulsoria no RGPS, especialmente diante da elevacao da idade feminina para 62 anos na aposentadoria voluntaria pela EC 103/2019, e objeto de discussao doutrinaria. A eventual revisao legislativa ou judicial dessas idades podera impactar significativamente o instituto.
+5. **Constitucionalidade das idades:** A manutencao das idades de 70/65 anos para a aposentadoria compulsoria no RGPS, em contraste com a elevacao da idade feminina para 62 anos na aposentadoria voluntaria pela EC 103/2019, suscita questionamento doutrinario. A nosso ver, contudo, a assimetria nao e por si inconstitucional: a aposentadoria compulsoria do art. 51 nao reproduz a logica da aposentadoria voluntaria — ela funciona como faculdade do empregador e como instrumento de renovacao do quadro funcional, de modo que a fixacao de idades mais elevadas, longe de prejudicar o segurado, restringe a hipotese em que pode ser compelido a se aposentar. O que entendemos efetivamente problematico nao e o patamar etario, mas a propria persistencia do instituto diante da jurisprudencia trabalhista que afastou a extincao automatica do contrato. Eventual revisao legislativa ou judicial dessas idades podera impactar significativamente o instituto.
 :::
 
 ### 10.11 Cálculo do Benefício: Aspectos Específicos
@@ -601,11 +601,13 @@ Na aposentadoria por idade pre-EC 103/2019: RMI = 70% do salario de beneficio + 
 
 #### 10.11.2 Regime Posterior (EC 103/2019)
 
-O coeficiente passou a ser de 60% + 2%/ano excedente a 20 (homem) ou 15 (mulher), sobre a média de 100% dos salários de contribuição (v. Cap. 16, seção 16.5, para tabela completa de coeficientes). A combinação de média integral e coeficiente a partir de 60% resulta, para o perfil típico da aposentadoria por idade (15 a 25 anos de TC), em benefícios significativamente inferiores ao regime anterior. A possibilidade de exclusao de salarios de contribuicao que resultem em reducao do valor do beneficio, desde que mantido o tempo minimo de contribuicao exigido (art. 26, para. 6o, EC 103 — confirmar a numeracao exata do paragrafo na redacao vigente), pode atenuar o impacto, mas exige analise caso a caso, pois a exclusao reduz simultaneamente o tempo de contribuicao e, consequentemente, o coeficiente (v. Cap. 16, secao 16.8, para exemplos).
+O coeficiente passou a ser de 60% + 2%/ano excedente a 20 (homem) ou 15 (mulher), sobre a média de 100% dos salários de contribuição (v. Cap. 16, seção 16.5, para tabela completa de coeficientes). A combinação de média integral e coeficiente a partir de 60% resulta, para o perfil típico da aposentadoria por idade (15 a 25 anos de TC), em benefícios significativamente inferiores ao regime anterior. A possibilidade de exclusao de salarios de contribuicao que resultem em reducao do valor do beneficio, desde que mantido o tempo minimo de contribuicao exigido (art. 26, § 6º, da EC 103/2019), pode atenuar o impacto, mas exige analise caso a caso, pois a exclusao reduz simultaneamente o tempo de contribuicao e, consequentemente, o coeficiente (v. Cap. 16, secao 16.8, para exemplos).
 
 #### 10.11.3 Revisão da Vida Toda (STF Tema 1.102)
 
-O STF, após acolher inicialmente a tese da revisão da vida toda (dezembro/2022, 7 × 4), reverteu o entendimento em novembro/2025, em embargos com efeitos infringentes, firmando tese vinculante de que a revisão é indevida. Modulação: irrepetibilidade de valores pagos por decisões judiciais até 05/04/2024; vedação de cobrança de sucumbência dos autores com ações pendentes até essa data. Em 15/05/2026, retirado o destaque do Min. Fachin, o Plenário Virtual rejeitou os novos embargos sobre ampliação da modulação, mantida a modulação sem ampliação. A análise aprofundada — inclusive histórico processual, fundamentação e orientação prática — encontra-se no Capítulo 16, seção 16.11.
+A trajetória do tema é didática quanto à instabilidade que decisões modulatórias podem produzir. Em 01/12/2022, ao julgar o Tema 1.102 (RE 1.276.977/DF), o STF acolheu, por maioria, a tese da revisão da vida toda, reconhecendo ao segurado o direito de optar pela regra definitiva do art. 29, I e II, da Lei 8.213/91, quando mais favorável. Esse entendimento, contudo, foi superado pelo próprio Supremo já em 2024: ao julgar o mérito das ADIs 2.110/DF e 2.111/DF, o Tribunal declarou a constitucionalidade do art. 3º da Lei 9.876/99 e impôs sua observância cogente em interpretação textual, o que esvaziou a opção antes admitida. O marco decisório vinculante, portanto, é o julgamento de 2024, e não um evento de 2025 ou 2026. A data-chave é 05/04/2024 — publicação da ata do julgamento de mérito das ADIs —, fixada pelo próprio STF como termo da modulação. Sustentamos, por isso, que toda a cronologia do instituto deve ser lida a partir desse marco: a tese que hoje prevalece é a de que "o segurado do INSS que se enquadre no dispositivo não pode optar pela regra definitiva prevista no art. 29, I e II, da Lei 8.213/1991, independentemente de lhe ser mais favorável".
+
+A modulação fixada pelo Supremo determinou: (i) a irrepetibilidade dos valores percebidos pelos segurados em virtude de decisões judiciais, definitivas ou provisórias, prolatadas até 05/04/2024; e (ii) a impossibilidade de cobrança de honorários sucumbenciais, custas e perícias contábeis dos autores cujas ações de revisão da vida toda estavam pendentes de conclusão até essa data. A análise aprofundada — histórico processual completo, fundamentação e orientação prática — encontra-se no Capítulo 16, seção 16.11.
 
 #### 10.11.4 Exclusão de salários de contribuição que reduzem a média
 
@@ -724,7 +726,7 @@ A regra-chave: o periodo de atividade rural anterior a novembro de 1991 pode ser
 - Alternativa: Aposentadoria por idade **híbrida** (Tema 1007/STJ — Cap. 9), somando período rural para completar carência
 - Outra alternativa: Aposentadoria por idade **rural** (se manteve atividade rural até próximo do requerimento)
 
-O advogado deve mapear todas as alternativas e orientar o cliente.
+Casos de histórico misto como o de Seu Joaquim exigem que se mapeiem, lado a lado, a via urbana, a híbrida e a rural, antes de definir o pedido — é da comparação entre elas, e não da escolha apressada de uma só, que costuma emergir o benefício mais vantajoso.
 :::
 
 ### 10.14 Tutela Provisória na Aposentadoria por Idade
@@ -842,7 +844,7 @@ As audiências nos JEFs previdenciários apresentam peculiaridades que o advogad
 
 **a) Audiência de conciliação:** O art. 10 da Lei 10.259/2001 prevê a tentativa de conciliação em audiência. Nas ações previdenciárias, a conciliação com o INSS segue parâmetros institucionais estabelecidos pela Procuradoria Federal Especializada junto ao INSS, que autoriza a celebração de acordos em determinadas faixas de valor e mediante certas condições. O juiz deve verificar se o representante do INSS tem poderes para transigir. Na prática, muitos JEFs realizam "mutirões de conciliação" previdenciários, nos quais procuradores do INSS com poderes especiais analisam os casos e propõem acordos — modalidade que tem obtido resultados expressivos na redução do acervo processual.
 
-**b) Audiência por videoconferência:** A pandemia de COVID-19 acelerou a adoção de audiências por videoconferência nos JEFs, prática que permaneceu mesmo após o retorno às atividades presenciais. A regulamentacao do CJF (verificar a resolucao vigente na data da consulta), complementada por atos normativos de cada Secao Judiciaria, autoriza a realizacao de audiencias telepresenciais. Para o segurado idoso, a possibilidade de participar da audiência por videoconferência, de sua residência ou do escritório do advogado, representa significativa redução de custos e deslocamento.
+**b) Audiência por videoconferência:** A pandemia de COVID-19 acelerou a adoção de audiências por videoconferência nos JEFs, prática que permaneceu mesmo após o retorno às atividades presenciais. A Resolucao CJF n. 758/2022, complementada por atos normativos de cada Secao Judiciaria, autoriza a realizacao de audiencias telepresenciais no ambito da Justica Federal. Para o segurado idoso, a possibilidade de participar da audiência por videoconferência, de sua residência ou do escritório do advogado, representa significativa redução de custos e deslocamento.
 
 **c) Depoimento pessoal do segurado:** O juiz pode determinar o depoimento pessoal do segurado, especialmente quando há dúvida sobre a natureza das atividades exercidas, sobre a manutenção da qualidade de segurado ou sobre períodos sem contribuição. O depoimento pessoal, nos JEFs, é tomado de forma informal, e o juiz pode dialogar diretamente com a parte para esclarecimento dos fatos.
 
@@ -852,7 +854,7 @@ A sentença nos JEFs é irrecorrível por meio de apelação. O recurso cabível
 
 A sentença de procedência na ação de aposentadoria por idade deve especificar: (i) a regra pela qual a aposentadoria é concedida (direito adquirido, art. 18, regra permanente); (ii) a data de início do benefício (DIB); (iii) a data de início do pagamento (DIP); (iv) a renda mensal inicial (RMI) ou, alternativamente, a determinação de que o INSS calcule a RMI pela regra mais vantajosa; (v) a condenação em prestações vencidas, corrigidas monetariamente e acrescidas de juros de mora; (vi) os honorários advocatícios, fixados sobre as parcelas vencidas até a sentença (Súmula 111/STJ).
 
-Quanto a correcao monetaria e aos juros de mora, aplica-se o Manual de Calculos da Justica Federal (verificar a resolucao do CJF vigente na data da consulta, pois o Manual e periodicamente atualizado), que estabelece a utilizacao do IPCA-E como indice de correcao monetaria e da taxa SELIC a partir de dezembro de 2021 (EC 113/2021, art. 3o), englobando juros e correcao em parcela unica.
+Quanto a correcao monetaria e aos juros de mora, aplica-se o Manual de Calculos da Justica Federal (aprovado pela Resolucao CJF n. 784/2022), que estabelece a utilizacao do IPCA-E como indice de correcao monetaria ate novembro de 2021 e da taxa SELIC a partir de dezembro de 2021 (EC 113/2021, art. 3o), esta ultima englobando juros e correcao em parcela unica.
 
 A Turma Recursal julga o recurso com base na prova dos autos, podendo reformar a sentença no mérito. Não há reexame necessário nos JEFs (art. 13, Lei 10.259/2001). Contra o acórdão da Turma Recursal, cabem:
 
@@ -951,7 +953,7 @@ A interface com a aposentadoria por idade comum (Capítulo 10) surge quando o se
 
 **Quando a regra geral pode ser preferível:** Quando o segurado tem deficiência apenas parcial do período contributivo e não consegue comprovar 15 anos como PcD.
 
-O advogado deve analisar ambas as vias e orientar o cliente.
+A escolha entre a LC 142/2013 e a regra geral, portanto, não é automática: depende de simular o benefício pelas duas vias e confrontar idade, coeficiente e incidência (ou não) do fator previdenciário no caso concreto.
 :::
 
 ### 10.17 Síntese e Fluxograma Decisório

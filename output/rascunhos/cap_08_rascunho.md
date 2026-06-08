@@ -16,7 +16,7 @@ Disciplinada nos arts. 57 e 58 da Lei n. 8.213/91, a aposentadoria especial é d
 
 A natureza jurídica da aposentadoria especial é controvertida na doutrina. Como ensinam Castro e Lazzari (2025), a posição predominante identifica-a como benefício de natureza híbrida: possui caráter programado (pois depende do implemento de requisitos temporais definidos em lei, diferentemente dos benefícios por incapacidade), mas também apresenta dimensão preventiva (pois visa evitar a consolidação de danos à saúde do trabalhador). Essa dupla natureza explica, por exemplo, a vedação ao exercício de atividade em condições especiais após a concessão do benefício — tema que será examinado na seção 8.11.
 
-A EC 103/2019 alterou substancialmente o regime jurídico da aposentadoria especial, introduzindo requisito etário mínimo até então inexistente e modificando o cálculo do benefício. A constitucionalidade dessas alterações é objeto da ADI 6.309, cujo julgamento pelo STF encontra-se pendente de conclusão. Essas modificações serão detalhadamente examinadas nas seções seguintes.
+A EC 103/2019 alterou substancialmente o regime jurídico da aposentadoria especial, introduzindo requisito etário mínimo até então inexistente e modificando o cálculo do benefício. A constitucionalidade dessas alterações foi objeto da ADI 6.309, julgada parcialmente procedente pelo STF em 03/06/2026: o Tribunal declarou inconstitucional a exigência de idade mínima — de modo que, atualmente, a aposentadoria especial não exige idade mínima —, mas manteve a constitucionalidade da nova forma de cálculo e da vedação à conversão de tempo especial em comum. Essas modificações serão detalhadamente examinadas nas seções seguintes.
 
 ### 8.2 Evolução Legislativa
 
@@ -34,7 +34,7 @@ O Decreto n. 2.172/1997 substituiu os quadros anexos dos Decretos n. 53.831/1964
 
 O Decreto n. 4.882/2003 promoveu importante alteração no Anexo IV do Decreto n. 3.048/1999, modificando, entre outros, o limite de tolerância ao ruído de 90 dB(A) para 85 dB(A), harmonizando a norma previdenciária com os parâmetros internacionais de proteção auditiva.
 
-A EC 103/2019 representou a mais profunda transformação no regime jurídico da aposentadoria especial desde sua criação. As alterações abrangeram: (a) a introdução de requisito de idade mínima (55, 58 ou 60 anos conforme o grau de nocividade); (b) a criação de sistema de pontos na regra de transição (art. 21); (c) a modificação do cálculo do benefício, com aplicação do coeficiente de 60% + 2% por ano excedente; e (d) a limitação temporal da conversão de tempo especial em comum, reconhecida pelo art. 25, § 2º, apenas para períodos até a data de entrada em vigor da Emenda — o que, na prática, opera como vedação à conversão para períodos posteriores. A constitucionalidade dessas modificações é questionada na ADI 6.309, pendente de julgamento pelo STF.
+A EC 103/2019 representou a mais profunda transformação no regime jurídico da aposentadoria especial desde sua criação. As alterações abrangeram: (a) a introdução de requisito de idade mínima (55, 58 ou 60 anos conforme o grau de nocividade); (b) a criação de sistema de pontos na regra de transição (art. 21); (c) a modificação do cálculo do benefício, com aplicação do coeficiente de 60% + 2% por ano excedente; e (d) a limitação temporal da conversão de tempo especial em comum, reconhecida pelo art. 25, § 2º, apenas para períodos até a data de entrada em vigor da Emenda — o que, na prática, opera como vedação à conversão para períodos posteriores. A constitucionalidade dessas modificações foi questionada na ADI 6.309, julgada parcialmente procedente pelo STF em 03/06/2026 (idade mínima declarada inconstitucional; cálculo e vedação à conversão mantidos).
 
 ### 8.3 Requisitos: Regime Anterior à EC 103/2019
 
@@ -85,7 +85,11 @@ O art. 19, § 1º, incisos I, II e III, da EC 103/2019 estabelece que a aposenta
 A introdução do requisito etário representou ruptura fundamental com o regime anterior, no qual a aposentadoria especial era concedida exclusivamente com base no tempo de exposição, sem qualquer exigência de idade mínima. A medida foi justificada pelo legislador reformador como necessária para compatibilizar o benefício com o equilíbrio financeiro e atuarial do sistema, mas é criticada pela doutrina por contrariar a própria finalidade do benefício, proteger o trabalhador contra os efeitos da exposição prolongada a agentes nocivos (HORVATH JÚNIOR, 2025; SAVARIS, 2023).
 
 ::: box-jurisprudencia
-A constitucionalidade da exigência de idade mínima para a aposentadoria especial é objeto da ADI 6.309, ajuizada pela Confederação Nacional dos Trabalhadores da Indústria (CNTI). A ação questiona: (a) a inconstitucionalidade do requisito etário (art. 19, § 1º, I, EC 103/2019); (b) a inconstitucionalidade da restrição à conversão de tempo especial em comum (art. 25, § 2º); e (c) a inconstitucionalidade da redução do valor do benefício (art. 26, § 2º, IV). O julgamento foi iniciado em dezembro de 2025, com placar parcial de 3 votos pela constitucionalidade e 2 pela inconstitucionalidade, tendo sido suspenso por pedido de vista do Ministro André Mendonça. A conclusão do julgamento é aguardada e poderá alterar substancialmente o regime jurídico do benefício.
+A constitucionalidade da exigência de idade mínima para a aposentadoria especial foi objeto da ADI 6.309, ajuizada pela Confederação Nacional dos Trabalhadores na Indústria (CNTI). A ação questionava: (a) a inconstitucionalidade do requisito etário (art. 19, § 1º, I, EC 103/2019); (b) a inconstitucionalidade da restrição à conversão de tempo especial em comum (art. 25, § 2º); e (c) a inconstitucionalidade da redução do valor do benefício (art. 26, § 2º, IV). No julgamento de 03/06/2026 (ADI 6.309, Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça), o Tribunal Pleno do STF, por 6 votos a 5, julgou o pedido parcialmente procedente: declarou inconstitucional a exigência de idade mínima, mas manteve a constitucionalidade da nova forma de cálculo (item "c") e da vedação à conversão (item "b"). O Min. Barroso, relator originário, votava pela constitucionalidade de todos os dispositivos, ficando vencido quanto à idade mínima. O acórdão ainda será redigido pelo Min. André Mendonça, e a eventual modulação de efeitos será definida na publicação do acórdão.
+:::
+
+::: box-atencao
+**Estado atual após a ADI 6.309 (j. 03/06/2026):** em razão da declaração de inconstitucionalidade da idade mínima, **a aposentadoria especial não exige, atualmente, idade mínima** — o segurado faz jus ao benefício mediante o tempo de efetiva exposição a agentes nocivos (15, 20 ou 25 anos), independentemente da idade. O texto desta seção registra a exigência etária introduzida pela EC 103/2019 por seu valor histórico e porque permanece relevante para situações anteriores ao julgado, mas a tabela de idade mínima (55/58/60 anos) deixou de ser aplicável. Permanecem válidos, contudo, a nova forma de cálculo (60% da média + 2% por ano que exceder 15 anos — mulher — ou 20 anos — homem) e a vedação à conversão de tempo especial em comum para períodos posteriores a 13/11/2019. A eventual modulação de efeitos será definida na publicação do acórdão.
 :::
 
 #### 8.4.2 Regra de Transição (art. 21)
@@ -172,6 +176,20 @@ As atividades típicas envolvem trabalho em hospitais, ambulatórios, laboratór
 Na instrução de ação de aposentadoria especial por exposição a agentes biológicos nos JEFs, o PPP que indica a exposição a "risco biológico" ou "agentes biológicos" por profissional de saúde que atua em ambiente hospitalar é, em regra, suficiente para o enquadramento. A perícia ambiental judicial pode ser dispensada quando o PPP é claro e não há controvérsia sobre a natureza das atividades. Se o INSS impugnar o PPP, o juiz pode designar perícia para verificação das condições ambientais, ou valer-se de prova emprestada (laudos de processos similares envolvendo o mesmo empregador e setor).
 :::
 
+#### 8.5.7 Penosidade: Motoristas e Cobradores (Tema 1.307/STJ)
+
+Além dos agentes físicos, químicos e biológicos relacionados no Anexo IV do Decreto n. 3.048/1999, certas atividades podem ser reconhecidas como especiais em razão da penosidade — categoria que remonta à redação original do art. 31 da Lei n. 3.807/1960 (LOPS), que aludia a serviços "penosos, insalubres ou perigosos" (seção 8.2). Embora a Lei n. 9.032/1995 tenha passado a exigir a comprovação efetiva da exposição a agentes nocivos, subsistiu a controvérsia sobre o reconhecimento da especialidade por penosidade de determinadas atividades para períodos posteriores.
+
+O STJ pacificou a questão quanto aos motoristas e cobradores no julgamento do Tema 1.307 (REsp 2.164.724, Rel. Min. Gurgel de Faria, j. 07/05/2026), fixando a seguinte tese:
+
+::: box-jurisprudencia
+**STJ, Tema 1.307 (REsp 2.164.724, Rel. Min. Gurgel de Faria, j. 07/05/2026):**
+
+"É possível o reconhecimento do caráter especial em virtude da penosidade das atividades de motorista/cobrador de ônibus ou motorista de caminhão exercidas posteriormente à Lei n. 9.032/1995, desde que comprovada, por perícia técnica individualizada, a exposição habitual e permanente a condições concretas de desgaste à saúde."
+:::
+
+A tese tem relevância prática direta nos JEFs. Reconhece-se a especialidade dessas atividades mesmo após a Lei n. 9.032/1995, mas em moldes mais exigentes que o antigo enquadramento por categoria profissional: não basta a comprovação do exercício da profissão de motorista ou cobrador, exigindo-se perícia técnica individualizada que demonstre a exposição habitual e permanente a condições concretas de desgaste à saúde (vibração de corpo inteiro, sobrecarga postural, ruído, estresse ocupacional, jornadas extensas). A especialidade não decorre, portanto, da mera nomenclatura do cargo, mas da efetiva penosidade comprovada caso a caso. O magistrado deve, ao apreciar tais pedidos, determinar a produção de prova pericial que individualize as condições de desgaste a que submetido o segurado.
+
 ### 8.6 Ruído: Limites de Tolerância e Regime Jurídico
 
 O ruído é, de longe, o agente nocivo mais litigado nos JEFs. Seu regime jurídico apresenta peculiaridades que justificam exame separado.
@@ -222,8 +240,14 @@ A distribuição do ônus da prova quanto à eficácia do EPI é relevante na pr
 
 Para os demais agentes nocivos, cabe ao segurado que pretende o reconhecimento da atividade especial demonstrar que, a despeito da indicação de EPI eficaz no PPP, o equipamento não era efetivamente capaz de neutralizar a nocividade. A prova pode ser feita por: (a) perícia judicial que constate a ineficácia do EPI para o agente específico; (b) demonstração de irregularidades no fornecimento, troca ou manutenção dos equipamentos; (c) comprovação de que o agente nocivo possui efeitos que não são neutralizáveis por EPI (como ocorre com diversos agentes químicos de absorção cutânea).
 
+O STJ, ao julgar o Tema 1.090 (REsp 2.082.072, Rel. Min. Maria Thereza de Assis Moura, j. 09/04/2025), sob a sistemática dos recursos repetitivos, reforçou a interpretação do Tema 555/STF e detalhou a distribuição do ônus probatório quanto à eficácia do EPI. A Corte assentou que a anotação positiva sobre o EPI no PPP descaracteriza, em princípio, o tempo especial, ressalvadas hipóteses excepcionais, e atribuiu ao segurado o ônus de demonstrar a ineficácia concreta do equipamento.
+
 ::: box-jurisprudencia
-O STJ, em decisão de abril de 2025, reforçou a interpretação do Tema 555 ao decidir que a anotação positiva sobre o uso de EPI pelo empregador no PPP afasta o risco laboral para fins de aposentadoria especial, exceto para o agente ruído. A decisão reafirma que a primeira tese do Tema 555 atribui relevância jurídica à declaração do empregador no PPP quanto à eficácia do EPI, transferindo ao segurado o ônus de demonstrar que, a despeito da anotação, o EPI era ineficaz. Para o ruído, contudo, a declaração de eficácia no PPP é irrelevante — a atividade especial é reconhecida independentemente do que constar no PPP quanto ao EPI.
+**STJ, Tema 1.090 (REsp 2.082.072, Rel. Min. Maria Thereza de Assis Moura, j. 09/04/2025):**
+
+"I - A informação no Perfil Profissiográfico Previdenciário (PPP) sobre a existência de equipamento de proteção individual (EPI) descaracteriza, em princípio, o tempo especial, ressalvadas as hipóteses excepcionais nas quais, mesmo diante da comprovada proteção, o direito à contagem especial é reconhecido. II - Incumbe ao autor da ação previdenciária o ônus de comprovar: (i) a ausência de adequação ao risco da atividade; (ii) a inexistência ou irregularidade do certificado de conformidade; (iii) o descumprimento das normas de manutenção, substituição e higienização; (iv) a ausência ou insuficiência de orientação e treinamento sobre o uso adequado, guarda e conservação; ou (v) qualquer outro motivo capaz de conduzir à conclusão da ineficácia do EPI. III - Se a valoração da prova concluir pela presença de divergência ou de dúvida sobre a real eficácia do EPI, a conclusão deverá ser favorável ao autor."
+
+A tese harmoniza-se com o Tema 555/STF: para os agentes em geral, a declaração de EPI eficaz no PPP gera presunção relativa de neutralização, cabendo ao segurado afastá-la pelos meios indicados no inciso II; persistindo dúvida sobre a real eficácia, decide-se em favor do autor (inciso III, aplicação do princípio in dubio pro misero). A ressalva do ruído permanece: para esse agente, a declaração de eficácia do EPI é irrelevante, e a atividade especial é reconhecida independentemente do que constar no PPP (segunda tese do Tema 555/STF).
 :::
 
 #### 8.7.3 Agentes Nocivos e Neutralização pelo EPI
@@ -286,7 +310,7 @@ O STJ, no julgamento do Tema 422, consolidou que permanece a possibilidade de co
 
 O art. 25, § 2º, da EC 103/2019 reconhece a conversão de tempo especial em comum apenas para períodos até a data de entrada em vigor da Emenda, o que opera, na prática, como vedação à conversão para períodos posteriores a 13/11/2019. A restrição é prospectiva — aplica-se apenas ao tempo de atividade especial exercido a partir de 14/11/2019.
 
-A restrição à conversão é um dos dispositivos impugnados na ADI 6.309, sob o argumento de que viola a proteção constitucional ao trabalhador exposto a agentes nocivos.
+A restrição à conversão foi um dos dispositivos impugnados na ADI 6.309, sob o argumento de que viola a proteção constitucional ao trabalhador exposto a agentes nocivos. No julgamento de 03/06/2026 (Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça, 6×5), o STF, todavia, **manteve a constitucionalidade da vedação à conversão** para períodos posteriores a 13/11/2019, não acolhendo, nesse ponto, o argumento de lacuna de proteção. No mesmo julgamento, o Tribunal afastou a exigência de idade mínima da aposentadoria especial.
 
 #### 8.9.3 Direito Adquirido à Conversão
 
@@ -323,7 +347,7 @@ A base de cálculo do coeficiente (20 anos para homens, 15 anos para mulheres) d
 A alteração é desfavorável ao segurado em comparação com o regime anterior. No regime anterior, o benefício era de 100% da média dos 80% maiores salários; no regime atual, é de 60% + 2% por ano excedente da média integral. Para um segurado homem com exatamente 25 anos de contribuição, o benefício seria de 60% + (5 × 2%) = 70% da média — significativamente inferior aos 100% do regime anterior. Para atingir 100%, seriam necessários 40 anos de contribuição total.
 
 ::: box-jurisprudencia
-A redução do valor da aposentadoria especial é um dos pontos centrais da ADI 6.309. Os autores da ação argumentam que a aplicação do coeficiente de 60% + 2% à aposentadoria especial viola o princípio da proporcionalidade, pois penaliza duplamente o trabalhador: além de exercer atividade em condições nocivas, ele recebe benefício substancialmente inferior ao que recebia antes da reforma. A tese é que a aposentadoria especial, por sua natureza diferenciada (proteção contra riscos à saúde), não pode ser submetida ao mesmo regime de cálculo das aposentadorias comuns. O julgamento está pendente de conclusão.
+A redução do valor da aposentadoria especial foi um dos pontos centrais da ADI 6.309. Os autores da ação argumentavam que a aplicação do coeficiente de 60% + 2% à aposentadoria especial viola o princípio da proporcionalidade, pois penaliza duplamente o trabalhador: além de exercer atividade em condições nocivas, ele recebe benefício substancialmente inferior ao que recebia antes da reforma. A tese era que a aposentadoria especial, por sua natureza diferenciada (proteção contra riscos à saúde), não poderia ser submetida ao mesmo regime de cálculo das aposentadorias comuns. No julgamento de 03/06/2026 (Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça, 6×5), o STF, todavia, **manteve a constitucionalidade da nova forma de cálculo** (60% da média + 2% por ano que exceder 15 anos — mulher — ou 20 anos — homem), não acolhendo esse argumento. No mesmo julgamento, declarou inconstitucional apenas a exigência de idade mínima da aposentadoria especial.
 :::
 
 ### 8.11 Vedação ao Trabalho em Condições Especiais: STF Tema 709
@@ -505,7 +529,7 @@ A Certidão de Tempo de Contribuição (CTC), emitida pelo INSS para fins de con
 | Aspecto | Regime Anterior | Regra de Transição (art. 21) | Regra Permanente (art. 19) |
 |---------|----------------|------------------------------|---------------------------|
 | **Tempo especial** | 15, 20 ou 25 anos | 15, 20 ou 25 anos | 15, 20 ou 25 anos |
-| **Idade mínima** | Não exigida | Não exigida | 55, 58 ou 60 anos |
+| **Idade mínima** | Não exigida | Não exigida | 55/58/60 anos (afastada pela ADI 6.309) |
 | **Pontuação** | Não exigida | 66, 76 ou 86 pontos | Não exigida |
 | **Carência** | 180 contribuições | 180 contribuições | 180 contribuições |
 | **Cálculo SB** | Média 80% maiores SC | Média 100% SC | Média 100% SC |
@@ -513,7 +537,7 @@ A Certidão de Tempo de Contribuição (CTC), emitida pelo INSS para fins de con
 | **Fator previdenciário** | Não se aplica | Não se aplica | Não se aplica |
 | **Conversão** | Permitida (fator 1,40/1,20) | Vedada pós-13/11/2019 | Vedada |
 | **Vedação de trabalho especial** | Sim (Tema 709/STF) | Sim (Tema 709/STF) | Sim (Tema 709/STF) |
-| **ADI 6.309** | Não aplicável | Aplicável | Aplicável |
+| **ADI 6.309** (j. 03/06/2026) | Não aplicável | Idade mínima afastada; vedação mantida | Idade mínima afastada; vedação mantida |
 
 **Fatores de conversão (tempo especial → comum):**
 - 25 anos: 1,40 (H) / 1,20 (M)
@@ -562,7 +586,41 @@ A jurisprudência dos TRFs é amplamente favorável ao reconhecimento da eletric
 O reconhecimento da eletricidade como agente nocivo para fins de aposentadoria especial, mesmo após a exclusão dos quadros regulamentares pelo Decreto n. 2.172/1997, fundamenta-se no caráter exemplificativo das normas regulamentadoras (Tema 534/STJ) e na periculosidade reconhecida pela legislação trabalhista. A exposição habitual a tensões elétricas superiores a 250 volts, com risco de choque elétrico e arco voltaico, constitui condição de trabalho prejudicial à integridade física do trabalhador, ensejando o cômputo do período como especial.
 :::
 
-### 8.21 Aposentadoria Especial e o Segurado Especial (Rural)
+### 8.21 Aposentadoria Especial do Vigilante: o Confronto entre o STJ (Tema 1.031) e o STF (Tema 1.209)
+
+A aposentadoria especial do vigilante percorreu trajetória jurisprudencial peculiar e, ao cabo, foi objeto de uma virada decisória que merece exame autônomo. A controvérsia central é saber se a atividade de vigilante — em razão da periculosidade que lhe é inerente, com ou sem o porte de arma de fogo — pode ser reconhecida como especial, à semelhança do que a jurisprudência admite para a eletricidade (seção 8.20).
+
+#### 8.21.1 O Entendimento Amplo do STJ (Tema 1.031)
+
+Por longo período, a discussão dividiu-se em duas fases. Até 05/03/1997, a atividade de vigilante (ou vigia armado) encontrava amparo no Decreto n. 53.831/1964 (código 2.5.7), que enquadrava como perigosa a atividade de guarda exercida com uso de arma de fogo. Com o Decreto n. 2.172/1997, contudo, a atividade deixou de constar dos quadros regulamentares, instaurando-se a controvérsia sobre a possibilidade de seu reconhecimento como especial nos períodos posteriores.
+
+O STJ, no julgamento do Tema 1.031 (REsp 1.831.371, Rel. Min. Napoleão Nunes Maia Filho, j. 09/12/2020), adotou orientação ampla e favorável ao segurado, fixando a seguinte tese:
+
+::: box-jurisprudencia
+**STJ, Tema 1.031 (REsp 1.831.371, Rel. Min. Napoleão Nunes Maia Filho, j. 09/12/2020):**
+
+"É possível o reconhecimento da especialidade da atividade de Vigilante, mesmo após EC 103/2019, com ou sem o uso de arma de fogo, em data posterior à Lei 9.032/1995 e ao Decreto 2.172/1997, desde que haja a comprovação da efetiva nocividade da atividade, por qualquer meio de prova até 5.3.1997, momento em que se passa a exigir apresentação de laudo técnico ou elemento material equivalente, para comprovar a permanente, não ocasional nem intermitente, exposição à atividade nociva, que coloque em risco a integridade física do Segurado."
+
+**STF, Tema 1.209 (RE 1.368.225, Rel. orig. Min. Nunes Marques, red. p/ acórdão Min. Alexandre de Moraes, j. 18/02/2026, por maioria — 6×4):**
+
+"A atividade de vigilante, com ou sem o uso de arma de fogo, não se caracteriza como especial, para fins de concessão da aposentadoria de que trata o art. 201, § 1º, da Constituição."
+:::
+
+O fundamento do Tema 1.031 do STJ era o caráter exemplificativo das normas regulamentadoras (Tema 534/STJ, seção 8.5.3): tal como na eletricidade, a periculosidade da atividade de vigilante — exposta ao risco de assaltos e à violência armada — justificaria o enquadramento como especial mesmo após a exclusão dos quadros regulamentares, desde que comprovada a efetiva nocividade por laudo técnico ou elemento material equivalente. Sob essa orientação, formou-se ampla jurisprudência nos TRFs reconhecendo a especialidade da atividade de vigilante por periculosidade.
+
+#### 8.21.2 A Restrição do STF (Tema 1.209)
+
+O entendimento amplo do STJ foi confrontado pelo STF no julgamento do RE 1.368.225 (Tema 1.209 da Repercussão Geral, Rel. orig. Min. Nunes Marques, red. p/ acórdão Min. Alexandre de Moraes, j. 18/02/2026, por maioria de 6 votos a 4). O STF firmou orientação restritiva, fixando a tese de que "a atividade de vigilante, com ou sem o uso de arma de fogo, não se caracteriza como especial, para fins de concessão da aposentadoria de que trata o art. 201, § 1º, da Constituição".
+
+A ratio decidendi do STF é que a aposentadoria especial pressupõe a efetiva exposição habitual e permanente a agentes nocivos prejudiciais à saúde ou à integridade física — não bastando a mera periculosidade ou o risco de eventos violentos. A exposição a perigo (como o risco de assalto), por sua natureza eventual e potencial, não se confunde com a exposição contínua a agente nocivo que caracteriza a atividade especial. Com isso, o STF restringiu o entendimento mais amplo que o STJ havia consagrado no Tema 1.031, afastando o reconhecimento da especialidade fundado em mera periculosidade da função de vigilante.
+
+::: box-atencao
+A decisão do STF no Tema 1.209 produz impacto direto sobre os pedidos de aposentadoria especial de vigilantes fundados exclusivamente na periculosidade da atividade. Após o julgamento (18/02/2026), o reconhecimento da especialidade não pode mais se amparar apenas no risco inerente à função (porte de arma, risco de assalto). Subsiste, contudo, a possibilidade de enquadramento quando o vigilante comprove exposição habitual e permanente a agentes nocivos efetivos previstos na legislação previdenciária (por exemplo, ruído acima dos limites de tolerância). O julgamento, em sessão virtual encerrada em 13/02/2026, deu-se por maioria de 6 votos a 4, restando vencidos o relator, Min. Nunes Marques, e os Ministros Cármen Lúcia, Flávio Dino e Edson Fachin, que admitiam o enquadramento pela periculosidade. O acórdão foi publicado em 04/03/2026, sem modulação de efeitos, o que projeta reflexos diretos sobre os processos em curso e sobre os benefícios já concedidos com base no Tema 1.031/STJ.
+:::
+
+A tensão entre os dois precedentes ilustra a distinção entre periculosidade e nocividade. Enquanto o STJ aproximara o vigilante do eletricista — reconhecendo a periculosidade como fundamento de especialidade —, o STF estabeleceu que a periculosidade, isoladamente, não basta: exige-se a exposição a agente nocivo à saúde ou à integridade física, de forma habitual e permanente, nos termos do art. 57, § 3º, da Lei n. 8.213/91. Prevalece, por força da repercussão geral, a orientação restritiva do STF (art. 927, III, do CPC).
+
+### 8.22 Aposentadoria Especial e o Segurado Especial (Rural)
 
 O segurado especial (trabalhador rural em regime de economia familiar, definido no art. 11, inciso VII, da Lei n. 8.213/91) pode, em tese, ter reconhecido período de atividade especial se exposto a agentes nocivos, como agrotóxicos (defensivos agrícolas), por exemplo. Contudo, a comprovação é particularmente difícil em razão da informalidade que caracteriza o trabalho rural familiar: não há PPP, LTCAT ou formulário padronizado emitido por empregador, uma vez que o segurado especial é, ele mesmo, o responsável pela atividade.
 
@@ -576,7 +634,7 @@ Além dos agrotóxicos, o segurado rural pode estar exposto a outros agentes noc
 Nos JEFs, o pedido de aposentadoria especial por segurado rural exige instrução probatória diferenciada. Na ausência de PPP e LTCAT, o juiz deve avaliar: (a) a natureza da cultura ou criação (atividades com uso intensivo de agrotóxicos justificam a designação de perícia); (b) documentos de aquisição de defensivos agrícolas e receituários agronômicos; (c) a possibilidade de perícia ambiental na propriedade rural. Se a perícia confirmar a exposição habitual, o período pode ser reconhecido como especial. Se a exposição for sazonal ou esporádica, o enquadramento é inviável. A prova testemunhal pode complementar, mas não substituir, a prova técnica.
 :::
 
-### 8.22 Aposentadoria Especial e Contribuinte Individual
+### 8.23 Aposentadoria Especial e Contribuinte Individual
 
 O contribuinte individual que exerce atividade em condições especiais pode ter reconhecido o direito à aposentadoria especial, desde que comprove a efetiva exposição a agentes nocivos prejudiciais à saúde ou à integridade física. A dificuldade reside na prova: o contribuinte individual frequentemente não tem PPP (documento emitido pelo empregador) e pode não dispor de LTCAT, uma vez que a obrigação de elaboração desses documentos recai sobre o empregador — e o contribuinte individual é, por definição, trabalhador autônomo ou empresário sem vínculo empregatício.
 
@@ -584,17 +642,27 @@ Nessa situação, a prova pode ser feita por meios alternativos: (a) laudo técn
 
 A jurisprudência tem reconhecido o direito do contribuinte individual à aposentadoria especial em situações como: dentistas que operam consultório próprio (exposição a agentes biológicos), mecânicos autônomos (exposição a ruído, óleos minerais e hidrocarbonetos), eletricistas autônomos (periculosidade por exposição a alta tensão), pintores (exposição a solventes orgânicos e tintas com compostos químicos) e motoristas de caminhão que transportam cargas perigosas (inflamáveis, explosivos). Em cada caso, a comprovação da especialidade exige demonstração da exposição habitual e permanente, o que demanda prova técnica adequada.
 
+A matéria foi pacificada pelo STJ no julgamento do Tema 1.291 (REsp 2.163.429, Rel. Min. Gurgel de Faria, j. 10/09/2025), sob a sistemática dos recursos repetitivos, que assegurou ao contribuinte individual não cooperado o direito ao reconhecimento de tempo especial após a Lei n. 9.032/1995, dispensando-o da exigência de formulário emitido por empresa — exigência incompatível com a própria condição do trabalhador autônomo, que não possui empregador para elaborar o documento.
+
+::: box-jurisprudencia
+**STJ, Tema 1.291 (REsp 2.163.429, Rel. Min. Gurgel de Faria, j. 10/09/2025):**
+
+"a) O contribuinte individual não cooperado tem direito ao reconhecimento de tempo de atividade especial exercido após a Lei n. 9.032/95, desde que comprove a exposição a agentes nocivos. b) A exigência de comprovação da atividade especial por formulário emitido por empresa não se aplica a contribuintes individuais."
+
+A tese supera o argumento — frequentemente invocado pelo INSS — de que a ausência de PPP ou de formulário empresarial obstaria o reconhecimento da especialidade para o trabalhador autônomo. A prova da exposição a agentes nocivos pode ser feita por outros meios idôneos (laudo técnico, perícia judicial, documentos de terceiros), conforme já examinado nesta seção.
+:::
+
 A carência de 180 contribuições deve ser integralmente cumprida pelo contribuinte individual, observadas as regras gerais de contribuição dessa categoria. O contribuinte individual recolhe suas contribuições diretamente ao INSS, e a irregularidade ou atraso nos recolhimentos pode comprometer o cômputo do período tanto para a carência quanto para o tempo de atividade especial. A regularização de contribuições em atraso é possível nos termos do art. 45-A da Lei n. 8.212/91, mas a comprovação do exercício efetivo da atividade no período é condição indispensável para a regularização.
 
 ::: box-atencao
 O contribuinte individual que pretende obter aposentadoria especial deve providenciar, desde o início da atividade, a elaboração de laudo técnico por profissional habilitado que ateste as condições ambientais de trabalho. Esse cuidado preventivo facilita substancialmente a comprovação futura da atividade especial, especialmente para atividades exercidas durante longos períodos. Na ausência de documentação contemporânea, a prova judicial torna-se mais complexa e onerosa, a perícia ambiental pode ser inviabilizada se o local de trabalho já não existir ou tiver sido substancialmente alterado. O advogado que assessora contribuintes individuais deve orientar a constituição tempestiva da prova técnica.
 :::
 
-### 8.23 Conclusão
+### 8.24 Conclusão
 
 A aposentadoria especial concentra a maior parte do contencioso previdenciário sobre condições de trabalho nos JEFs. Três fatores explicam essa litigiosidade persistente.
 
-O primeiro é normativo. A EC 103/2019 introduziu idade mínima, sistema de pontos e coeficiente redutor onde antes havia regime de 100% sem exigência etária. A ADI 6.309, pendente de conclusão no STF, pode reverter parcial ou integralmente essas alterações. Enquanto o julgamento não se encerra, os JEFs operam em regime de incerteza que exige do magistrado cautela na fixação dos termos da sentença e atenção permanente ao andamento da ação.
+O primeiro é normativo. A EC 103/2019 introduziu idade mínima, sistema de pontos e coeficiente redutor onde antes havia regime de 100% sem exigência etária. No julgamento da ADI 6.309 (Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça, j. 03/06/2026, 6×5), o STF reverteu parcialmente essas alterações: declarou inconstitucional a exigência de idade mínima — que, portanto, deixou de ser exigível —, mas manteve a nova forma de cálculo e a vedação à conversão de tempo especial em comum. A eventual modulação de efeitos será definida na publicação do acórdão, o que exigirá do magistrado atenção, sobretudo quanto aos pedidos formulados ou aos benefícios concedidos antes da decisão.
 
 O segundo é probatório. O PPP eletrônico via eSocial padronizou a prova para vínculos a partir de 2023, mas a maioria dos litígios envolve períodos anteriores, documentados em formulários físicos (SB-40, DSS-8030, PPP em papel) ou sem documentação alguma (empresas extintas, contribuintes individuais, segurados rurais). O domínio de regimes probatórios distintos conforme o período é condição para a instrução adequada.
 
@@ -604,7 +672,7 @@ Sustentamos que o regime da aposentadoria especial deve ser interpretado à luz 
 
 ---
 
-### 8.24 Referências
+### 8.25 Referências
 
 #### Legislação
 
@@ -612,7 +680,7 @@ BRASIL. Lei n. 8.213, de 24 de julho de 1991 (arts. 57 e 58). Lei n. 9.032/1995.
 
 #### Jurisprudência
 
-STF, ARE 664.335 (Tema 555 — EPI e aposentadoria especial). STF, RE 791.961 (Tema 709 — vedação ao trabalho especial). STF, ADI 6.309 (constitucionalidade da EC 103/2019 — pendente). STJ, Tema 422. STJ, Tema 534. STJ, Tema 546. STJ, Tema 995. STJ, Tema 1.070. TNU, Súmula 68.
+STF, ARE 664.335 (Tema 555 — EPI e aposentadoria especial). STF, RE 791.961 (Tema 709 — vedação ao trabalho especial). STF, RE 1.368.225 (Tema 1.209 — vigilante não se caracteriza como atividade especial, Rel. orig. Min. Nunes Marques, red. p/ acórdão Min. Alexandre de Moraes, j. 18/02/2026). STF, ADI 6.309 (constitucionalidade da EC 103/2019 — Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça, j. 03/06/2026; procedência parcial: idade mínima da aposentadoria especial declarada inconstitucional, nova forma de cálculo e vedação à conversão mantidas). STJ, Tema 422. STJ, Tema 534. STJ, Tema 546. STJ, Tema 995. STJ, Tema 1.031 (vigilante — REsp 1.831.371, Rel. Min. Napoleão Nunes Maia Filho, j. 09/12/2020). STJ, Tema 1.070. STJ, Tema 1.090 (EPI no PPP — REsp 2.082.072, Rel. Min. Maria Thereza de Assis Moura, j. 09/04/2025). STJ, Tema 1.291 (contribuinte individual não cooperado — REsp 2.163.429, Rel. Min. Gurgel de Faria, j. 10/09/2025). STJ, Tema 1.307 (penosidade de motoristas/cobradores — REsp 2.164.724, Rel. Min. Gurgel de Faria, j. 07/05/2026). TNU, Súmula 68.
 
 #### Doutrina
 
