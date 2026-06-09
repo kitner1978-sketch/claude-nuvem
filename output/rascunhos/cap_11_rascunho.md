@@ -82,7 +82,7 @@ A EC 20/1998 tentou introduzir idade mínima para a aposentadoria por tempo de c
 
 Sem a idade mínima, o governo recorreu a um mecanismo indireto: o fator previdenciário (Lei 9.876/1999, inserido no art. 29 da Lei 8.213/91). A fórmula relaciona tempo de contribuição, idade e expectativa de sobrevida (tabela IBGE), produzindo um coeficiente que, na maioria dos casos de aposentadoria precoce, reduz o valor do benefício — por vezes em mais de 30% (KERTZMAN, 2025; IBRAHIM, 2025).
 
-O STF indeferiu a medida cautelar na ADI 2.111 (julgada em 16/03/2000), sinalizando a constitucionalidade do fator previdenciário como mecanismo legítimo de equilíbrio financeiro do sistema. O mérito, até o fechamento desta edição, permanecia pendente de julgamento definitivo.
+O STF indeferiu a medida cautelar na ADI 2.111 (julgada em 16/03/2000), sinalizando a constitucionalidade do fator previdenciário como mecanismo legítimo de equilíbrio financeiro do sistema. O mérito das ADIs 2.110 e 2.111 foi concluído em 21/03/2024 (ata publicada em 05/04/2024), quando o STF declarou constitucional a Lei 9.876/1999 — inclusive a regra de transição do art. 3º —, afastando, no mesmo julgamento, a tese da "revisão da vida toda" (v. Caps. 16 e 17).
 
 #### 11.2.4 A Lei 13.183/2015: a regra 85/95
 
