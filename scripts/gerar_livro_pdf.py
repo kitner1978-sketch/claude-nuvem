@@ -691,7 +691,9 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             set_paragraph_spacing(p, before=13, after=4, line_spacing=1.0)
             add_run_with_style(p, block['text'], font_name=FONT_SERIF,
                              size=SIZE_SUBSECTION, bold=True, color="3A3128")
-            keep_with_next(p)
+            # Subtítulos (####) deliberadamente SEM keep_with_next: deixá-los
+            # fluir reduz o vão branco no rodapé quando o bloco seguinte não
+            # cabe. O título de seção (###) e o de capítulo mantêm a proteção.
             is_first_paragraph = True
 
         elif btype == 'box':
