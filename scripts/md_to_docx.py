@@ -58,6 +58,20 @@ def strip_citations(text: str) -> str:
         ' ', body
     )
 
+    # --- Padrão 1b: Citações autor-data ABNT 2023 (capitalização mista/minúscula) ---
+    # (Castro; Lazzari, 2025; Ibrahim; Bragança; Folmann, 2025), (Balera, 2023), etc.
+    # Exige a assinatura ", ANO" após os nomes — assim NÃO captura legislação
+    # ("(EC 103/2019)", "(Lei 8.213/91)") nem jurisprudência ("(RE 565.160/SC, ..., 2017)"),
+    # onde o ano não vem imediatamente após vírgula logo depois dos sobrenomes.
+    _AUT = r'[A-ZÁÉÍÓÚÂÊÎÔÛÃÕÇ][A-Za-záéíóúâêîôûãõç.]*'
+    # separador entre sobrenomes: "; ", ";" ou " " (um ou mais) — a fronteira
+    # entre grupos é a assinatura ", ANO", então o mesmo separador serve para ambos.
+    _GRUPO = rf'{_AUT}(?:[; ]+{_AUT})*, \d{{4}}[a-z]?(?:, p\.? ?\d+)?'
+    body = re.sub(
+        rf'\s*\({_GRUPO}(?:[; ]+{_GRUPO})*\)\s*',
+        ' ', body
+    )
+
     # Padrão genérico para (Autor, ANO) com mixed case
     body = re.sub(
         r'\s*\([A-ZÁÉÍÓÚÂÊÎÔÛÃÕÇ][a-záéíóúâêîôûãõç]+(?:\s+[A-Za-záéíóúâêîôûãõçÁÉÍÓÚÂÊÎÔÛÃÕÇ]+)*,\s*\d{4}[a-z]?\)\s*',
