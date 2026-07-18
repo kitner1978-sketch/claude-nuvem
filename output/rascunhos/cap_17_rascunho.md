@@ -10,7 +10,7 @@ data: "2026-06-15"
 
 ### 17.1 Introdução
 
-As ações revisionais nos JEFs submetem-se a regime jurídico próprio: prazo decadencial distinto (art. 103, Lei 8.213/91), prova predominantemente documental e complexidade calculatória que exige domínio da mecânica do salário de benefício e da renda mensal inicial. Diferem, em natureza, das ações de concessão, de restabelecimento e de manutenção de benefícios. A revisão parte de benefício já concedido para questionar os parâmetros que compuseram o cálculo da RMI ou a aplicação das regras de reajustamento. Essa distinção produz consequências processuais relevantes: a revisão submete-se ao prazo decadencial de dez anos, ao passo que o restabelecimento, por envolver cessação ilícita, não se subordina a esse prazo (LAZZARI; CASTRO, 2025).
+As ações revisionais nos JEFs submetem-se a regime jurídico próprio: prazo decadencial distinto (art. 103, Lei 8.213/91), prova predominantemente documental e complexidade calculatória que exige domínio da mecânica do salário de benefício e da renda mensal inicial. Diferem, em natureza, das ações de concessão, de restabelecimento e de manutenção de benefícios. A revisão parte de benefício já concedido para questionar os parâmetros que compuseram o cálculo da RMI ou a aplicação das regras de reajustamento. Essa distinção produz consequências processuais relevantes: a revisão submete-se ao prazo decadencial de dez anos, ao passo que o restabelecimento, por envolver cessação ilícita, não se subordina a esse prazo (Lazzari; Castro, 2025).
 
 Entendemos que o perfil das ações revisionais nos JEFs é marcado pela complexidade calculatória e pela necessidade de prova documental robusta. São demandas que exigem do magistrado familiaridade com a mecânica do salário de benefício, com os diferentes períodos básicos de cálculo e com a evolução normativa dos critérios de apuração da renda mensal inicial — matéria tratada no Capítulo 16. Exigem, também, do advogado previdenciarista, capacidade de produzir memórias de cálculo comparativas que demonstrem, com números, a diferença entre a RMI efetivamente implantada pelo INSS e a RMI que resultaria da aplicação correta das normas. Sem esse cotejo numérico, a ação revisional carece de densidade probatória.
 
@@ -25,9 +25,9 @@ Os valores em reais empregados ao longo deste capítulo tomam por base o salári
 :::
 
 
-### 17.2 Decadência Decenal Aplicada às Teses Revisionais
+### 17.2 Decadência decenal aplicada às teses revisionais
 
-#### 17.2.1 Art. 103, caput, Lei 8.213/91 — regra geral
+#### 17.2.1 Art. 103, caput, lei 8.213/91 — regra geral
 
 O art. 103 da Lei 8.213/91 fixa o prazo decadencial de dez anos para a revisão do ato de concessão do benefício previdenciário. A redação vigente, conferida pela Lei 10.839/2004 (conversão da MP 138/2003), conta o prazo do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que o segurado tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo. A incidência desse prazo sobre as ações revisionais é o primeiro ponto que o magistrado deve examinar ao receber a petição inicial, pois a decadência legal deve ser conhecida de ofício pelo juiz (art. 210 do Código Civil), com resolução do mérito por decadência nos termos do art. 487, II, do CPC.
 
@@ -95,9 +95,9 @@ Quando a decadência é afastada, o magistrado prossegue para a análise do mér
 
 A tendência é de redução progressiva das ações revisionais, em função do próprio prazo decadencial. As teses de maior impacto — vida toda, teto, art. 29, II — já ultrapassaram ou estão prestes a ultrapassar o decênio para os benefícios mais antigos. A exceção são as teses que escapam à decadência (Buraco Negro, teto como fato superveniente), que permanecem viáveis independentemente do tempo, embora com volume cada vez menor.
 
-### 17.3 Revisão da Vida Toda — Dimensão Processual Pós-Reversão
+### 17.3 Revisão da vida toda — dimensão processual pós-reversão
 
-#### 17.3.1 Cronologia do Tema 1102/STF
+#### 17.3.1 Cronologia do tema 1102/STF
 
 A trajetória do Tema 1102 no STF é um dos episódios mais turbulentos da jurisprudência previdenciária. A cronologia completa e a mecânica de cálculo foram analisadas nas seções 10.11.3 e 16.11, respectivamente. Aqui nos concentramos na dimensão processual.
 
@@ -131,7 +131,7 @@ Há um grupo especial que merece atenção: processos nos quais a sentença de p
 
 A questão mais delicada diz respeito aos processos transitados em julgado nos quais a revisão da vida toda já havia sido implementada. São situações em que o segurado obteve decisão favorável, transitada em julgado, e o INSS implantou a nova RMI. Em muitos casos, as diferenças retroativas já foram pagas por RPV.
 
-A modulação oferece proteção parcial. Os valores recebidos em decorrência de decisões proferidas até 5 de abril de 2024 são irrepetíveis. Essa irrepetibilidade abrange tanto as diferenças pagas por RPV quanto os valores mensais majorados recebidos até aquela data. A natureza alimentar dos benefícios previdenciários e o princípio da boa-fé sustentam a irrepetibilidade (SAVARIS, 2023, p. 342).
+A modulação oferece proteção parcial. Os valores recebidos em decorrência de decisões proferidas até 5 de abril de 2024 são irrepetíveis. Essa irrepetibilidade abrange tanto as diferenças pagas por RPV quanto os valores mensais majorados recebidos até aquela data. A natureza alimentar dos benefícios previdenciários e o princípio da boa-fé sustentam a irrepetibilidade (Savaris, 2023, p. 342).
 
 Para decisões proferidas após 5 de abril de 2024, a situação é diversa. A modulação não as protege, e o INSS pode postular a cessação da RMI majorada. Surge a questão da ação rescisória e do art. 525, §§ 12 a 15, do CPC, que permitem a impugnação ao cumprimento de sentença quando o título se fundar em norma considerada inconstitucional pelo STF ou em interpretação incompatível com a Constituição. A nosso ver, a reversão do Tema 1102 não declarou inconstitucional a norma invocada pelo segurado; declarou constitucional a norma que o segurado pretendia afastar (art. 3º da Lei 9.876/1999). A aplicabilidade do art. 525, §12, a essa hipótese é discutível. Ibrahim (2025) sustenta que a impugnação do art. 525 não se presta a desconstituir títulos fundados em interpretação posteriormente superada. A matéria permanece em aberto.
 
@@ -188,9 +188,9 @@ A lição prática, a nosso ver, é a cautela com o cumprimento provisório em t
 
 Outro aprendizado: a interface entre ADI e recurso extraordinário com repercussão geral. O STF manteve, durante mais de um ano (dezembro de 2022 a março de 2024), dois entendimentos potencialmente contraditórios sobre a mesma matéria. A contradição foi resolvida em favor das ADIs, o que sugere que, quando houver ADI pendente sobre matéria objeto de tema repetitivo, o magistrado deve ponderar o risco de que a decisão da ADI repercuta sobre o tema.
 
-### 17.4 Revisão do Teto — ECs 20/1998 e 41/2003
+### 17.4 Revisão do teto — ECs 20/1998 e 41/2003
 
-#### 17.4.1 RE 564.354 / Tema 76 — tese e alcance
+#### 17.4.1 RE 564.354 / tema 76 — tese e alcance
 
 A revisão do teto é uma das teses revisionais de maior longevidade nos JEFs. Para a mecânica de cálculo e exemplos numéricos, v. seção 16.7.3. Aqui nos concentramos no procedimento, na prova e nas questões processuais.
 
@@ -222,9 +222,9 @@ A primeira é o ponto de partida: parte-se do salário de benefício apurado na 
 
 O efeito cascata dos reajustes merece atenção especial. A readequação ao teto na data da EC não se limita àquele mês: o benefício readequado passa a receber os reajustes subsequentes sobre a base majorada, produzindo diferenças cumulativas ao longo dos anos.
 
-### 17.5 Revisão do Buraco Negro
+### 17.5 Revisão do buraco negro
 
-#### 17.5.1 Art. 144, Lei 8.213/91 — conceito
+#### 17.5.1 Art. 144, lei 8.213/91 — conceito
 
 Os benefícios do Buraco Negro (outubro/1988 a abril/1991) foram calculados pela Consolidação das Leis da Previdência Social (CLPS, Decreto 89.312/1984) porque a Lei 8.213/91 ainda não vigorava. O art. 144 determinou o recálculo conforme as novas regras, assegurando ao segurado o cálculo mais favorável. A revisão pode abranger o salário de benefício, o coeficiente de cálculo e a inclusão de períodos contributivos que a legislação anterior desconsiderava.
 
@@ -276,7 +276,7 @@ O **processo administrativo de concessão original** é a peça central: contém
 
 O magistrado deve estar disposto a determinar diligências complementares ao INSS (requisição do processo de concessão, microfichas, consulta a bases históricas) e a aceitar reconstituição por meios indiretos quando a documentação original não puder ser recuperada. A perícia contábil, embora rara nos JEFs, pode ser necessária em casos de maior complexidade.
 
-### 17.6 Revisão do Art. 29, II — Divisor Mínimo
+### 17.6 Revisão do art. 29, II — divisor mínimo
 
 #### 17.6.1 A controvérsia do divisor mínimo
 
@@ -284,7 +284,7 @@ A revisão do art. 29, II, da Lei 8.213/91 versa sobre a correta aplicação do 
 
 A controvérsia surgiu com a redação dada pela Lei 9.876/1999 ao art. 29, II. O art. 3º, §2º, da Lei 9.876/1999 previu, para a regra de transição, um divisor mínimo correspondente a 60% do período decorrido entre julho de 1994 e a DIB. Na prática, o INSS aplicava o divisor mínimo tanto à regra de transição quanto à regra definitiva, o que poderia prejudicar segurados com períodos contributivos irregulares. A discussão girava em torno da extensão indevida de uma regra criada especificamente para a transição.
 
-#### 17.6.2 Memorando-Circular Conjunto n. 21/DIRBEN/PFE/INSS e ACP IEPREV
+#### 17.6.2 Memorando-circular conjunto n. 21/DIRBEN/PFE/INSS e ACP IEPREV
 
 O reconhecimento administrativo veio por meio do Memorando-Circular Conjunto n. 21/DIRBEN/PFE/INSS, de 15/04/2010. O INSS admitiu que havia aplicado o divisor mínimo de forma indevida a benefícios calculados pela regra definitiva do art. 29, II, comprometendo-se à revisão administrativa.
 
@@ -328,7 +328,7 @@ O universo de benefícios elegíveis abrange os concedidos entre 29/11/1999 e ap
 **Passo 6:** Calcular a diferença. Apurar o SB com o divisor correto e comparar com o efetivamente utilizado.
 :::
 
-### 17.7 Revisão da Melhor DIB e Reafirmação da DER
+### 17.7 Revisão da melhor DIB e reafirmação da DER
 
 #### 17.7.1 Direito ao benefício mais vantajoso
 
@@ -338,7 +338,7 @@ A dimensão revisional surge quando o INSS concede o benefício por regra que n�
 
 Convém precisar a relação entre os dois fundamentos, porque eles operam em planos temporais distintos. O art. 26, §2º, da EC 103/2019 é norma positivada que assegura, na sistemática pós-reforma, a aplicação da regra mais vantajosa entre as cabíveis. O Tema 966/STJ, por sua vez, é precedente anterior à EC 103, firmado sob a sistemática de cálculo pré-reforma, e cuida especificamente da incidência da decadência sobre a pretensão de obter o benefício mais vantajoso (direito adquirido). O Tema 966 não interpreta a EC 103: o que dele se extrai, e se reaproveita aqui, é a tese de que o prazo decadencial de dez anos alcança a pretensão de revisar a escolha da regra de cálculo, conclusão que permanece útil sob qualquer das sistemáticas.
 
-#### 17.7.2 Reafirmação da DER — Tema 995/STJ: dimensão processual
+#### 17.7.2 Reafirmação da DER — tema 995/STJ: dimensão processual
 
 A reafirmação da DER permite ao magistrado considerar fatos supervenientes ao requerimento administrativo para fins de concessão (v. Cap. 10, seção 10.8.2 para a tese substantiva). A tese vinculante do Tema 995/STJ (REsp 1.727.063/SP e REsp 1.727.064/SP, 1ª Seção, Rel. Min. Mauro Campbell Marques, julgado em 23/10/2019, DJe 02/12/2019) admite a reafirmação para o momento em que implementados os requisitos, inclusive entre o ajuizamento e a decisão.
 
@@ -382,9 +382,9 @@ Situação diversa da reafirmação é a revisão da DIB para retroação: o seg
 :::
 
 
-### 17.8 Outras Teses Revisionais Relevantes
+### 17.8 Outras teses revisionais relevantes
 
-#### 17.8.1 Revisão de atividades concomitantes — Tema 1070/STJ
+#### 17.8.1 Revisão de atividades concomitantes — tema 1070/STJ
 
 A revisão das atividades concomitantes é, entre as teses examinadas neste capítulo, a que mantém maior vitalidade nos JEFs em junho de 2026. A tese vinculante do Tema 1070/STJ e a mecânica de cálculo são analisadas na seção 16.10. Aqui, o enfoque é exclusivamente revisional: decadência, procedimento de instrução e operacionalização nos JEFs.
 
@@ -410,13 +410,13 @@ A inclusão de tempo rural não computado na concessão segue regime probatório
 
 A decadência decenal também aqui incide na forma do Tema 975/STJ: ainda que o INSS dispusesse de dados no sistema (inscrição como segurado especial) e não tenha apreciado a questão, o prazo corre da concessão. Soma-se a isso a precariedade do registro de atividade rural no CNIS para períodos anteriores a 1991, que torna o tema, na prática, ainda menos relevante do que na revisão de atividades concomitantes.
 
-#### 17.8.4 Desaposentação — tese encerrada (Tema 503/STF)
+#### 17.8.4 Desaposentação — tese encerrada (tema 503/STF)
 
 A desaposentação foi encerrada pelo STF no RE 661.256 (Tema 503, Rel. orig. Min. Roberto Barroso, Red. p/ acórdão Min. Dias Toffoli, Plenário, 26/10/2016). A tese: "No âmbito do RGPS, somente lei pode criar benefícios e vantagens previdenciárias, não havendo, por ora, previsão legal do direito à 'desaposentação', sendo constitucional a regra do art. 18, §2º, da Lei 8.213/91."
 
 Registramos a desaposentação pela relevância histórica. Entre 2008 e 2016, foi uma das teses mais litigadas nos JEFs. O STJ chegou a admiti-la em repetitivo (REsp 1.334.488/SC, Tema 563, Rel. Min. Herman Benjamin, 1ª Seção, j. 08/05/2013). A reversão pelo STF encerrou a controvérsia. O magistrado deve indeferir liminarmente eventuais petições iniciais que postulem desaposentação (art. 332, III, CPC).
 
-### 17.9 Procedimento da Ação Revisional no JEF
+### 17.9 Procedimento da ação revisional no JEF
 
 #### 17.9.1 Competência
 
@@ -497,7 +497,7 @@ O segurado pode cumular na mesma ação mais de uma tese revisional, desde que c
 
 O valor da causa deve considerar o impacto conjunto. O magistrado deve atentar para o risco de que a cumulação transforme a causa em litígio incompatível com o rito simplificado do JEF.
 
-### 17.10 Querela Nullitatis e Ação Rescisória nos JEFs
+### 17.10 Querela nullitatis e ação rescisória nos JEFs
 
 #### 17.10.1 Querela nullitatis
 
@@ -521,7 +521,7 @@ Tese: A querela nullitatis é pretensão, e não procedimento. Pode ser formulad
 
 A possibilidade de rescisória nos JEFs vem se consolidando pela admissibilidade. O art. 59 da Lei 9.099/95 veda a rescisória nos juizados estaduais. A Lei 10.259/2001, que instituiu os JEFs, não reproduziu essa vedação.
 
-A posição majoritária: a rescisória é admissível nos JEFs, por dois fundamentos. O silêncio da Lei 10.259/2001 é eloquente — se o legislador desejasse a vedação, teria reproduzido o art. 59. A natureza do direito previdenciário exige mecanismo de desconstituição da coisa julgada para evitar situações incompatíveis com a legalidade (SAVARIS, 2023, p. 362).
+A posição majoritária: a rescisória é admissível nos JEFs, por dois fundamentos. O silêncio da Lei 10.259/2001 é eloquente — se o legislador desejasse a vedação, teria reproduzido o art. 59. A natureza do direito previdenciário exige mecanismo de desconstituição da coisa julgada para evitar situações incompatíveis com a legalidade (Savaris, 2023, p. 362).
 
 A competência é da Turma Recursal, por simetria. As hipóteses seguem o art. 966 do CPC. O prazo é de dois anos (art. 975, CPC).
 
@@ -542,7 +542,7 @@ O cruzamento entre rescisória e tese superveniente do STF é a questão mais se
 
 A aplicação à vida toda ilustra o problema. Ibrahim (2025) sustenta que a impugnação do art. 525, §12, se limita à declaração de inconstitucionalidade da norma, e não de constitucionalidade da norma que o segurado pretendia afastar. Lazzari e Castro (2025) admitem a impugnação quando há incompatibilidade entre o título e a tese vinculante posterior. A nosso ver, a questão depende da qualificação que o STF conferiu à reversão do Tema 1102. A modulação dos efeitos reduz o interesse prático do INSS em rescindir as sentenças mais antigas: valores recebidos até 05/04/2024 são irrepetíveis.
 
-### 17.11 Execução de Sentença Revisional
+### 17.11 Execução de sentença revisional
 
 #### 17.11.1 Liquidação por cálculos
 
@@ -590,7 +590,7 @@ A atualização dos valores devidos seguiu três regimes distintos, e o magistra
 
 *Os percentuais indicados são meramente referenciais e dependem dos índices efetivamente apurados em cada período; IPCA (correção monetária) e os 2% a.a. (juros simples) não compõem taxa única somável de forma direta.*
 
-#### 17.11.4 ADI 7873 — Constitucionalidade da EC 136/2025
+#### 17.11.4 ADI 7873 — constitucionalidade da EC 136/2025
 
 A EC 136/2025 é objeto da ADI 7873, ajuizada pela OAB, com relatoria do Min. Luiz Fux. Até junho de 2026, o STF não concedeu cautelar, e a EC 136 está em vigor. O magistrado deve aplicar o regime da EC 136 aos precatórios e RPVs expedidos a partir de setembro de 2025, ressalvando a possibilidade de alteração em caso de acolhimento da ADI.
 
@@ -616,7 +616,7 @@ Os honorários advocatícios, quando devidos, são requisitados em separado, em 
 
 A sentença revisional contém, em regra, obrigação de fazer: implantação da nova RMI. Essa obrigação é autônoma em relação ao crédito pecuniário. A sentença deve conter: (a) determinação de implantação, com indicação do valor ou da regra de cálculo; (b) prazo para cumprimento (usualmente trinta dias, sob pena de multa diária); (c) ressalva de observância do teto e dos reajustes posteriores. O INSS pode alegar dificuldades sistêmicas para alterar benefícios antigos; o magistrado deve fixar prazo razoável e multa cominatória proporcional.
 
-### 17.12 Prática: Fluxo Completo da Ação Revisional no JEF
+### 17.12 Prática: fluxo completo da ação revisional no JEF
 
 #### 17.12.1 Checklist do advogado
 
@@ -684,7 +684,7 @@ A prática revisional está sujeita a erros recorrentes. Identificamos os mais f
 
 **Erro 7 — Não observar o limite de RPV.** O cálculo que ultrapassa 60 SM sem renúncia ao excedente gera precatório, com prazo muito mais longo.
 
-### 17.13 Síntese e Quadros Práticos
+### 17.13 Síntese e quadros práticos
 
 Os quadros abaixo consolidam, em formato de consulta rápida, as informações distribuídas ao longo do capítulo.
 
@@ -732,9 +732,9 @@ Os quadros abaixo consolidam, em formato de consulta rápida, as informações d
 | A partir de set/2025 | EC 136/2025, art. 100, §12, CF | IPCA + 2% a.a. (juros simples) | Englobados | Teto: soma não pode exceder a SELIC. ADI 7873 pendente. |
 :::
 
-### 17.14 Referências
+### Referências
 
-#### 17.14.1 Legislação
+#### Legislação
 
 BRASIL. Constituição da República Federativa do Brasil, de 5 de outubro de 1988.
 
@@ -780,7 +780,7 @@ BRASIL. Portaria Interministerial MPS/MF nº 19, de 29 de janeiro de 2004. Fixa 
 
 BRASIL. INSS — Diretoria de Benefícios. Memorando-Circular Conjunto nº 21/DIRBEN/PFE/INSS, de 15 de abril de 2010. Revisão administrativa dos benefícios calculados com base no art. 29, II, da Lei 8.213/91.
 
-#### 17.14.2 Jurisprudência
+#### Jurisprudência
 
 SUPREMO TRIBUNAL FEDERAL. RE 564.354/SE (Tema 76). Relatora Min. Cármen Lúcia. Plenário. Julgado em 08/09/2010. Revisão do teto — ECs 20/1998 e 41/2003.
 
@@ -808,7 +808,7 @@ SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 1.334.488/SC (Tema 563). Relator Min. Herman
 
 SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 2.095.463/PR. Relatora Min. Nancy Andrighi. 3ª Turma. Julgado em 18/03/2025. DJe 21/03/2025. Querela nullitatis — pretensão, não procedimento.
 
-#### 17.14.3 Doutrina
+#### Doutrina
 
 AMADO, Frederico. Curso de Direito e Processo Previdenciário. 19. ed. Salvador: JusPodivm, 2025.
 

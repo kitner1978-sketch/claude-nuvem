@@ -8,7 +8,7 @@ data: "2026-05-15"
 
 ## Capítulo 22 — Processo Administrativo Previdenciário
 
-### 22.1 Introdução: O Processo Administrativo como Fase Necessária
+### 22.1 Introdução: o processo administrativo como fase necessária
 
 O processo administrativo previdenciário ocupa, na atuação forense do direito previdenciário brasileiro, uma posição que transcende a de mera etapa burocrática antecedente à judicialização. Trata-se do instrumento primário (e, na esmagadora maioria dos casos, exclusivo) de acesso aos direitos previdenciários. A cada ano, o Instituto Nacional do Seguro Social processa volume superior a dez milhões de requerimentos administrativos, dos quais parcela significativa resulta em concessão de benefícios sem qualquer intervenção do Poder Judiciário. Os dados do Boletim Estatístico da Previdência Social de 2025 indicam que a taxa global de concessão administrativa oscila entre 55% e 65%, conforme a espécie de benefício requerido, com tempo médio de análise que, embora formalmente fixado em 30 a 45 dias, oscila na prática entre 45 e 120 dias, a depender da complexidade do requerimento e da região do país.
 
@@ -20,13 +20,13 @@ Do lado da advocacia previdenciária, o domínio da via administrativa produz re
 
 Existe, contudo, uma tensão estrutural que alimenta a demanda dos JEFs: o INSS opera sob pressão de volume incompatível com seu quadro de pessoal. São mais de dez milhões de requerimentos anuais processados por uma autarquia que, em 2025, contava com pouco mais de vinte mil servidores ativos na área finalística — número, em qualquer das estimativas disponíveis, significativamente inferior ao necessário para atender a demanda com a celeridade exigida pela lei. Essa defasagem gera morosidade na análise, erros de apuração de tempo de contribuição, perícias médicas superficiais e decisões insuficientemente fundamentadas, vícios que, em última análise, produzem o fluxo de demandas que chega aos JEFs. Não se trata de demonizar a autarquia, mas de reconhecer que o volume de judicialização previdenciária é, em grande medida, reflexo de deficiências estruturais do processo administrativo.
 
-A relação entre o processo administrativo e o processo judicial previdenciário não é de subordinação, mas de complementaridade funcional (SAVARIS, 2023; AMADO, 2025). O STF, ao julgar o Tema 350 (RE 631.240/MG, Tribunal Pleno, rel. Min. Luís Roberto Barroso, julgado em 03/09/2014), assentou que o prévio requerimento administrativo é condição de acesso ao Judiciário previdenciário, mas não porque a via administrativa seja superior à judicial, e sim porque, na ausência de resistência da autarquia (indeferimento expresso ou mora), falta ao segurado o interesse de agir para a demanda judicial. Essa construção jurisprudencial reforça a centralidade do processo administrativo e exige que tanto advogados quanto magistrados conheçam seus meandros com profundidade.
+A relação entre o processo administrativo e o processo judicial previdenciário não é de subordinação, mas de complementaridade funcional (Savaris, 2023; Amado, 2025). O STF, ao julgar o Tema 350 (RE 631.240/MG, Tribunal Pleno, rel. Min. Luís Roberto Barroso, julgado em 03/09/2014), assentou que o prévio requerimento administrativo é condição de acesso ao Judiciário previdenciário, mas não porque a via administrativa seja superior à judicial, e sim porque, na ausência de resistência da autarquia (indeferimento expresso ou mora), falta ao segurado o interesse de agir para a demanda judicial. Essa construção jurisprudencial reforça a centralidade do processo administrativo e exige que tanto advogados quanto magistrados conheçam seus meandros com profundidade.
 
 Este capítulo organiza-se em quatro blocos temáticos. O primeiro (seções 22.1 a 22.4) examina o INSS como instituição: sua estrutura organizacional, canais de atendimento e sistemas informatizados, com ênfase na relevância forense dessas informações. O segundo (seções 22.5 a 22.9) percorre o itinerário do requerimento administrativo, desde a formulação do pedido até a decisão de concessão ou indeferimento, passando pela perícia médica e pela alta programada. O terceiro bloco (seções 22.10 a 22.15) trata dos recursos administrativos e da interface entre o processo administrativo e o processo judicial nos JEFs. O quarto bloco (seções 22.16 a 22.23) aborda a cessação administrativa de benefícios, as operações de revisão em massa, o prévio requerimento administrativo em profundidade e os aspectos práticos da atuação nos JEFs previdenciários.
 
-### 22.2 Estrutura Organizacional do INSS
+### 22.2 Estrutura organizacional do INSS
 
-O INSS é autarquia federal vinculada ao Ministério da Previdência Social (MPS) (CASTRO; LAZZARI, 2025; IBRAHIM, 2025), instituída pelo Decreto n. 99.350, de 27 de junho de 1990, com personalidade jurídica de direito público, autonomia administrativa e financeira e patrimônio próprio. Sua finalidade institucional é promover o reconhecimento, pela Administração Pública, do direito ao recebimento de benefícios administrados pela autarquia e assegurar os meios necessários ao exercício desses direitos (art. 1º do Decreto n. 10.995/2022, que aprovou a Estrutura Regimental do INSS).
+O INSS é autarquia federal vinculada ao Ministério da Previdência Social (MPS) (Castro; Lazzari, 2025; Ibrahim, 2025), instituída pelo Decreto n. 99.350, de 27 de junho de 1990, com personalidade jurídica de direito público, autonomia administrativa e financeira e patrimônio próprio. Sua finalidade institucional é promover o reconhecimento, pela Administração Pública, do direito ao recebimento de benefícios administrados pela autarquia e assegurar os meios necessários ao exercício desses direitos (art. 1º do Decreto n. 10.995/2022, que aprovou a Estrutura Regimental do INSS).
 
 A estrutura hierárquica do INSS organiza-se em níveis de atuação que vão da gestão estratégica central até o atendimento direto ao segurado. No topo da pirâmide situa-se a Presidência, assessorada por diretorias temáticas, dentre as quais se destaca a Diretoria de Benefícios (DIRBEN), responsável pela normatização, coordenação e controle da concessão de benefícios em âmbito nacional. A DIRBEN edita as Instruções Normativas que regulamentam o reconhecimento de direitos previdenciários — a mais recente e abrangente, a IN PRES/INSS n. 128/2022, consolidou normas de diversas instruções anteriores e constitui, na prática, o manual operacional da concessão de benefícios.
 
@@ -54,7 +54,7 @@ O Conselho de Recursos da Previdência Social (CRPS), embora frequentemente asso
 
 Para a atuação nos JEFs, o conhecimento dessa estrutura tem consequências processuais diretas. A intimação do INSS para cumprir obrigação de fazer (implantar benefício, por exemplo) deve ser endereçada à Gerência Executiva competente ou à APS de vinculação do segurado, conforme o caso. A solicitação de documentos (CNIS, processo administrativo, parecer pericial) segue caminhos distintos a depender da natureza da informação. E a compreensão de que a análise do requerimento pode ter sido feita por servidor de Central de Análise distinta da APS de protocolo evita equívocos na instrução processual.
 
-### 22.3 Canais de Atendimento: Meu INSS, Central 135 e Atendimento Presencial
+### 22.3 Canais de atendimento: meu INSS, central 135 e atendimento presencial
 
 A trajetória dos canais de atendimento do INSS nos últimos quinze anos reflete, como observam Castro e Lazzari (2025), uma transição acelerada do modelo presencial para o digital. Até o final da década de 2010, o segurado que desejasse requerer benefício previdenciário precisava, como regra, comparecer pessoalmente a uma Agência da Previdência Social, enfrentar filas frequentemente longas e submeter documentação física a servidor que realizava análise presencial. A partir de 2017, com o lançamento da primeira versão do aplicativo "Meu INSS", e sobretudo a partir de 2020, quando a pandemia de COVID-19 forçou a digitalização emergencial dos serviços públicos, o cenário alterou-se radicalmente.
 
@@ -72,9 +72,9 @@ Outro canal que se consolidou nos últimos anos é o atendimento por entidades c
 
 Para a prática nos JEFs, a questão central é a comprovação do requerimento administrativo. Nos termos da tese fixada pelo STF no Tema 350 (RE 631.240/MG, Tribunal Pleno, rel. Min. Luís Roberto Barroso, julgado em 03/09/2014), o prévio requerimento administrativo é, em regra, condição para o ajuizamento de ação previdenciária, salvo nos casos de notório indeferimento pelo INSS ou de revisão de benefício já concedido. A prova do requerimento pode ser feita por meio do número de protocolo gerado pelo Meu INSS, por comprovante de agendamento, por prints da tela do aplicativo ou portal, ou pela carta de indeferimento emitida pelo INSS. Nos casos de mora (ausência de decisão no prazo legal), a prova do requerimento seguida da demonstração do decurso do prazo de 45 dias é suficiente para caracterizar o interesse de agir.
 
-### 22.4 Sistemas Informatizados do INSS e Sua Relevância Forense
+### 22.4 Sistemas informatizados do INSS e sua relevância forense
 
-Os sistemas informatizados do INSS, operados pela DATAPREV (Empresa de Tecnologia e Informações da Previdência Social), constituem a infraestrutura digital sobre a qual se processa o reconhecimento de direitos previdenciários no Brasil (IBRAHIM, 2025; CASTRO; LAZZARI, 2025). O conhecimento desses sistemas é indispensável para advogados e magistrados que atuam nos JEFs, porque é deles que provêm os documentos utilizados como prova na instrução processual e é por meio deles que as sentenças judiciais são efetivadas.
+Os sistemas informatizados do INSS, operados pela DATAPREV (Empresa de Tecnologia e Informações da Previdência Social), constituem a infraestrutura digital sobre a qual se processa o reconhecimento de direitos previdenciários no Brasil (Ibrahim, 2025; Castro; Lazzari, 2025). O conhecimento desses sistemas é indispensável para advogados e magistrados que atuam nos JEFs, porque é deles que provêm os documentos utilizados como prova na instrução processual e é por meio deles que as sentenças judiciais são efetivadas.
 
 O Cadastro Nacional de Informações Sociais (CNIS) é a base de dados central do sistema previdenciário brasileiro, com dezenas de bilhões de registros acumulados desde sua criação. O CNIS agrega informações sobre vínculos empregatícios, remunerações, contribuições previdenciárias e filiação ao RGPS de todos os segurados, gozando de presunção relativa de veracidade nos termos do art. 29-A da Lei n. 8.213/91 (dispositivo incluído pela Lei n. 10.403/2002). Para a análise detalhada da natureza jurídica, força probatória e questões de impugnação do CNIS, ver Cap. 5, §§ 5.2.1-5.2.4. A consulta ao extrato do CNIS é, na prática, o primeiro passo de qualquer análise previdenciária, tanto na via administrativa quanto na judicial. Os indicadores do CNIS (que sinalizam pendências, divergências cadastrais ou necessidade de comprovação documental) são elementos que o magistrado deve saber interpretar, pois frequentemente justificam exigências administrativas que, se não atendidas, resultam em indeferimento.
 
@@ -104,9 +104,9 @@ Em ações revisionais: extrato do CONBAS (com memória de cálculo da RMI); ext
 Em todas as ações: extrato do CNIS atualizado é documento de juntada obrigatória pelo INSS, por constituir a base documental sobre a qual se erguem tanto a decisão administrativa quanto a judicial.
 :::
 
-### 22.5 Requerimento Administrativo: Procedimento e Documentação
+### 22.5 Requerimento administrativo: procedimento e documentação
 
-O requerimento administrativo constitui o ato pelo qual o segurado ou seu dependente provoca a autarquia previdenciária a analisar e decidir sobre o reconhecimento de direito a benefício (AMADO, 2025). No ordenamento previdenciário brasileiro, vigora o princípio do requerimento: como regra geral, o INSS não concede benefícios de ofício, sendo necessária a provocação formal do interessado (art. 176 do Decreto n. 3.048/99). As hipóteses de atuação de ofício no RGPS são pontuais e operam dentro de um requerimento já em curso: é o caso da conversão do auxílio por incapacidade temporária em aposentadoria por incapacidade permanente quando a perícia médica constata a incapacidade definitiva no exame de um benefício já requerido, e o do dever de conceder o benefício mais vantajoso do que o especificamente pedido (seção 22.9). Não se confunde com tais hipóteses a aposentadoria compulsória aos 75 anos, instituto próprio do servidor público (art. 40, § 1º, II, da CF, e LC n. 152/2015), estranho ao RGPS administrado pelo INSS.
+O requerimento administrativo constitui o ato pelo qual o segurado ou seu dependente provoca a autarquia previdenciária a analisar e decidir sobre o reconhecimento de direito a benefício (Amado, 2025). No ordenamento previdenciário brasileiro, vigora o princípio do requerimento: como regra geral, o INSS não concede benefícios de ofício, sendo necessária a provocação formal do interessado (art. 176 do Decreto n. 3.048/99). As hipóteses de atuação de ofício no RGPS são pontuais e operam dentro de um requerimento já em curso: é o caso da conversão do auxílio por incapacidade temporária em aposentadoria por incapacidade permanente quando a perícia médica constata a incapacidade definitiva no exame de um benefício já requerido, e o do dever de conceder o benefício mais vantajoso do que o especificamente pedido (seção 22.9). Não se confunde com tais hipóteses a aposentadoria compulsória aos 75 anos, instituto próprio do servidor público (art. 40, § 1º, II, da CF, e LC n. 152/2015), estranho ao RGPS administrado pelo INSS.
 
 O requerimento pode ser formulado por três vias principais. A primeira e predominante é o Meu INSS (aplicativo ou portal web), por meio do qual o segurado preenche formulário eletrônico, indica a espécie de benefício pretendido e anexa documentação digitalizada. A segunda é a Central 135, por telefone, utilizada para requerimentos de menor complexidade ou para agendamento de atendimento presencial. A terceira é o comparecimento presencial à APS, mediante agendamento prévio, utilizada quando a complexidade do caso exige interação direta com o servidor ou quando o segurado não tem acesso aos canais digitais. Há, ainda, o requerimento por intermédio da empresa empregadora via e-Social, aplicável a hipóteses específicas como o auxílio por incapacidade temporária decorrente de afastamento superior a quinze dias.
 
@@ -120,13 +120,13 @@ Nos requerimentos de aposentadoria especial (por exposição a agentes nocivos),
 
 Para a instrução nos JEFs, o comprovante de protocolo do requerimento administrativo (com número de identificação, data e espécie do benefício requerido) é documento essencial, pois fixa a DER e permite verificar se houve cumprimento do prazo legal de análise. Quando o segurado não dispõe do comprovante de protocolo (situação comum entre segurados de baixa escolaridade ou idade avançada), o magistrado pode determinar ao INSS que informe a DER registrada em seus sistemas.
 
-### 22.6 Análise do Requerimento: Prazos Legais e Mora Administrativa
+### 22.6 Análise do requerimento: prazos legais e mora administrativa
 
 Uma vez protocolado o requerimento, o INSS tem o dever legal de analisá-lo e proferir decisão em prazo determinado. A Lei n. 9.784/99, que regula o processo administrativo no âmbito federal, fixa em seu art. 49 o prazo de 30 dias para decisão, prorrogáveis por igual período mediante justificativa expressa. O Decreto n. 3.048/99, em seu art. 174 (com redação atualizada), estabelece prazo de 45 dias para a conclusão do processo administrativo previdenciário, contados da data do requerimento. O Tema 350/STF (RE 631.240/MG) reconheceu que o decurso do prazo legal de análise sem decisão caracteriza a mora apta a gerar o interesse de agir para a ação judicial; o patamar de 45 dias, contudo, não consta da tese, derivando da regulamentação administrativa (o citado art. 174 do Decreto 3.048/99).
 
 A realidade operacional do INSS, contudo, diverge substancialmente dos prazos normativos. O Painel Estatístico de Benefícios mantido pelo MPS revela que, em diversas espécies de benefícios e regiões do país, o tempo médio de análise ultrapassa 90 dias, chegando a 120 ou 150 dias em períodos de maior demanda ou em localidades com déficit de servidores. O auxílio por incapacidade temporária, que depende de perícia médica para concessão, apresenta tempos de espera particularmente longos quando há fila para agendamento de perícia presencial.
 
-A mora administrativa configura-se quando o INSS não profere decisão no prazo de 45 dias, contados da DER ou da data em que o segurado cumpriu a última exigência formulada pela autarquia (SAVARIS, 2023). Configurada a mora, o segurado tem interesse de agir para propor ação judicial, independentemente de ter obtido decisão administrativa — trata-se do chamado indeferimento tácito, que o STF reconheceu no Tema 350. A prova da mora é simples: basta demonstrar o protocolo do requerimento (DER) e o decurso do prazo de 45 dias sem decisão. O extrato de acompanhamento do Meu INSS, que indica o status do requerimento ("em análise", "aguardando perícia", "em exigência"), serve como prova documental da mora.
+A mora administrativa configura-se quando o INSS não profere decisão no prazo de 45 dias, contados da DER ou da data em que o segurado cumpriu a última exigência formulada pela autarquia (Savaris, 2023). Configurada a mora, o segurado tem interesse de agir para propor ação judicial, independentemente de ter obtido decisão administrativa — trata-se do chamado indeferimento tácito, que o STF reconheceu no Tema 350. A prova da mora é simples: basta demonstrar o protocolo do requerimento (DER) e o decurso do prazo de 45 dias sem decisão. O extrato de acompanhamento do Meu INSS, que indica o status do requerimento ("em análise", "aguardando perícia", "em exigência"), serve como prova documental da mora.
 
 A consequência processual da mora administrativa é dupla. Em primeiro lugar, ela supre a exigência de prévio requerimento para fins de interesse de agir. Em segundo lugar, quando o benefício é concedido judicialmente, a DIB retroage à DER, de modo que o segurado recebe as parcelas vencidas desde a data do requerimento administrativo, e não desde o ajuizamento da ação. Esse efeito retroativo confere relevância prática ao requerimento administrativo mesmo nos casos em que o segurado já sabe que precisará judicializar.
 
@@ -144,9 +144,9 @@ A comunicação do indeferimento ao segurado deve observar os requisitos de fund
 O prazo de 45 dias refere-se à prolação da decisão (concessão ou indeferimento), não à implantação do pagamento. Após a concessão administrativa, o INSS dispõe de prazo adicional para operacionalizar o pagamento (geração do número de benefício, cadastro bancário, inclusão na folha de pagamento). Esse prazo de implantação, embora não expressamente fixado em lei, deve observar o princípio da razoabilidade. Nos JEFs, a distinção entre prazo de decisão e prazo de implantação é relevante para definir o marco inicial de eventual indenização por mora e para fixar o prazo de cumprimento em tutelas de urgência.
 :::
 
-### 22.7 Perícia Médica Administrativa: Modalidades e Regime Jurídico
+### 22.7 Perícia médica administrativa: modalidades e regime jurídico
 
-A perícia médica constitui ato determinante para a concessão, manutenção e cessação dos benefícios por incapacidade no RGPS (IBRAHIM, 2025; AMADO, 2025). A avaliação pericial é o instrumento pelo qual o INSS verifica a existência, a natureza, o grau e a duração da incapacidade laborativa do segurado, sendo elemento obrigatório para o deferimento do auxílio por incapacidade temporária (espécie 31), da aposentadoria por incapacidade permanente (espécie 32) e do auxílio-acidente (espécie 36), além de subsidiar a análise de outros benefícios que dependam de constatação médica, como a majoração de 25% da aposentadoria por incapacidade permanente (adicional de grande invalidez) e o BPC para pessoa com deficiência.
+A perícia médica constitui ato determinante para a concessão, manutenção e cessação dos benefícios por incapacidade no RGPS (Ibrahim, 2025; Amado, 2025). A avaliação pericial é o instrumento pelo qual o INSS verifica a existência, a natureza, o grau e a duração da incapacidade laborativa do segurado, sendo elemento obrigatório para o deferimento do auxílio por incapacidade temporária (espécie 31), da aposentadoria por incapacidade permanente (espécie 32) e do auxílio-acidente (espécie 36), além de subsidiar a análise de outros benefícios que dependam de constatação médica, como a majoração de 25% da aposentadoria por incapacidade permanente (adicional de grande invalidez) e o BPC para pessoa com deficiência.
 
 A perícia é realizada por perito médico federal, integrante de carreira própria criada pela Lei n. 10.876/2004, cujas regras procedimentais e atribuições foram significativamente alteradas pela Lei n. 13.846/2019 (conversão da MP 871/2019). O perito médico federal exerce suas atribuições com autonomia técnica, o que significa que suas conclusões devem basear-se exclusivamente em critérios médico-científicos, sem interferência hierárquica da chefia administrativa. Na prática, essa autonomia é temperada pelas metas de produtividade impostas pela administração (número mínimo de perícias por dia), o que gera tensão permanente entre a qualidade da avaliação e o volume de atendimento.
 
@@ -166,7 +166,7 @@ A Portaria Conjunta MPS/INSS n. 13/2026, que instituiu o Novo Atestmed, alterou 
 
 A interface entre a perícia médica administrativa e o processo judicial nos JEFs é um dos pontos de maior tensão prática do contencioso previdenciário (para o regime geral da perícia judicial nos JEFs, ver Cap. 6). Não é incomum que a perícia administrativa conclua pela capacidade laborativa do segurado, enquanto a perícia judicial, realizada por perito nomeado pelo juiz, com parâmetros distintos e, frequentemente, com maior tempo de avaliação, conclua pela incapacidade. Essa divergência não configura, por si só, erro de nenhuma das partes: decorre de diferenças metodológicas, temporais e de contexto. O magistrado deve estar atento a essa dinâmica e evitar presumir que a perícia administrativa é invariavelmente superficial ou que a perícia judicial é invariavelmente mais confiável.
 
-### 22.8 Alta Programada (COPES): Regime Jurídico e Constitucionalidade
+### 22.8 Alta programada (COPES): regime jurídico e constitucionalidade
 
 O sistema de alta programada, tecnicamente denominado Cobertura Previdenciária Estimada (COPES), consiste, conforme Castro e Lazzari (2025), na fixação, pelo perito médico federal, de uma Data de Cessação do Benefício (DCB) já no ato de concessão do auxílio por incapacidade temporária. Ao conceder o benefício, o perito avalia a documentação médica e o quadro clínico do segurado e estima a data provável de recuperação da capacidade laborativa, fixando a DCB correspondente. Atingida essa data, o benefício cessa automaticamente, salvo se o segurado solicitar prorrogação dentro do prazo regulamentar.
 
@@ -196,9 +196,9 @@ Feito o pedido, resta acompanhar o resultado. Deferida a prorrogação (por Ates
 Convém, por fim, atentar para o limite do Atestmed: se o benefício já acumula 180 dias de prorrogações concedidas por análise documental, a próxima prorrogação exigirá perícia presencial. Nesse caso, o INSS agendará a perícia e o pagamento continua até a realização do exame e a decisão subsequente.
 :::
 
-### 22.9 Decisão Administrativa: Concessão, Indeferimento e o Dever do Melhor Benefício
+### 22.9 Decisão administrativa: concessão, indeferimento e o dever do melhor benefício
 
-A decisão sobre o requerimento de benefício previdenciário é ato administrativo vinculado (AMADO, 2025; SAVARIS, 2023): preenchidos os requisitos legais, o INSS tem o dever de conceder o benefício; ausente qualquer requisito, deve indeferir com fundamentação expressa. Não há margem de discricionariedade na análise dos requisitos, pois se trata de verificação objetiva de filiação, carência, condição de segurado, incapacidade (quando aplicável) e demais pressupostos legais da espécie requerida.
+A decisão sobre o requerimento de benefício previdenciário é ato administrativo vinculado (Amado, 2025; Savaris, 2023): preenchidos os requisitos legais, o INSS tem o dever de conceder o benefício; ausente qualquer requisito, deve indeferir com fundamentação expressa. Não há margem de discricionariedade na análise dos requisitos, pois se trata de verificação objetiva de filiação, carência, condição de segurado, incapacidade (quando aplicável) e demais pressupostos legais da espécie requerida.
 
 Como ato administrativo, a decisão previdenciária submete-se aos requisitos gerais de validade: competência (deve ser proferida por servidor com atribuição para tanto), forma (deve observar o procedimento regulamentar), motivo (deve fundar-se na situação fática verificada e nos dispositivos legais aplicáveis), objeto (concessão ou indeferimento do benefício) e finalidade (proteção do direito previdenciário do segurado). O art. 50 da Lei n. 9.784/99 exige que a decisão administrativa que nega, limita ou afeta direito seja expressamente motivada, com indicação dos fatos e fundamentos jurídicos. No contexto previdenciário, essa exigência impõe ao INSS o dever de indicar especificamente qual requisito não foi preenchido e por que a documentação apresentada não o comprova.
 
@@ -216,9 +216,9 @@ O novo requerimento com documentação complementar constitui alternativa ao rec
 
 A interface entre a decisão administrativa e o processo judicial nos JEFs é disciplinada, no que tange à decadência, pelo Tema 975 do STJ (REsp 1.648.336/RS, 1ª Seção, Rel. Min. Herman Benjamin, j. 11/12/2019). Convém consolidar aqui a distinção entre os dois repetitivos que, ao longo deste capítulo, foram invocados a propósito do benefício mais vantajoso. O Tema 966 (REsp 1.631.021/MG, Rel. Min. Mauro Campbell Marques, j. 13/02/2019) assentou que o direito de optar pela regra de cálculo mais favorável integra o ato de concessão e, como tal, sujeita-se ao prazo decadencial de dez anos do art. 103 da Lei n. 8.213/91. O Tema 975 (j. 11/12/2019), por sua vez, delimitou o termo inicial e o alcance dessa decadência, esclarecendo que ela não incide sobre questão que não foi objeto de apreciação no ato administrativo de concessão. Ambos, portanto, tratam exclusivamente da decadência do art. 103, e nenhum deles funda o dever de orientação do segurado, de matriz administrativa (art. 687 da IN PRES/INSS n. 128/2022, seções 22.6 e 22.9, supra). O termo inicial do prazo decadencial à luz do Tema 975 é aprofundado na seção 21.5.2 do Capítulo 21.
 
-### 22.10 Conselho de Recursos da Previdência Social (CRPS): Estrutura e Competência
+### 22.10 Conselho de recursos da previdência social (CRPS): estrutura e competência
 
-O Conselho de Recursos da Previdência Social (CRPS) é o órgão colegiado de controle jurisdicional administrativo da Previdência Social (IBRAHIM, 2025), vinculado ao Ministério da Previdência Social, e não ao INSS. Essa distinção orgânica é relevante: o CRPS não integra a estrutura hierárquica da autarquia cujas decisões julga, o que lhe confere, ao menos em tese, a independência funcional necessária para exercer controle efetivo sobre os atos do INSS. A natureza jurídica do CRPS é de tribunal administrativo paritário, com competência para julgar, em última instância administrativa, os recursos contra decisões do INSS em matéria de benefícios previdenciários e de contribuição do segurado (art. 303 do Decreto n. 3.048/99).
+O Conselho de Recursos da Previdência Social (CRPS) é o órgão colegiado de controle jurisdicional administrativo da Previdência Social (Ibrahim, 2025), vinculado ao Ministério da Previdência Social, e não ao INSS. Essa distinção orgânica é relevante: o CRPS não integra a estrutura hierárquica da autarquia cujas decisões julga, o que lhe confere, ao menos em tese, a independência funcional necessária para exercer controle efetivo sobre os atos do INSS. A natureza jurídica do CRPS é de tribunal administrativo paritário, com competência para julgar, em última instância administrativa, os recursos contra decisões do INSS em matéria de benefícios previdenciários e de contribuição do segurado (art. 303 do Decreto n. 3.048/99).
 
 A Portaria MPS n. 125/2026 aprovou o novo Regimento Interno do CRPS, promovendo reestruturação significativa do órgão. A estrutura passou a compreender três níveis decisórios: as Juntas de Recursos (1ª instância), as Câmaras de Julgamento (2ª instância) e o Conselho Pleno (instância uniformizadora). As Juntas de Recursos, em número variável conforme a demanda regional, são os órgãos de primeiro grau, competentes para julgar recursos contra decisões das Agências da Previdência Social e das Centrais de Análise. As Câmaras de Julgamento constituem o segundo grau, competentes para julgar recursos especiais contra decisões das Juntas. O Conselho Pleno, composto pelos presidentes das Câmaras e das Juntas, exerce função uniformizadora — havendo divergência entre decisões de Juntas ou Câmaras distintas, o Pleno fixa orientação vinculante.
 
@@ -242,9 +242,9 @@ A competência do CRPS é delimitada pela natureza da matéria e pelo tipo de de
 
 Para o advogado que atua nos JEFs, o CRPS representa alternativa à judicialização que merece avaliação estratégica caso a caso. Em situações de indeferimento por erro documental, cadastral ou de interpretação normativa, o recurso ao CRPS pode ser mais célere e menos oneroso do que a ação judicial. Em contrapartida, quando a questão envolve matéria fática complexa (divergência pericial sobre incapacidade, por exemplo) ou quando o segurado necessita de tutela de urgência (antecipação de tutela para implantação imediata do benefício), a via judicial nos JEFs tende a ser mais eficaz. A opção por uma via não exclui a outra: o segurado pode, simultaneamente, interpor recurso ao CRPS e ajuizar ação judicial, hipótese em que a decisão judicial prevalece sobre a administrativa em caso de conflito.
 
-### 22.11 Recurso Ordinário às Juntas de Recursos
+### 22.11 Recurso ordinário às juntas de recursos
 
-O recurso ordinário é a via recursal cabível contra decisão do INSS que indefere, cessa ou revisa benefício previdenciário em prejuízo do segurado (CASTRO; LAZZARI, 2025). Constitui o instrumento por excelência de impugnação administrativa dos atos da autarquia e sua interposição é direito do segurado independentemente de advogado, embora a assistência técnica seja recomendável, especialmente em matérias de maior complexidade.
+O recurso ordinário é a via recursal cabível contra decisão do INSS que indefere, cessa ou revisa benefício previdenciário em prejuízo do segurado (Castro; Lazzari, 2025). Constitui o instrumento por excelência de impugnação administrativa dos atos da autarquia e sua interposição é direito do segurado independentemente de advogado, embora a assistência técnica seja recomendável, especialmente em matérias de maior complexidade.
 
 A legitimidade para interpor recurso ordinário é do segurado, de seu dependente ou de procurador legalmente constituído. O prazo é de 30 dias, contados da ciência da decisão recorrida (art. 305 do Decreto n. 3.048/99). A ciência considera-se ocorrida na data de acesso à notificação pelo Meu INSS, na data de recebimento da correspondência postal (aviso de recebimento) ou na data de comparecimento pessoal à APS. Perdido o prazo, opera-se a preclusão administrativa — o segurado não poderá mais recorrer daquela decisão específica, embora possa formular novo requerimento com base em fatos ou documentos novos, ou buscar o Judiciário.
 
@@ -274,7 +274,7 @@ Gerado o protocolo, guarda-se o número de identificação, indispensável ao ac
 Por fim, nos casos de urgência (segurado sem renda, doença grave, risco alimentar), avalia-se estratégia paralela: o ajuizamento simultâneo de ação no JEF com pedido de tutela de urgência, sem prejuízo do recurso administrativo em tramitação.
 :::
 
-### 22.12 Recurso Especial às Câmaras de Julgamento
+### 22.12 Recurso especial às câmaras de julgamento
 
 O recurso especial ao CRPS não se confunde, como observa Ibrahim (2025), com mero segundo grau de jurisdição administrativa. Seu cabimento é restrito e suas hipóteses taxativas, o que o diferencia substancialmente do recurso ordinário. Enquanto o recurso ordinário permite ampla revisão da decisão do INSS (tanto em matéria de fato quanto de direito), o recurso especial às Câmaras de Julgamento destina-se exclusivamente à uniformização da interpretação administrativa.
 
@@ -296,9 +296,9 @@ Outra hipótese que merece exame é a do recurso especial com pedido de uniformi
 
 Para o advogado, o recurso especial ao CRPS é ferramenta de utilidade limitada, dada a restrição de seu cabimento. Sua maior utilidade prática ocorre quando a Junta de Recursos indefere o recurso ordinário com base em interpretação que destoa de enunciado do próprio CRPS ou de parecer da Procuradoria Federal, situação em que o recurso especial tem alta probabilidade de provimento. Fora dessas hipóteses, a via judicial nos JEFs tende a ser mais eficaz, especialmente quando a questão envolve matéria fática (incapacidade, atividade especial, tempo de contribuição rural) que demanda instrução probatória mais ampla do que a disponível na esfera administrativa. O esgotamento da via administrativa não é requisito para o ajuizamento de ação nos JEFs: basta o prévio requerimento e a resistência do INSS (indeferimento expresso ou mora). Assim, o segurado não precisa percorrer todos os graus recursais do CRPS antes de buscar o Judiciário. Essa liberdade de escolha entre vias é garantia constitucional derivada do princípio da inafastabilidade da jurisdição (art. 5º, XXXV, da CF), expressamente reafirmada pelo STF no julgamento do Tema 350.
 
-### 22.13 Enunciados do CRPS e Sua Força Normativa
+### 22.13 Enunciados do CRPS e sua força normativa
 
-O Conselho de Recursos da Previdência Social exerce, além de sua função judicante em grau recursal, uma relevante atribuição normativa (AMADO, 2025): a edição de enunciados interpretativos que uniformizam a aplicação do Direito previdenciário no âmbito administrativo. Esses enunciados são aprovados pelo Conselho Pleno do CRPS, mediante deliberação por maioria qualificada dos conselheiros, e têm por objetivo harmonizar a jurisprudência administrativa, evitando decisões contraditórias entre as Juntas de Recursos e as Câmaras de Julgamento.
+O Conselho de Recursos da Previdência Social exerce, além de sua função judicante em grau recursal, uma relevante atribuição normativa (Amado, 2025): a edição de enunciados interpretativos que uniformizam a aplicação do Direito previdenciário no âmbito administrativo. Esses enunciados são aprovados pelo Conselho Pleno do CRPS, mediante deliberação por maioria qualificada dos conselheiros, e têm por objetivo harmonizar a jurisprudência administrativa, evitando decisões contraditórias entre as Juntas de Recursos e as Câmaras de Julgamento.
 
 A natureza jurídica desses enunciados é de orientação vinculante interna corporis. Significa dizer que as Juntas de Recursos e as Câmaras de Julgamento estão obrigadas a observá-los ao decidir os casos submetidos a sua apreciação. Não se trata de ato normativo com eficácia erga omnes, e tampouco de precedente vinculante na acepção do art. 927 do CPC. Sua força obrigatória limita-se ao âmbito do CRPS e, por extensão, orienta a atuação das Agências da Previdência Social na análise dos requerimentos. Para o Poder Judiciário, os enunciados do CRPS constituem elemento de persuasão, jamais de vinculação. O juiz federal que atua no JEF pode e deve conhecer os enunciados como subsídio interpretativo, mas sua decisão se fundamenta na Constituição, na lei e nos precedentes vinculantes do STF e do STJ.
 
@@ -314,7 +314,7 @@ A questão assume relevância prática em situações concretas. Imagine-se enun
 **Em termos operacionais dos JEFs:** ao elaborar a petição inicial, o advogado deve verificar os enunciados do CRPS vigentes sobre a matéria discutida. Quando o enunciado for favorável ao segurado, convém citá-lo expressamente como argumento de reforço, demonstrando que a própria Administração Previdenciária reconhece aquela interpretação. Quando o enunciado for contrário, mas existir precedente vinculante do STJ ou STF em sentido diverso, a petição deve apontar a superação do enunciado pelo precedente judicial.
 :::
 
-### 22.14 Esgotamento da Via Administrativa vs. Mero Requerimento
+### 22.14 Esgotamento da via administrativa vs. mero requerimento
 
 A distinção entre prévio requerimento administrativo e esgotamento da via administrativa, examinada por Savaris (2023) e Castro e Lazzari (2025), constitui um dos temas mais recorrentes na prática dos Juizados Especiais Federais previdenciários. O Tema 350/STF (RE 631.240, Plenário, j. 03/09/2014, Rel. Min. Luís Roberto Barroso) pacificou a controvérsia: o prévio requerimento administrativo é, em regra, condição para o ajuizamento de ação previdenciária de concessão de benefício. O esgotamento das instâncias administrativas, contudo, não o é. São conceitos distintos, com consequências processuais igualmente diversas.
 
@@ -332,9 +332,9 @@ A decisão entre recorrer administrativamente e judicializar de imediato depende
 **O esgotamento da via administrativa não é exigido para judicializar.** O segurado que tem seu benefício indeferido pelo INSS pode ajuizar ação judicial de imediato, sem necessidade de interpor recurso ao CRPS. A exigência limita-se ao prévio requerimento administrativo, conforme o Tema 350/STF. Nas ações de revisão, restabelecimento ou manutenção, sequer o requerimento prévio é necessário.
 :::
 
-### 22.15 Revisão Administrativa pelo INSS: Autotutela e Limites
+### 22.15 Revisão administrativa pelo INSS: autotutela e limites
 
-O poder de autotutela da Administração Pública, consagrado nas Súmulas 346 e 473 do STF, autoriza o INSS a rever seus próprios atos administrativos quando eivados de ilegalidade ou quando inconvenientes ao interesse público (IBRAHIM, 2025; SAVARIS, 2023). Em matéria previdenciária, essa prerrogativa encontra disciplina específica no art. 103-A da Lei 8.213/1991, que fixa o prazo decadencial de dez anos para que a Administração anule atos administrativos de que decorram efeitos favoráveis aos beneficiários. A norma foi introduzida pela Lei 10.839/2004 e representa um equilíbrio entre o poder de autotutela e a segurança jurídica dos administrados.
+O poder de autotutela da Administração Pública, consagrado nas Súmulas 346 e 473 do STF, autoriza o INSS a rever seus próprios atos administrativos quando eivados de ilegalidade ou quando inconvenientes ao interesse público (Ibrahim, 2025; Savaris, 2023). Em matéria previdenciária, essa prerrogativa encontra disciplina específica no art. 103-A da Lei 8.213/1991, que fixa o prazo decadencial de dez anos para que a Administração anule atos administrativos de que decorram efeitos favoráveis aos beneficiários. A norma foi introduzida pela Lei 10.839/2004 e representa um equilíbrio entre o poder de autotutela e a segurança jurídica dos administrados.
 
 Sustentamos a necessidade de distinguir com clareza duas situações que a prática forense frequentemente confunde. A primeira é a decadência do direito do segurado de pedir a revisão do seu benefício, prevista no art. 103 da Lei 8.213/1991: dez anos a contar do primeiro dia do mês seguinte ao do recebimento da primeira prestação. A segunda é a decadência do direito da Administração de anular seus próprios atos (art. 103-A): dez anos contados da data em que foram praticados, salvo comprovada má-fé. Os prazos, embora idênticos em extensão, têm natureza, termos iniciais e sujeitos diversos. A confusão entre ambos gera equívocos sérios na análise dos casos concretos, especialmente nos JEFs. Remetemos o leitor à seção 21.7 do Capítulo 21, em que a matéria é examinada sob a perspectiva processual.
 
@@ -352,7 +352,7 @@ A configuração da má-fé, que afasta a proteção decadencial, exige prova ro
 **REsp 1.114.938/AL — Tema 214/STJ (Rel. Min. Napoleão Nunes Maia Filho, 1ª Seção, j. 14/04/2010):** a revisão administrativa de benefício previdenciário pelo INSS exige a observância do contraditório e da ampla defesa, mediante instauração de processo administrativo prévio, respeitado o prazo decadencial de dez anos, salvo comprovada má-fé do beneficiário.
 :::
 
-### 22.16 Cessação Administrativa de Benefícios: Procedimento e Garantias
+### 22.16 Cessação administrativa de benefícios: procedimento e garantias
 
 A cessação administrativa de benefícios previdenciários constitui, conforme Amado (2025), um dos atos que mais intensamente afetam a vida do segurado, pois interrompe a prestação pecuniária que, em muitos casos, constitui sua única fonte de subsistência. As hipóteses de cessação são variadas: término da data de cessação do benefício fixada pela perícia (DCB/COPES), recuperação da capacidade laborativa constatada em reavaliação pericial, constatação de fraude ou irregularidade na concessão, não comparecimento à convocação para exame pericial de reavaliação. Cada hipótese demanda procedimento próprio, mas todas compartilham um denominador comum: a observância do contraditório prévio.
 
@@ -372,7 +372,7 @@ Na experiência concreta dos JEFs, o cenário mais frequente envolve o segurado 
 **Cessação de benefício exige contraditório prévio.** O INSS não pode cessar benefício previdenciário sem notificação pessoal efetiva do segurado, oportunidade de defesa e decisão fundamentada. A cessação sem observância dessas garantias é nula e pode ser revertida por mandado de segurança ou tutela de urgência no JEF.
 :::
 
-### 22.17 Tema 1.157/STJ: Cancelamento Administrativo de Benefício Concedido Judicialmente
+### 22.17 Tema 1.157/STJ: cancelamento administrativo de benefício concedido judicialmente
 
 A 1ª Seção do Superior Tribunal de Justiça, em julgamento realizado em 07/05/2026, fixou tese em sede de recurso repetitivo no Tema 1.157, enfrentando questão de elevada repercussão prática, já antecipada por Savaris (2023): pode o INSS cancelar administrativamente, mediante nova avaliação pericial, benefício por incapacidade concedido por decisão judicial transitada em julgado? A resposta, aprovada por unanimidade, foi afirmativa, desde que observados pressupostos específicos.
 
@@ -392,9 +392,9 @@ O Tema 1.157 suscita, ainda, questão processual sobre a competência. O segurad
 **Tema 1.157/STJ (1ª Seção, j. 07/05/2026):** "O INSS pode revisar administrativamente benefício por incapacidade concedido judicialmente, mediante nova avaliação pericial que constate a recuperação da capacidade laborativa, observado o devido processo legal." A sentença concessória opera sob a cláusula rebus sic stantibus, de modo que a alteração superveniente do quadro clínico autoriza a Administração a cessar o benefício, sem que isso configure violação da coisa julgada.
 :::
 
-### 22.18 Programa de Combate a Fraudes: Operações de Revisão em Massa
+### 22.18 Programa de combate a fraudes: operações de revisão em massa
 
-As operações de revisão em massa de benefícios previdenciários, genericamente denominadas "pente-fino", constituem política administrativa permanente do INSS (CASTRO; LAZZARI, 2025), com base legal na Lei 13.846/2019 (conversão da MP 871/2019, denominada "MP Antifraude"). O art. 11 dessa lei determina que o INSS realizará, periodicamente, processo de revisão dos benefícios por incapacidade, mediante convocação dos beneficiários para avaliação pericial. A Lei 13.457/2017 já havia disciplinado mecanismo semelhante para benefícios com mais de dois anos sem perícia de reavaliação.
+As operações de revisão em massa de benefícios previdenciários, genericamente denominadas "pente-fino", constituem política administrativa permanente do INSS (Castro; Lazzari, 2025), com base legal na Lei 13.846/2019 (conversão da MP 871/2019, denominada "MP Antifraude"). O art. 11 dessa lei determina que o INSS realizará, periodicamente, processo de revisão dos benefícios por incapacidade, mediante convocação dos beneficiários para avaliação pericial. A Lei 13.457/2017 já havia disciplinado mecanismo semelhante para benefícios com mais de dois anos sem perícia de reavaliação.
 
 O procedimento segue roteiro padronizado. O INSS identifica o universo de benefícios sujeitos à revisão com base em critérios previamente definidos (tempo de manutenção, ausência de perícia recente, indicadores de irregularidade sistêmica). Os beneficiários são convocados por carta simples para comparecimento à Agência da Previdência Social em data e horário agendados. Na perícia presencial, o perito médico federal avalia a persistência da incapacidade. Constatada a recuperação, o INSS instaura procedimento para cessação, com oportunidade de defesa. Mantida a decisão, o benefício é cessado com prazo de adequação.
 
@@ -412,9 +412,9 @@ O segurado convocado para reavaliação é, na maioria dos casos, pessoa em situ
 **Atuação do advogado na defesa contra o pente-fino:** ao receber o segurado cujo benefício foi cessado em operação de revisão em massa, o advogado deve verificar: (i) se a convocação foi efetivamente recebida (solicitar ao INSS comprovante de postagem e AR); (ii) se houve oportunidade de defesa antes da cessação; (iii) se o laudo pericial administrativo contém fundamentação individualizada; (iv) se o segurado possui laudos médicos recentes que atestem a persistência da incapacidade. A irregularidade em qualquer desses pontos fundamenta pedido de restabelecimento por tutela de urgência no JEF.
 :::
 
-### 22.19 Processo Administrativo e Benefícios Assistenciais (BPC/LOAS)
+### 22.19 Processo administrativo e benefícios assistenciais (BPC/LOAS)
 
-O benefício de prestação continuada (BPC), previsto no art. 203, V, da Constituição Federal e regulamentado pela Lei 8.742/1993 (LOAS), possui particularidades procedimentais que o distinguem dos benefícios previdenciários em sentido estrito (IBRAHIM, 2025; AMADO, 2025). Não se trata de benefício contributivo, mas assistencial, e sua concessão depende da comprovação cumulativa de dois requisitos: deficiência ou idade igual ou superior a 65 anos, e renda familiar per capita igual ou inferior a 1/4 do salário mínimo (R$ 405,25 em 2026, considerando o SM de R$ 1.621,00).
+O benefício de prestação continuada (BPC), previsto no art. 203, V, da Constituição Federal e regulamentado pela Lei 8.742/1993 (LOAS), possui particularidades procedimentais que o distinguem dos benefícios previdenciários em sentido estrito (Ibrahim, 2025; Amado, 2025). Não se trata de benefício contributivo, mas assistencial, e sua concessão depende da comprovação cumulativa de dois requisitos: deficiência ou idade igual ou superior a 65 anos, e renda familiar per capita igual ou inferior a 1/4 do salário mínimo (R$ 405,25 em 2026, considerando o SM de R$ 1.621,00).
 
 A avaliação da deficiência para fins de BPC observa modelo próprio — o IF-BPC (Índice de Funcionalidade Brasileiro aplicado ao BPC), de natureza biopsicossocial, conduzido por perito médico e assistente social do INSS, que afere não apenas a condição clínica, mas as barreiras à participação social (Convenção de Nova York, Decreto 6.949/2009). O detalhamento do modelo consta do Cap. 18; no plano administrativo importa o seu reflexo procedimental, a exigir a atuação conjunta das duas áreas tanto na concessão quanto na reavaliação.
 
@@ -426,7 +426,7 @@ A reavaliação bienal do BPC gera contencioso significativo nos JEFs. O INSS co
 
 A cessação do BPC apresenta particularidades que a distinguem da cessação de benefícios por incapacidade do RGPS. O BPC pode ser cessado tanto por alteração da condição de deficiência quanto por superação do critério de miserabilidade. Na primeira hipótese, a avaliação biopsicossocial de reavaliação deve seguir o mesmo modelo IF-BPC da concessão, com participação de perito médico e assistente social. Na segunda, a verificação de renda demanda atualização do CadÚnico e análise individualizada da composição familiar e das despesas do núcleo. A cessação fundada exclusivamente na superação do critério objetivo de renda (1/4 do SM), sem análise das circunstâncias concretas do caso, colide com a orientação do Tema 27/STF e pode ser revertida judicialmente.
 
-### 22.20 Quando Judicializar: Critérios de Decisão
+### 22.20 Quando judicializar: critérios de decisão
 
 A decisão entre permanecer na via administrativa ou judicializar a pretensão previdenciária exige, como destaca Savaris (2023), análise estratégica caso a caso, que o advogado, o defensor público ou o próprio segurado devem ponderar com base em critérios objetivos. Não há resposta única: cada caso apresenta variáveis que influenciam a análise de custo-benefício.
 
@@ -458,9 +458,9 @@ A análise deve considerar, ainda, o perfil do benefício pretendido. Benefício
 | Cessação irregular | Recurso com suspensão | Tutela de urgência imediata |
 :::
 
-### 22.21 Instruindo a Ação Judicial com o Processo Administrativo
+### 22.21 Instruindo a ação judicial com o processo administrativo
 
-O processo administrativo previdenciário constitui peça instrutória de primeira importância para a ação judicial (SAVARIS, 2023; CASTRO; LAZZARI, 2025). A documentação produzida no âmbito do INSS contém informações que o Poder Judiciário dificilmente obteria por outra via, e sua juntada à petição inicial qualifica substancialmente a instrução processual. Sustentamos que a ação judicial previdenciária bem instruída começa pela obtenção completa do processo administrativo. Os requisitos formais da petição inicial no JEF são tratados no Cap. 23, § 23.11; aqui consolidamos o checklist de documentos por tipo de ação.
+O processo administrativo previdenciário constitui peça instrutória de primeira importância para a ação judicial (Savaris, 2023; Castro; Lazzari, 2025). A documentação produzida no âmbito do INSS contém informações que o Poder Judiciário dificilmente obteria por outra via, e sua juntada à petição inicial qualifica substancialmente a instrução processual. Sustentamos que a ação judicial previdenciária bem instruída começa pela obtenção completa do processo administrativo. Os requisitos formais da petição inicial no JEF são tratados no Cap. 23, § 23.11; aqui consolidamos o checklist de documentos por tipo de ação.
 
 A documentação necessária varia conforme o tipo de ação. Nas ações de concessão, os documentos essenciais são: comprovante de requerimento administrativo com a data de entrada do requerimento (DER), comunicação do indeferimento com a motivação, extrato do Cadastro Nacional de Informações Sociais (CNIS), laudo da perícia médica administrativa (quando houver), e documentos pessoais e profissionais apresentados ao INSS. A DER é particularmente relevante porque fixa, em regra, a data de início do benefício (DIB) e o termo inicial dos efeitos financeiros da condenação.
 
@@ -490,9 +490,9 @@ A juntada integral do processo administrativo na petição inicial permite ao ju
 10. Procuração com poderes especiais e declaração de hipossuficiência
 :::
 
-### 22.22 Prévio Requerimento Administrativo: Aprofundamento do Tema 350/STF
+### 22.22 Prévio requerimento administrativo: aprofundamento do tema 350/STF
 
-O Tema 350/STF (RE 631.240, Plenário, j. 03/09/2014, Rel. Min. Luís Roberto Barroso) constitui o marco jurisprudencial definitivo sobre a exigência de prévio requerimento administrativo como condição para o ajuizamento de ações previdenciárias (AMADO, 2025; SAVARIS, 2023). A tese, com sua regra geral e duas exceções expressas, está reproduzida no box jurisprudencial da seção 23.8 (Cap. 23). Examinamos a seguir seus desdobramentos práticos.
+O Tema 350/STF (RE 631.240, Plenário, j. 03/09/2014, Rel. Min. Luís Roberto Barroso) constitui o marco jurisprudencial definitivo sobre a exigência de prévio requerimento administrativo como condição para o ajuizamento de ações previdenciárias (Amado, 2025; Savaris, 2023). A tese, com sua regra geral e duas exceções expressas, está reproduzida no box jurisprudencial da seção 23.8 (Cap. 23). Examinamos a seguir seus desdobramentos práticos.
 
 A modulação de efeitos fixada pelo STF tem consequências práticas diretas. As ações ajuizadas antes do julgamento do RE 631.240 (03/09/2014) não são atingidas pela exigência, permanecendo válidas independentemente de requerimento prévio. Para as ações posteriores, a tese se aplica integralmente. Para os efeitos processuais do Tema 350 nos JEFs (condição da ação, indeferimento da inicial, regularização superveniente), ver Cap. 23, § 23.8.
 
@@ -504,9 +504,9 @@ A prova do requerimento prévio incumbe ao autor. O comprovante de protocolo obt
 
 O juiz do JEF deve agir com prudência ao extinguir processo por falta de requerimento administrativo, intimando o autor para regularização antes de proferir sentença de extinção (art. 6º do CPC). Para o detalhamento do procedimento de regularização e triagem nos JEFs — e para o enunciado integral da tese —, ver Cap. 23, § 23.8.
 
-### 22.23 O Processo Administrativo como Fonte de Prova Judicial
+### 22.23 O processo administrativo como fonte de prova judicial
 
-O processo administrativo previdenciário não se esgota em sua função de pressuposto processual; é, acima de tudo, fonte de prova de valor singular para a instrução da ação judicial (IBRAHIM, 2025). Os documentos nele contidos possuem características probatórias próprias que o juiz do JEF deve conhecer e o advogado deve saber explorar.
+O processo administrativo previdenciário não se esgota em sua função de pressuposto processual; é, acima de tudo, fonte de prova de valor singular para a instrução da ação judicial (Ibrahim, 2025). Os documentos nele contidos possuem características probatórias próprias que o juiz do JEF deve conhecer e o advogado deve saber explorar.
 
 O CNIS ocupa posição de destaque como prova privilegiada. O art. 29-A da Lei 8.213/1991 atribui presunção relativa de veracidade aos dados do Cadastro Nacional de Informações Sociais para fins de cálculo do salário de benefício. Os vínculos, remunerações e contribuições registrados no CNIS presumem-se corretos até prova em contrário. A divergência entre CNIS e CTPS gera questão probatória frequente nos JEFs: quando a CTPS registra vínculo não constante do CNIS, a presunção opera em favor das anotações na carteira profissional (Súmula 75/TNU). Quando o CNIS contém indicadores de pendência ou extemporaneidade, o INSS deve apurar a regularidade da informação antes de utilizá-la para indeferir benefício, e o segurado tem o ônus de esclarecer a divergência na via judicial.
 
@@ -516,7 +516,7 @@ O processo administrativo original, com fichas financeiras, memórias de cálcul
 
 Na prática dos JEFs, o ofício ao INSS para remessa do processo administrativo digitalizado é ferramenta de uso corrente. O juiz deve fixar prazo razoável para cumprimento (em geral, 30 dias) e especificar os documentos necessários, evitando solicitações genéricas que resultam em remessas incompletas ou excessivas. A digitalização do acervo administrativo pelo INSS tem facilitado o cumprimento dessas determinações, mas ainda há deficiências, especialmente em processos mais antigos, cujos documentos permanecem em formato físico nos arquivos das Agências. A recusa ou demora injustificada no cumprimento do ofício pode ensejar as medidas coercitivas previstas no CPC, incluindo a aplicação de multa diária ao responsável pelo cumprimento.
 
-### 22.24 Consolidação das Posições Adotadas
+### 22.24 Consolidação das posições adotadas
 
 Ao longo deste capítulo, fixamos posições sobre os temas centrais do processo administrativo previdenciário e sua interface com a atividade jurisdicional nos JEFs. Consolidamos, a seguir, as posições adotadas, com indicação das seções em que cada uma foi fundamentada.
 
@@ -536,7 +536,7 @@ Ao longo deste capítulo, fixamos posições sobre os temas centrais do processo
 
 ---
 
-#### 22.24.1 Legislação
+#### Legislação
 
 - Constituição Federal de 1988 (arts. 5º, LIV e LV; 194; 195; 201; 203)
 - Lei 8.213, de 24 de julho de 1991 (arts. 41-A, 60, 103, 103-A, 176)
@@ -552,7 +552,7 @@ Ao longo deste capítulo, fixamos posições sobre os temas centrais do processo
 - Portaria MPS nº 125, de 14 de fevereiro de 2026
 - Portaria Conjunta MPS/INSS nº 13, de 21 de março de 2026
 
-#### 22.24.2 Jurisprudência
+#### Jurisprudência
 
 - Tema 350/STF (RE 631.240, Plenário, j. 03/09/2014, Rel. Min. Luís Roberto Barroso)
 - Tema 1.196/STF (RE 1.347.526, Tribunal Pleno, Rel. Min. Cristiano Zanin, j. 15/09/2025) — constitucionalidade da alta programada
@@ -565,7 +565,7 @@ Ao longo deste capítulo, fixamos posições sobre os temas centrais do processo
 - Súmula 75/TNU — prevalência das anotações da CTPS sobre o CNIS
 - Súmulas 346 e 473/STF
 
-#### 22.24.3 Doutrina
+#### Doutrina
 
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 28. ed. Niterói: Impetus, 2025.
 - AMADO, Frederico. *Curso de Direito e Processo Previdenciário*. 19. ed. Salvador: JusPodivm, 2025.

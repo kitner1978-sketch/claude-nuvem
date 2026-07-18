@@ -19,7 +19,7 @@ Para o magistrado, o domínio das regras de cálculo é condição indispensáve
 
 Este capítulo reúne a teoria geral do cálculo do benefício, desde a evolução legislativa do salário de benefício e do período básico de cálculo até o fator previdenciário, o coeficiente de 60% + 2%, o quadro unificado da RMI, as regras de teto e piso, o reajustamento, a correção monetária dos salários de contribuição, as atividades concomitantes, a Revisão da Vida Toda e a memória de cálculo nos JEFs.
 
-### 16.2 Conceito e Evolução do Salário de Benefício
+### 16.2 Conceito e evolução do salário de benefício
 
 O salário de benefício, conforme ensinam Castro e Lazzari (2025), é a grandeza intermediária entre os salários de contribuição efetivamente recolhidos pelo segurado e a renda mensal que ele perceberá a título de benefício previdenciário. Compreender essa posição intermediária é essencial para evitar confusões terminológicas que, na prática, geram erros de cálculo.
 
@@ -49,11 +49,11 @@ A Emenda Constitucional n. 103, de 12 de novembro de 2019, introduziu o terceiro
 
 Essa progressão revela uma tendência clara de ampliação do período de cálculo e de redução dos mecanismos de proteção ao segurado. A fórmula original dos 36 últimos meses era generosa; a fórmula dos 80% maiores ainda preservava um filtro de proteção; a fórmula atual, sem descarte, é a menos favorável ao segurado com histórico contributivo heterogêneo.
 
-### 16.3 Período Básico de Cálculo (PBC)
+### 16.3 Período básico de cálculo (PBC)
 
 O período básico de cálculo é o intervalo temporal do qual se extraem os salários de contribuição utilizados na apuração do salário de benefício. A definição do PBC determina quais meses de contribuição são considerados, e, por consequência, quais são descartados, para fins de cálculo da média. As regras que disciplinam o PBC determinam a correta apuração do benefício, especialmente nos casos em que o segurado transita entre o regime anterior e o regime posterior à EC 103/2019.
 
-#### 16.3.1 Regra pré-EC 103: os 80% maiores desde julho de 1994
+#### 16.3.1 Regra pré-ec 103: os 80% maiores desde julho de 1994
 
 Para os benefícios com fato gerador anterior a 13 de novembro de 2019, e para os segurados que exercem direito adquirido à regra anterior, o PBC é composto pela totalidade dos salários de contribuição desde a competência julho de 1994 até o mês anterior ao do requerimento. Sobre esse universo, aplica-se o filtro de descarte: eliminam-se os 20% menores salários de contribuição, e a média aritmética é calculada sobre os 80% restantes.
 
@@ -63,7 +63,7 @@ O descarte dos 20% menores salários de contribuição representava mecanismo de
 
 A lógica protetiva do descarte dos 20% menores tinha fundamento no princípio da preservação do valor real dos benefícios (art. 201, § 4º, CF): se o objetivo da previdência é assegurar renda compatível com o padrão de vida do segurado durante a atividade, faz sentido eliminar do cálculo os meses atípicos de contribuição reduzida.
 
-#### 16.3.2 Regra pós-EC 103: a média de 100% desde julho de 1994
+#### 16.3.2 Regra pós-ec 103: a média de 100% desde julho de 1994
 
 A EC 103/2019 eliminou o descarte dos 20% menores, determinando que o salário de benefício corresponda à média aritmética simples de todos os salários de contribuição desde julho de 1994 (art. 26, caput). A mudança é significativa: os meses de contribuição mais baixa, antes excluídos, passam a integrar o cálculo, reduzindo a média para a maioria dos segurados com histórico contributivo irregular.
 
@@ -77,7 +77,7 @@ Para atenuar parcialmente esse impacto, o art. 26, § 6º, da EC 103/2019 facult
 A eliminação do descarte dos 20% menores salários de contribuição pela EC 103/2019 prejudica sobretudo os segurados que, ao longo de sua vida laboral, alternaram períodos de contribuição sobre valores elevados com períodos de contribuição sobre o salário mínimo. Para esses segurados, a inclusão de todos os meses no cálculo reduz significativamente a média. O art. 26, § 6º, da EC 103 oferece um mecanismo de mitigação (exclusão facultativa de contribuições prejudiciais), mas essa exclusão está condicionada à manutenção do tempo mínimo de contribuição. Na prática, o segurado que possui tempo de contribuição apenas ligeiramente superior ao mínimo exigido terá margem muito reduzida para utilizar esse mecanismo — precisamente o perfil que mais se beneficiaria dele.
 :::
 
-#### 16.3.3 O divisor mínimo e a Lei n. 14.331/2022
+#### 16.3.3 O divisor mínimo e a lei n. 14.331/2022
 
 A regra de cálculo da média de salários de contribuição gerou, nos primeiros anos de vigência da EC 103/2019, uma distorção que ficou conhecida como "milagre da contribuição única". A distorção decorria da interpretação de que o segurado com longo período sem contribuição e apenas uma ou poucas contribuições de valor elevado poderia obter um salário de benefício desproporcional, uma vez que a média de um único salário de contribuição é o próprio salário de contribuição.
 
@@ -97,7 +97,7 @@ Essa regra geral comporta nuances relevantes. O segurado que implementou todos o
 
 A reafirmação da DER, consolidada no Tema 995 do STJ, adiciona complexidade ao quadro. O STJ firmou a tese de que é possível reafirmar a data de entrada do requerimento para o momento em que o segurado implementou todos os requisitos, inclusive durante o processo judicial, até a data da sentença. A data de início do benefício (DIB) é fixada na data em que os requisitos foram preenchidos. A implicação para o cálculo é direta: se os requisitos foram implementados antes de 13/11/2019, a fórmula aplicável é a dos 80% maiores; se foram implementados após essa data, aplica-se a média de 100%. A reafirmação da DER pode, portanto, alterar não apenas a DIB, mas a própria regra de cálculo aplicável (conforme analisado na seção 10.8).
 
-### 16.4 Fator Previdenciário
+### 16.4 Fator previdenciário
 
 O fator previdenciário é uma fórmula atuarial que incide sobre o salário de benefício, podendo majorá-lo ou reduzi-lo conforme a combinação de idade, tempo de contribuição e expectativa de sobrevida do segurado na data do requerimento. Desde sua criação em 1999, o fator previdenciário tem sido o mecanismo mais controverso do sistema de cálculo previdenciário brasileiro — elogiado por seus defensores como instrumento de equilíbrio atuarial e criticado por seus opositores como fórmula punitiva que penaliza o segurado que se aposenta mais jovem.
 
@@ -146,7 +146,7 @@ f = 0,3758 × 1,6692 = 0,6272
 A simulação evidencia o efeito redutor severo do fator para seguradas que se aposentam antes dos 60 anos, mesmo com tempo de contribuição razoável. Comparativamente, se Beatriz postergasse a aposentadoria por 3 anos (60 anos de idade, 30 anos de TC efetivo, Tc = 35 com bônus), o fator subiria para aproximadamente 0,78, redução da penalização em mais de 10 pontos percentuais.
 :::
 
-#### 16.4.3 Constitucionalidade: ADI 2.111 e Tema 616/STF
+#### 16.4.3 Constitucionalidade: ADI 2.111 e tema 616/STF
 
 O fator previdenciário foi objeto de controle concentrado de constitucionalidade na ADI 2.111, que impugnava a Lei n. 9.876/99 por alegada violação aos princípios da irredutibilidade do valor dos benefícios e da preservação do seu valor real. O Supremo Tribunal Federal, em julgamento final concluído em 21 de março de 2024, declarou a constitucionalidade do fator previdenciário, por maioria, entendendo que a fórmula atuarial constitui mecanismo legítimo de equilíbrio financeiro e atuarial do sistema previdenciário, nos termos do art. 201, caput, da Constituição Federal.
 
@@ -168,13 +168,13 @@ A declaração de constitucionalidade teve repercussão direta sobre outra contr
 
 Essa declaração de cogência do art. 3º da Lei n. 9.876/99 constituiu um dos fundamentos centrais para a reversão da tese da Revisão da Vida Toda pelo STF, conforme analisaremos na seção 16.11. A lógica foi a seguinte: se o art. 3º da Lei n. 9.876/99 é cogente (e não facultativo), o segurado não pode optar pela regra do art. 29 da Lei n. 8.213/91 em sua redação original — e, portanto, não pode incluir no cálculo os salários de contribuição anteriores a julho de 1994.
 
-#### 16.4.4 A regra 85/95 (Lei n. 13.183/2015)
+#### 16.4.4 A regra 85/95 (lei n. 13.183/2015)
 
 A insatisfação dos segurados com os efeitos redutores do fator previdenciário levou à criação, pela Lei n. 13.183/2015, da chamada regra 85/95 — alternativa que permitia ao segurado afastar a aplicação do fator quando atingisse pontuação mínima (soma de idade e tempo de contribuição). O segurado mulher precisava atingir 85 pontos, e o homem, 95 pontos, com progressão bianual até atingir 90/100 pontos. Ao atingir a pontuação, o segurado aposentava-se com 100% do salário de benefício, sem incidência do fator.
 
 A regra 85/95 foi tratada em detalhe na seção 11.9, com o exemplo da segurada Sônia e a tabela de progressão de pontos, a que remetemos o leitor. A regra 85/95 perdeu aplicabilidade prática após a EC 103/2019, subsistindo apenas para os segurados com direito adquirido — aqueles que atingiram a pontuação mínima até 12 de novembro de 2019. Para os demais, a regra foi absorvida pela nova sistemática das regras de transição (arts. 15 a 20 da EC 103).
 
-#### 16.4.5 Aplicabilidade do fator previdenciário pós-EC 103/2019
+#### 16.4.5 Aplicabilidade do fator previdenciário pós-ec 103/2019
 
 A EC 103/2019, ao substituir a fórmula de cálculo dos benefícios pelo coeficiente de 60% + 2%, não revogou expressamente o fator previdenciário. A questão que se coloca é: em quais hipóteses o fator previdenciário ainda se aplica após a reforma?
 
@@ -186,13 +186,13 @@ A resposta varia conforme a situação do segurado:
 
 **c) Não se aplica:** Para os benefícios calculados exclusivamente pela regra pós-EC 103 — aposentadoria programada (denominação adotada pela EC 103 e pela regulamentação infralegal para o benefício do art. 201, § 7º, I, da CF), aposentadoria por incapacidade permanente (arts. 26, §§ 2º e 3º, EC 103), regras de transição dos arts. 15, 16 e 20 da EC 103 —, o fator previdenciário não se aplica. Nesses casos, o cálculo é feito exclusivamente pelo coeficiente de 60% + 2%, sem qualquer incidência da fórmula atuarial do fator.
 
-### 16.5 Coeficiente de Cálculo Pós-EC 103/2019
+### 16.5 Coeficiente de cálculo Pós-EC 103/2019
 
 A EC 103/2019 substituiu a multiplicidade de coeficientes de cálculo que vigoravam na legislação anterior por uma fórmula unificada, prevista no art. 26, §§ 2º a 5º. Essa fórmula, ao vincular o percentual do benefício ao tempo de contribuição do segurado, estabeleceu um sistema progressivo em que a renda mensal inicial cresce proporcionalmente ao período contributivo. A lógica é de incentivo à permanência no sistema: quanto mais tempo o segurado contribui, maior o percentual que receberá.
 
 #### 16.5.1 Regra geral: 60% + 2% por ano excedente
 
-A regra geral do coeficiente pós-EC 103, examinada pela doutrina (CASTRO; LAZZARI, 2025; HORVATH JÚNIOR, 2025), está no art. 26, § 2º. O benefício corresponde a 60% do salário de benefício, acrescidos de 2 pontos percentuais para cada ano de contribuição que exceder 20 anos (para o homem) ou 15 anos (para a mulher).
+A regra geral do coeficiente pós-EC 103, examinada pela doutrina (Castro; Lazzari, 2025; Horvath Júnior, 2025), está no art. 26, § 2º. O benefício corresponde a 60% do salário de benefício, acrescidos de 2 pontos percentuais para cada ano de contribuição que exceder 20 anos (para o homem) ou 15 anos (para a mulher).
 
 A fórmula é: **RMI = SB × [60% + 2% × (TC – 20)]** para homens, e **RMI = SB × [60% + 2% × (TC – 15)]** para mulheres.
 
@@ -230,7 +230,7 @@ A regra geral do coeficiente 60% + 2% admite exceções expressas no texto da EC
 
 **d) Aposentadoria da pessoa com deficiência (art. 22 da EC 103):** O coeficiente é de 100% do salário de benefício, sem aplicação do redutor de 60% + 2%. A norma da LC 142/2013 foi preservada expressamente pela EC 103, que manteve a integralidade do benefício para os segurados com deficiência.
 
-#### 16.5.3 Constitucionalidade do coeficiente de 60% + 2% para incapacidade permanente: Tema 1300/STF
+#### 16.5.3 Constitucionalidade do coeficiente de 60% + 2% para incapacidade permanente: tema 1300/STF
 
 A aplicação do coeficiente de 60% + 2% à aposentadoria por incapacidade permanente não acidentária gerou intensa controvérsia. A questão central era saber se a redução do benefício por incapacidade em razão do pouco tempo de contribuição violaria os princípios da dignidade da pessoa humana e da vedação ao retrocesso social, considerando que o segurado incapaz não tem como ampliar sua contribuição ao sistema.
 
@@ -246,7 +246,7 @@ No RE 1.469.150 (Tema 1300), julgado em 18/12/2025, o STF declarou constituciona
 
 A decisão do STF não encerrou todas as controvérsias. Permanecem em aberto questões como a possibilidade de aplicação do coeficiente de 100% quando a incapacidade permanente decorre de doença ocupacional (equiparada a acidente do trabalho para fins do art. 20 da Lei n. 8.213/91), e a viabilidade de aplicação analógica do art. 26, § 3º, II, da EC 103 (que garante 100% na incapacidade acidentária) às hipóteses de doença profissional. Essas questões ainda não foram objeto de pronunciamento vinculante dos tribunais superiores.
 
-### 16.6 Renda Mensal Inicial (RMI) — Quadro Unificado
+### 16.6 Renda mensal inicial (RMI) — quadro unificado
 
 A renda mensal inicial é o valor que o segurado efetivamente receberá no primeiro mês do benefício. Resulta da aplicação do coeficiente de cálculo sobre o salário de benefício, observados o piso constitucional e o teto do RGPS. A compreensão da RMI exige domínio tanto da base de cálculo (salário de benefício, seções 16.2 e 16.3) quanto do coeficiente aplicável (fator previdenciário ou coeficiente pós-EC 103, seções 16.4 e 16.5).
 
@@ -312,7 +312,7 @@ A análise comparativa entre as regras de cálculo foi realizada na seção 10.1
 
 Na prática forense, a identificação da regra mais vantajosa exige a elaboração de cálculo comparativo — tarefa que, nos processos judiciais, pode ser desempenhada pelo advogado (na inicial), pelo contador judicial (por determinação do juiz) ou pelo próprio INSS (quando instado a apresentar os cálculos nas diferentes regras). O magistrado deve estar atento para determinar, quando necessário, a apresentação de cálculos comparativos que permitam a concessão do benefício mais favorável ao segurado.
 
-### 16.7 Teto e Piso dos Benefícios
+### 16.7 Teto e piso dos benefícios
 
 O sistema previdenciário brasileiro opera dentro de limites inferior e superior que balizam o valor dos benefícios. O piso constitucional (salário mínimo) e o teto do RGPS funcionam como moldura dentro da qual se insere o cálculo do benefício. A compreensão dessas balizas é essencial para a correta fixação da RMI e para a análise das ações revisionais fundadas na readequação dos tetos.
 
@@ -356,7 +356,7 @@ O teto é reajustado anualmente pelo mesmo índice aplicado ao reajuste dos bene
 | 2026 | 8.475,55 | Port. MPS/MF 13/26 |
 :::
 
-#### 16.7.3 Revisão do teto: Tema 76/STF (RE 564.354)
+#### 16.7.3 Revisão do teto: tema 76/STF (RE 564.354)
 
 As Emendas Constitucionais n. 20/1998 e n. 41/2003 elevaram o teto dos benefícios do RGPS em patamares superiores ao reajuste ordinário. A EC 20/98 fixou o teto em R$ 1.200,00 (art. 14 do ADCT), e a EC 41/03 elevou-o para R$ 2.400,00 (art. 5º). Os segurados cujo salário de benefício havia sido limitado pelo teto anterior, inferior aos novos patamares, sustentaram que teriam direito à readequação do benefício aos novos tetos, com pagamento de diferenças retroativas.
 
@@ -384,7 +384,7 @@ No RE 937.595 (Tema 930, Rel. Min. Luís Roberto Barroso, j. 03/02/2017), o STF,
 **Alcance:** o precedente estende a possibilidade de readequação ao teto, reconhecida no Tema 76 (RE 564.354), aos benefícios concedidos no "buraco negro" — aqueles deferidos entre a promulgação da CF/1988 e a vigência da Lei n. 8.213/91. A readequação não é automática: deve ser aferida caso a caso, observados os mesmos parâmetros do RE 564.354, ou seja, verifica-se se o salário de benefício original, sem a limitação do teto então vigente, era superior aos tetos das ECs 20/1998 e 41/2003.
 :::
 
-#### 16.7.4 Benefícios anteriores à CF/1988 e os tetos das ECs 20/1998 e 41/2003: Tema 1.140/STJ
+#### 16.7.4 Benefícios anteriores à CF/1988 e os tetos das ECs 20/1998 e 41/2003: tema 1.140/STJ
 
 A readequação aos tetos das ECs 20/1998 e 41/2003 suscitou questão própria em relação aos benefícios concedidos antes da Constituição Federal de 1988. Para esses benefícios, discutia-se qual limitador deveria ser utilizado no cálculo da adequação aos novos tetos constitucionais, considerando que, no regime anterior, o sistema operava com a técnica do "menor valor-teto" e do "maior valor-teto", e não com um teto único como o do RGPS atual.
 
@@ -408,7 +408,7 @@ A diferença entre a remuneração da segurada e o teto do RGPS é suportada pel
 
 Essa exceção ao teto geral do RGPS decorre do reconhecimento de que o salário-maternidade tem natureza salarial e visa assegurar à gestante a manutenção integral de seus rendimentos durante o período de licença, sem que a proteção previdenciária implique redução de renda. A limitação pelo subsídio de Ministro do STF funciona como teto absoluto, aplicável a todas as categorias de seguradas, e tem sido observada pelo INSS nas orientações internas de processamento do benefício.
 
-### 16.8 Reajustamento dos Benefícios
+### 16.8 Reajustamento dos benefícios
 
 O valor do benefício previdenciário não permanece estático após a concessão. O reajustamento periódico é garantia constitucional (art. 201, § 4º, CF) e mecanismo indispensável para preservar o poder aquisitivo da prestação frente à corrosão inflacionária. Compreender as regras de reajustamento é essencial para o magistrado que se depara com ações revisionais e com a conferência de valores em demandas previdenciárias nos JEFs.
 
@@ -426,7 +426,7 @@ A sistemática atual opera em dois patamares distintos. Os benefícios no valor 
 
 **Distinção entre reajustamento e revisão.** O reajustamento (art. 41-A) é a atualização periódica do valor do benefício para preservar o poder aquisitivo, incidindo sobre todos os benefícios em manutenção. A revisão (art. 103) é o recálculo do valor originário do benefício em razão de erro na apuração do salário de benefício, da RMI ou dos elementos que os compõem. O reajustamento preserva; a revisão corrige. Ações que postulam índices de reajuste diversos dos legais são, a rigor, ações de reajustamento, não de revisão, e submetem-se à prescrição quinquenal das parcelas, sem prazo decadencial (Súmula 85/STJ). O prazo decadencial de dez anos (art. 103, Lei 8.213/91) aplica-se apenas às revisões do ato de concessão. O Capítulo 17 aprofundará essas distinções no âmbito processual.
 
-### 16.9 Correção Monetária dos Salários de Contribuição
+### 16.9 Correção monetária dos salários de contribuição
 
 Se o reajustamento preserva o valor do benefício após a concessão, a correção monetária dos salários de contribuição, como destacam Kertzman (2025) e Castro e Lazzari (2025), assegura que os valores utilizados para o cálculo do benefício reflitam seu real poder aquisitivo na data da apuração. Sem essa atualização, contribuições vertidas décadas antes da aposentadoria perderiam quase integralmente seu valor, distorcendo a média que compõe o salário de benefício.
 
@@ -452,7 +452,7 @@ Confundir esses dois planos pode levar a erros graves na memória de cálculo: u
 
 **Meses sem contribuição e o impacto na correção.** Uma questão prática recorrente diz respeito aos meses em que não houve recolhimento. No regime pré-EC 103 (média dos 80% maiores), os meses sem contribuição eram simplesmente descartados do PBC. No regime pós-EC 103 (média de 100%), a exclusão de contribuições que reduzam o salário de benefício (art. 26, § 6º, EC 103) permite ao segurado afastar os meses de menor valor, mas a iniciativa deve ser expressa e o tempo mínimo de contribuição para a espécie deve ser mantido. O magistrado que se depara com pedido de recálculo deve atentar para essa distinção: não se trata de corrigir valores, mas de verificar se a composição do PBC observou a regra vigente na DIB.
 
-### 16.10 Atividades Concomitantes
+### 16.10 Atividades concomitantes
 
 O segurado que exerce simultaneamente mais de uma atividade remunerada vinculada ao RGPS contribui por cada uma delas. A forma como essas contribuições múltiplas integram o cálculo do salário de benefício sofreu transformação relevante, passando de um regime de segregação a um modelo de soma. A questão tem impacto direto na RMI de segurados com vínculos simultâneos, como o professor que leciona em duas escolas, o empregado que também é contribuinte individual ou o profissional de saúde com múltiplos contratos.
 
@@ -474,9 +474,9 @@ Tese vinculante: "Após o advento da Lei 9.876/99, e para fins de cálculo do be
 Impacto prático: segurados com múltiplos vínculos simultâneos aposentados após novembro/1999 podem requerer revisão da RMI para que as contribuições sejam somadas, em vez de calculadas proporcionalmente pelo antigo art. 32. A revisão submete-se ao prazo decadencial de 10 anos. Para o procedimento revisional (instrução, CNIS e cálculo de diferenças), v. Capítulo 17, seção 17.8.1.
 :::
 
-### 16.11 Revisão da Vida Toda — Tema 1.102/STF
+### 16.11 Revisão da vida toda — tema 1.102/STF
 
-A chamada "revisão da vida toda" (IBRAHIM, 2025; SAVARIS, 2023) envolve a possibilidade de o segurado optar, para fins de cálculo do salário de benefício, pela regra permanente do art. 29, I e II, da Lei 8.213/91 (que considera os salários de contribuição de todo o período contributivo, inclusive anteriores a julho de 1994), em vez da regra de transição do art. 3º da Lei 9.876/1999 (que limita o PBC aos salários de contribuição a partir de julho de 1994 e descarta os 20% menores). Para a análise detalhada da cronologia processual do Tema 1.102/STF — julgamento original de dezembro de 2022, reversão em embargos infringentes de novembro de 2025, modulação de efeitos e embargos pendentes de maio de 2026 —, v. Capítulo 17, seção 17.3.
+A chamada "revisão da vida toda" (Ibrahim, 2025; Savaris, 2023) envolve a possibilidade de o segurado optar, para fins de cálculo do salário de benefício, pela regra permanente do art. 29, I e II, da Lei 8.213/91 (que considera os salários de contribuição de todo o período contributivo, inclusive anteriores a julho de 1994), em vez da regra de transição do art. 3º da Lei 9.876/1999 (que limita o PBC aos salários de contribuição a partir de julho de 1994 e descarta os 20% menores). Para a análise detalhada da cronologia processual do Tema 1.102/STF — julgamento original de dezembro de 2022, reversão em embargos infringentes de novembro de 2025, modulação de efeitos e embargos pendentes de maio de 2026 —, v. Capítulo 17, seção 17.3.
 
 **Situação vigente e impacto no cálculo.** A tese firmada em 26/11/2025 é de que a revisão da vida toda é indevida, após a declaração de constitucionalidade e cogência do art. 3º da Lei 9.876/1999 nas ADIs 2.110 e 2.111 (j. 21/03/2024). A modulação protege beneficiários com decisão judicial proferida até 5 de abril de 2024 (irrepetibilidade dos valores pagos e inexigibilidade de sucumbência). A ampliação dessa modulação está pendente de julgamento em plenário físico (destaque em 11/05/2026).
 
@@ -510,7 +510,7 @@ A revisão da vida toda foi declarada **indevida** pelo STF em 26/11/2025. Novos
 O tema será revisitado no Capítulo 17 sob o prisma processual (ação rescisória, modulação e coisa julgada).
 :::
 
-### 16.12 Prática: Simulação de Cálculo e Memória de Cálculo nos JEFs
+### 16.12 Prática: simulação de cálculo e memória de cálculo nos JEFs
 
 O magistrado dos Juizados Especiais Federais lida diariamente com valores de benefícios previdenciários, seja para conferir a RMI apurada pelo INSS, para liquidar sentenças ou para verificar se o valor da causa se enquadra na competência dos JEFs (atualmente 60 salários mínimos, ou R$ 97.260,00). A familiaridade com a mecânica do cálculo previdenciário não é mero conhecimento teórico: é ferramenta de trabalho indispensável para a prestação jurisdicional efetiva. Esta seção apresenta a estrutura da memória de cálculo, duas simulações completas e orientações práticas para a conferência dos cálculos nos autos.
 
@@ -528,7 +528,7 @@ A quarta etapa envolve a aplicação do fator previdenciário (quando cabível) 
 
 A quinta etapa é o cálculo das parcelas vencidas (diferenças mensais entre o valor devido e o valor efetivamente pago pelo INSS, mês a mês, desde a DIB fixada na sentença até a data do cálculo ou da implantação do benefício correto). A sexta etapa aplica a correção monetária e os juros sobre cada parcela vencida, observada a regra vigente para o respectivo período (SELIC a partir da EC 113/2021; regras do Tema 905/STJ para períodos anteriores, conforme Capítulo 23). A sétima etapa deduz eventuais descontos (valores já pagos, tutela antecipada cumprida, contribuições previdenciárias e imposto de renda retido na fonte, honorários), produzindo o valor líquido da RPV.
 
-#### 16.12.2 Simulação 1: Aposentadoria programada pós-EC 103
+#### 16.12.2 Simulação 1: aposentadoria programada pós-ec 103
 
 Apresentamos o cálculo completo para um caso hipotético que sintetiza as regras vigentes.
 
@@ -546,7 +546,7 @@ Apresentamos o cálculo completo para um caso hipotético que sintetiza as regra
 
 **Etapa 6 — Enquadramento na competência dos JEFs.** O valor bruto das parcelas vencidas (R$ 17.920,00 nominais, antes da SELIC) está dentro do limite de 60 SM (R$ 97.260,00), confirmando a competência dos JEFs.
 
-#### 16.12.3 Simulação 2: Aposentadoria por incapacidade permanente — acidentária versus não acidentária
+#### 16.12.3 Simulação 2: aposentadoria por incapacidade permanente — acidentária versus não acidentária
 
 A distinção entre a aposentadoria por incapacidade permanente de origem comum e a de origem acidentária produz impacto dramático no valor do benefício após a EC 103/2019, acentuado pela constitucionalidade do coeficiente de 60%+2% declarada no Tema 1.300/STF.
 
@@ -594,7 +594,7 @@ Ao examinar a RMI apurada pelo INSS ou a memória de cálculo apresentada nos au
 (i) Na liquidação, a SELIC está sendo aplicada corretamente sobre as parcelas vencidas pós-EC 113/2021? Para parcelas anteriores, os critérios do Tema 905/STJ foram observados?
 :::
 
-### 16.13 Síntese e Quadros Práticos
+### 16.13 Síntese e quadros práticos
 
 O sistema de cálculo dos benefícios do RGPS, embora fundado em operações aritméticas simples, adquire complexidade pela sobreposição de regimes temporais e pela diversidade de coeficientes por espécie. Os quadros a seguir consolidam as informações essenciais para consulta rápida na prática forense.
 
@@ -687,7 +687,7 @@ O sistema de cálculo dos benefícios do RGPS, embora fundado em operações ari
 | 10. Parcelas vencidas | Período correto (DIB até implantação)? SELIC aplicada (pós-EC 113/2021)? Descontos lançados? | EC 113/2021; Tema 905/STJ |
 :::
 
-### 16.14 Referências
+### Referências
 
 #### Legislação
 

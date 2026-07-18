@@ -9,7 +9,7 @@ secoes: "14.1 a 14.20"
 
 ## Capítulo 14 — Auxílio-Reclusão
 
-### 14.1 Introdução e Fundamento Constitucional
+### 14.1 Introdução e fundamento constitucional
 
 O auxílio-reclusão é o benefício previdenciário mais criticado pela opinião pública e, por isso, o mais restringido pela EC 103/2019. Embora represente menos de 0,1% do total de benefícios pagos pelo INSS, o auxílio-reclusão ocupa espaço desproporcional no debate público, frequentemente instrumentalizado por discursos que confundem proteção social dos dependentes com suposto privilégio ao preso. Nos Juizados Especiais Federais, a demanda por sua concessão e manutenção é significativa e exige do operador domínio técnico aprofundado.
 
@@ -43,9 +43,9 @@ A data determinante é o **recolhimento à prisão**, não a data da sentença c
 **Nota:** Entre 18/01/2019 e 12/11/2019 (MP 871/2019, convertida na Lei 13.846/2019), vigeu regime intermediário com carência de 24 contribuições e restrição ao regime fechado, porém com valor calculado conforme as regras da pensão por morte (não o valor fixo de 1 SM, que só se aplica a partir de 13/11/2019 pela EC 103).
 :::
 
-### 14.2 Natureza Jurídica e Função Social
+### 14.2 Natureza jurídica e função social
 
-A natureza jurídica do auxílio-reclusão é objeto de discussão doutrinária relevante (IBRAHIM, 2025; CASTRO; LAZZARI, 2025). Três correntes podem ser identificadas. A primeira, majoritária, classifica-o como benefício previdenciário stricto sensu, inserido no sistema de proteção social contributiva, que substitui a renda do segurado temporariamente impossibilitado de exercer atividade laborativa. A segunda corrente identifica natureza híbrida, combinando elementos previdenciários (exigência de qualidade de segurado e carência) com elementos assistenciais (proteção à família vulnerável). A terceira, minoritária, sustenta natureza predominantemente assistencial, considerando que o requisito de baixa renda aproxima o benefício do modelo de assistência social.
+A natureza jurídica do auxílio-reclusão é objeto de discussão doutrinária relevante (Ibrahim, 2025; Castro; Lazzari, 2025). Três correntes podem ser identificadas. A primeira, majoritária, classifica-o como benefício previdenciário stricto sensu, inserido no sistema de proteção social contributiva, que substitui a renda do segurado temporariamente impossibilitado de exercer atividade laborativa. A segunda corrente identifica natureza híbrida, combinando elementos previdenciários (exigência de qualidade de segurado e carência) com elementos assistenciais (proteção à família vulnerável). A terceira, minoritária, sustenta natureza predominantemente assistencial, considerando que o requisito de baixa renda aproxima o benefício do modelo de assistência social.
 
 O Supremo Tribunal Federal, no julgamento paradigmático do RE 587.365 (Tema 89, Rel. Min. Ricardo Lewandowski, julgado em 25/03/2009), adotou posição que reforça a natureza previdenciária do benefício, mas com ênfase em sua função protetiva dos dependentes. O Tribunal assentou que o auxílio-reclusão visa "garantir a subsistência da família do segurado de baixa renda recolhido à prisão", reconhecendo que o encarceramento produz efeitos devastadores sobre o núcleo familiar, especialmente sobre crianças e adolescentes.
 
@@ -73,7 +73,7 @@ A desproporção entre a população carcerária e o número de auxílios-reclus
 
 Negar o auxílio-reclusão em situações onde os requisitos legais estão preenchidos equivale, na prática, a penalizar duplamente a família do preso: pela perda da liberdade do provedor e pela supressão da proteção previdenciária.
 
-### 14.3 Evolução Legislativa
+### 14.3 Evolução legislativa
 
 A trajetória legislativa do auxílio-reclusão, como registram Castro e Lazzari (2025), revela um movimento pendular entre ampliação e restrição, refletindo as tensões entre proteção social e contenção de gastos que permeiam toda a história da previdência brasileira.
 
@@ -108,9 +108,9 @@ A cronologia precisa dessas alterações é essencial para a prática forense, p
 - [ ] Prisão provisória anterior à EC 103 com condenação posterior: regime determinado pela data da prisão efetiva
 :::
 
-### 14.4 Fato Gerador: Recolhimento à Prisão
+### 14.4 Fato gerador: recolhimento à prisão
 
-O fato gerador do auxílio-reclusão, conforme a doutrina (IBRAHIM, 2025), é o **efetivo recolhimento do segurado à prisão**, entendido como a privação da liberdade em estabelecimento penal ou equiparado. Não se confunde com a sentença condenatória, com o trânsito em julgado da condenação ou com a expedição do mandado de prisão. O que importa é a privação fática da liberdade do segurado, que o impossibilita de exercer atividade remunerada e de prover o sustento de seus dependentes.
+O fato gerador do auxílio-reclusão, conforme a doutrina (Ibrahim, 2025), é o **efetivo recolhimento do segurado à prisão**, entendido como a privação da liberdade em estabelecimento penal ou equiparado. Não se confunde com a sentença condenatória, com o trânsito em julgado da condenação ou com a expedição do mandado de prisão. O que importa é a privação fática da liberdade do segurado, que o impossibilita de exercer atividade remunerada e de prover o sustento de seus dependentes.
 
 Essa compreensão tem consequências práticas relevantes. Em primeiro lugar, o segurado preso provisoriamente, em flagrante, preventivamente ou temporariamente, gera direito ao auxílio-reclusão, desde que preenchidos os demais requisitos, independentemente de condenação posterior. A prisão provisória é forma legítima de recolhimento à prisão para fins previdenciários. Em segundo lugar, a transferência entre estabelecimentos penais, desde que mantida a condição de preso, não interrompe o benefício. Em terceiro lugar, a prisão em regime aberto, no regime jurídico pós-EC 103, não constitui fato gerador válido, ainda que haja efetivo recolhimento em casa de albergado.
 
@@ -136,7 +136,7 @@ O INSS historicamente exigia certidão de sentença condenatória transitada em 
 **Orientação prática:** Se o INSS indeferir por falta de sentença transitada, impugne imediatamente com mandado de segurança ou ação no JEF com pedido de tutela antecipada.
 :::
 
-### 14.5 Qualidade de Segurado do Preso
+### 14.5 Qualidade de segurado do preso
 
 A manutenção da qualidade de segurado durante a reclusão é assegurada pelo art. 2º da Lei 10.666/2003, que expressamente dispensa contribuições enquanto perdurar o recolhimento à prisão, c/c o art. 15 da Lei 8.213/91 (período de graça após a soltura). O segurado recolhido à prisão mantém a qualidade de segurado durante todo o período de detenção ou reclusão, sem necessidade de contribuições. Sem essa regra, o segurado perderia a qualidade após os prazos ordinários do período de graça, inviabilizando o benefício para seus dependentes em reclusões prolongadas.
 
@@ -172,7 +172,7 @@ A qualidade de segurado do preso tem peculiaridades que merecem análise detida:
 - Relevante para: novo recolhimento à prisão dentro do período de graça
 :::
 
-### 14.6 Critério de Baixa Renda — Regime Pré-EC 103
+### 14.6 Critério de baixa renda — regime Pré-EC 103
 
 O critério de baixa renda é, historicamente, o aspecto mais litigioso do auxílio-reclusão. Desde a EC 20/1998, o benefício é restrito aos dependentes dos segurados de "baixa renda", mas a Constituição não definiu o conceito, delegando-o à legislação infraconstitucional. O resultado foi décadas de controvérsias judiciais sobre dois pontos centrais: (i) quem deve ser o sujeito da aferição de renda, o segurado ou os dependentes; e (ii) qual o parâmetro numérico que define "baixa renda".
 
@@ -217,7 +217,7 @@ Apesar da tese cristalina do STF (Tema 89), o INSS ainda indeferiu milhares de r
 **Todas essas situações são ilegais.** A renda relevante é exclusivamente a do segurado recolhido à prisão. Se necessário, judicialize com fundamento no Tema 89/STF.
 :::
 
-### 14.7 Critério de Baixa Renda — Regime Pós-EC 103
+### 14.7 Critério de baixa renda — regime Pós-EC 103
 
 Com a EC 103/2019, o conceito de "baixa renda" ganhou nova conformação. O art. 27, § 1º, da EC 103 estabeleceu que, até que lei discipline o acesso ao auxílio-reclusão, serão utilizados como critérios de renda os vigentes na data de entrada em vigor da emenda, reajustados pelos mesmos índices aplicados aos benefícios do RGPS. Essa regra de transição manteve a sistemática de fixação do limite por portaria interministerial.
 
@@ -259,7 +259,7 @@ A evolução do limite nos últimos anos demonstra o impacto da política de rea
 
 A questão da flexibilização do limite de baixa renda foi enfrentada pelo STJ no **Tema 1162** (leading case REsp 1.958.361, e REsp 1.971.856 e 1.971.857, 1ª Seção). Conforme o registro oficial do repetitivo, a **afetação** coube à relatoria da Min. Assusete Magalhães (ProAfR julgado em 23/08/2022, DJe 01/09/2022); o **acórdão de mérito**, contudo, foi relatado pelo Min. Teodoro Silva Santos, com julgamento **concluído em 12/11/2025** pela Primeira Seção e acórdão publicado em 19/11/2025. A sucessão de relatoria entre a fase de afetação e o julgamento de mérito é o que explica a coexistência dos dois nomes nos registros do feito; ao citar o repetitivo, deve-se atribuir o voto condutor ao relator do acórdão (Min. Teodoro Silva Santos). A Seção fixou tese em dois pontos: (i) no regime anterior à MP 871/2019, é possível flexibilizar o critério econômico quando a renda supera o limite em percentual ínfimo; (ii) a partir da MP 871/2019, **não é possível** flexibilizar o teto, exceto se o Executivo deixar de corrigir anualmente o limite. Reputamos a segunda ressalva especialmente relevante e, na prática, subexplorada: a inflexibilidade do teto no regime novo é condicionada à efetiva atualização anual pelo Poder Executivo, de modo que a omissão ou o atraso na edição da portaria reabre, por exceção expressa do próprio repetitivo, espaço para a flexibilização. A tese tem, assim, impacto direto na prática dos JEFs — para prisões anteriores a 18/01/2019, cabe arguir a flexibilização quando a renda excede marginalmente o limite; para prisões posteriores, o parâmetro é objetivo, salvo a hipótese de desatualização administrativa do teto.
 
-### 14.8 Carência de 24 Contribuições
+### 14.8 Carência de 24 contribuições
 
 A exigência de carência de 24 contribuições mensais para o auxílio-reclusão é inovação introduzida pela MP 871/2019, convertida na Lei 13.846/2019, e constitucionalizada pela EC 103/2019. A carência já vigorava desde 18/01/2019, data da MP 871; a Lei 13.846 consolidou a exigência sem inaugurá-la.
 
@@ -313,7 +313,7 @@ A questão da constitucionalidade da carência de 24 contribuições para o aux�
 **Orientação prática:** Arguir a inconstitucionalidade como tese subsidiária, sempre acompanhada da demonstração concreta de contribuições no CNIS e da aplicação da regra da metade.
 :::
 
-### 14.9 Regime Prisional: A Tensão entre Constituição e Lei Ordinária
+### 14.9 Regime prisional: a tensão entre Constituição e lei ordinária
 
 A questão do regime prisional exigido para o auxílio-reclusão é uma das mais complexas do tema, pois envolve uma **tensão normativa** entre o texto constitucional (EC 103/2019) e a lei ordinária (art. 80, Lei 8.213/91, com redação da Lei 13.846/2019).
 
@@ -362,7 +362,7 @@ Tomamos posição nessa controvérsia. Parece-nos que a leitura que melhor harmo
 **TNU Tema 357 (04/12/2024):** Para fatos geradores anteriores a 18/01/2019 (MP 871), o AR **permanece** mesmo com progressão para semiaberto (inclusive com monitoramento eletrônico), pois no regime antigo qualquer regime prisional era aceito. Aplicação do princípio tempus regit actum.
 :::
 
-### 14.10 Prisão Provisória e Auxílio-Reclusão
+### 14.10 Prisão provisória e auxílio-reclusão
 
 A prisão provisória, em qualquer de suas modalidades (flagrante, preventiva, temporária), constitui fato gerador do auxílio-reclusão. Essa afirmação, hoje pacífica na jurisprudência, foi objeto de intensa controvérsia durante décadas, com o INSS sistematicamente negando o benefício a dependentes de presos provisórios sob o argumento de que a presunção de inocência impediria o reconhecimento da condição de "recolhido à prisão" para fins previdenciários.
 
@@ -430,7 +430,7 @@ O advogado do dependente de preso provisório deve:
  - Pedido de implantação imediata (tutela antecipada inaudita altera parte)
 :::
 
-### 14.11 Monitoração Eletrônica e Prisão Domiciliar
+### 14.11 Monitoração eletrônica e prisão domiciliar
 
 A monitoração eletrônica e a prisão domiciliar constituem dois dos temas mais controvertidos na interseção entre direito penal e direito previdenciário no contexto do auxílio-reclusão. A ausência de previsão normativa expressa sobre essas modalidades no art. 80 da Lei 8.213/91 e na EC 103/2019 gera insegurança jurídica que se projeta diretamente sobre a prática forense nos JEFs.
 
@@ -490,7 +490,7 @@ Para fins de auxílio-reclusão, o que importa é o **regime prisional jurídico
 **Dica prática:** Sempre verificar a **decisão judicial** que concedeu a prisão domiciliar para identificar o regime jurídico aplicável. A certidão do juízo da execução ou do juízo criminal deve especificar o regime.
 :::
 
-### 14.12 Dependentes e Prova de Dependência
+### 14.12 Dependentes e prova de dependência
 
 Os dependentes do segurado recolhido à prisão são os mesmos previstos no art. 16 da Lei 8.213/91, nas três classes analisadas no Capítulo 2, ao qual remetemos o leitor para o tratamento completo das regras de presunção, comprovação e hierarquia de dependência. O auxílio-reclusão segue a mesma sistemática aplicável à pensão por morte (Cap. 19). A análise a seguir concentra-se nas particularidades que o contexto do encarceramento impõe à prova de dependência.
 
@@ -558,9 +558,9 @@ Situação comum nos JEFs: o segurado preso é casado formalmente com uma pessoa
 **Ponto crítico:** Filhos de ambas as relações são dependentes independentes, o rateio entre as mulheres não afeta a cota dos filhos menores.
 :::
 
-### 14.13 Valor do Benefício: Regime Antigo e Atual
+### 14.13 Valor do benefício: regime antigo e atual
 
-O valor do auxílio-reclusão sofreu radical transformação com a EC 103/2019 (CASTRO; LAZZARI, 2025), passando de um modelo proporcional à renda do segurado para um valor fixo de um salário-mínimo.
+O valor do auxílio-reclusão sofreu radical transformação com a EC 103/2019 (Castro; Lazzari, 2025), passando de um modelo proporcional à renda do segurado para um valor fixo de um salário-mínimo.
 
 **Regime antigo (fatos geradores anteriores a 13/11/2019).** No regime anterior à EC 103/2019, o auxílio-reclusão era calculado **exatamente como a aposentadoria por invalidez** (hoje aposentadoria por incapacidade permanente) a que o segurado teria direito na data do recolhimento à prisão, na forma do art. 80 c/c o art. 29 da Lei 8.213/91. Isso significa **100% do salário de benefício** — não havia, portanto, redução percentual do próprio auxílio-reclusão por faixas de renda. O valor era proporcional à contribuição do segurado (refletindo o princípio contributivo): variava conforme o salário de benefício, mas sempre na proporção integral de 100% deste, observados o piso de 1 SM e o teto do RGPS. Convém não confundir esse cálculo com o **escalonamento por faixas de renda**, que é fenômeno do *valor-limite* de "baixa renda" (e, em outros benefícios, do percentual da renda mensal inicial): no auxílio-reclusão do regime antigo, o percentual aplicado ao salário de benefício era único — 100% —, e o escalonamento só comparece, historicamente, na sistemática de cálculo de outros benefícios e no patamar de aferição da baixa renda, não em uma alegada redução gradual do AR.
 
@@ -588,7 +588,7 @@ Essa uniformização tem consequências ambivalentes. Por um lado, simplifica o 
 - Atenção: cada dependente **não** recebe 1 SM integral; o valor único de 1 SM é dividido entre os codependentes da mesma classe. Cessando a cota de um deles (p. ex., maioridade do filho), a parcela acresce aos remanescentes (princípio do direito de acrescer da pensão por morte, aplicável por analogia — Cap. 19)
 :::
 
-### 14.14 Data de Início do Benefício (DIB)
+### 14.14 Data de início do benefício (DIB)
 
 A data de início do benefício segue regras específicas que combinam a data do fato gerador (recolhimento à prisão) com a data do requerimento administrativo.
 
@@ -611,7 +611,7 @@ O prazo de 90 dias para retroação da DIB é contado da **data do efetivo recol
 **Orientação:** Instruir os dependentes a requerer o AR imediatamente após a prisão, mesmo que a documentação esteja incompleta. O requerimento pode ser complementado posteriormente, mas o marco temporal é a data do protocolo.
 :::
 
-### 14.15 Manutenção: Atestado Carcerário e Obrigações
+### 14.15 Manutenção: atestado carcerário e obrigações
 
 A manutenção do auxílio-reclusão exige a comprovação periódica da permanência do segurado em regime fechado ou semiaberto. O instrumento principal dessa comprovação é o **atestado carcerário trimestral**, previsto no art. 118 do Decreto 3.048/99.
 
@@ -654,7 +654,7 @@ A não apresentação do atestado carcerário no prazo gera **suspensão** do be
 - Sistema informatizado do INSS (prisão): em algumas localidades, o INSS acessa diretamente os dados do sistema penitenciário, dispensando a apresentação física
 :::
 
-### 14.16 Cessação, Suspensão e Restabelecimento
+### 14.16 Cessação, suspensão e restabelecimento
 
 O auxílio-reclusão cessa nas hipóteses previstas no art. 117 do Decreto 3.048/99, que guardam paralelismo com as causas de cessação da pensão por morte (Cap. 19), acrescidas de causas específicas do contexto penitenciário. A distinção entre cessação (definitiva) e suspensão (provisória), frequentemente confundida na prática administrativa, tem consequências diretas na continuidade do pagamento.
 
@@ -718,7 +718,7 @@ O livramento condicional (arts. 83-90, CP; arts. 131-146, LEP) libera o preso so
 **Referência:** STJ, REsp 1.672.295/RS; TRF4, TRU, Incidente 5003821-16.2020.4.04.7108.
 :::
 
-### 14.17 Segurado Aposentado Preso e Acumulação de Benefícios
+### 14.17 Segurado aposentado preso e acumulação de benefícios
 
 Questão de crescente relevância prática, examinada por Ibrahim (2025), é a situação do segurado que já recebia benefício previdenciário, especialmente aposentadoria, quando é recolhido à prisão. O tratamento jurídico varia conforme o tipo de benefício que o segurado recebia e conforme o regime jurídico aplicável (pré ou pós-EC 103).
 
@@ -755,7 +755,7 @@ Na prática, surgem três cenários:
 - **AR + salário-maternidade:** Possível, pois são benefícios com fatos geradores e finalidades distintos.
 - **AR + Bolsa Família/Auxílio Brasil/benefícios assistenciais:** O valor do AR é computado como renda familiar para fins de programas assistenciais, podendo afetar o enquadramento.
 
-### 14.18 Aspectos Processuais nos JEFs
+### 14.18 Aspectos processuais nos JEFs
 
 O auxílio-reclusão apresenta particularidades processuais que exigem atenção especial do advogado nos Juizados Especiais Federais. A combinação de urgência (família desprotegida), complexidade probatória (documentação penitenciária) e questões interinstitucionais (interface INSS-Justiça Criminal) torna a litigância nessa matéria especialmente desafiadora.
 
@@ -812,9 +812,9 @@ A jurisprudência dos TRFs é consistente na concessão de tutela antecipada par
 **Orientação prática:** Sempre requerer tutela antecipada no AR. A jurisprudência é amplamente favorável, e a demora na prestação jurisdicional gera danos reais e imediatos aos dependentes.
 :::
 
-### 14.19 Questões Especiais e Controvérsias Emergentes
+### 14.19 Questões especiais e controvérsias emergentes
 
-O auxílio-reclusão suscita diversas questões que transcendem a aplicação ordinária do benefício (IBRAHIM, 2025; CASTRO; LAZZARI, 2025). Essas "questões especiais" refletem a complexidade da interseção entre o sistema previdenciário e o sistema penal, agravada pelas transformações sociais e normativas dos últimos anos.
+O auxílio-reclusão suscita diversas questões que transcendem a aplicação ordinária do benefício (Ibrahim, 2025; Castro; Lazzari, 2025). Essas "questões especiais" refletem a complexidade da interseção entre o sistema previdenciário e o sistema penal, agravada pelas transformações sociais e normativas dos últimos anos.
 
 **Morte do segurado preso: conversão automática em pensão por morte.** A conversão AR → PM opera-se automaticamente na data do óbito (art. 80, parágrafo único, Lei 8.213/91), conforme examinado na seção 14.16, item 2, supra. Registre-se que a conversão pode alterar o valor: o AR pós-EC 103 é de 1 SM, mas a PM segue regras próprias de cálculo (60% + 10% por dependente adicional — v. Cap. 19), podendo resultar em valor superior ou inferior.
 
@@ -868,7 +868,7 @@ O estrangeiro que trabalha regularmente no Brasil e contribui para o RGPS é seg
 **Orientação prática:** Se o INSS interromper o pagamento após a morte do segurado preso, ajuizar mandado de segurança ou ação no JEF com tutela antecipada para garantir a continuidade da proteção.
 :::
 
-### 14.20 Síntese e Quadros Práticos
+### 14.20 Síntese e quadros práticos
 
 O auxílio-reclusão, a despeito de seu baixo impacto orçamentário, é benefício de altíssima complexidade jurídica, especialmente após a EC 103/2019. A coexistência de dois regimes jurídicos distintos (pré e pós-EC 103), a interface com o direito penal (regimes prisionais, progressão, livramento condicional) e a carga probatória peculiar (documentação penitenciária, prova de dependência em contexto de vulnerabilidade) exigem do advogado previdenciarista domínio técnico aprofundado e sensibilidade social.
 
@@ -1010,9 +1010,9 @@ A interface com o direito penal também se intensifica. As recentes alterações
 
 Por fim, é necessário registrar a importância da advocacia proativa no auxílio-reclusão. Diferentemente de outros benefícios previdenciários, em que o próprio segurado pode acompanhar o processo, no auxílio-reclusão o segurado está preso e seus dependentes frequentemente pertencem às camadas mais vulneráveis da população, com baixa escolaridade, limitado acesso à informação jurídica e dificuldades de deslocamento até as agências do INSS. O advogado previdenciarista, e especialmente a Defensoria Pública da União nos JEFs, desempenha papel decisivo para garantir que o direito constitucional dos dependentes seja efetivamente materializado, superando as barreiras burocráticas, informacionais e estigmatizantes que historicamente cercam este benefício.
 
-### 14.21 Referências
+### Referências
 
-#### 14.21.1 Legislação
+#### Legislação
 
 - Constituição Federal de 1988 (arts. 194, III; 201, IV e § 5º; 226).
 - EC 20/1998 (inserção do critério de "baixa renda").
@@ -1027,7 +1027,7 @@ Por fim, é necessário registrar a importância da advocacia proativa no auxíl
 - IN INSS/PRES n. 128/2022.
 - Portarias Interministeriais MPS/MF (tabela anual de limite de baixa renda).
 
-#### 14.21.2 Jurisprudência
+#### Jurisprudência
 
 - STF, Tema 89 (RE 587.365) — renda aferida é a do segurado, não dos dependentes.
 - STF, Tema 350 (RE 631.240) — prévio requerimento administrativo.
@@ -1037,7 +1037,7 @@ Por fim, é necessário registrar a importância da advocacia proativa no auxíl
 - TNU, Tema 357, monitoração eletrônica e direito adquirido ao auxílio-reclusão (pré-2019).
 - Súmula 85/STJ, prescrição em relações de trato sucessivo.
 
-#### 14.21.3 Doutrina
+#### Doutrina
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 27. ed. Niterói: Impetus, 2025.

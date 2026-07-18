@@ -14,11 +14,11 @@ A EC n. 103/2019 (Reforma da Previdência) alterou profundamente o regime juríd
 
 O exame da pensão por morte nos Juizados Especiais Federais exige domínio simultâneo de direito previdenciário, direito de família, direito constitucional e técnicas de instrução processual, em benefício cujas controvérsias abrangem desde a configuração da relação de dependência até o cálculo do valor devido, passando pela concorrência entre beneficiários e pela acumulação com outros benefícios.
 
-### 19.1 Fundamento Constitucional e Natureza Jurídica
+### 19.1 Fundamento constitucional e natureza jurídica
 
 A pensão por morte encontra fundamento direto no art. 201, inciso V, da Constituição Federal, que inclui entre os eventos cobertos pelo Regime Geral de Previdência Social a "pensão por morte do segurado, homem ou mulher, ao cônjuge ou companheiro e dependentes". O dispositivo constitucional consagra a proteção previdenciária ao núcleo familiar como desdobramento do princípio da solidariedade social e do dever do Estado de amparar a família (art. 226, caput, CF/88).
 
-A natureza jurídica da pensão por morte é de benefício previdenciário derivado: seu fato gerador é a morte do segurado, mas seus beneficiários são os dependentes, que exercem direito próprio, e não direito transmitido por herança (CASTRO; LAZZARI, 2025; IBRAHIM, 2025). Essa distinção é relevante: a pensão por morte não integra o espólio do falecido, não se submete às regras de partilha hereditária e não depende de habilitação no inventário. O dependente exerce direito autônomo, nascido com o óbito do segurado, independentemente de qualquer manifestação de vontade do falecido.
+A natureza jurídica da pensão por morte é de benefício previdenciário derivado: seu fato gerador é a morte do segurado, mas seus beneficiários são os dependentes, que exercem direito próprio, e não direito transmitido por herança (Castro; Lazzari, 2025; Ibrahim, 2025). Essa distinção é relevante: a pensão por morte não integra o espólio do falecido, não se submete às regras de partilha hereditária e não depende de habilitação no inventário. O dependente exerce direito autônomo, nascido com o óbito do segurado, independentemente de qualquer manifestação de vontade do falecido.
 
 A pensão por morte é benefício de pagamento continuado, devido mensalmente enquanto persistir a condição de dependente. Seu valor não se confunde com verbas trabalhistas, indenizações civis ou alimentos devidos pelo falecido. A prestação previdenciária substitui a função protetiva que o segurado exercia em vida, na proporção fixada em lei, e se extingue com a cessação da condição de dependência ou com a morte do próprio dependente.
 
@@ -26,7 +26,7 @@ A pensão por morte é benefício de pagamento continuado, devido mensalmente en
 A pensão por morte é direito do dependente, não do segurado. O segurado não pode, em vida, designar ou excluir beneficiários da pensão, pois o rol de dependentes é fixado em lei (art. 16, Lei 8.213/91). Testamentos, contratos particulares ou declarações unilaterais que pretendam alterar a ordem de dependentes são juridicamente irrelevantes para fins previdenciários. O sistema previdenciário adota regime de dependência legal, e não contratual.
 :::
 
-### 19.2 Evolução Legislativa
+### 19.2 Evolução legislativa
 
 A proteção previdenciária dos dependentes em caso de morte do segurado possui longa tradição no direito brasileiro. A Lei Eloy Chaves (Decreto Legislativo n. 4.682/1923) já previa pensão aos herdeiros do empregado falecido. Ao longo do século XX, a legislação previdenciária ampliou progressivamente o alcance e o valor do benefício, que atingiu seu ápice com a Lei n. 8.213/91, em sua redação original, ao fixar o valor da pensão por morte em 100% do salário de benefício do segurado falecido.
 
@@ -38,7 +38,7 @@ A MP n. 871/2019, convertida na Lei n. 13.846/2019, acrescentou a exigência de 
 
 A EC n. 103/2019 promoveu a alteração mais profunda no regime da pensão por morte desde a criação do RGPS. O art. 23 da Emenda substituiu o critério de 100% por sistema de cotas: cota familiar de 50% acrescida de 10 pontos percentuais por dependente, até o máximo de 100%. As cotas individuais cessam com a perda da qualidade de dependente e não são reversíveis aos demais dependentes. O art. 24 estabeleceu novas regras de acumulação, vedando o recebimento simultâneo de duas pensões por morte pelo mesmo cônjuge ou companheiro no mesmo regime e instituindo escalonamento para a acumulação de pensão com aposentadoria.
 
-### 19.3 Fato Gerador: Morte Real e Morte Presumida
+### 19.3 Fato gerador: morte real e morte presumida
 
 O fato gerador da pensão por morte é o óbito do segurado. A morte pode ser real (comprovada por certidão de óbito emitida pelo registro civil) ou presumida (declarada judicialmente nas hipóteses legais).
 
@@ -52,7 +52,7 @@ Nas ações de pensão por morte presumida nos JEFs, a dificuldade probatória �
 
 A pensão concedida por morte presumida é provisória. Se o segurado reaparecer, o benefício cessa imediatamente, e os valores recebidos são irrepetíveis (não devem ser devolvidos), salvo comprovação de má-fé do beneficiário. A conversão em pensão definitiva opera de modo distinto conforme a hipótese do art. 78: na ausência declarada judicialmente (inciso I), dá-se com o trânsito em julgado da sentença que declara a morte presumida nos termos do Código Civil; já no desaparecimento por acidente, desastre ou catástrofe (§ 1º), em que não há, em regra, declaração judicial prévia, a definitividade decorre do decurso de prazo razoável sem o reaparecimento do segurado, sem necessidade de aguardar qualquer trânsito em julgado.
 
-### 19.4 Requisitos para Concessão: Visão Geral
+### 19.4 Requisitos para concessão: visão geral
 
 A concessão da pensão por morte exige o preenchimento de três requisitos: (a) óbito do segurado (real ou presumido); (b) qualidade de segurado do falecido na data do óbito; e (c) condição de dependente do requerente. A ausência de qualquer desses requisitos impede a concessão.
 
@@ -62,7 +62,7 @@ A qualidade de segurado é aferida na data do óbito. O falecido deve estar fili
 
 A condição de dependente é verificada conforme o art. 16 da Lei n. 8.213/91, que organiza os dependentes em três classes hierarquizadas, com presunções de dependência econômica diferenciadas. A existência de dependentes em classe superior exclui o direito dos dependentes de classe inferior.
 
-### 19.5 Qualidade de Segurado do Instituidor
+### 19.5 Qualidade de segurado do instituidor
 
 A verificação da qualidade de segurado na data do óbito constitui o primeiro filtro de elegibilidade para a pensão por morte. O segurado que falece durante o exercício de atividade vinculada ao RGPS ou dentro do período de graça mantém a qualidade de segurado e gera direito à pensão para seus dependentes. Sobre os prazos de manutenção da qualidade e mecanismos de prorrogação do período de graça (12/24/36 meses), ver Cap. 3, § 3.6.
 
@@ -74,7 +74,7 @@ A questão do segurado que perdeu a qualidade mas havia implementado os requisit
 
 Sobre a qualidade de segurado do encarcerado e o período de graça após livramento, ver Cap. 14, § 14.5. A pensão por morte do preso que falece durante o cumprimento da pena é examinada na situação especial do § 19.35, infra.
 
-### 19.6 Carência: Dispensa e Exceções
+### 19.6 Carência: dispensa e exceções
 
 A pensão por morte dispensa carência (art. 26, I, Lei n. 8.213/91; v. Cap. 3, § 3.3.1). A inexigibilidade é absoluta: aplica-se a todos os segurados e a todas as hipóteses de óbito.
 
@@ -86,7 +86,7 @@ A distinção entre carência (inexigível) e os requisitos temporais para dura�
 
 A exceção à dispensa de carência existe para o segurado que ingressou ou reingressou no RGPS já portador de doença preexistente que gerou o óbito. O art. 26, inciso I, deve ser lido em conjunto com o art. 77, § 2º, inciso V, "a": se o óbito decorreu de acidente posterior ao casamento ou ao início da união estável, a pensão terá duração variável conforme a tabela, independentemente do número de contribuições. A ratio é que o acidente, por sua natureza imprevisível, afasta qualquer suspeita de fraude, diferentemente da morte por doença preexistente.
 
-### 19.7 Dependentes: Rol e Classes
+### 19.7 Dependentes: rol e classes
 
 O rol de dependentes e suas classes são examinados no Cap. 2, § 2.4. Neste capítulo, aprofundamos os aspectos específicos da comprovação de dependência para fins de pensão por morte.
 
@@ -100,7 +100,7 @@ A dependência econômica dos dependentes da Classe I é presumida (art. 16, § 
 
 Para os dependentes das Classes II e III (pais e irmãos), a dependência econômica deve ser comprovada (art. 16, § 4º). A prova exigida é de dependência econômica efetiva, não de dependência exclusiva: basta que o dependente demonstre que a renda do segurado contribuía relevantemente para seu sustento, sem necessidade de provar que o segurado era a única fonte de renda.
 
-### 19.8 Dependentes de Primeira Classe: Cônjuge e Companheiro(a)
+### 19.8 Dependentes de primeira classe: cônjuge e companheiro(a)
 
 O cônjuge sobrevivente é dependente presumido da Classe I. A condição de cônjuge é comprovada pela certidão de casamento, documento de fé pública que dispensa prova adicional da relação conjugal. O casamento válido, celebrado nos termos do Código Civil, gera presunção de dependência econômica que somente é afastada por prova robusta em sentido contrário.
 
@@ -114,7 +114,7 @@ A exigência de início de prova material para a comprovação da união estáve
 
 O cônjuge separado judicialmente ou divorciado mantém a condição de dependente para fins de pensão por morte se recebia pensão alimentícia do segurado falecido (art. 76, § 2º, Lei n. 8.213/91). A hipótese do ex-cônjuge que não recebia alimentos será examinada em seção específica (19.15).
 
-### 19.9 Dependentes de Primeira Classe: Filhos
+### 19.9 Dependentes de primeira classe: filhos
 
 Os filhos do segurado, não emancipados, menores de 21 anos, são dependentes presumidos da Classe I, independentemente de condição (legítimos, ilegítimos, adotivos). A pensão é devida desde o óbito até que o filho complete 21 anos ou, se anterior, até a emancipação.
 
@@ -130,7 +130,7 @@ A verificação da invalidez ou deficiência do filho dependente é feita por pe
 
 A cessação da pensão ao filho que completa 21 anos é automática, dispensando procedimento administrativo de revisão. O INSS cessa o pagamento na competência em que o dependente atinge a idade-limite. Se o filho é universitário, a pensão cessa igualmente aos 21 anos: diferentemente de outros sistemas (pensão por morte de servidor público, por exemplo, onde existe debate), o RGPS não prevê extensão da pensão até os 24 anos para estudantes universitários. O STJ consolidou esse entendimento, afastando a aplicação analógica do direito de família (que permite alimentos ao filho universitário até 24 anos) ao regime previdenciário.
 
-### 19.10 Dependentes de Segunda e Terceira Classes
+### 19.10 Dependentes de segunda e terceira classes
 
 Os pais do segurado constituem dependentes da Classe II (art. 16, II, Lei n. 8.213/91). Sua condição de dependentes depende da comprovação de dependência econômica em relação ao segurado falecido. A prova deve demonstrar que a renda do segurado contribuía de forma relevante para o sustento dos pais, sem que seja necessário provar dependência exclusiva. A contribuição parcial, desde que significativa, é suficiente.
 
@@ -148,7 +148,7 @@ A prova da dependência econômica dos pais apresenta dificuldade quando o segur
 **TNU, jurisprudência consolidada sobre dependência econômica dos pais**: A Turma Nacional de Uniformização firmou que a dependência econômica para fins de pensão por morte não exige que o segurado fosse o único provedor do dependente. Basta que se demonstre contribuição financeira substancial do segurado para o sustento do postulante, de modo que o óbito tenha acarretado uma real e significativa redução do padrão de vida do dependente. A análise é casuística, considerando a renda total do grupo familiar e o impacto concreto da perda da contribuição do segurado.
 :::
 
-### 19.11 Equiparados a Filho: Enteado e Menor Tutelado
+### 19.11 Equiparados a filho: enteado e menor tutelado
 
 O art. 16, § 2º, da Lei n. 8.213/91 (com redação da Lei n. 9.528/1997) equipara a filho, para fins previdenciários, o enteado e o menor tutelado, desde que comprovada a dependência econômica. A EC n. 103/2019 reiterou essa equiparação no art. 23, § 6º, restringindo-a expressamente ao enteado e ao menor tutelado.
 
@@ -160,7 +160,7 @@ O menor tutelado é aquele cuja tutela foi deferida judicialmente ao segurado. A
 A Lei n. 9.528/1997 excluiu expressamente o menor sob guarda do rol de dependentes equiparados a filho, mantendo apenas o enteado e o menor tutelado. A EC n. 103/2019, em seu art. 23, § 6º, reiterou a equiparação restrita ao enteado e ao menor tutelado. A exclusão do menor sob guarda é objeto de questionamento constitucional, examinado na seção seguinte (19.12). Na prática administrativa, o INSS indefere sistematicamente os pedidos de pensão por morte formulados por menores sob guarda, obrigando a discussão judicial.
 :::
 
-### 19.12 Menor sob Guarda: Controvérsia Constitucional
+### 19.12 Menor sob guarda: controvérsia constitucional
 
 A exclusão do menor sob guarda do rol de dependentes equiparados a filho constitui uma das controvérsias mais relevantes do direito previdenciário contemporâneo. O tema envolve tensão entre a literalidade da lei previdenciária (que exclui o menor sob guarda) e o princípio constitucional da proteção integral à criança e ao adolescente (art. 227, CF/88).
 
@@ -178,7 +178,7 @@ O STF reconheceu repercussão geral sobre o tema no RE 1.442.021 (Tema 1.271, re
 
 Entendemos que a proteção integral à criança e ao adolescente (art. 227, CF/88) constitui direito fundamental de hierarquia constitucional originária, integrando o núcleo intangível da Constituição. A exclusão do menor sob guarda pela EC n. 103/2019 retira proteção previdenciária de crianças em situação de vulnerabilidade, contrariando o princípio da vedação de retrocesso social em matéria de direitos fundamentais de menores. A distinção entre guarda e tutela, para fins previdenciários, é formalismo incompatível com a finalidade protetiva do benefício: a criança sob guarda depende do guardião tanto quanto a criança sob tutela depende do tutor.
 
-### 19.13 Comprovação da União Estável para Fins Previdenciários
+### 19.13 Comprovação da união estável para fins previdenciários
 
 A comprovação da união estável para fins de pensão por morte é questão central nos JEFs, dada a frequência com que companheiros(as) do segurado falecido buscam a habilitação como dependentes. A prova deve demonstrar a existência de relação pública, contínua e duradoura, com objetivo de constituir família, contemporânea ao óbito do segurado.
 
@@ -194,7 +194,7 @@ A prova da união estável nos JEFs exige atenção ao regime probatório aplic�
 
 A questão da união estável post mortem, quando não havia declaração formal em vida, é frequente nos JEFs. A pessoa que conviveu com o segurado sem formalizar a relação enfrenta dificuldade probatória após o falecimento. A jurisprudência tem admitido a comprovação da união por conjunto probatório que revele, retrospectivamente, os elementos caracterizadores da entidade familiar. Fotografias, mensagens eletrônicas, depoimentos de familiares e vizinhos, e documentos que indiquem coabitação são meios probatórios admissíveis.
 
-### 19.14 Prova da Dependência Econômica
+### 19.14 Prova da dependência econômica
 
 A prova da dependência econômica é requisito para a habilitação de dependentes das Classes II e III, para equiparados a filho (enteado e menor tutelado) e, em tese, para ilidir a presunção que favorece os dependentes da Classe I. O conceito de dependência econômica para fins previdenciários é mais amplo do que o conceito civil de necessidade alimentar: basta que o dependente demonstre que a renda do segurado contribuía de forma relevante para seu sustento, sem necessidade de provar dependência exclusiva ou total.
 
@@ -208,7 +208,7 @@ A dependência econômica dos dependentes de Classe I (cônjuge, companheiro, fi
 
 A TNU firmou posição relevante sobre a dependência econômica do filho maior inválido. Segundo o entendimento consolidado, a dependência econômica do filho inválido é presumida enquanto perdurar a invalidez, cabendo ao INSS o ônus de provar que o filho possuía renda própria suficiente para seu sustento. A presunção, contudo, é relativa: o filho inválido que percebe renda própria em valor significativo (aposentadoria por incapacidade, por exemplo) pode ter a presunção ilidida.
 
-### 19.15 Pensão por Morte ao Ex-Cônjuge
+### 19.15 Pensão por morte ao ex-cônjuge
 
 A situação do ex-cônjuge (separado judicialmente, separado de fato ou divorciado) em relação à pensão por morte merece exame detalhado, pela frequência e complexidade das questões que suscita nos JEFs.
 
@@ -224,7 +224,7 @@ A extensão da Súmula 336 foi consolidada pela jurisprudência. A tese não se 
 
 O ex-cônjuge que se habilita à pensão por morte concorre, em igualdade de condições, com o cônjuge ou companheiro(a) sobrevivente e com os filhos do segurado (todos da Classe I). O rateio é feito em partes iguais entre os dependentes habilitados da mesma classe. A coexistência de ex-cônjuge alimentando e companheiro(a) do segurado gera situação de concorrência que exige habilitação simultânea.
 
-### 19.16 Concorrência entre Cônjuge e Companheiro(a)
+### 19.16 Concorrência entre cônjuge e companheiro(a)
 
 A situação em que o segurado falecido era casado formalmente com uma pessoa e mantinha união estável com outra é frequente nos JEFs e gera controvérsias sobre o rateio da pensão por morte. A resolução depende da configuração fática: separação de fato do cônjuge, duração da separação e legitimidade da união estável.
 
@@ -238,7 +238,7 @@ Na concorrência entre cônjuge separado de fato e companheiro(a), a jurisprudê
 Nas ações de pensão por morte em que há concorrência entre cônjuge e companheiro(a), a formação de litisconsórcio necessário é obrigatória. O STJ fixou que a ação para incluir novo beneficiário na pensão por morte exige a citação dos demais beneficiários já habilitados, sob pena de nulidade. Nos JEFs, o juiz deve determinar a citação do(a) cônjuge ou do(a) companheiro(a) concorrente como litisconsorte passivo necessário, assegurando o contraditório. A instrução processual deve contemplar prova sobre a situação fática de cada pretendente: tempo de separação de fato, existência de contribuição econômica do segurado a cada um deles, e configuração da união estável.
 :::
 
-### 19.17 Uniões Estáveis Simultâneas: Vedação Constitucional
+### 19.17 Uniões estáveis simultâneas: vedação constitucional
 
 A possibilidade de reconhecimento de uniões estáveis simultâneas (ou de casamento e união estável concomitantes) para fins de rateio de pensão por morte foi definida pelo STF no julgamento do RE 1.045.273 (Tema 529).
 
@@ -252,7 +252,7 @@ A exceção prevista no art. 1.723, § 1º, do Código Civil diz respeito à pes
 **STF, RE 1.045.273 (Tema 529)**: O STF vedou o reconhecimento de uniões estáveis simultâneas para fins de rateio de pensão por morte, afirmando o princípio da monogamia como fundamento do ordenamento jurídico-constitucional brasileiro. A decisão afastou a tese de que o Direito Previdenciário poderia reconhecer relações que o Direito de Família repudia. Na prática dos JEFs, a decisão impõe ao companheiro(a) que pleiteia pensão o ônus de demonstrar que a relação com o segurado era legítima, e não mero concubinato paralelo a casamento ou união estável preexistente.
 :::
 
-### 19.18 Pensão por Morte e União Homoafetiva
+### 19.18 Pensão por morte e união homoafetiva
 
 O reconhecimento da união homoafetiva como entidade familiar pelo STF (ADI 4.277 e ADPF 132, julgamento em 05/05/2011) estendeu aos companheiros do mesmo sexo todos os direitos decorrentes da união estável, inclusive os previdenciários. O companheiro homoafetivo é dependente da Classe I, com presunção de dependência econômica, nos mesmos termos do companheiro heterossexual.
 
@@ -270,13 +270,13 @@ A questão temporal merece atenção. Para óbitos anteriores ao julgamento da A
 
 A adoção por casais homoafetivos e seus reflexos na pensão por morte também merecem menção. O filho adotivo de casal homoafetivo é dependente da Classe I de ambos os adotantes, com presunção de dependência econômica. O óbito de qualquer dos adotantes gera direito à pensão por morte para o filho, nos mesmos termos da filiação biológica ou da adoção por casais heterossexuais. A igualdade de tratamento é absoluta e decorre tanto da decisão do STF quanto do art. 227, § 6º, da Constituição (igualdade entre filhos, independentemente da origem).
 
-### 19.19 Cálculo da Pensão por Morte: Regime Anterior à EC 103/2019
+### 19.19 Cálculo da pensão por morte: regime anterior à EC 103/2019
 
 O regime de cálculo da pensão por morte anterior à EC n. 103/2019 era substancialmente mais favorável aos dependentes. O art. 75 da Lei n. 8.213/91 (em sua redação anterior) fixava o valor da pensão por morte em 100% do valor da aposentadoria que o segurado recebia ou daquela a que teria direito se estivesse aposentado por incapacidade permanente na data do falecimento. O salário de benefício seguia as regras gerais de cálculo (média dos 80% maiores salários de contribuição; v. Cap. 16 para detalhamento). A garantia de 100% era absoluta e não comportava exceções.
 
 O regime anterior aplica-se, por força do princípio tempus regit actum, a todos os óbitos ocorridos antes de 13/11/2019 (data de entrada em vigor da EC n. 103/2019). Para esses fatos geradores, o cálculo da pensão segue as regras da Lei n. 8.213/91 em sua redação anterior à reforma, independentemente da data do requerimento administrativo ou judicial.
 
-### 19.20 Cálculo da Pensão por Morte: Regime da EC 103/2019
+### 19.20 Cálculo da pensão por morte: regime da EC 103/2019
 
 A EC n. 103/2019 introduziu o sistema de cotas para o cálculo da pensão por morte, previsto no art. 23 da Emenda. O novo regime aplica-se aos óbitos ocorridos a partir de 13/11/2019.
 
@@ -294,7 +294,7 @@ O cálculo da pensão por morte para segurado não aposentado sob o regime da EC
 
 O STF, no julgamento da ADI 7.051, declarou constitucional o art. 23 da EC n. 103/2019. O relator, Min. Luís Roberto Barroso, reconheceu que a redução do valor da pensão exigirá maior planejamento financeiro dos segurados com dependentes, mas entendeu que a reforma não violou cláusula pétrea, pois vedou expressamente que o benefício ficasse abaixo do salário mínimo quando constituísse a única fonte de renda formal do dependente. A decisão encerrou o debate sobre a constitucionalidade do sistema de cotas, vinculando os demais órgãos do Poder Judiciário.
 
-### 19.21 Cota-Parte e Não Reversibilidade
+### 19.21 Cota-parte e não reversibilidade
 
 O sistema de cotas da EC n. 103/2019 introduziu característica inédita no regime da pensão por morte: a não reversibilidade das cotas individuais. O art. 23, § 1º, dispõe que "as cotas por dependente cessarão com a perda dessa qualidade e não serão reversíveis aos demais dependentes, preservado o valor de 100% da pensão por morte quando o número de dependentes remanescente for igual ou superior a 5 (cinco)".
 
@@ -306,7 +306,7 @@ A exceção é a hipótese de cinco ou mais dependentes: quando o número de dep
 
 A não reversibilidade é objeto de crítica doutrinária relevante. Ibrahim (2025) sustenta que a EC n. 103/2019 não proibiu expressamente a reversão, mas apenas estabeleceu que as cotas cessam com a perda da qualidade de dependente. A cessação da cota, nessa leitura, refere-se à cota do dependente que perdeu a qualidade, não impedindo que o legislador ordinário estabeleça regra de reversão. Entendemos, porém, que a literalidade do dispositivo ("não serão reversíveis") é inequívoca e afasta interpretação extensiva em favor da reversibilidade.
 
-### 19.22 Piso da Pensão por Morte: Garantia do Salário Mínimo
+### 19.22 Piso da pensão por morte: garantia do salário mínimo
 
 O art. 23, § 2º, da EC n. 103/2019 estabelece que, quando a pensão por morte for a única fonte de renda formal do dependente, seu valor não poderá ser inferior ao salário mínimo. Essa garantia constitui salvaguarda essencial contra a redução excessiva que o sistema de cotas pode gerar.
 
@@ -318,7 +318,7 @@ A aplicação prática da garantia exige a verificação individualizada de cada
 Ao calcular a pensão por morte sob o regime da EC 103/2019, o advogado deve verificar se cada dependente possui outra fonte de renda formal. Se o dependente é cônjuge sem emprego formal e sem aposentadoria própria, a pensão não poderá ser inferior ao salário mínimo, mesmo que a aplicação do sistema de cotas resulte em valor menor. Se o cônjuge recebe aposentadoria própria de valor mínimo, a pensão por morte pode ser inferior ao salário mínimo, pois não é a única fonte de renda formal. A verificação é individual e dinâmica — a superveniência de renda formal pode afetar a garantia do piso.
 :::
 
-### 19.23 Duração da Pensão por Morte para Cônjuge ou Companheiro(a)
+### 19.23 Duração da pensão por morte para cônjuge ou companheiro(a)
 
 A duração da pensão por morte devida ao cônjuge ou companheiro(a) varia conforme a idade do beneficiário na data do óbito e o cumprimento de requisitos temporais. A Lei n. 13.135/2015 introduziu a temporariedade da pensão para o cônjuge, superando o regime anterior de pensão vitalícia.
 
@@ -334,7 +334,7 @@ A tabela de duração da pensão por morte para cônjuge/companheiro(a) é atual
 
 A exceção à temporariedade alcança o cônjuge ou companheiro inválido ou com deficiência. O dependente que, na data do óbito do segurado, era inválido ou possuía deficiência intelectual, mental ou grave tem direito à pensão enquanto perdurar a condição, independentemente da idade. A invalidez ou deficiência deve ser comprovada por perícia médica, e a cessação da condição acarreta a cessação do benefício.
 
-### 19.24 Duração para Filhos e Demais Dependentes
+### 19.24 Duração para filhos e demais dependentes
 
 A duração da pensão por morte para filhos segue regra própria, vinculada à idade e à condição de emancipação. A pensão é devida até que o filho complete 21 anos ou até a emancipação, o que ocorrer primeiro. Não há extensão para filhos universitários no RGPS.
 
@@ -350,7 +350,7 @@ A duração da pensão para dependentes de Classe II (pais) é vitalícia. Os pa
 
 Para dependentes da Classe III (irmãos), a duração segue estritamente as regras da filiação: cessação aos 21 anos ou com emancipação, salvo invalidez ou deficiência preexistente ao óbito. O irmão menor que perde a condição de dependente aos 21 anos tem sua cota extinta, sem reversão aos demais irmãos ou a quaisquer outros dependentes habilitados na mesma classe.
 
-### 19.25 Cessação e Perda do Direito à Pensão
+### 19.25 Cessação e perda do direito à pensão
 
 A pensão por morte cessa em diversas hipóteses previstas no art. 77 da Lei n. 8.213/91 e no art. 74, § 1º. As hipóteses de cessação podem ser classificadas em cessação da cota individual (que mantém a pensão para os demais dependentes) e cessação total do benefício (quando não há mais dependentes habilitados).
 
@@ -364,7 +364,7 @@ A perda do direito à pensão por morte está prevista no art. 74, § 1º, da Le
 
 A simulação ou fraude na obtenção da pensão por morte (casamento ou união estável de conveniência, falsificação de documentos, ocultação de óbito) constitui crime (art. 171, § 3º, CP, ou art. 299, CP) e acarreta o cancelamento do benefício com devolução dos valores recebidos, além de responsabilização criminal.
 
-### 19.26 Pensão por Morte e Filho Inválido ou com Deficiência
+### 19.26 Pensão por morte e filho inválido ou com deficiência
 
 A situação do filho inválido ou com deficiência como dependente da pensão por morte merece tratamento específico pela frequência com que surge nos JEFs e pelas particularidades probatórias envolvidas.
 
@@ -380,7 +380,7 @@ A prova pericial é indispensável para a comprovação da invalidez ou deficiê
 Na defesa judicial do direito à pensão por morte do filho inválido, o advogado deve reunir: (a) laudos médicos que demonstrem a existência da condição invalidante antes do óbito do segurado (relatórios de internação, atestados médicos, receitas de medicação de uso contínuo); (b) documentos que comprovem a dependência econômica em relação ao segurado (especialmente relevante quando o INSS alegar renda própria do filho); (c) quesitos periciais que indaguem expressamente sobre a data de início da invalidez e sua relação temporal com o óbito do segurado. A comprovação retrospectiva da invalidez é o ponto crítico da instrução: o perito examina o dependente anos após o óbito e deve pronunciar-se sobre condição que existia (ou não) naquela época.
 :::
 
-### 19.27 Data de Início do Benefício (DIB) e Efeitos Financeiros
+### 19.27 Data de início do benefício (DIB) e efeitos financeiros
 
 A fixação da data de início do benefício (DIB) na pensão por morte segue regras específicas previstas no art. 74 da Lei n. 8.213/91, que variam conforme o momento do requerimento e a condição do dependente.
 
@@ -396,7 +396,7 @@ Na esfera judicial, a DIB é fixada na data do requerimento administrativo, quan
 
 As parcelas atrasadas (diferenças entre a DIB e a implantação efetiva) são pagas mediante RPV ou precatório, nos termos da legislação aplicável aos JEFs. A correção monetária segue o INPC até a vigência da EC n. 113/2021, e a taxa SELIC a partir de então.
 
-### 19.28 Habilitação Tardia de Dependentes
+### 19.28 Habilitação tardia de dependentes
 
 A habilitação tardia ocorre quando um dependente requer a inclusão na pensão por morte após o benefício já estar sendo pago a outros dependentes. A hipótese é frequente em situações de concorrência entre cônjuge e companheiro(a), ou quando um dependente desconhecido (filho não registrado, por exemplo) se apresenta após a concessão.
 
@@ -406,7 +406,7 @@ O dependente habilitado tardiamente não perde o direito às parcelas entre o ó
 
 A habilitação tardia exige que o novo dependente comprove sua condição perante o INSS ou judicialmente. Se a habilitação gerar litisconsórcio necessário (por concorrência com dependentes já habilitados), o juiz do JEF deve determinar a citação dos demais beneficiários, assegurando o contraditório sobre o rateio.
 
-### 19.29 Acumulação de Pensões por Morte
+### 19.29 Acumulação de pensões por morte
 
 A EC n. 103/2019, em seu art. 24, estabeleceu novas regras sobre acumulação de pensões por morte. A regra geral é a vedação: é vedada a acumulação de mais de uma pensão por morte deixada por cônjuge ou companheiro, no âmbito do mesmo regime de previdência social, ressalvadas as pensões do mesmo instituidor decorrentes do exercício de cargos acumuláveis na forma do art. 37, XVI e XVII, da Constituição.
 
@@ -422,7 +422,7 @@ A hipótese de acumulação de duas pensões por morte de regimes diferentes é 
 O direito de opção pelo benefício mais vantajoso, assegurado pelo art. 24, § 3º, da EC n. 103/2019, impõe ao advogado o dever de calcular qual dos dois benefícios é mais favorável antes de requerer a acumulação. Em alguns casos, o benefício aparentemente menor pode se tornar mais vantajoso quando considerado o efeito do escalonamento sobre o outro. A análise deve ser feita considerando o valor líquido (após desconto de imposto de renda e contribuição previdenciária, quando aplicável) e a projeção futura (reajustes diferenciados entre os regimes). A orientação preventiva ao beneficiário evita a necessidade de revisão administrativa posterior.
 :::
 
-### 19.30 Acumulação de Pensão por Morte com Aposentadoria
+### 19.30 Acumulação de pensão por morte com aposentadoria
 
 A acumulação de pensão por morte com aposentadoria própria é a hipótese prática mais frequente e relevante. A pessoa que é aposentada pelo RGPS e também dependente de segurado falecido pode acumular os dois benefícios, mas com aplicação das regras de escalonamento introduzidas pela EC n. 103/2019.
 
@@ -430,15 +430,15 @@ O art. 24, § 2º, da EC n. 103/2019 estabelece que, nas hipóteses de acumulaç
 
 O escalonamento aplica-se apenas à acumulação de benefícios cujos fatos geradores ocorreram a partir da vigência da EC n. 103/2019. Se ambos os benefícios (aposentadoria e pensão por morte) tiveram fatos geradores anteriores à emenda, o beneficiário mantém o direito adquirido à acumulação integral, nos termos da legislação anterior.
 
-### 19.31 Regras de Escalonamento na Acumulação (Art. 24, § 2º, EC 103)
+### 19.31 Regras de escalonamento na acumulação (art. 24, § 2º, EC 103)
 
-O escalonamento previsto no art. 24, § 2º, da EC n. 103/2019 tem impacto financeiro significativo para os beneficiários que acumulam pensão com aposentadoria. A lógica é progressiva: quanto maior o valor do segundo benefício, menor o percentual mantido em cada faixa (HORVATH JÚNIOR, 2025; PORTO, 2024). O resultado prático é que a parcela do segundo benefício que excede quatro salários mínimos sofre redução substancial. O detalhamento das faixas, percentuais e cálculos faixa por faixa está no Cap. 20, §§ 20.3-20.6, capítulo-sede do regime de acumulação.
+O escalonamento previsto no art. 24, § 2º, da EC n. 103/2019 tem impacto financeiro significativo para os beneficiários que acumulam pensão com aposentadoria. A lógica é progressiva: quanto maior o valor do segundo benefício, menor o percentual mantido em cada faixa (Horvath Júnior, 2025; Porto, 2024). O resultado prático é que a parcela do segundo benefício que excede quatro salários mínimos sofre redução substancial. O detalhamento das faixas, percentuais e cálculos faixa por faixa está no Cap. 20, §§ 20.3-20.6, capítulo-sede do regime de acumulação.
 
 A constitucionalidade do escalonamento está vinculada à ADI 7.051, na qual o STF declarou constitucional o regime de cotas e, implicitamente, as regras de acumulação da EC n. 103/2019. O fundamento é que a reforma buscou reduzir distorções no sistema previdenciário, evitando que a acumulação de benefícios gerasse renda previdenciária superior à renda do trabalho do segurado em vida.
 
 A intertemporalidade do escalonamento é ponto sensível. O direito adquirido do beneficiário que já acumulava pensão e aposentadoria antes da EC n. 103/2019 é preservado: a orientação predominante é de que o beneficiário que já recebia dois benefícios antes da emenda mantém o direito à acumulação integral, sem aplicação do escalonamento (v. Cap. 20, § 20.7).
 
-### 19.32 Pensão por Morte Acidentária (B93)
+### 19.32 Pensão por morte acidentária (B93)
 
 A pensão por morte pode ter natureza previdenciária comum (espécie B21) ou acidentária (espécie B93), conforme a causa do óbito do segurado. A distinção tem consequências relevantes para a competência jurisdicional e para os efeitos do benefício.
 
@@ -456,7 +456,7 @@ A caracterização do nexo causal entre o óbito e o trabalho pode ser controver
 A distinção entre pensão por morte previdenciária (B21) e acidentária (B93) repercute diretamente na competência jurisdicional: a primeira é processada nos JEFs (Justiça Federal); a segunda, na Justiça Estadual. O advogado deve atentar para essa distinção na distribuição da ação. Se há dúvida sobre o nexo causal com o trabalho, a estratégia processual pode envolver: (a) ação de pensão por morte previdenciária no JEF, que será concedida independentemente do nexo com o trabalho; e (b) ação acidentária na Justiça Estadual, buscando a conversão em pensão acidentária para fins de eventual indenização civil. As duas ações não se excluem, pois os pedidos são compatíveis e as competências são distintas.
 :::
 
-### 19.33 Aspectos Procedimentais nos JEFs
+### 19.33 Aspectos procedimentais nos JEFs
 
 O processamento das ações de pensão por morte nos JEFs segue o rito sumaríssimo da Lei n. 10.259/2001, com adaptações específicas ao tipo de benefício. A competência é do JEF da subseção judiciária em que reside o dependente (e não o segurado falecido), desde que o valor da causa não exceda 60 salários mínimos.
 
@@ -472,7 +472,7 @@ Para a estrutura da petição inicial nos JEFs, ver Cap. 23, § 23.11. Além dos
 
 A legitimidade passiva nas ações de pensão por morte é exclusivamente do INSS. Os demais dependentes habilitados devem ser citados como litisconsortes necessários quando a inclusão de novo dependente afetar o rateio da pensão. A ausência de citação de litisconsorte necessário gera nulidade processual.
 
-### 19.34 Intertemporalidade: Tempus Regit Actum
+### 19.34 Intertemporalidade: tempus regit actum
 
 A pensão por morte é regida pela lei vigente na data do óbito do segurado, aplicando-se integralmente o princípio tempus regit actum. Essa regra é pacífica na jurisprudência do STJ e da TNU e produz consequências práticas relevantes para cada elemento do benefício.
 
@@ -492,7 +492,7 @@ Na atuação forense dos JEFs, a identificação precisa da data do óbito é o 
 
 A questão da ultratividade das normas revogadas é igualmente relevante. Uma norma revogada pela EC n. 103/2019 continua produzindo efeitos para os fatos geradores ocorridos durante sua vigência. O princípio do tempus regit actum opera, assim, como garantia de ultratividade: a lei revogada rege os fatos gerados sob seu império, e a lei nova rege apenas os fatos futuros. Esse mecanismo impede que reformas legislativas retroajam para prejudicar dependentes cujos direitos já nasceram sob o regime anterior.
 
-### 19.35 Situações Especiais
+### 19.35 Situações especiais
 
 A aplicação da pensão por morte em situações especiais suscita questões de elevada complexidade, pela singularidade das circunstâncias fáticas e pelas lacunas normativas que frequentemente envolvem.
 
@@ -520,7 +520,7 @@ A nona situação envolve o segurado que recebia auxílio por incapacidade tempo
 A situação do nascituro como dependente da pensão por morte exige providência imediata após o nascimento. A mãe (ou representante legal) deve apresentar ao INSS: (a) certidão de óbito do segurado; (b) certidão de nascimento da criança (que comprova a filiação); (c) prova de que o segurado mantinha qualidade de segurado na data do óbito. Se o nascimento ocorrer dentro de 90 dias após o óbito, a pensão retroage à data do óbito. Se após 90 dias, retroage à data do nascimento (aplicando-se a isenção de prazo para absolutamente incapazes). O advogado deve orientar a família a providenciar o registro de nascimento com indicação do pai falecido, garantindo o reconhecimento da filiação.
 :::
 
-### 19.36 Questões Processuais Específicas
+### 19.36 Questões processuais específicas
 
 As ações de pensão por morte nos JEFs apresentam particularidades processuais que as distinguem das demais ações previdenciárias.
 
@@ -538,7 +538,7 @@ A sexta particularidade é a questão do valor da causa nos JEFs. Para a fixaç�
 
 A sétima particularidade diz respeito ao ônus probatório em ações de pensão por morte. A distribuição do ônus segue a regra geral do art. 373 do CPC/2015: ao autor incumbe provar os fatos constitutivos de seu direito (óbito, relação de dependência, qualidade de segurado); ao réu (INSS) incumbe provar os fatos impeditivos, modificativos ou extintivos. Contudo, o juiz do JEF pode aplicar a distribuição dinâmica do ônus probatório (art. 373, § 1º, CPC/2015) quando a produção da prova for excessivamente difícil para o dependente e mais fácil para o INSS — situação que ocorre, por exemplo, quando o INSS alega a existência de renda própria do dependente (informação que a autarquia pode acessar por cruzamento de dados no CNIS e na Receita Federal).
 
-### 19.37 Pensão por Morte do Segurado Especial e do Trabalhador Rural
+### 19.37 Pensão por morte do segurado especial e do trabalhador rural
 
 A pensão por morte do segurado especial (trabalhador rural em regime de economia familiar, pescador artesanal, seringueiro, extrativista vegetal) apresenta particularidades que a distinguem das demais modalidades e merece exame detido, dada a frequência dessas ações nos JEFs das regiões Norte, Nordeste e Centro-Oeste.
 
@@ -560,7 +560,7 @@ A aplicação do sistema de cotas da EC n. 103/2019 à pensão por morte do segu
 
 A descaracterização da atividade rural do falecido é a principal tese defensiva do INSS nas ações de pensão por morte rural. Vínculos urbanos curtos no CNIS não descaracterizam, por si sós, a condição de segurado especial (Cap. 9, § 9.5). O advogado deve demonstrar que a atividade rural era predominante e que eventuais intervalos urbanos não romperam o regime de economia familiar.
 
-### 19.38 Pensão por Morte e o Microempreendedor Individual (MEI)
+### 19.38 Pensão por morte e o microempreendedor individual (MEI)
 
 O microempreendedor individual (MEI) que contribui para o RGPS na alíquota reduzida de 5% sobre o salário mínimo (art. 18-A, § 3º, II, LC n. 123/2006) gera direito à pensão por morte para seus dependentes, nas mesmas condições dos demais segurados. A contribuição reduzida assegura cobertura previdenciária integral para os benefícios de risco (aposentadoria por incapacidade permanente, auxílio por incapacidade temporária, salário-maternidade e pensão por morte), embora restrinja o acesso à aposentadoria por tempo de contribuição (art. 21, § 2º, Lei n. 8.212/91).
 
@@ -572,7 +572,7 @@ A manutenção da qualidade de segurado do MEI exige o pagamento regular das con
 O MEI que complementa sua contribuição para 20% sobre o salário mínimo (pagando a diferença de 15%) adquire tempo de contribuição para fins de aposentadoria por tempo de contribuição e pode ter base de cálculo superior para a pensão por morte. A complementação é facultativa e retroativa: o MEI pode, a qualquer tempo, complementar contribuições já recolhidas na alíquota de 5%, assegurando aos dependentes base de cálculo mais vantajosa em eventual pensão por morte. A orientação sobre essa possibilidade é relevante no planejamento previdenciário de segurados MEI com dependentes.
 :::
 
-### 19.39 Tutela de Urgência e Implantação Provisória nos JEFs
+### 19.39 Tutela de urgência e implantação provisória nos JEFs
 
 A concessão de tutela de urgência nas ações de pensão por morte tem especificidades decorrentes da natureza alimentar agravada do benefício. Para os requisitos gerais da tutela de urgência nos JEFs previdenciários (art. 300, CPC/2015), a teoria da dupla irreversibilidade e a irrepetibilidade de valores alimentares, ver Cap. 23, § 23.16.
 
@@ -584,7 +584,7 @@ Na tutela de urgência em ações de pensão por morte, além dos elementos gera
 
 A cessação da tutela de urgência deferida em favor do dependente, em caso de improcedência da ação, gera o problema da devolução dos valores recebidos. A jurisprudência dos Tribunais Regionais Federais e do STJ tem assinalado que os valores recebidos de boa-fé por força de tutela antecipada em matéria previdenciária são irrepetíveis (não devem ser devolvidos), salvo comprovação de dolo ou fraude por parte do beneficiário. O fundamento é a natureza alimentar dos valores e a boa-fé do dependente que recebeu o benefício por determinação judicial. O INSS pode, contudo, requerer a devolução em caso de comprovação de má-fé (falsificação de documentos, simulação de relação conjugal, omissão de informações relevantes).
 
-### 19.40 Prova da Qualidade de Segurado: Estratégias Processuais
+### 19.40 Prova da qualidade de segurado: estratégias processuais
 
 A comprovação da qualidade de segurado do falecido na data do óbito constitui pressuposto da pensão por morte e frequentemente representa o principal ponto de controvérsia nas ações judiciais. O INSS indefere o pedido quando o CNIS (Cadastro Nacional de Informações Sociais) não registra contribuições recentes ou quando a data do óbito é posterior ao término do período de graça.
 
@@ -600,7 +600,7 @@ A quarta estratégia é a aplicação do art. 102, § 2º, da Lei n. 8.213/91: q
 
 A quinta estratégia é a comprovação de contribuições em atraso. O contribuinte individual e o segurado facultativo podem recolher contribuições em atraso, retroagindo a filiação ao RGPS. Se as contribuições em atraso forem regularizadas após o óbito pelos dependentes, a validade dessas contribuições para fins de qualidade de segurado é controvertida. A orientação majoritária é de que contribuições recolhidas após o óbito não restauram a qualidade de segurado perdida antes do falecimento, salvo para o contribuinte individual que comprovadamente exercia atividade remunerada na época das contribuições em atraso e simplesmente não as havia formalizado.
 
-### 19.41 Exemplos Práticos de Cálculo
+### 19.41 Exemplos práticos de cálculo
 
 A aplicação prática das regras de cálculo da pensão por morte exige domínio simultâneo do regime aplicável (anterior ou posterior à EC n. 103/2019), da base de cálculo (aposentadoria efetiva ou hipotética), do sistema de cotas e das garantias de piso. Apresentamos exemplos que ilustram as situações mais comuns nos JEFs.
 
@@ -616,7 +616,7 @@ Exemplo 3 — Óbito posterior à EC 103/2019 (segurado não aposentado). Robert
 Exemplo 4 — Acumulação de pensão com aposentadoria. Helena, aposentada pelo RGPS com renda de R$ 3.000,00, é também beneficiária de pensão por morte de seu falecido marido, no valor de R$ 2.000,00 (fato gerador posterior à EC 103/2019). Benefício mais vantajoso: aposentadoria de R$ 3.000,00 (recebido integralmente). Benefício menos vantajoso: pensão de R$ 2.000,00, sobre a qual incide o escalonamento do art. 24, § 2º, da EC n. 103/2019. O cálculo do escalonamento faixa por faixa é demonstrado no Cap. 20, §§ 20.3-20.6, que apresenta cenários numéricos detalhados com valores atualizados. O resultado do escalonamento implica redução da parcela do benefício menos vantajoso, cuja intensidade varia conforme o valor do benefício e o salário mínimo vigente. O advogado deve consultar o Cap. 20 para a aplicação prática do cálculo.
 :::
 
-### 19.42 Consolidação das Posições Adotadas
+### 19.42 Consolidação das posições adotadas
 
 O exame da pensão por morte revela benefício previdenciário em profunda transformação, cujo regime jurídico foi substancialmente alterado pela EC n. 103/2019 e pelas leis que a precederam. Consolidamos as posições adotadas ao longo deste capítulo.
 
@@ -638,7 +638,7 @@ O princípio tempus regit actum, que vincula o regime jurídico da pensão à le
 
 A pensão por morte, em síntese, é benefício que traduz a dimensão mais humana da previdência social: a proteção da família que perdeu seu provedor. As reformas legislativas das últimas décadas buscaram equilibrar a sustentabilidade fiscal do sistema com a função protetiva do benefício. O magistrado dos JEFs e o advogado previdenciarista devem interpretar as normas vigentes à luz dessa dupla exigência, garantindo proteção efetiva aos dependentes sem comprometer a viabilidade do regime previdenciário.
 
-### 19.43 Referências
+### Referências
 
 #### Legislação
 

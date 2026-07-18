@@ -9,9 +9,9 @@ data: "2026-05-15"
 
 ## Capítulo 13 — Salário-Maternidade
 
-### 13.1 Introdução e Fundamento Constitucional
+### 13.1 Introdução e fundamento constitucional
 
-O salário-maternidade substitui a remuneração da segurada — ou do segurado, nas hipóteses de adoção — durante o afastamento motivado por parto, adoção, guarda judicial para fins de adoção, aborto não criminoso ou natimorto. Diferencia-se dos demais benefícios previdenciários por conjugar a natureza de prestação previdenciária e a função de proteção trabalhista (CASTRO; LAZZARI, 2025; IBRAHIM, 2025).
+O salário-maternidade substitui a remuneração da segurada — ou do segurado, nas hipóteses de adoção — durante o afastamento motivado por parto, adoção, guarda judicial para fins de adoção, aborto não criminoso ou natimorto. Diferencia-se dos demais benefícios previdenciários por conjugar a natureza de prestação previdenciária e a função de proteção trabalhista (Castro; Lazzari, 2025; Ibrahim, 2025).
 
 O fundamento constitucional do salário-maternidade radica em dois dispositivos convergentes. O art. 7º, XVIII, da Constituição Federal assegura à trabalhadora gestante o direito à licença-maternidade sem prejuízo do emprego e do salário, com duração de cento e vinte dias. O art. 201, II, por sua vez, inclui a proteção à maternidade, especialmente à gestante, entre os riscos sociais cobertos pela previdência social. A leitura conjunta dos dois dispositivos revela que a Constituição trata a maternidade como evento que exige proteção simultânea em duas dimensões: a trabalhista (manutenção do emprego e da remuneração) e a previdenciária (substituição da renda durante o afastamento).
 
@@ -19,7 +19,7 @@ O art. 10, II, b, do Ato das Disposições Constitucionais Transitórias complem
 
 No plano internacional, a proteção à maternidade no trabalho encontra amparo nas Convenções da Organização Internacional do Trabalho. A Convenção 103 (1952) já estabelecia o direito à licença-maternidade remunerada financiada por sistema de seguro social ou fundos públicos, e não pelo empregador diretamente. A Convenção 183 (2000), que a substituiu, ampliou a proteção para no mínimo quatorze semanas e reforçou a vedação de que o empregador seja individualmente responsável pelo custo da licença, justamente para evitar a discriminação na contratação de mulheres. Embora o Brasil não tenha ratificado a Convenção 183, o ordenamento interno já contempla proteção superior ao mínimo internacional.
 
-A natureza jurídica do salário-maternidade é objeto de debate doutrinário (IBRAHIM, 2025; CASTRO; LAZZARI, 2025). A posição prevalente, reforçada pelo Supremo Tribunal Federal no julgamento do Tema 72 da repercussão geral (RE 576.967), é de que se trata de benefício previdenciário, não de contraprestação pelo trabalho. Essa qualificação produz consequências relevantes: por não constituir remuneração, o salário-maternidade não pode servir de base de cálculo para contribuição previdenciária patronal, conforme decidiu o STF.
+A natureza jurídica do salário-maternidade é objeto de debate doutrinário (Ibrahim, 2025; Castro; Lazzari, 2025). A posição prevalente, reforçada pelo Supremo Tribunal Federal no julgamento do Tema 72 da repercussão geral (RE 576.967), é de que se trata de benefício previdenciário, não de contraprestação pelo trabalho. Essa qualificação produz consequências relevantes: por não constituir remuneração, o salário-maternidade não pode servir de base de cálculo para contribuição previdenciária patronal, conforme decidiu o STF.
 
 Dois conceitos são frequentemente confundidos, conforme Castro e Lazzari (2025). A licença-maternidade é o direito trabalhista ao afastamento do trabalho, previsto no art. 7º, XVIII, da Constituição. O salário-maternidade é o benefício previdenciário que substitui a remuneração durante esse afastamento, previsto nos arts. 71 a 73 da Lei 8.213/91. A licença é o período; o salário-maternidade é a prestação pecuniária. Uma segurada contribuinte individual que não mantém relação de emprego não tem licença-maternidade (que pressupõe vínculo empregatício), mas tem direito ao salário-maternidade como segurada do RGPS.
 
@@ -29,13 +29,13 @@ A jurisprudência recente tem dado relevo crescente à dimensão protetiva da cr
 
 Na prática dos Juizados Especiais Federais, o salário-maternidade é o benefício previdenciário de menor valor individual (porque temporário — quatro meses), porém de altíssimo volume processual, especialmente nas regiões Norte e Nordeste, onde predominam as seguradas especiais. A judicialização do salário-maternidade cresceu 124% entre 2020 e 2025, passando de 86.701 para 194.363 ações por ano — média de 580 novos processos por dia em todo o país.
 
-### 13.2 Evolução Legislativa
+### 13.2 Evolução legislativa
 
 A história do salário-maternidade no Brasil atravessa quatro fases distintas, cada qual marcada por ampliação progressiva da proteção.
 
 **Primeira fase (1943-1973): ônus exclusivo do empregador.** A CLT original de 1943 assegurava à empregada gestante o direito a doze semanas de afastamento remunerado (seis antes e seis após o parto), com o ônus financeiro recaindo integralmente sobre o empregador. Esse modelo gerava efeito perverso: quanto maior a proteção à gestante, maior o desincentivo à contratação de mulheres em idade fértil. O empregador, ao suportar sozinho o custo da licença, tendia a preferir trabalhadores homens ou mulheres que declarassem não pretender engravidar.
 
-**Segunda fase (1974-1987): transferência para a Previdência.** A Lei 6.136/1974 representou o grande marco na proteção à maternidade (IBRAHIM, 2025) ao transformar o salário-maternidade em prestação previdenciária, transferindo o ônus financeiro do empregador para o sistema de seguridade social. A partir dessa lei, o salário-maternidade passou a ser financiado pelas contribuições patronais incidentes sobre a folha de salários, socializando o custo da maternidade entre todos os empregadores. O valor passou a ser pago pela empresa, que se ressarcia mediante compensação com as contribuições devidas ao INPS. Essa mudança estrutural alinhou o Brasil à recomendação da OIT de que o custo da proteção à maternidade não recaia sobre o empregador individual.
+**Segunda fase (1974-1987): transferência para a Previdência.** A Lei 6.136/1974 representou o grande marco na proteção à maternidade (Ibrahim, 2025) ao transformar o salário-maternidade em prestação previdenciária, transferindo o ônus financeiro do empregador para o sistema de seguridade social. A partir dessa lei, o salário-maternidade passou a ser financiado pelas contribuições patronais incidentes sobre a folha de salários, socializando o custo da maternidade entre todos os empregadores. O valor passou a ser pago pela empresa, que se ressarcia mediante compensação com as contribuições devidas ao INPS. Essa mudança estrutural alinhou o Brasil à recomendação da OIT de que o custo da proteção à maternidade não recaia sobre o empregador individual.
 
 **Terceira fase (1988-2012): constitucionalização e expansão subjetiva.** A Constituição de 1988 elevou a proteção à maternidade a direito fundamental, ampliando a duração para cento e vinte dias (art. 7º, XVIII). A Lei 8.213/1991 regulamentou o benefício nos arts. 71 a 73, inicialmente restrito às seguradas empregada e trabalhadora avulsa. A expansão subjetiva ocorreu em etapas: a Lei 8.861/1994 estendeu o benefício à segurada especial (trabalhadora rural); a Lei 9.876/1999 completou a universalização ao incluir a contribuinte individual e a segurada facultativa, mediante carência de dez contribuições mensais. A Lei 10.421/2002 estendeu o salário-maternidade à mãe adotiva, porém com escalonamento discriminatório por idade do adotando: cento e vinte dias para criança de até um ano, sessenta dias para criança de um a quatro anos, e trinta dias para criança de quatro a oito anos.
 
@@ -59,7 +59,7 @@ A história do salário-maternidade no Brasil atravessa quatro fases distintas, 
 
 A evolução legislativa do salário-maternidade revela um padrão consistente de ampliação progressiva. Cada reforma ampliou o universo de beneficiárias, a duração do benefício ou as situações cobertas. A tendência aponta para a universalização plena, qualquer pessoa com qualidade de segurada que assuma os cuidados de uma criança recém-nascida ou recém-adotada tende a ser contemplada pelo benefício, independentemente do sexo, da orientação sexual ou da forma de constituição familiar.
 
-### 13.3 Fatos Geradores
+### 13.3 Fatos geradores
 
 O salário-maternidade pode ser concedido em razão de cinco fatos geradores distintos, cada qual com regras próprias quanto à duração, à documentação e ao momento de início do benefício. O legislador adotou a expressão "proteção à maternidade" em sentido amplo, abrangendo não apenas a gestação e o parto biológico, mas também a formação de vínculo familiar pela via da adoção — e, mais recentemente, pela via da gestação por substituição, embora esta última ainda careça de regulamentação legal expressa.
 
@@ -107,9 +107,9 @@ Na prática dos Juizados Especiais Federais, o indeferimento administrativo do s
 | Aborto não criminoso | 14 dias | Atestado médico | Data do aborto |
 | Natimorto (≥ 23 semanas) | 120 dias | Certidão de natimorto | Data do parto |
 
-### 13.4 Seguradas Beneficiárias e Carência
+### 13.4 Seguradas beneficiárias e carência
 
-O salário-maternidade é devido a todas as categorias de seguradas do RGPS. A grande novidade legislativa recente é a eliminação da carência para todas as categorias (CASTRO; LAZZARI, 2025), após o julgamento das ADIs 2.110 e 2.111 pelo STF em março de 2024.
+O salário-maternidade é devido a todas as categorias de seguradas do RGPS. A grande novidade legislativa recente é a eliminação da carência para todas as categorias (Castro; Lazzari, 2025), após o julgamento das ADIs 2.110 e 2.111 pelo STF em março de 2024.
 
 #### 13.4.1 Empregada (inclusive doméstica)
 
@@ -147,7 +147,7 @@ O valor do benefício é de um salário mínimo (R$ 1.621,00 em 2026), independe
 A decisão do STF nas ADIs 2.110/2.111 (março/2024) eliminou a carência de 10 contribuições para todas as categorias de seguradas. Contudo, para a segurada especial, continua sendo necessário demonstrar o exercício de atividade rural na data do fato gerador (parto, adoção, aborto). O que mudou: antes, era preciso provar 10 meses de atividade rural; agora, basta comprovar a atividade na data do evento. A qualidade de segurada especial depende do efetivo exercício da atividade rural (art. 11, VII, Lei 8.213/91), e isso deve ser demonstrado por início de prova material complementada por testemunhal (Súmula 149/STJ; Tema 297/STJ; flexibilização para salário-maternidade: TNU Temas 11 e 17).
 :::
 
-#### 13.4.6 MEI (Microempreendedor Individual)
+#### 13.4.6 MEI (microempreendedor individual)
 
 A segurada MEI é contribuinte individual para fins previdenciários (art. 18-A, §1º, LC 123/2006). Assim, aplica-se o mesmo regime: carência dispensada (após ADIs 2.110/2.111) e valor calculado sobre o salário de contribuição declarado. Como a contribuição do MEI incide sobre o salário mínimo (5% do SM), o valor do salário-maternidade será de um salário mínimo (R$ 1.621,00 em 2026). Para obter benefício de valor superior, a MEI deve complementar suas contribuições (diferença entre 5% e 20%), conforme detalhado no Cap. 4 (seção 4.8).
 
@@ -163,7 +163,7 @@ O pagamento é feito diretamente pelo INSS, e não pelo eventual contratante dos
 | Segurada especial | Dispensada (STF 2024) | 1 SM (R$ 1.621,00) | INSS direto | Art. 73, II |
 | MEI | Dispensada (STF 2024) | 1 SM (R$ 1.621,00) | INSS direto | Art. 73, III |
 
-### 13.5 Duração do Benefício
+### 13.5 Duração do benefício
 
 A duração do salário-maternidade varia conforme o fato gerador, com a regra geral de cento e vinte dias e situações especiais que alteram esse prazo.
 
@@ -194,9 +194,9 @@ A Lei 14.457/2022 (Programa Emprega + Mulheres) trouxe inovação adicional: a p
 | Empresa Cidadã | +60 dias (total 180) | Lei 11.770/2008 |
 | Internação RN > 2 semanas | Início na alta hospitalar | STF |
 
-### 13.6 Valor do Benefício e Cálculo
+### 13.6 Valor do benefício e cálculo
 
-O valor do salário-maternidade varia conforme a categoria da segurada (IBRAHIM, 2025), com regras de cálculo distintas estabelecidas no art. 73 da Lei 8.213/91.
+O valor do salário-maternidade varia conforme a categoria da segurada (Ibrahim, 2025), com regras de cálculo distintas estabelecidas no art. 73 da Lei 8.213/91.
 
 **Empregada e trabalhadora avulsa: remuneração integral.** O art. 72 da Lei 8.213/91 determina que o salário-maternidade da empregada e da avulsa consiste em renda mensal igual à sua remuneração integral. Não há aplicação de coeficiente redutor nem fator previdenciário. A segurada que percebe R$ 8.000,00 mensais receberá R$ 8.000,00 de salário-maternidade.
 
@@ -237,9 +237,9 @@ Quem paga: INSS diretamente.
 Se a MEI complementar para 20%, valor será calculado pelo art. 73, III.
 :::
 
-### 13.7 Responsabilidade pelo Pagamento e Compensação Tributária
+### 13.7 Responsabilidade pelo pagamento e compensação tributária
 
-O sistema de pagamento do salário-maternidade envolve dois mecanismos distintos, conforme a categoria da segurada (CASTRO; LAZZARI, 2025): pagamento pelo empregador com compensação tributária ou pagamento direto pelo INSS.
+O sistema de pagamento do salário-maternidade envolve dois mecanismos distintos, conforme a categoria da segurada (Castro; Lazzari, 2025): pagamento pelo empregador com compensação tributária ou pagamento direto pelo INSS.
 
 **Pagamento pelo empregador (empregada CLT).** Para a segurada empregada de pessoa jurídica (exceto doméstica e empregada do MEI), o salário-maternidade é pago pelo empregador como se fosse remuneração normal. A empresa então efetua a compensação do valor pago com as contribuições previdenciárias devidas sobre a folha de salários, nos termos do art. 72, §1º, da Lei 8.213/91. O mecanismo funciona assim: a empresa apura o total de contribuições patronais devidas no mês, deduz o valor pago a título de salário-maternidade, e recolhe apenas a diferença. Se o valor do salário-maternidade exceder o total de contribuições, a empresa acumula crédito para compensação nos meses seguintes.
 
@@ -286,7 +286,7 @@ Até a LC 150/2015, o empregador doméstico era responsável pelo pagamento do s
 **Importante:** A empregada CLT não requer pelo Meu INSS, o benefício é pago pela empresa diretamente em folha.
 :::
 
-### 13.8 Incidência de Contribuição Previdenciária sobre o Salário-Maternidade
+### 13.8 Incidência de contribuição previdenciária sobre o salário-maternidade
 
 A questão da incidência de contribuição previdenciária sobre o salário-maternidade foi objeto de longa controvérsia jurídica, definitivamente resolvida pelo STF no julgamento do Tema 72 da repercussão geral.
 
@@ -318,9 +318,9 @@ O segundo argumento é de política pública: a incidência de contribuição pa
 
 **Interface com o Cap. 4.** A seção 4.16.2 do Cap. 4 já abordou o aspecto de que a segurada não precisa recolher contribuição própria durante o gozo do salário-maternidade quando este é pago pelo INSS (CI, facultativa, especial). A contribuição é considerada automaticamente realizada durante o período do benefício.
 
-### 13.9 Segurada Desempregada e Período de Graça
+### 13.9 Segurada desempregada e período de graça
 
-A segurada que perde o emprego ou cessa suas contribuições mantém a qualidade de segurada durante o período de graça previsto no art. 15 da Lei 8.213/91 (CASTRO; LAZZARI, 2025; IBRAHIM, 2025). Se o fato gerador do salário-maternidade (parto, adoção, aborto) ocorrer durante esse período, o benefício é devido. Sobre o período de graça em geral, v. Cap. 3, seção 3.5.
+A segurada que perde o emprego ou cessa suas contribuições mantém a qualidade de segurada durante o período de graça previsto no art. 15 da Lei 8.213/91 (Castro; Lazzari, 2025; Ibrahim, 2025). Se o fato gerador do salário-maternidade (parto, adoção, aborto) ocorrer durante esse período, o benefício é devido. Sobre o período de graça em geral, v. Cap. 3, seção 3.5.
 
 **Prazos do período de graça relevantes para o SM.** Os prazos são: doze meses após a cessação das contribuições (regra geral); acrescidos de doze meses se a segurada conta com mais de cento e vinte contribuições; acrescidos de mais doze meses se a segurada comprova desemprego involuntário. O prazo máximo é, portanto, de trinta e seis meses.
 
@@ -342,7 +342,7 @@ Após perder a qualidade de segurada (esgotamento do período de graça), a mulh
 **Atenção:** A contribuição deve ser anterior ao fato gerador. Contribuição realizada após o parto não retroage para conferir direito ao SM pelo parto ocorrido quando a segurada não tinha qualidade de segurada.
 :::
 
-### 13.10 Segurada Especial e Prova de Atividade Rural
+### 13.10 Segurada especial e prova de atividade rural
 
 A segurada especial é a categoria com maior número de demandas judiciais de salário-maternidade nos JEFs. A informalidade do trabalho rural dificulta a comprovação do vínculo, e o INSS historicamente aplica critérios restritivos na análise dos requerimentos de trabalhadoras rurais.
 
@@ -373,7 +373,7 @@ A existência de vínculo empregatício urbano de outro membro da família não 
 **Fiscalização e fraude.** O salário-maternidade da segurada especial é o benefício previdenciário com maior índice de fraude registrado pelo INSS. A facilidade do requerimento (basta comprovar atividade rural e parto), associada à dificuldade de fiscalização em áreas rurais remotas, gera incentivo a requerimentos fraudulentos por pessoas que não exercem efetivamente atividade rural. O INSS tem intensificado a fiscalização mediante cruzamento de dados (CNIS, RAIS, CAGED) e entrevistas domiciliares. A detecção de fraude gera cancelamento do benefício, cobrança dos valores pagos indevidamente e possível responsabilização criminal (art. 171, §3º, CP, estelionato previdenciário).
 
 
-### 13.11 Adoção e Guarda Judicial para Fins de Adoção
+### 13.11 Adoção e guarda judicial para fins de adoção
 
 A extensão do salário-maternidade à adoção reflete a mudança na concepção de família e parentalidade no direito brasileiro: o vínculo entre pais e filhos não se estabelece exclusivamente pela via biológica, e a criança adotada necessita do mesmo período de convívio e adaptação assegurado ao recém-nascido biológico.
 
@@ -413,7 +413,7 @@ A guarda judicial para fins de adoção deve ser expressamente designada como ta
 
 **Adoção intuitu personae (adoção dirigida).** Na adoção intuitu personae, em que a mãe biológica escolhe a família adotiva, o salário-maternidade é devido a partir do termo de guarda provisória. A questão é controversa quando a criança é entregue informalmente antes da formalização judicial: o período de convivência anterior à guarda judicial não gera direito ao salário-maternidade, pois o fato gerador é o ato judicial (sentença ou termo de guarda), e não a entrega fática da criança.
 
-### 13.12 Pai Adotante, Casais Homoafetivos e Famílias Diversas
+### 13.12 Pai adotante, casais homoafetivos e famílias diversas
 
 A Lei 12.873/2013 representou marco na evolução do salário-maternidade ao eliminar a distinção de gênero no benefício por adoção. O art. 71-A passou a referir-se a "segurado ou segurada" que adotar, reconhecendo que o cuidado da criança adotada pode ser exercido por homem ou mulher, independentemente da orientação sexual ou da configuração familiar.
 
@@ -433,9 +433,9 @@ Em casal homoafetivo feminino, quando uma das companheiras gesta e dá à luz, o
 
 **Casais homoafetivos femininos e reprodução assistida.** Em casais homoafetivos femininos em que uma das companheiras gesta (por inseminação artificial com doador) e a outra é a mãe socioafetiva, apenas a gestante recebe o salário-maternidade (fato gerador: parto). A companheira não gestante não faz jus ao benefício, salvo se houver adoção unilateral (situação rara quando já há filiação registrada). A lacuna legislativa é evidente: a companheira não gestante assume papel parental idêntico, mas não tem acesso ao salário-maternidade por ausência de fato gerador previsto em lei.
 
-### 13.13 Estabilidade Gestante e Interface Trabalhista
+### 13.13 Estabilidade gestante e interface trabalhista
 
-A estabilidade provisória da gestante (art. 10, II, b, ADCT) e o salário-maternidade são institutos complementares que protegem a maternidade no ambiente de trabalho (CASTRO; LAZZARI, 2025). A estabilidade garante a manutenção do emprego; o salário-maternidade substitui a remuneração durante o afastamento. A interseção desses dois institutos gera questões práticas relevantes.
+A estabilidade provisória da gestante (art. 10, II, b, ADCT) e o salário-maternidade são institutos complementares que protegem a maternidade no ambiente de trabalho (Castro; Lazzari, 2025). A estabilidade garante a manutenção do emprego; o salário-maternidade substitui a remuneração durante o afastamento. A interseção desses dois institutos gera questões práticas relevantes.
 
 **Natureza objetiva da estabilidade.** A estabilidade gestante independe do conhecimento do empregador sobre o estado gravídico (Súmula 244, I, TST). A empregada dispensada sem justa causa que descobre a gravidez após a dispensa tem direito à reintegração ou à indenização correspondente ao período da estabilidade, incluindo o salário-maternidade. Essa natureza objetiva protege a empregada contra a dispensa mesmo quando a gravidez era desconhecida no momento da rescisão.
 
@@ -467,9 +467,9 @@ A jurisprudência majoritária admite a legitimidade passiva do INSS mesmo quand
 
 A estabilidade gestante da empregada intermitente é tema controverso. O TST ainda não fixou posição definitiva sobre se a empregada intermitente tem direito à estabilidade durante os períodos de inatividade ou apenas durante as convocações efetivas. A tendência jurisprudencial é reconhecer a estabilidade pelo período integral (confirmação da gravidez até cinco meses após o parto), impedindo a rescisão do contrato intermitente.
 
-### 13.14 Acumulação e Vedações
+### 13.14 Acumulação e vedações
 
-O art. 124 da Lei 8.213/91 estabelece regras de vedação de acumulação entre benefícios previdenciários (IBRAHIM, 2025). O salário-maternidade é afetado por algumas dessas vedações e, simultaneamente, pode ser acumulado com outros benefícios.
+O art. 124 da Lei 8.213/91 estabelece regras de vedação de acumulação entre benefícios previdenciários (Ibrahim, 2025). O salário-maternidade é afetado por algumas dessas vedações e, simultaneamente, pode ser acumulado com outros benefícios.
 
 **Vedação: SM × auxílio por incapacidade temporária.** O art. 124 da Lei 8.213/91, combinado com o art. 167 do Decreto 3.048/99, veda a acumulação de salário-maternidade com auxílio por incapacidade temporária (antigo auxílio-doença), por incompatibilidade lógica: ambos os benefícios substituem a remuneração do segurado. Quando a segurada em gozo de auxílio por incapacidade temporária dá à luz, o auxílio é suspenso e substituído pelo salário-maternidade, por ser este mais vantajoso (remuneração integral versus 91% do salário de benefício). Findo o período do salário-maternidade, se a incapacidade persistir, o auxílio por incapacidade temporária é restabelecido automaticamente.
 
@@ -499,7 +499,7 @@ O fundamento para a acumulação reside na natureza substitutiva do benefício: 
 | Seguro-desemprego | Controvérsia | Jurisprudência dividida |
 | Outro SM (2º vínculo) | Controvérsia | Tendência: SIM |
 
-### 13.15 Salário-Maternidade como Tempo de Contribuição e Carência
+### 13.15 Salário-maternidade como tempo de contribuição e carência
 
 O período de gozo do salário-maternidade produz efeitos relevantes na contagem de tempo de contribuição e carência da segurada, com impacto direto na futura aposentadoria.
 
@@ -519,7 +519,7 @@ Na prática do CNIS, o período de salário-maternidade deve aparecer como contr
 
 Além disso, o período de salário-maternidade pode preencher lacunas contributivas que, de outro modo, comprometeriam a carência exigida para outros benefícios (como aposentadoria por idade). A segurada que engravidou durante período de contribuição regular tem a continuidade contributiva assegurada pelo SM.
 
-### 13.16 Aspectos Processuais nos JEFs
+### 13.16 Aspectos processuais nos JEFs
 
 A litigância envolvendo salário-maternidade nos Juizados Especiais Federais apresenta particularidades que a distinguem das demais ações previdenciárias. A natureza temporária do benefício (quatro meses), a urgência inerente à proteção da gestante e do recém-nascido, e o volume expressivo de demandas de seguradas especiais conformam um perfil processual próprio.
 
@@ -601,7 +601,7 @@ A execução das sentenças em ações de salário-maternidade segue o rito da R
 
 Nos casos de tutela antecipada deferida, o INSS é intimado a implantar o benefício em prazo fixado pelo juiz (geralmente trinta dias), sob pena de multa diária (astreintes). As parcelas vencidas entre a DIB e a implantação são pagas por RPV após o trânsito em julgado.
 
-### 13.17 Questões Especiais e Situações Atípicas
+### 13.17 Questões especiais e situações atípicas
 
 O salário-maternidade, apesar de ser benefício aparentemente simples (quatro meses de substituição de renda), apresenta situações atípicas que desafiam a aplicação da legislação e geram controvérsias doutrinárias e jurisprudenciais.
 
@@ -707,7 +707,7 @@ As principais orientações para o planejamento previdenciário voltado à mater
 
 - **Documentar a atividade rural:** Para a segurada especial, a documentação da atividade rural deve ser mantida permanentemente (DAP, notas fiscais, registro sindical), e não apenas quando surgir a necessidade do benefício. A prova contemporânea é mais forte do que a prova constituída após o fato.
 
-### 13.18 Síntese e Instrumentos de Consulta Rápida
+### 13.18 Síntese e instrumentos de consulta rápida
 
 Esta seção consolida as informações essenciais do capítulo em instrumentos de consulta rápida para uso forense e administrativo.
 
@@ -833,9 +833,9 @@ No plano judicial, a judicialização massiva do salário-maternidade, especialm
 
 O advogado previdenciário deve estar atento às constantes mudanças legislativas e jurisprudenciais nessa matéria. O salário-maternidade, que durante décadas foi considerado benefício simples, tornou-se um dos campos mais dinâmicos do direito previdenciário, impulsionado pela evolução das configurações familiares, pela ampliação da proteção social e pela crescente judicialização.
 
-### 13.19 Referências
+### Referências
 
-#### 13.19.1 Legislação
+#### Legislação
 
 - Constituição Federal de 1988 (arts. 7º, XVIII e XXXIV; 10, II, b, ADCT; 201, II; 227).
 - Lei n. 8.213, de 24 de julho de 1991 (arts. 25, 26, VI, 39, parágrafo único, 71 a 73, 71-A, 71-B, 71-C).
@@ -850,7 +850,7 @@ O advogado previdenciário deve estar atento às constantes mudanças legislativ
 - Decreto n. 3.048, de 6 de maio de 1999 (art. 93, §§ 3º e 5º).
 - IN INSS/PRES n. 188/2025 (regulamentação da dispensa de carência).
 
-#### 13.19.2 Jurisprudência
+#### Jurisprudência
 
 - STF, Tema 72 da repercussão geral (RE 576.967) — inconstitucionalidade da contribuição patronal sobre salário-maternidade.
 - STF, Tema 350 (RE 631.240) — prévio requerimento administrativo.
@@ -864,7 +864,7 @@ O advogado previdenciário deve estar atento às constantes mudanças legislativ
 - Súmula 14/TNU, prova documental que não precisa cobrir todo o período de carência.
 - Súmula 34/TNU, início de prova material contemporâneo aos fatos.
 
-#### 13.19.3 Doutrina
+#### Doutrina
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 27. ed. Niterói: Impetus, 2025.

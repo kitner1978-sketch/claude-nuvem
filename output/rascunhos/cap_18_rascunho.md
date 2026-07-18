@@ -12,9 +12,9 @@ O Benefício de Prestação Continuada (BPC), previsto no art. 203, inciso V, da
 
 O BPC constitui, na prática forense dos JEFs, um dos benefícios mais demandados. A combinação de requisitos subjetivos (deficiência ou idade avançada) e objetivos (miserabilidade) gera volume expressivo de controvérsias que envolvem avaliação pericial, análise socioeconômica e interpretação de critérios legais cuja constitucionalidade foi questionada e redefinida pelo Supremo Tribunal Federal. O exame desse benefício exige do magistrado e do advogado domínio simultâneo de direito constitucional, legislação assistencial, jurisprudência consolidada e técnicas de instrução processual adaptadas à realidade dos requerentes, em geral pessoas em situação de extrema vulnerabilidade social.
 
-### 18.1 Fundamento Constitucional e Natureza Jurídica
+### 18.1 Fundamento constitucional e natureza jurídica
 
-A Constituição de 1988 organizou a seguridade social em três pilares: saúde (art. 196), previdência social (art. 201) e assistência social (art. 203) (CASTRO; LAZZARI, 2025; IBRAHIM, 2025). Enquanto a previdência social opera sob regime contributivo e de filiação obrigatória, a assistência social é prestada a quem dela necessitar, independentemente de contribuição (art. 203, caput). O BPC encontra fundamento direto no art. 203, inciso V, que assegura "a garantia de um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei".
+A Constituição de 1988 organizou a seguridade social em três pilares: saúde (art. 196), previdência social (art. 201) e assistência social (art. 203) (Castro; Lazzari, 2025; Ibrahim, 2025). Enquanto a previdência social opera sob regime contributivo e de filiação obrigatória, a assistência social é prestada a quem dela necessitar, independentemente de contribuição (art. 203, caput). O BPC encontra fundamento direto no art. 203, inciso V, que assegura "a garantia de um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, conforme dispuser a lei".
 
 A expressão "pessoa portadora de deficiência", utilizada no texto constitucional, foi superada pela Convenção sobre os Direitos das Pessoas com Deficiência (Decreto n. 6.949/2009, com status de emenda constitucional) e pelo Estatuto da Pessoa com Deficiência (Lei n. 13.146/2015), que adotam "pessoa com deficiência". A manutenção da expressão original é obrigatória na citação do dispositivo constitucional, mas a terminologia atualizada é empregada ao longo de toda esta obra.
 
@@ -28,7 +28,7 @@ O BPC tampouco se confunde com programas de transferência de renda de natureza 
 O BPC não gera direito a abono anual (13º salário). A Lei n. 8.742/93 não prevê o pagamento de parcela adicional ao beneficiário, diferentemente do que ocorre com os benefícios previdenciários (art. 40 da Lei n. 8.213/91). A ausência de 13º salário é consequência direta da natureza assistencial: o abono anual é prestação previdenciária prevista no art. 40 da Lei n. 8.213/91, inaplicável a benefícios assistenciais. Advogados devem atentar para essa diferença ao calcular os valores devidos em ações de concessão ou restabelecimento do BPC.
 :::
 
-### 18.2 Evolução Legislativa
+### 18.2 Evolução legislativa
 
 A proteção assistencial a idosos e pessoas com deficiência em situação de vulnerabilidade, como registram Santos (2025) e Castro e Lazzari (2025), não é inovação da Constituição de 1988, embora esta tenha inaugurado o modelo atual. A renda mensal vitalícia (RMV), instituída pela Lei n. 6.179/1974, já assegurava meio salário mínimo a maiores de 70 anos ou inválidos, sem exigência de contribuição. A RMV, porém, era restrita a quem tivesse exercido atividade abrangida pelo RGPS, configurando benefício de natureza híbrida entre assistência e previdência.
 
@@ -46,7 +46,7 @@ A Lei n. 14.176, de 22 de junho de 2021, representou alteração legislativa de 
 
 Legislação ainda mais recente trouxe novas modificações. A Lei n. 15.077/2024 e a Lei n. 15.226/2025 alteraram dispositivos da LOAS relativos ao procedimento de concessão e revisão do BPC. O Decreto n. 12.686/2025 regulamentou aspectos procedimentais da avaliação biopsicossocial. A Portaria MDS/MPS/INSS n. 33/2025 disciplinou o procedimento de reavaliação biopsicossocial do BPC. Essa intensa produção normativa reflete a centralidade do BPC na política de proteção social brasileira e a permanente tensão entre a universalização do direito assistencial e as restrições fiscais que condicionam sua expansão.
 
-### 18.3 Distinção entre Benefício Assistencial e Previdenciário
+### 18.3 Distinção entre benefício assistencial e previdenciário
 
 A distinção entre o BPC e os benefícios previdenciários, enfatizada por Ibrahim (2025) e Kertzman (2025), repercute em múltiplos aspectos da prática forense e merece exame detalhado. Embora operacionalmente administrados pela mesma autarquia (INSS), assistência social e previdência social obedecem a lógicas distintas.
 
@@ -62,7 +62,7 @@ Na prática dos JEFs, a distinção entre BPC e benefícios previdenciários por
 
 A competência para o processamento e julgamento das ações envolvendo o BPC é da Justiça Federal, com delegação de competência ao juízo estadual nos termos do art. 109, § 3º, da Constituição Federal, quando a comarca não for sede de vara federal. Nos JEFs, a competência é plena, desde que o valor da causa não exceda 60 salários mínimos. Diferentemente dos benefícios previdenciários por acidente do trabalho (competência da Justiça Estadual), o BPC é processado perante a Justiça Federal porque o INSS figura como réu na condição de autarquia federal gestora do benefício, ainda que a assistência social seja matéria de competência comum (art. 23, II, CF/88).
 
-### 18.4 Requisitos para Concessão: Visão Geral
+### 18.4 Requisitos para concessão: visão geral
 
 A concessão do BPC exige o preenchimento cumulativo de dois requisitos: (a) requisito subjetivo, consistente na condição de pessoa idosa (65 anos ou mais) ou pessoa com deficiência (impedimento de longo prazo); e (b) requisito objetivo, consistente na hipossuficiência econômica do requerente e de seu grupo familiar (renda per capita inferior ao limite legal). A ausência de qualquer desses requisitos impede a concessão do benefício.
 
@@ -74,7 +74,7 @@ A residência no território nacional é requisito implícito, derivado da próp
 
 Examinaremos cada requisito separadamente nas seções seguintes, dedicando atenção especial aos pontos de tensão entre a norma legal e a interpretação judicial, e às consequências práticas dessa tensão nos JEFs.
 
-### 18.5 Requisito Subjetivo: Pessoa Idosa (65 Anos ou Mais)
+### 18.5 Requisito subjetivo: pessoa idosa (65 anos ou mais)
 
 A idade mínima para o BPC ao idoso é de 65 anos, tanto para homens quanto para mulheres. Esse patamar, consolidado pelo art. 34 do Estatuto do Idoso (Lei n. 10.741/2003), superou o critério anterior de 67 anos e, antes dele, o de 70 anos. A redução decorreu do cronograma escalonado previsto no próprio art. 38 da LOAS (Lei n. 8.742/1993), que fixou o patamar inicial de 70 anos e, em sua redação dada pela Lei n. 9.720/1998, antecipou a redução para 67 anos. Não se tratou, portanto, de patamar criado isoladamente pela Lei n. 9.720/1998, mas da implementação de etapa do cronograma legal de redução etária, posteriormente concluído pelo Estatuto do Idoso ao estabelecer os 65 anos. A evolução reflete a progressiva ampliação do acesso ao benefício assistencial, em consonância com o envelhecimento populacional brasileiro e o reconhecimento de que a vulnerabilidade da pessoa idosa não deve ser condicionada a idades excessivamente elevadas.
 
@@ -88,7 +88,7 @@ O BPC ao idoso dispensa qualquer avaliação de deficiência. A mera comprovaç�
 O art. 34, parágrafo único, do Estatuto do Idoso (Lei n. 10.741/2003) dispunha que o benefício de BPC já concedido a qualquer membro idoso da família não seria computado para fins de cálculo da renda per capita familiar na concessão de novo BPC a outro idoso do mesmo grupo familiar. Essa regra criava tratamento diferenciado: enquanto o BPC de idoso era excluído do cálculo, o BPC de pessoa com deficiência do mesmo grupo familiar continuava sendo computado. O STF, no julgamento do RE 580.963 (Tema 312 da repercussão geral), declarou a inconstitucionalidade do parágrafo único do art. 34 do Estatuto do Idoso por entender que a distinção entre idosos e pessoas com deficiência violava o princípio da isonomia. A questão foi superada no plano legislativo pelas alterações do art. 20 da LOAS — introduzidas pela Lei n. 13.982/2020 (§§ 14 e 15) e consolidadas pela Lei n. 14.176/2021 —, que determinaram a exclusão, do cálculo da renda per capita, de qualquer benefício assistencial ou previdenciário de até um salário mínimo recebido por membro idoso ou com deficiência do grupo familiar.
 :::
 
-### 18.6 Requisito Subjetivo: Pessoa com Deficiência
+### 18.6 Requisito subjetivo: pessoa com deficiência
 
 O conceito de deficiência para fins do BPC sofreu profunda transformação nas últimas décadas, migrando de um modelo estritamente biomédico para o modelo biopsicossocial. A redação original do art. 20, § 2º, da LOAS definia como pessoa com deficiência "aquela incapacitada para a vida independente e para o trabalho". Essa definição, que exigia incapacidade total e absoluta, foi progressivamente superada pela jurisprudência e, depois, pela própria legislação.
 
@@ -104,7 +104,7 @@ A nova definição legal exige três elementos cumulativos: (i) impedimento de l
 
 A adoção do modelo biopsicossocial não significa que qualquer limitação funcional configure deficiência para fins do BPC. O impedimento deve ser de longo prazo (examinado na seção 18.8) e deve, em interação com as barreiras concretas que cercam o requerente, obstruir efetivamente sua participação social. Uma pessoa com limitação física leve que disponha de ambiente acessível, apoio familiar adequado e oportunidades de inclusão pode não preencher o requisito, ao passo que uma pessoa com a mesma limitação, inserida em contexto de barreiras arquitetônicas, estigma social e ausência de serviços, poderá preenchê-lo. A avaliação é contextual e individualizada, o que torna a perícia biopsicossocial ferramenta central na instrução das ações de BPC nos JEFs.
 
-### 18.7 Avaliação da Deficiência: Modelo Biopsicossocial
+### 18.7 Avaliação da deficiência: modelo biopsicossocial
 
 A avaliação da deficiência para fins do BPC deve observar o modelo biopsicossocial, conforme determinam o art. 20, § 6º, da LOAS e o art. 2º, § 1º, da Lei n. 13.146/2015 (Estatuto da Pessoa com Deficiência). Esse modelo, fundamentado na Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF), da Organização Mundial da Saúde (OMS), analisa a deficiência a partir da interação entre as limitações funcionais do indivíduo e as barreiras impostas pelo ambiente.
 
@@ -120,7 +120,7 @@ O Conselho Nacional de Justiça (CNJ) avançou na padronização da avaliação 
 
 A Lei n. 14.176/2021 previu, em seu art. 2º-A, a instituição de instrumento de avaliação biopsicossocial unificado para a aferição da deficiência em todo o sistema de proteção social, não apenas para o BPC. A regulamentação desse instrumento, a cargo do Poder Executivo, envolve a definição de domínios de avaliação, escalas de funcionalidade e protocolos de aplicação. A Portaria MDS/MPS/INSS n. 33/2025 disciplinou aspectos procedimentais da reavaliação biopsicossocial do BPC, estabelecendo cronograma e critérios para a revisão periódica dos benefícios ativos.
 
-### 18.8 Impedimento de Longo Prazo: Critérios e Controvérsias
+### 18.8 Impedimento de longo prazo: critérios e controvérsias
 
 O art. 20, § 2º, da LOAS exige que o impedimento seja "de longo prazo". O § 10 do mesmo artigo, incluído pela Lei n. 12.470/2011, define impedimento de longo prazo como "aquele que produza efeitos pelo prazo mínimo de 2 (dois) anos". Esse critério temporal distingue a deficiência para fins do BPC das limitações transitórias, que podem dar ensejo a benefícios previdenciários por incapacidade (auxílio por incapacidade temporária), mas não ao benefício assistencial.
 
@@ -140,7 +140,7 @@ Em idosos, o impedimento de longo prazo apresenta características próprias. A 
 
 A Súmula 78 da TNU aborda situação específica no âmbito do HIV/AIDS: "Comprovado que o requerente de benefício é portador do vírus HIV, cabe ao julgador verificar as condições pessoais, sociais, econômicas e culturais, de forma a analisar a incapacidade em sentido amplo, em face da elevada estigmatização social da doença." Esse entendimento reconhece que o impedimento de longo prazo, em casos de HIV, não se mede apenas pela condição clínica (controlável, em muitos casos, por terapia antirretroviral), mas pela interação entre o diagnóstico e as barreiras sociais (estigma, discriminação no trabalho, exclusão social) que obstruem a participação plena do portador.
 
-### 18.9 Requisito Objetivo: Miserabilidade
+### 18.9 Requisito objetivo: miserabilidade
 
 O requisito objetivo do BPC é a hipossuficiência econômica, designada pela doutrina e pela jurisprudência como "miserabilidade". O art. 20, § 3º, da LOAS, em sua redação vigente (dada pela Lei n. 14.176/2021), considera incapaz de prover a manutenção da pessoa com deficiência ou idosa "a família cuja renda mensal per capita seja inferior a 1/4 (um quarto) do salário-mínimo". A Lei n. 14.176/2021, ao introduzir o art. 20-B, autorizou a ampliação desse critério para até 1/2 salário mínimo, mediante regulamentação que considere fatores de vulnerabilidade.
 
@@ -148,7 +148,7 @@ A miserabilidade deve ser aferida no momento do requerimento administrativo e, e
 
 O conceito de miserabilidade não se reduz, contudo, à fórmula aritmética da renda per capita. Entendemos que o critério legal de 1/4 do salário mínimo é parâmetro objetivo de presunção absoluta de miserabilidade: toda família com renda per capita inferior a esse patamar é presumida miserável, sem necessidade de prova adicional. A questão mais complexa, e que gerou a intervenção do STF, diz respeito à situação de famílias com renda per capita superior a 1/4 do salário mínimo, mas que, por outras circunstâncias (gastos com medicamentos, tratamentos de saúde, condições de moradia), vivem em situação de vulnerabilidade equiparável à miserabilidade.
 
-### 18.10 Critério de Renda Per Capita Familiar
+### 18.10 Critério de renda per capita familiar
 
 O cálculo da renda per capita familiar para fins do BPC, como sistematizam Kertzman (2025) e Santos (2025), exige a identificação de dois elementos: (a) o grupo familiar relevante; e (b) a renda total desse grupo. A divisão da renda total pelo número de membros do grupo familiar produz a renda per capita, que será confrontada com o limite legal (1/4 do salário mínimo, atualmente R$ 405,25, considerando o salário mínimo de R$ 1.621,00 vigente em 2026). [Nota: valor projetado para 2026 com base na política de valorização do salário mínimo (Lei n. 14.663/2023). Verificar o salário mínimo vigente na data de leitura.]
 
@@ -168,7 +168,7 @@ A questão do genro e da nora que residem no mesmo domicílio do requerente é f
 A renda de membro do grupo familiar que não declara imposto de renda e exerce atividade informal gera dificuldade probatória na aferição da renda per capita. O INSS frequentemente utiliza dados do CNIS (Cadastro Nacional de Informações Sociais), da RAIS (Relação Anual de Informações Sociais) e do CadÚnico para verificar a renda da família. Contudo, essas bases de dados nem sempre refletem a situação real, especialmente em contextos de informalidade laboral. O juiz deve estar atento à possibilidade de sub-registro (que subestima a renda) e de sobre-registro (que imputa renda inexistente, como vínculos encerrados que permanecem no CNIS). A declaração do próprio requerente sobre a renda familiar, corroborada pelo estudo social e pelas circunstâncias visíveis de vida, é meio probatório legítimo que não pode ser descartado pela mera alegação de incompatibilidade com dados cadastrais desatualizados.
 :::
 
-### 18.11 Exclusões da Renda Per Capita Familiar
+### 18.11 Exclusões da renda per capita familiar
 
 A determinação da renda per capita familiar para fins do BPC sofreu significativa evolução legislativa e jurisprudencial. Diversas parcelas que, em princípio, integrariam a renda familiar passaram a ser excluídas do cálculo, por força de lei ou de interpretação judicial.
 
@@ -186,7 +186,7 @@ A exclusão prevista no inciso V do § 14 merece atenção especial. Ao excluir 
 
 Além das exclusões legais, a jurisprudência reconhece a possibilidade de desconsiderar do cálculo da renda per capita parcelas que, embora formalmente integrem a renda familiar, não revelam capacidade econômica real. Gastos comprovados com medicamentos de uso contínuo, tratamentos médicos indispensáveis e fraldas geriátricas, por exemplo, podem ser abatidos da renda bruta para a aferição da miserabilidade, quando demonstrado que essas despesas são imprescindíveis e consomem parcela significativa da renda. Essa orientação, embora não positivada em lei, encontra respaldo na jurisprudência dos TRFs e da TNU como desdobramento do princípio da dignidade da pessoa humana e da efetividade do direito à assistência social.
 
-### 18.12 Relativização Judicial do Critério de 1/4 do Salário Mínimo
+### 18.12 Relativização judicial do critério de 1/4 do salário mínimo
 
 A questão da constitucionalidade do critério de renda de 1/4 do salário mínimo para a aferição da miserabilidade percorreu longo caminho no STF, sendo um dos temas mais relevantes do direito assistencial brasileiro. A trajetória jurisprudencial revela a tensão entre a segurança jurídica proporcionada por critérios objetivos e a necessidade de justiça material na avaliação da vulnerabilidade social.
 
@@ -200,7 +200,7 @@ A mudança de paradigma veio com o julgamento do RE 567.985/MT (Tema 27 da reper
 
 A técnica de decisão adotada pelo STF, a "declaração de inconstitucionalidade sem pronúncia de nulidade", merece nota. Ao invés de simplesmente anular o dispositivo legal (o que deixaria o sistema sem qualquer parâmetro objetivo), o STF manteve a norma em vigor, mas autorizou sua superação no caso concreto, quando outros elementos probatórios demonstrassem a miserabilidade. O resultado prático é que o critério de 1/4 do salário mínimo continua operando como presunção absoluta de miserabilidade (toda renda per capita inferior a esse patamar gera direito ao BPC), mas deixou de funcionar como critério excludente (renda per capita superior a 1/4 não impede, por si só, a concessão).
 
-### 18.13 STJ, Tema 185: Presunção Relativa de Miserabilidade
+### 18.13 STJ, tema 185: presunção relativa de miserabilidade
 
 O Superior Tribunal de Justiça, no julgamento do Tema 185 dos recursos repetitivos (REsp 1.112.557/MG, rel. Min. Napoleão Nunes Maia Filho, DJe 20/11/2009), firmou tese complementar ao entendimento do STF. O STJ fixou que "a limitação do valor da renda per capita familiar não deve ser considerada a única forma de se comprovar que a pessoa não possui outros meios para prover a própria manutenção ou de tê-la provida por sua família, pois é apenas um elemento objetivo para se aferir a necessidade, ou seja, presunção objetiva e relativa de miserabilidade".
 
@@ -216,7 +216,7 @@ Na prática dos JEFs, a aferição da miserabilidade quando a renda per capita s
 
 A Lei n. 14.176/2021, ao criar o art. 20-B da LOAS, buscou dar contornos normativos a essa zona intermediária. O dispositivo autoriza o Poder Executivo, por regulamento, a ampliar o critério de renda per capita para até 1/2 do salário mínimo, desde que considerados cumulativamente fatores indicativos do grau de vulnerabilidade: grau da deficiência; dependência de terceiros para o desempenho de atividades básicas; comprometimento do orçamento com despesas médicas e correlatas; capacidade de o membro da família de gerar renda; e acesso a serviços de assistência social e saúde. A regulamentação ainda não foi integralmente implementada, gerando incerteza sobre o alcance prático do dispositivo.
 
-### 18.14 Composição do Grupo Familiar: Questões Específicas
+### 18.14 Composição do grupo familiar: questões específicas
 
 A composição do grupo familiar para fins do BPC suscita questões práticas que merecem exame individualizado. O art. 20, § 1º, da LOAS define família para fins do BPC de forma específica e restritiva, abrangendo apenas as pessoas que vivem sob o mesmo teto e mantêm determinado grau de parentesco com o requerente.
 
@@ -230,7 +230,7 @@ A pessoa com deficiência ou idosa que reside em instituição de longa permanê
 A pessoa presa em regime fechado não faz jus ao BPC durante o período de reclusão, por analogia com a suspensão de benefícios previdenciários prevista no art. 80 da Lei n. 8.213/91 e pela impossibilidade de aferição da miserabilidade no contexto prisional, onde o Estado provê alimentação, moradia e assistência básica. A jurisprudência, contudo, admite a concessão do BPC ao preso em regime semiaberto ou aberto que demonstre o preenchimento dos requisitos, especialmente quando a família do recluso vive em situação de vulnerabilidade e o BPC seria destinado ao sustento do grupo familiar no qual o preso retorna periodicamente. A questão é controversa e exige análise caso a caso.
 :::
 
-### 18.15 Prova da Miserabilidade nos JEFs
+### 18.15 Prova da miserabilidade nos JEFs
 
 A produção de prova da miserabilidade nos JEFs envolve um conjunto de instrumentos probatórios que se complementam. A prova documental, a prova testemunhal e o estudo socioeconômico compõem o quadro usual de instrução.
 
@@ -244,9 +244,9 @@ Nos JEFs, o estudo social pode ser realizado pela equipe do serviço social da J
 
 A prova testemunhal, embora subsidiária, pode corroborar a condição de miserabilidade quando os documentos são insuficientes. Vizinhos, agentes comunitários de saúde e líderes comunitários podem prestar depoimentos sobre as condições de vida do requerente. Nos JEFs, a informalidade do procedimento (art. 2º da Lei n. 10.259/2001) favorece a coleta dessa prova em audiência concentrada.
 
-### 18.16 BPC ao Idoso: Especificidades
+### 18.16 BPC ao idoso: especificidades
 
-O BPC ao idoso apresenta especificidades que o distinguem do BPC à pessoa com deficiência (SAVARIS, 2023; CASTRO; LAZZARI, 2025). A principal é a simplicidade dos requisitos subjetivos: basta a comprovação da idade (65 anos ou mais) e da miserabilidade. Não há avaliação pericial de condição funcional, não se exige impedimento de longo prazo e não se aplica o modelo biopsicossocial. A questão central, em regra, resume-se à aferição da renda per capita familiar.
+O BPC ao idoso apresenta especificidades que o distinguem do BPC à pessoa com deficiência (Savaris, 2023; Castro; Lazzari, 2025). A principal é a simplicidade dos requisitos subjetivos: basta a comprovação da idade (65 anos ou mais) e da miserabilidade. Não há avaliação pericial de condição funcional, não se exige impedimento de longo prazo e não se aplica o modelo biopsicossocial. A questão central, em regra, resume-se à aferição da renda per capita familiar.
 
 O Estatuto do Idoso (Lei n. 10.741/2003) trouxe disposições relevantes para o BPC do idoso. Além de fixar a idade mínima em 65 anos (art. 34, caput), o Estatuto previa, em seu parágrafo único, a exclusão do BPC de outro idoso do mesmo grupo familiar para fins de cálculo da renda per capita. Conforme examinado na seção 18.11, essa exclusão foi ampliada pela Lei n. 14.176/2021, que estendeu o benefício a todos os benefícios de até um salário mínimo de membros idosos ou com deficiência.
 
@@ -258,7 +258,7 @@ Na atuação forense, a concessão simultânea de BPC a dois membros do mesmo gr
 
 O BPC ao idoso não é cumulável com aposentadoria ou qualquer outro benefício previdenciário pago pelo RGPS, exceto assistência médica e pensão especial de natureza indenizatória, conforme a vedação de acumulação prevista no art. 20, § 4º, da LOAS (na redação da Lei n. 12.435/2011). A vedação de acumulação obriga o requerente a optar pelo benefício mais vantajoso. No cotidiano dos JEFs, a questão surge quando o idoso recebe aposentadoria no valor do salário mínimo e pretende cumular com o BPC, o que é vedado pela lei. O BPC somente é cabível quando o idoso não recebe qualquer outro benefício previdenciário ou quando opta pela cessação do benefício previdenciário para receber o BPC.
 
-### 18.17 BPC à Pessoa com Deficiência: Especificidades
+### 18.17 BPC à pessoa com deficiência: especificidades
 
 O BPC à pessoa com deficiência apresenta complexidade substancialmente maior do que o BPC ao idoso, em razão da necessidade de avaliação da deficiência segundo o modelo biopsicossocial. A conjugação dos requisitos de impedimento de longo prazo, interação com barreiras e miserabilidade exige instrução probatória multidisciplinar.
 
@@ -274,7 +274,7 @@ A cumulação entre BPC à pessoa com deficiência e benefícios previdenciário
 A deficiência mental e intelectual exige atenção especial na instrução das ações de BPC nos JEFs. Requerentes com transtornos mentais graves (esquizofrenia, transtorno bipolar, depressão severa), deficiência intelectual ou transtorno do espectro autista frequentemente enfrentam barreiras sociais mais intensas do que aquelas decorrentes de deficiências físicas visíveis. O estigma, a discriminação no mercado de trabalho, a dificuldade de acesso a tratamento adequado e a precariedade dos serviços de saúde mental no SUS são fatores que agravam a condição de vulnerabilidade. O perito deve ser expressamente instado a avaliar esses fatores contextuais, e o juiz deve considerá-los na fundamentação da decisão.
 :::
 
-### 18.18 BPC e Obrigação Alimentar
+### 18.18 BPC e obrigação alimentar
 
 A relação entre o BPC e a obrigação alimentar prevista nos arts. 1.694 a 1.710 do Código Civil é questão que merece exame por sua recorrência nos JEFs. O INSS, ao indeferir requerimentos de BPC, frequentemente argumenta que os familiares do requerente têm obrigação civil de prover seu sustento, e que a existência de parentes com capacidade econômica afasta a miserabilidade.
 
@@ -288,7 +288,7 @@ A jurisprudência dos TRFs consolidou o entendimento de que a mera existência d
 
 A questão também se coloca na perspectiva inversa: pode o INSS considerar a renda de parentes não coabitantes para negar o BPC? A resposta é negativa. O art. 20, § 1º, da LOAS é taxativo ao definir o grupo familiar como as pessoas que vivem sob o mesmo teto, nas relações de parentesco ali especificadas. A renda de parentes que residem em outro domicílio, ainda que contribuam informalmente para o sustento do requerente, não integra o cálculo da renda per capita. Entendemos que a solidariedade familiar privada, embora desejável, é insuficiente para fundamentar a exclusão do direito à proteção estatal: a ajuda de parentes pode cessar a qualquer momento, sem que o requerente tenha garantia jurídica de sua continuidade. O BPC existe justamente para assegurar proteção onde a rede de solidariedade privada é inexistente ou insuficiente.
 
-### 18.19 BPC ao Estrangeiro Residente no Brasil
+### 18.19 BPC ao estrangeiro residente no Brasil
 
 A extensão do BPC ao estrangeiro residente no Brasil foi objeto de controvérsia que chegou ao Supremo Tribunal Federal. O art. 203, inciso V, da Constituição Federal não restringe expressamente o direito à assistência social a brasileiros, utilizando a expressão genérica "pessoa portadora de deficiência" e "idoso". A LOAS, em sua redação original, também não continha restrição explícita a estrangeiros.
 
@@ -296,7 +296,7 @@ O STF enfrentou a questão no julgamento do RE 587.970/SP (Tema 173 da repercuss
 
 A decisão do STF vincula a administração pública e os demais órgãos do Poder Judiciário, de modo que o INSS não pode indeferir o BPC com base exclusiva na condição de estrangeiro do requerente. A Portaria n. 1.695, de 17 de maio de 2024 (MDS/INSS), regulamentou expressamente a concessão administrativa do BPC a estrangeiros em situação regular no país, pacificando a aplicação do tema na esfera administrativa. Os requisitos para a concessão são os mesmos aplicáveis aos brasileiros: idade (65 anos) ou deficiência (impedimento de longo prazo), cumulados com miserabilidade. A documentação exigida inclui comprovante de residência legal no Brasil, podendo ser o Registro Nacional de Estrangeiros (RNE), o Registro Nacional Migratório (RNM, instituído pela Lei n. 13.445/2017, Lei de Migração) ou, para refugiados, o protocolo de solicitação de refúgio expedido pelo CONARE. A condição migratória irregular, por si só, não afasta o direito ao BPC quando demonstrado o vínculo efetivo com o território nacional e o preenchimento dos requisitos constitucionais.
 
-### 18.20 Cumulação do BPC com Outros Benefícios
+### 18.20 Cumulação do BPC com outros benefícios
 
 A regra geral do BPC é a vedação de cumulação com outros benefícios da seguridade social. O art. 20, § 4º, da LOAS (na redação da Lei n. 12.435/2011) estabelece que o benefício de prestação continuada "não pode ser acumulado pelo beneficiário com qualquer outro no âmbito da seguridade social ou de outro regime, salvo os da assistência médica e da pensão especial de natureza indenizatória". Note-se que esse mesmo dispositivo sofreu alterações pela Lei n. 14.176/2021, que lhe acrescentou regras sobre exclusão de rendas do cálculo per capita (tratadas na seção 18.11); a vedação de acumulação aqui examinada refere-se à parte final da redação dada pela Lei n. 12.435/2011.
 
@@ -312,7 +312,7 @@ O recebimento de benefícios de programas de transferência de renda (Bolsa Fam�
 **STF, RE 580.963/PR, Tema 312 (repercussão geral)**: Ao declarar a inconstitucionalidade do parágrafo único do art. 34 do Estatuto do Idoso, o STF reconheceu que a exclusão de apenas uma modalidade de benefício (BPC de idoso) do cálculo da renda per capita, discriminando outras modalidades (BPC de pessoa com deficiência, aposentadoria mínima), violava o princípio da isonomia. O julgado, conjugado com as alterações da Lei n. 14.176/2021, consolidou o entendimento de que todos os benefícios assistenciais e previdenciários de até um salário mínimo, recebidos por membros idosos ou com deficiência do grupo familiar, devem ser excluídos do cálculo da renda per capita.
 :::
 
-### 18.21 Fungibilidade entre BPC e Benefícios por Incapacidade
+### 18.21 Fungibilidade entre BPC e benefícios por incapacidade
 
 A fungibilidade entre o BPC e os benefícios previdenciários por incapacidade é princípio construído pela jurisprudência dos JEFs e consolidado pela TNU. Seu fundamento é a natureza protetiva dos benefícios e a vedação de formalismo processual que prejudique pessoas em situação de vulnerabilidade.
 
@@ -328,7 +328,7 @@ A fungibilidade entre BPC e benefícios por incapacidade é examinada também no
 
 A fungibilidade encontra limites. O juiz não pode conceder benefício que não guarde qualquer relação com os fatos provados nos autos. A fungibilidade exige identidade fática (a mesma condição de saúde que fundamenta o pedido previdenciário pode fundamentar o BPC) e prova dos requisitos do benefício alternativo. A concessão de ofício, sem oitiva das partes sobre o benefício alternativo, pode configurar violação ao contraditório, razão pela qual é recomendável que o juiz, ao identificar a possibilidade de fungibilidade, intime as partes para manifestação antes de proferir sentença.
 
-### 18.22 Auxílio-Inclusão
+### 18.22 Auxílio-inclusão
 
 O auxílio-inclusão, instituído pela Lei n. 14.176/2021 (art. 26 da LOAS, com redação dada por essa lei), é benefício assistencial destinado a incentivar a inserção da pessoa com deficiência no mercado de trabalho formal. Sua lógica é superar o efeito desincentivo do BPC: como a remuneração do trabalho integra a renda per capita familiar e pode superar o limite de miserabilidade, o beneficiário do BPC que aceita emprego formal arrisca perder o benefício assistencial, o que desestimula a busca por trabalho.
 
@@ -348,7 +348,7 @@ Para exame da relação entre o auxílio-inclusão e a aposentadoria da pessoa c
 
 Na experiência dos JEFs, o auxílio-inclusão ainda é pouco demandado judicialmente, dado seu caráter recente e a baixa divulgação entre os potenciais beneficiários. O advogado que atua em ações de BPC deve orientar o cliente sobre a existência do auxílio-inclusão, especialmente quando a pessoa com deficiência manifesta interesse em ingressar no mercado de trabalho formal. A informação sobre a garantia de reativação do BPC pode ser o elemento que viabiliza a decisão de aceitar uma oportunidade de emprego.
 
-### 18.23 Revisão e Cessação do BPC
+### 18.23 Revisão e cessação do BPC
 
 O BPC é benefício de trato continuado, sujeito a revisão periódica para verificação da permanência dos requisitos de concessão. O art. 21 da LOAS (com redação da Lei n. 12.435/2011) prevê que o BPC deve ser revisto a cada dois anos, para avaliação da continuidade das condições que lhe deram origem. A periodicidade da revisão pode ser diferenciada conforme a natureza do impedimento e o grau de vulnerabilidade.
 
@@ -366,7 +366,7 @@ A cessação do BPC por superação da miserabilidade não é automática. O INS
 Na defesa judicial contra a cessação do BPC, a estratégia mais efetiva é a demonstração de que os requisitos permanecem preenchidos, apesar da conclusão administrativa em contrário. O advogado deve requerer: (a) tutela de urgência para restabelecimento do benefício, com base no risco de dano grave e irreversível à subsistência do beneficiário; (b) perícia judicial biopsicossocial (no caso de cessação por suposta superação da deficiência); (c) estudo socioeconômico atualizado (no caso de cessação por suposta superação da miserabilidade). Os JEFs, pelo procedimento sumaríssimo, permitem instrução célere dessas ações, com audiência concentrada e decisão em prazo reduzido.
 :::
 
-### 18.24 BPC e Trabalho: Suspensão e Retomada
+### 18.24 BPC e trabalho: suspensão e retomada
 
 A relação entre o BPC e o exercício de atividade remunerada é tema de grande relevância prática. O art. 21-A da LOAS (incluído pela Lei n. 12.435/2011 e alterado pela Lei n. 14.176/2021) disciplina a suspensão do BPC em razão de trabalho.
 
@@ -378,7 +378,7 @@ Para as demais modalidades de trabalho formal, a suspensão do BPC é imediata. 
 
 O direito à reativação constitui incentivo fundamental à inserção da pessoa com deficiência no mercado de trabalho. A garantia de retorno ao BPC caso a experiência laboral não prospere reduz o risco percebido pelo beneficiário e estimula a tentativa de inclusão produtiva. A regulamentação prevê prazo de 90 dias para a reativação do BPC após a cessação do vínculo de trabalho, contados da data do requerimento.
 
-### 18.25 Aspectos Procedimentais nos JEFs
+### 18.25 Aspectos procedimentais nos JEFs
 
 O processamento das ações de BPC nos JEFs obedece ao rito sumaríssimo da Lei n. 10.259/2001, com as adaptações exigidas pela natureza do benefício. A competência é do JEF da subseção judiciária em cuja jurisdição reside o requerente, desde que o valor da causa não exceda 60 salários mínimos.
 
@@ -402,7 +402,7 @@ A jurisprudência dos TRFs e das Turmas Recursais consolidou orientação favor�
 
 Nas ações de restabelecimento do BPC (quando o benefício foi indevidamente cessado pelo INSS), a tutela de urgência assume importância ainda maior. O beneficiário que vinha recebendo o BPC e teve o benefício cortado sofre privação imediata de sua única fonte de renda. A demonstração do perigo de dano é, nesses casos, praticamente automática: a pessoa que dependia do salário mínimo mensal do BPC para sobreviver e se vê repentinamente sem renda enfrenta risco alimentar concreto. O juiz deve agir com celeridade, determinando o restabelecimento provisório do benefício enquanto instrui a ação.
 
-### 18.26 Data de Início do Benefício (DIB) e Efeitos Financeiros
+### 18.26 Data de início do benefício (DIB) e efeitos financeiros
 
 A fixação da data de início do benefício (DIB) nas ações judiciais de BPC é questão de relevância prática direta, pois determina o montante das parcelas atrasadas devidas ao beneficiário. A regra geral é que a DIB deve ser fixada na data do requerimento administrativo (DER), quando os requisitos já estavam preenchidos naquela data.
 
@@ -418,7 +418,7 @@ A atualização das parcelas atrasadas observa dois regimes distintos, conforme 
 A renúncia ao excedente de 60 salários mínimos, exigida para a fixação da competência do JEF (art. 3º, § 3º, da Lei n. 10.259/2001), deve ser considerada pelo advogado na propositura da ação. Quando as parcelas atrasadas ultrapassam 60 salários mínimos (o que pode ocorrer em ações com longo tempo de tramitação ou com DIB fixada em data remota), o autor deve optar entre renunciar ao excedente para permanecer no JEF (com a vantagem do rito célere) ou ajuizar a ação na vara federal comum (com a vantagem de receber o valor integral, porém mediante precatório). A decisão depende do caso concreto e deve ser objeto de aconselhamento individualizado ao cliente.
 :::
 
-### 18.27 Legislação Recente: Impactos das Leis n. 14.176/2021, n. 15.077/2024 e n. 15.226/2025
+### 18.27 Legislação recente: impactos das leis n. 14.176/2021, n. 15.077/2024 e n. 15.226/2025
 
 A evolução legislativa recente do BPC reflete a tensão entre a ampliação do acesso ao benefício e as preocupações fiscais que permeiam a política de assistência social. A Lei n. 14.176/2021 constitui o marco legislativo mais significativo desde a edição da LOAS em 1993.
 
@@ -440,7 +440,7 @@ O advogado que atua em ações de BPC deve manter-se permanentemente atualizado 
 
 A Lei n. 14.176/2021 também modificou a sistemática de inscrição no CadÚnico como requisito para concessão administrativa do BPC. O art. 20, § 13, da LOAS (incluído por essa lei) exige que o requerente e os membros de seu grupo familiar estejam inscritos no CadÚnico como condição para processamento do requerimento administrativo. A exigência visa integrar as bases de dados de proteção social e facilitar a verificação da renda familiar. No âmbito judicial, contudo, a ausência de inscrição no CadÚnico não pode servir de fundamento para indeferimento da pretensão: o direito constitucional ao BPC não se condiciona a requisito cadastral infraconstitucional. O juiz que verificar a ausência de inscrição pode determinar, como obrigação acessória, que o INSS providencie a inscrição do beneficiário no CadÚnico.
 
-### 18.28 Avaliação Biopsicossocial Unificada: Perspectivas
+### 18.28 Avaliação biopsicossocial unificada: perspectivas
 
 A avaliação biopsicossocial unificada, prevista no art. 2º, § 1º, da Lei n. 13.146/2015 e regulamentada pela Lei n. 14.176/2021, representa transformação paradigmática na forma de avaliar a deficiência para fins de acesso a políticas públicas. Para a análise detalhada do modelo biopsicossocial, da CIF/OMS e do Sisperjud/CNJ como instrumentos gerais de avaliação da deficiência, remetemos ao Capítulo 6 deste livro. Aqui, examinamos as perspectivas específicas da avaliação unificada para o BPC.
 
@@ -450,7 +450,7 @@ O Decreto n. 12.686/2025 regulamentou os aspectos procedimentais da avaliação 
 **TNU, Súmula 78**: "Comprovado que o requerente de benefício é portador do vírus HIV, cabe ao julgador verificar as condições pessoais, sociais, econômicas e culturais, de forma a analisar a incapacidade em sentido amplo, em face da elevada estigmatização social da doença." A Súmula 78 antecipou, para os casos de HIV, a lógica biopsicossocial que a avaliação unificada pretende generalizar. O entendimento de que a avaliação da deficiência ou incapacidade não se esgota no exame clínico, devendo considerar o contexto social e as barreiras à participação, constitui o núcleo do modelo biopsicossocial hoje consagrado em lei.
 :::
 
-### 18.29 BPC e Situações Especiais
+### 18.29 BPC e situações especiais
 
 A aplicação do BPC em situações especiais suscita questões que merecem exame individualizado, pela frequência com que surgem nos JEFs e pela complexidade jurídica que envolvem.
 
@@ -476,7 +476,7 @@ Nos JEFs, é frequente a alegação do INSS de que o requerente do BPC possui pa
 
 Quanto à pessoa internada em instituição de saúde ou de longa permanência, remetemos à análise da seção 18.14, que examina em detalhe a manutenção do direito ao BPC durante o acolhimento institucional (art. 20, § 5º, da LOAS).
 
-### 18.30 Questões Processuais Específicas do BPC nos JEFs
+### 18.30 Questões processuais específicas do BPC nos JEFs
 
 As ações de BPC nos JEFs apresentam particularidades processuais que merecem atenção do advogado e do magistrado. A primeira é a gratuidade da justiça. O requerente do BPC, por definição, encontra-se em situação de miserabilidade, o que gera presunção de hipossuficiência para fins de justiça gratuita. A declaração de pobreza, firmada pelo próprio requerente ou por seu representante, é suficiente para a concessão do benefício da justiça gratuita nos JEFs, dispensando-se a comprovação documental da insuficiência de recursos.
 
@@ -488,7 +488,7 @@ A terceira particularidade é a cumulação de pedidos. É comum que o requerent
 
 A quarta particularidade diz respeito ao recurso. A sentença de primeiro grau nos JEFs é recorrível por meio de recurso inominado à Turma Recursal, no prazo de 10 dias corridos (art. 42 da Lei n. 9.099/95, c/c art. 12, II, da Lei n. 10.259/2001), prevalecendo a contagem em dias corridos, conforme a orientação predominante nos JEFs, afastada a contagem em dias úteis do art. 219 do CPC/2015. O recurso tem efeito meramente devolutivo, de modo que a sentença que concede o BPC pode ser executada provisoriamente (com implantação do benefício) mesmo pendente recurso do INSS. A Turma Recursal analisa tanto questões de fato quanto de direito, podendo reformar integralmente a sentença.
 
-### 18.31 Intertemporalidade e Direito Adquirido no BPC
+### 18.31 Intertemporalidade e direito adquirido no BPC
 
 O BPC, diferentemente dos benefícios previdenciários, em regra não gera direito adquirido ao regime jurídico de concessão vigente na data do requerimento, ressalvados o benefício já deferido e os requisitos integralmente implementados sob a lei anterior. A natureza assistencial do benefício vincula-o às condições de fato (deficiência/idade + miserabilidade) verificadas a cada momento, e não a regras pretéritas de concessão, de modo que a alteração dos critérios legais tende a aplicar-se de imediato aos requerimentos ainda não decididos, sem a densidade das regras de transição típicas do direito previdenciário. Permanece íntegra, contudo, a proteção do tempus regit actum quanto aos pressupostos já preenchidos: implementados todos os requisitos exigidos pela legislação então em vigor, o requerente faz jus à concessão segundo aquele regime, ainda que lei posterior os modifique.
 
@@ -496,7 +496,7 @@ Essa característica tem consequência prática relevante: a ampliação do crit
 
 A exceção é o beneficiário em gozo do BPC. O benefício em manutenção somente pode ser cessado mediante procedimento administrativo com contraditório, e a cessação por alteração legislativa desfavorável exige período de transição razoável, por força do princípio da segurança jurídica e da vedação de retrocesso social. A doutrina debate a extensão da vedação de retrocesso no campo assistencial: entendemos que, embora o legislador tenha margem para modificar critérios do BPC, a supressão integral do benefício ou a redução drástica de seu alcance encontra limites no núcleo essencial do art. 203, V, da Constituição.
 
-### 18.32 Peculiaridades da Prova Pericial em Transtornos Mentais e Deficiência Intelectual
+### 18.32 Peculiaridades da prova pericial em transtornos mentais e deficiência intelectual
 
 A avaliação pericial de transtornos mentais e deficiência intelectual para fins do BPC apresenta desafios específicos que merecem tratamento destacado. A natureza dessas condições, frequentemente invisível e flutuante, exige do perito e do juiz sensibilidade para aspectos que transcendem o exame clínico tradicional.
 
@@ -512,7 +512,7 @@ O transtorno do espectro autista (TEA) suscita questões adicionais. O diagnóst
 
 A produção de prova pericial em transtornos mentais exige cuidados procedimentais. O perito deve estar habilitado em psiquiatria ou neurologia, conforme a natureza do transtorno. A avaliação em consultório pode ser insuficiente para captar a real extensão das limitações: o requerente, em ambiente controlado e por breve período, pode apresentar funcionalidade aparentemente superior à que manifesta no cotidiano. A complementação da perícia com relatório de acompanhamento terapêutico (quando disponível) e com estudo social que retrate as condições de vida diária do periciando é prática recomendável.
 
-### 18.33 BPC e Pessoa em Situação de Rua
+### 18.33 BPC e pessoa em situação de rua
 
 A pessoa em situação de rua que preencha os requisitos do BPC (deficiência ou idade avançada, cumulada com miserabilidade) tem direito ao benefício, embora enfrente obstáculos práticos significativos para obtê-lo. A ausência de domicílio fixo, a dificuldade de apresentação de documentos e a falta de conta bancária para recebimento são barreiras recorrentes.
 
@@ -526,7 +526,7 @@ A miserabilidade da pessoa em situação de rua é presumida, dado que a própri
 A atuação judicial em favor de pessoas em situação de rua exige sensibilidade procedimental. O juiz deve considerar: (a) a dificuldade de notificação e intimação do requerente, que pode não ter endereço fixo; (b) a possibilidade de designar equipamento de assistência social como endereço para intimações; (c) a desnecessidade de apresentação de comprovante de residência formal; (d) a admissão de declaração de equipamento social (CRAS, Centro Pop, albergue) como comprovante de condição social; e (e) a fixação de forma de pagamento acessível, como cartão magnético ou saque em agência bancária sem exigência de conta corrente. Alguns JEFs têm adotado a prática de determinar que o INSS providencie a abertura de conta simplificada para o beneficiário, nos termos da Resolução CMN n. 3.211/2004 e da Lei n. 10.735/2003, que disciplinam a abertura de contas especiais para pessoas de baixa renda.
 :::
 
-### 18.34 BPC e Pessoas com Doenças Raras
+### 18.34 BPC e pessoas com doenças raras
 
 Pessoas com doenças raras (definidas como aquelas que afetam até 65 em cada 100.000 pessoas) enfrentam desafios particulares no acesso ao BPC. A dificuldade de diagnóstico, a escassez de especialistas e a necessidade de tratamentos de alto custo são fatores que agravam a vulnerabilidade desses pacientes.
 
@@ -534,7 +534,7 @@ O impedimento de longo prazo, em doenças raras, frequentemente é inequívoco, 
 
 Os gastos com medicamentos e tratamentos de doenças raras podem consumir parcela significativa da renda familiar, mesmo quando os medicamentos são fornecidos pelo SUS (pois nem todos os tratamentos estão incorporados ao sistema). Esses gastos devem ser considerados na aferição da miserabilidade, podendo justificar a concessão do BPC mesmo quando a renda per capita formal supera 1/4 do salário mínimo. A instrução processual, nesses casos, deve contar com relatórios médicos especializados que demonstrem a cronicidade da condição, a necessidade permanente de acompanhamento e o custo estimado do tratamento, confrontados com a renda familiar apurada no estudo social.
 
-### 18.35 BPC e Indeferimento Administrativo: Causas Recorrentes e Estratégias de Impugnação
+### 18.35 BPC e indeferimento administrativo: causas recorrentes e estratégias de impugnação
 
 O conhecimento das causas mais frequentes de indeferimento administrativo do BPC permite ao advogado antecipar objeções e preparar instrução processual adequada. A análise da jurisprudência dos JEFs revela padrões recorrentes que merecem exame.
 
@@ -550,7 +550,7 @@ A quarta causa é o indeferimento por ausência de inscrição no CadÚnico ou p
 Nas ações de concessão do BPC nos JEFs, o advogado deve organizar a petição inicial de forma estratégica, endereçando diretamente as objeções previsíveis do INSS. Recomendamos a seguinte estrutura probatória mínima: (a) documentos pessoais do requerente e de todos os membros do grupo familiar; (b) laudos e relatórios médicos recentes, com CID-10, descrição funcional e prognóstico; (c) comprovantes de renda de todos os membros do grupo familiar (contracheques, extratos bancários, declarações de IR ou de isenção); (d) comprovante de residência; (e) comprovante de inscrição no CadÚnico (se disponível); (f) comprovantes de despesas com saúde (receitas, notas fiscais de medicamentos, comprovantes de deslocamento); (g) declaração de hipossuficiência para fins de justiça gratuita; e (h) quando possível, relatório social elaborado por CRAS ou equipamento de assistência social do município. A robustez da prova inicial pode viabilizar a concessão de tutela de urgência antes mesmo da realização da perícia judicial.
 :::
 
-### 18.36 Consolidação das Posições Adotadas
+### 18.36 Consolidação das posições adotadas
 
 O exame do BPC revela benefício assistencial de complexidade singular, em que a intersecção entre direito constitucional, legislação assistencial e jurisprudência produz sistema normativo em permanente evolução. Consolidamos as posições adotadas ao longo deste capítulo.
 
@@ -576,7 +576,7 @@ A legislação recente, especialmente a Lei n. 14.176/2021 e suas regulamentaç�
 
 O BPC, em síntese, é benefício que exige do juiz dos JEFs e do advogado previdenciarista domínio de matéria que transita entre o direito constitucional, a legislação assistencial, a jurisprudência consolidada das cortes superiores e a sensibilidade para a realidade socioeconômica dos requerentes. A complexidade normativa não pode obscurecer a finalidade última do benefício: garantir condições mínimas de dignidade a pessoas que, por deficiência ou idade avançada, associadas à insuficiência de recursos, encontram-se em situação de máxima vulnerabilidade social. A efetividade desse direito fundamental depende da interpretação que lhe é dada nos processos individuais que diariamente chegam aos JEFs de todo o país.
 
-### 18.37 Referências
+### Referências
 
 #### Legislação
 

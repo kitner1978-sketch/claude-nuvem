@@ -16,7 +16,7 @@ A EC 103/2019, que promoveu reformas substanciais em diversas espécies de benef
 
 O tratamento da matéria neste capítulo abrange, além da aposentadoria por idade rural do segurado especial (art. 48, §§ 1º e 2º, da Lei n. 8.213/91), a aposentadoria por idade híbrida (art. 48, § 3º, introduzido pela Lei n. 11.718/2008), que permite a soma de períodos rurais e urbanos para o preenchimento da carência. Examinaremos, ainda, o regime probatório da atividade rural, a jurisprudência consolidada do STJ e da TNU sobre a matéria, e os aspectos procedimentais que orientam a atuação nos Juizados Especiais Federais.
 
-### 9.1 Conceito e Fundamento Constitucional
+### 9.1 Conceito e fundamento constitucional
 
 A aposentadoria rural é espécie de aposentadoria por idade com requisitos diferenciados, concedida ao trabalhador que comprove o exercício de atividade rural pelo período exigido em lei. O fundamento constitucional encontra-se no art. 201, § 7º, inciso II, da Constituição Federal (com redação da EC 103/2019), que estabelece diretamente as idades de 60 anos para homens e 55 anos para mulheres para os trabalhadores rurais e para os que exerçam atividades em regime de economia familiar, nestes incluídos o produtor rural, o garimpeiro e o pescador artesanal. A opção do poder constituinte reformador de manter essas idades no próprio texto constitucional, em inciso específico, reforça o caráter diferenciado da proteção ao trabalhador rural.
 
@@ -28,7 +28,7 @@ A proteção previdenciária ao trabalhador rural é reforçada pelo art. 195, �
 
 A constitucionalidade da contribuição do segurado especial sobre o resultado da comercialização da produção foi confirmada pelo Supremo Tribunal Federal no julgamento do RE 761.263 (Tema 723 da repercussão geral, Plenário, rel. Min. Alexandre de Moraes, j. 15/04/2020, DJe 01/02/2021), que reconheceu a validade constitucional do art. 25 da Lei n. 8.212/91 como fundado diretamente no art. 195, § 8º, da Constituição Federal. A composição detalhada das alíquotas que incidem sobre a receita bruta da comercialização da produção rural — a contribuição previdenciária de 1,3% e a parcela de 0,2% destinada ao SENAR, perfazendo 1,5% — é examinada na seção 9.17, dedicada ao regime contributivo do segurado especial.
 
-### 9.2 Evolução Legislativa
+### 9.2 Evolução legislativa
 
 A proteção previdenciária ao trabalhador rural brasileiro percorreu longo caminho até alcançar o patamar constitucional atual, conforme sintetizado no quadro seguinte.
 
@@ -55,21 +55,21 @@ O art. 143 da Lei n. 8.213/91 previu regra de transição probatória para o seg
 
 O Decreto n. 10.410/2020 atualizou o Regulamento da Previdência Social (Decreto n. 3.048/1999) para adequá-lo à EC 103/2019 e a outras alterações legislativas, reformulando os dispositivos relativos ao segurado especial, ao regime de economia familiar e à comprovação de atividade rural. Embora a EC 103/2019 não tenha alterado os requisitos da aposentadoria por idade rural, o Decreto promoveu ajustes no procedimento administrativo de comprovação que repercutem na atuação forense dos JEFs.
 
-### 9.3 Segurado Especial: Definição e Requisitos Legais
+### 9.3 Segurado especial: definição e requisitos legais
 
 O conceito de segurado especial (art. 11, VII, da Lei n. 8.213/91) e seus requisitos gerais foram examinados no Capítulo 2 (seção 2.1.5), ao qual se remete o leitor para a definição integral. Para fins da aposentadoria rural, destacam-se os requisitos que geram maior controvérsia nos JEFs: (a) o regime de economia familiar; (b) a limitação da área a quatro módulos fiscais (para atividade agropecuária); e (c) a ausência de empregados permanentes. Os requisitos de residência e proximidade, embora raramente controvertidos, merecem registro pela flexibilidade com que a jurisprudência os interpreta.
 
-#### 9.3.1 Residência e Proximidade
+#### 9.3.1 Residência e proximidade
 
 O requisito da residência admite interpretação flexível. A lei exige residência "no imóvel rural ou em aglomerado urbano ou rural próximo a ele", o que abrange tanto a residência na própria propriedade rural quanto a moradia em sede de município vizinho, desde que haja vínculo efetivo com a atividade rural. A jurisprudência da TNU consolidou o entendimento de que a residência na zona urbana de pequeno município, por si só, não descaracteriza a condição de segurado especial, quando comprovado o efetivo exercício de atividade rural.
 
 O fundamento desse entendimento é eminentemente prático: em muitos municípios brasileiros de pequeno porte, a zona urbana resume-se a algumas ruas centrais, e o trabalhador rural reside na sede do município por necessidade de acesso a serviços básicos (escola dos filhos, posto de saúde, comércio), deslocando-se diariamente para a lavoura. Exigir a residência na propriedade rural como condição absoluta para o enquadramento como segurado especial significaria desconsiderar essa realidade e impor ao trabalhador rural escolha entre a proteção previdenciária e o acesso a serviços essenciais. A análise do requisito de proximidade deve considerar as condições de transporte, a distância entre o aglomerado urbano e a propriedade rural, e a efetividade do deslocamento diário para o trabalho no campo.
 
-#### 9.3.2 Limite de Área: Quatro Módulos Fiscais
+#### 9.3.2 Limite de área: quatro módulos fiscais
 
 O limite de quatro módulos fiscais aplica-se exclusivamente à atividade agropecuária — pescadores artesanais e extrativistas vegetais não se submetem a essa restrição de área. O módulo fiscal é unidade de medida instituída pela Lei n. 6.746/1979, cujos valores por município são publicados em tabelas periodicamente atualizadas pelo INCRA. O módulo fiscal varia conforme o município, levando em conta o tipo de exploração predominante, a renda obtida, o conceito de propriedade familiar e outras variáveis socioeconômicas. Em municípios de agricultura de subsistência no Nordeste, por exemplo, o módulo fiscal pode ser de 5 a 10 hectares, enquanto em regiões de agricultura extensiva no Centro-Oeste pode alcançar 80 a 110 hectares.
 
-A variação do módulo fiscal entre municípios pode produzir resultados paradoxais. Um agricultor familiar que explora 80 hectares no interior do Mato Grosso pode estar dentro do limite de quatro módulos fiscais (se o módulo no município for de 80 hectares), enquanto um agricultor que explora 25 hectares em município mineiro pode excedê-lo (se o módulo local for de 5 hectares). A doutrina critica a rigidez do critério, argumentando que a capacidade econômica do produtor depende não apenas da área, mas da fertilidade do solo, do tipo de cultura, do acesso à água e da infraestrutura disponível — circunstâncias que o critério puramente quantitativo não captura (CASTRO; LAZZARI, 2025). Essa crítica foi parcialmente acolhida pelo STJ no Tema 1.115, a que voltaremos na seção 9.14.
+A variação do módulo fiscal entre municípios pode produzir resultados paradoxais. Um agricultor familiar que explora 80 hectares no interior do Mato Grosso pode estar dentro do limite de quatro módulos fiscais (se o módulo no município for de 80 hectares), enquanto um agricultor que explora 25 hectares em município mineiro pode excedê-lo (se o módulo local for de 5 hectares). A doutrina critica a rigidez do critério, argumentando que a capacidade econômica do produtor depende não apenas da área, mas da fertilidade do solo, do tipo de cultura, do acesso à água e da infraestrutura disponível — circunstâncias que o critério puramente quantitativo não captura (Castro; Lazzari, 2025). Essa crítica foi parcialmente acolhida pelo STJ no Tema 1.115, a que voltaremos na seção 9.14.
 
 ::: box-pratica
 Na análise de processos nos JEFs, a verificação do limite de quatro módulos fiscais exige duas etapas: (a) consultar a Tabela de Módulos Fiscais do INCRA para identificar o valor do módulo fiscal no município onde se situa o imóvel; e (b) confrontar a área total do imóvel com o resultado de quatro módulos fiscais naquele município. A consulta pode ser feita no portal do INCRA (www.incra.gov.br) ou em tabelas consolidadas disponíveis no sítio eletrônico da Embrapa. É preciso atenção ao fato de que o limite se refere à área total explorada, podendo abranger mais de um imóvel, se a exploração for conjunta pelo grupo familiar.
@@ -77,9 +77,9 @@ Na análise de processos nos JEFs, a verificação do limite de quatro módulos 
 
 O conceito de segurado especial alcança também os membros do grupo familiar — cônjuge, companheiro e filhos maiores de 16 anos — que comprovadamente trabalhem na atividade rural (art. 11, § 1º, da Lei n. 8.213/91). Cada um deles é individualmente segurado especial, com direito próprio a benefícios previdenciários, conforme examinado no Capítulo 2.
 
-### 9.4 Regime de Economia Familiar
+### 9.4 Regime de economia familiar
 
-O regime de economia familiar é o elemento definidor da condição de segurado especial, distinguindo-o dos demais trabalhadores rurais (empregado rural, contribuinte individual que explora atividade agropecuária com empregados permanentes, avulso rural). O regime se define por três elementos que a lei prevê cumulativamente: a indispensabilidade do trabalho de cada membro, a dependência mútua entre eles e a colaboração sem subordinação (SANTOS, 2025; KERTZMAN, 2025).
+O regime de economia familiar é o elemento definidor da condição de segurado especial, distinguindo-o dos demais trabalhadores rurais (empregado rural, contribuinte individual que explora atividade agropecuária com empregados permanentes, avulso rural). O regime se define por três elementos que a lei prevê cumulativamente: a indispensabilidade do trabalho de cada membro, a dependência mútua entre eles e a colaboração sem subordinação (Santos, 2025; Kertzman, 2025).
 
 A indispensabilidade significa que a atividade de cada membro da família é necessária para a subsistência do grupo. Não se trata de mera participação casual ou eventual, mas de trabalho efetivo, que contribui de forma significativa para o sustento da família. A mútua dependência implica que nenhum membro do grupo familiar seria capaz, isoladamente, de manter a exploração econômica em nível suficiente para a subsistência. A colaboração traduz a ideia de trabalho conjunto, em que as tarefas são distribuídas entre os membros conforme suas capacidades, sem relação de subordinação típica do contrato de trabalho.
 
@@ -93,7 +93,7 @@ A renda complementar de até um salário mínimo mensal (art. 11, § 9º, VI) de
 
 A contratação de empregados permanentes é vedação expressa para a configuração do segurado especial. Entretanto, o auxílio eventual de terceiros é admitido pela própria lei (art. 11, VII, caput). A legislação não define "auxílio eventual", mas a doutrina e a jurisprudência distinguem a contratação eventual, por prazo certo e em período de maior demanda (colheita, plantio), da contratação permanente de mão de obra assalariada. A contratação de diaristas por períodos curtos em épocas de safra, por exemplo, não descaracteriza o regime de economia familiar, desde que o trabalho do grupo familiar continue sendo a base da atividade produtiva. O art. 11, § 7º, da Lei n. 8.213/91 (incluído pela Lei n. 11.718/2008) autoriza expressamente a contratação de empregados por prazo determinado em período de safra, em número limitado e por tempo certo, à razão de, no máximo, 120 pessoas/dia no ano civil. Convém notar que esse teto se mede em *dias-homem acumulados ao longo do ano* — isto é, o somatório dos dias trabalhados por cada empregado contratado —, e não no número de trabalhadores simultaneamente ocupados em um dado momento. Assim, o segurado especial pode, por exemplo, contratar quatro pessoas durante trinta dias de colheita (4 × 30 = 120 dias-homem) sem ultrapassar o limite legal, ainda que jamais tenha mais de quatro empregados ao mesmo tempo.
 
-### 9.5 Atividades que Descaracterizam (ou não) a Condição de Segurado Especial
+### 9.5 Atividades que descaracterizam (ou não) a condição de segurado especial
 
 A manutenção da condição de segurado especial exige que a atividade rural constitua o meio de subsistência predominante do trabalhador e de seu grupo familiar. Diversas circunstâncias, porém, suscitam controvérsia sobre a permanência ou a perda dessa condição.
 
@@ -113,7 +113,7 @@ O registro de vínculos urbanos de curta duração no CNIS é circunstância fre
 
 A titularidade de empresa ou a participação em sociedade empresária é incompatível com a condição de segurado especial, salvo nas hipóteses expressamente previstas no art. 11, § 9º, da Lei n. 8.213/91. A titularidade de MEI (Microempreendedor Individual) também pode afetar a condição, dependendo da natureza da atividade e da renda auferida. A mera inscrição como MEI para comercialização direta da produção rural, contudo, vem sendo interpretada com flexibilidade pela jurisprudência, especialmente quando destinada à formalização de atividade já exercida no âmbito da economia familiar.
 
-### 9.6 Aposentadoria por Idade Rural: Requisitos Legais
+### 9.6 Aposentadoria por idade rural: requisitos legais
 
 O art. 48, caput, da Lei n. 8.213/91 estabelece que a aposentadoria por idade será devida ao segurado que, cumprida a carência exigida, completar 65 anos de idade (homem) ou 60 anos (mulher). O § 1º do mesmo artigo reduz esses limites em cinco anos para o trabalhador rural, resultando nas idades de 60 anos (homem) e 55 anos (mulher). A redução aplica-se ao segurado especial (art. 11, VII), ao empregado rural (art. 11, I, "a"), ao trabalhador avulso rural e ao contribuinte individual que presta serviço de natureza rural, nos termos do art. 48, § 1º.
 
@@ -137,11 +137,11 @@ A comprovação dos 15 anos de atividade rural não exige continuidade ininterru
 O segurado especial que pretende aposentadoria por idade rural no valor de um salário mínimo não precisa comprovar recolhimentos ao INSS — basta a prova do exercício de atividade rural pelo tempo equivalente à carência. Entretanto, se o segurado especial deseja obter benefício em valor superior ao salário mínimo, deverá ter contribuído facultativamente sobre base de cálculo superior, nos termos do art. 39, inciso II, da Lei n. 8.213/91. Na prática dos JEFs, a quase totalidade dos pedidos de aposentadoria rural refere-se a benefício no valor de um salário mínimo.
 :::
 
-### 9.7 Regime Probatório: Início de Prova Material
+### 9.7 Regime probatório: início de prova material
 
 A comprovação do exercício de atividade rural é o ponto central das ações de aposentadoria rural nos JEFs. O regime probatório peculiar que rege a matéria decorre do reconhecimento de que o trabalhador rural frequentemente desenvolve sua atividade à margem do sistema formal de registro, em condições de informalidade que dificultam a produção de documentos comprobatórios contemporâneos.
 
-A Súmula 149 do STJ estabelece a regra fundamental: "A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário." A exigência de início de prova material destina-se a conferir segurança ao sistema previdenciário, evitando a concessão de benefícios com base exclusiva em depoimentos, suscetíveis de manipulação (AMADO, 2025). A contrapartida dessa exigência é a flexibilização do conceito de "início de prova material", que a jurisprudência interpretou de forma ampla para harmonizar a regra com a realidade do trabalhador rural.
+A Súmula 149 do STJ estabelece a regra fundamental: "A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário." A exigência de início de prova material destina-se a conferir segurança ao sistema previdenciário, evitando a concessão de benefícios com base exclusiva em depoimentos, suscetíveis de manipulação (Amado, 2025). A contrapartida dessa exigência é a flexibilização do conceito de "início de prova material", que a jurisprudência interpretou de forma ampla para harmonizar a regra com a realidade do trabalhador rural.
 
 A Súmula 6 da TNU complementa a disciplina: "A certidão de casamento ou outro documento idôneo que evidencie a condição de trabalhador rural do cônjuge constitui início razoável de prova material da atividade rurícola." Essa súmula consagrou a fungibilidade dos documentos aptos a constituir início de prova material: não existe rol taxativo, e qualquer documento que, razoavelmente, permita inferir o exercício de atividade rural é idôneo para esse fim.
 
@@ -151,7 +151,7 @@ A relação entre prova documental e testemunhal é de complementaridade, não d
 
 A exigência de contemporaneidade da prova material encontra fundamento na Súmula 34 da TNU: "Para fins de comprovação do tempo de labor rural, o início de prova material deve ser contemporâneo à época dos fatos a provar." A contemporaneidade, contudo, deve ser interpretada em harmonia com a Súmula 14 da TNU, que dispensa a cobertura documental de todo o período de carência. O resultado é um sistema equilibrado: o documento deve ser razoavelmente contemporâneo ao período que se pretende provar, mas não precisa cobri-lo integralmente. Documentos muito antigos, sem conexão temporal com o período de carência, podem ser insuficientes, salvo quando corroborados por testemunhos detalhados que permitam a extensão temporal. A questão é casuística e exige do juiz sensibilidade para avaliar o conjunto probatório à luz das circunstâncias concretas.
 
-### 9.8 Documentos Admitidos como Início de Prova Material
+### 9.8 Documentos admitidos como início de prova material
 
 O art. 106 da Lei n. 8.213/91 prevê rol exemplificativo de documentos aptos à comprovação do exercício de atividade rural, cujo caráter não taxativo é reforçado pelo respectivo parágrafo único (incluído pela Lei n. 11.718/2008). A enumeração legal abre-se pelo contrato individual de trabalho ou pela Carteira de Trabalho e Previdência Social (CTPS): a anotação de vínculo como empregado rural constitui prova direta da atividade, dispensando corroboração testemunhal, e mesmo as anotações extemporâneas, realizadas após a data do vínculo, conservam valor probatório, pois gozam de presunção relativa de veracidade (art. 29, § 3º, da CLT, com redação da Lei n. 13.874/2019; Súmula 12/TST), que somente cede mediante prova em contrário. Ao lado da CTPS, o dispositivo arrola os contratos de arrendamento, parceria ou comodato rural, que comprovam a exploração da terra em regime de produção rural ainda que o segurado não seja proprietário — documentos frequentes nas regiões de agricultura familiar, onde parceiros e meeiros cultivam a terra alheia em troca de parte da produção.
 
@@ -169,7 +169,7 @@ Além dos documentos expressamente previstos no art. 106, a jurisprudência reco
 Na instrução de ações de aposentadoria rural nos JEFs, o advogado deve reunir o maior número possível de documentos que qualifiquem o segurado como trabalhador rural, ainda que não cubram integralmente o período de carência. A estratégia probatória eficaz combina documentos de diferentes épocas, uma certidão de casamento antiga com qualificação rural, notas fiscais de produção de anos recentes e declaração sindical contemporânea — criando uma linha temporal que a prova testemunhal complementa. Documentos de familiares diretos (cônjuge, pais, filhos) também são admitidos como prova extensiva. A TNU Súmula 6 autoriza expressamente o uso de documento do cônjuge como início de prova material.
 :::
 
-### 9.9 Prova Testemunhal e a Disciplina da Súmula 149/STJ
+### 9.9 Prova testemunhal e a disciplina da súmula 149/STJ
 
 A Súmula 149/STJ ("A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeito da obtenção de benefício previdenciário") não impede a produção de prova testemunhal — ao contrário, a prova oral é essencial para complementar e dar extensão temporal ao início de prova material. O que a Súmula veda é a comprovação fundada exclusivamente em testemunhos, sem qualquer suporte documental.
 
@@ -189,7 +189,7 @@ A justificação judicial e a justificação administrativa são instrumentos pr
 
 A distinção entre prova material e prova documental merece registro. Todo documento é prova material, mas nem toda prova material é documento formal. A jurisprudência ampliou o conceito de início de prova material para abranger evidências físicas que, embora não constituam documentos em sentido estrito, demonstram a vinculação do segurado ao meio rural: fotografias antigas retratando o segurado em atividade agrícola, imagens de satélite demonstrando o cultivo da terra, e outros elementos que a tecnologia contemporânea disponibiliza podem ser considerados início de prova material, segundo os tribunais.
 
-### 9.10 O Boia-Fria, o Volante e o Safrista
+### 9.10 O boia-fria, o volante e o safrista
 
 O boia-fria — trabalhador rural temporário sem vínculo permanente, conhecido regionalmente também como "safrista" ou "pau-de-arara" — apresenta desafios probatórios próprios. Trata-se do trabalhador que presta serviço rural de natureza temporária a diferentes empregadores, sem vínculo empregatício permanente, deslocando-se conforme a demanda sazonal das atividades agrícolas. A informalidade é a marca predominante dessa categoria: o boia-fria raramente possui CTPS assinada, contrato de trabalho escrito ou qualquer registro formal de sua atividade.
 
@@ -209,9 +209,9 @@ A responsabilidade pelo recolhimento das contribuições previdenciárias do boi
 
 A distinção entre boia-fria e segurado especial reflete-se também no valor do benefício. O segurado especial recebe, em regra, benefício no valor de um salário mínimo (art. 39, I, Lei n. 8.213/91). O boia-fria, enquadrado como empregado, teria direito a benefício calculado sobre seus salários de contribuição. Contudo, como em termos operacionais não há registro formal e os salários não foram computados no CNIS, o valor do benefício acaba sendo igualmente fixado em um salário mínimo, por aplicação do piso constitucional (art. 201, § 2º, CF/88).
 
-### 9.11 Aposentadoria por Idade Híbrida (art. 48, § 3º)
+### 9.11 Aposentadoria por idade híbrida (art. 48, § 3º)
 
-A aposentadoria híbrida (art. 48, § 3º, Lei 8.213/91, acrescentado pela Lei n. 11.718/2008) permite ao trabalhador que transitou entre atividades rurais e urbanas somar os respectivos períodos para atingir a carência de 180 contribuições (VIEIRA, 2023; TAVARES, 2024). Os períodos rurais são comprovados por início de prova material e testemunhal; os urbanos, pelo CNIS. A idade mínima, contudo, segue a regra geral urbana: 65 anos (homem) e 60 anos (mulher). Não se aplica a redução de cinco anos, que é reservada à aposentadoria exclusivamente rural.
+A aposentadoria híbrida (art. 48, § 3º, Lei 8.213/91, acrescentado pela Lei n. 11.718/2008) permite ao trabalhador que transitou entre atividades rurais e urbanas somar os respectivos períodos para atingir a carência de 180 contribuições (Vieira, 2023; Tavares, 2024). Os períodos rurais são comprovados por início de prova material e testemunhal; os urbanos, pelo CNIS. A idade mínima, contudo, segue a regra geral urbana: 65 anos (homem) e 60 anos (mulher). Não se aplica a redução de cinco anos, que é reservada à aposentadoria exclusivamente rural.
 
 O STJ firmou entendimentos fundamentais sobre a aposentadoria híbrida no julgamento do Tema 1.007.
 
@@ -239,7 +239,7 @@ Ainda no campo da aposentadoria híbrida, a desnecessidade de recolhimento de co
 A aposentadoria por idade rural (art. 48, §§ 1º e 2º) e a aposentadoria por idade híbrida (art. 48, § 3º) são benefícios distintos, com requisitos diferentes. Na aposentadoria rural, a idade mínima é 60/55 anos e exige-se contemporaneidade entre a atividade rural e o implemento etário (Tema 642/STJ). Na aposentadoria híbrida, a idade mínima é 65/60 anos e não se exige contemporaneidade (Tema 1.007/STJ). A distinção tem repercussão direta na estratégia processual: se o segurado completa 55 ou 60 anos exercendo atividade rural e demonstra 180 meses de labor rural, o pedido correto é a aposentadoria rural (com idade reduzida). Se o segurado está na cidade e possui períodos rurais insuficientes para 180 meses, mas suficientes para complementar o período urbano, a aposentadoria híbrida é a via adequada (com idade cheia).
 :::
 
-### 9.12 Trabalho Rural Infantil
+### 9.12 Trabalho rural infantil
 
 O cômputo de trabalho rural exercido durante a infância ou adolescência é questão de relevância prática nos JEFs, dada a realidade do meio rural brasileiro, onde o trabalho infantil na lavoura familiar é historicamente presente. O ordenamento jurídico proíbe o trabalho do menor de 16 anos (art. 7º, XXXIII, da CF/88, com redação da EC 20/1998), mas milhões de brasileiros iniciaram a vida laboral no campo antes dessa idade.
 
@@ -253,9 +253,9 @@ A comprovação do trabalho rural infantil segue as mesmas regras do regime prob
 
 O reconhecimento do trabalho rural infantil para fins previdenciários não legitima a exploração do trabalho do menor — ao contrário, reconhece uma situação fática que, embora vedada pelo ordenamento, produziu efeitos previdenciários que não podem ser desconsiderados em prejuízo do trabalhador. A posição adotada pela jurisprudência é coerente com o princípio da primazia da realidade, que permeia o Direito do Trabalho e o Direito Previdenciário.
 
-A questão do trabalho rural infantil assume especial relevância no cômputo do tempo de atividade rural para fins de aposentadoria por idade (rural ou híbrida). Em muitos casos, o segurado que ingressou precocemente na atividade agrícola já completou 15 anos de trabalho rural muito antes de atingir a idade mínima para a aposentadoria. Nesses casos, o tempo de atividade rural infantil pode ser determinante para demonstrar o preenchimento da carência, especialmente quando há períodos intercalados de atividade urbana que reduzem o tempo rural efetivo. A doutrina destaca que o cômputo do trabalho rural infantil opera como mecanismo de justiça social, compensando, no plano previdenciário, a vulnerabilidade a que o menor foi submetido no plano trabalhista (SAVARIS, 2022). A prova desse trabalho, conforme examinado, segue regime mitigado de exigência documental, prevalecendo a prova testemunhal como elemento de convicção preponderante, ancorada em início de prova material em nome dos genitores.
+A questão do trabalho rural infantil assume especial relevância no cômputo do tempo de atividade rural para fins de aposentadoria por idade (rural ou híbrida). Em muitos casos, o segurado que ingressou precocemente na atividade agrícola já completou 15 anos de trabalho rural muito antes de atingir a idade mínima para a aposentadoria. Nesses casos, o tempo de atividade rural infantil pode ser determinante para demonstrar o preenchimento da carência, especialmente quando há períodos intercalados de atividade urbana que reduzem o tempo rural efetivo. A doutrina destaca que o cômputo do trabalho rural infantil opera como mecanismo de justiça social, compensando, no plano previdenciário, a vulnerabilidade a que o menor foi submetido no plano trabalhista (Savaris, 2022). A prova desse trabalho, conforme examinado, segue regime mitigado de exigência documental, prevalecendo a prova testemunhal como elemento de convicção preponderante, ancorada em início de prova material em nome dos genitores.
 
-### 9.13 Período de Entressafra e Atividades Urbanas Intercaladas
+### 9.13 Período de entressafra e atividades urbanas intercaladas
 
 A sazonalidade da atividade agrícola impõe ao trabalhador rural períodos de menor ou nenhuma atividade produtiva entre as safras. Durante a entressafra, é comum que o segurado especial busque complementar a renda familiar com atividades urbanas temporárias, construção civil, serviços gerais, comércio informal, retornando à atividade rural no período seguinte de plantio ou colheita.
 
@@ -265,13 +265,13 @@ O prazo de 120 dias é referencial administrativo, não constitui limite absolut
 
 A distinção entre entressafra e abandono da atividade rural é crucial e exige análise cuidadosa das circunstâncias do caso concreto. Na entressafra, o segurado mantém a vocação agrícola, preserva os vínculos com a propriedade rural (residência, posse, manutenção das lavouras), e retorna ao campo tão logo as condições permitam. O padrão típico é a alternância sazonal: o segurado trabalha na lavoura durante o período de plantio e colheita e busca renda complementar na cidade durante os meses de menor atividade agrícola. A periodicidade e a regularidade desse padrão constituem forte indício da manutenção da condição de segurado especial.
 
-No abandono, por outro lado, o segurado migra definitivamente para a atividade urbana, desfaz os vínculos com a propriedade rural (vende a terra, muda a residência para a cidade, não retorna ao campo), e passa a exercer atividade urbana como ocupação principal e permanente. Apenas no primeiro caso, entressafra, a condição de segurado especial é preservada. A doutrina destaca que a interpretação deve ser guiada pelo princípio da razoabilidade: o segurado especial que reside no campo, cultiva a terra em regime familiar e busca renda urbana complementar em períodos sazonais não pode ser equiparado ao trabalhador que abandonou definitivamente a atividade rural (IBRAHIM, 2024; CASTRO; LAZZARI, 2025).
+No abandono, por outro lado, o segurado migra definitivamente para a atividade urbana, desfaz os vínculos com a propriedade rural (vende a terra, muda a residência para a cidade, não retorna ao campo), e passa a exercer atividade urbana como ocupação principal e permanente. Apenas no primeiro caso, entressafra, a condição de segurado especial é preservada. A doutrina destaca que a interpretação deve ser guiada pelo princípio da razoabilidade: o segurado especial que reside no campo, cultiva a terra em regime familiar e busca renda urbana complementar em períodos sazonais não pode ser equiparado ao trabalhador que abandonou definitivamente a atividade rural (Ibrahim, 2024; Castro; Lazzari, 2025).
 
 ::: box-pratica
 Na instrução processual nos JEFs, a verificação do CNIS do segurado frequentemente revela registros de vínculos empregatícios urbanos curtos (30, 60, 90 dias), intercalados com longos períodos sem registro. Esse padrão é compatível com a atividade de entressafra e não deve, por si só, descaracterizar a condição de segurado especial. O magistrado deve confrontar as datas dos vínculos urbanos com o calendário agrícola regional, verificando se os períodos de emprego urbano coincidem com os intervalos entre safras. Testemunhas que confirmem o retorno do segurado à atividade rural após os períodos urbanos reforçam a tese da entressafra.
 :::
 
-### 9.14 Módulos Fiscais e Propriedade Rural Superior a Quatro Módulos
+### 9.14 Módulos fiscais e propriedade rural superior a quatro módulos
 
 O limite de quatro módulos fiscais, previsto no art. 11, inciso VII, alínea "a", da Lei n. 8.213/91, é requisito legal para a configuração do segurado especial na modalidade de produtor agropecuário. A propriedade que exceda esse limite, em princípio, afasta o enquadramento como segurado especial, sob a premissa de que áreas maiores pressupõem capacidade econômica incompatível com o regime de economia familiar.
 
@@ -285,7 +285,7 @@ A aplicação do Tema 1.115 nos JEFs exige atenção a duas situações distinta
 
 A prova da exploração em regime de economia familiar, quando a área supera quatro módulos fiscais, exige robustez documental superior à ordinária. O segurado deve demonstrar, por meio de documentos fiscais, declarações de imposto de renda, DAP, contratos de comercialização e outros elementos, que a exploração mantém caráter familiar. A prova testemunhal, embora relevante, pode ser insuficiente isoladamente para superar a presunção legal de que áreas superiores a quatro módulos não se enquadram no regime de economia familiar.
 
-### 9.15 A EC 103/2019 e a Aposentadoria do Segurado Rural
+### 9.15 A EC 103/2019 e a aposentadoria do segurado rural
 
 A EC 103/2019 não alterou os requisitos da aposentadoria por idade rural: as idades de 60/55 anos e os 180 meses de atividade rural permanecem intactos. O art. 201, § 7º, inciso II, da Constituição Federal manteve a redação que prevê a redução de cinco anos nos requisitos etários para trabalhadores rurais. Consequentemente, as idades de 60 anos (homem) e 55 anos (mulher) permanecem inalteradas, assim como a exigência de 180 meses de comprovação de atividade rural para o segurado especial.
 
@@ -297,7 +297,7 @@ A proposta original da PEC 6/2019, encaminhada pelo Poder Executivo ao Congresso
 
 A aposentadoria por idade híbrida (art. 48, § 3º, da Lei n. 8.213/91) sofreu impacto mais significativo da reforma. Para requerimentos formulados após 13/11/2019, o cálculo do salário de benefício obedece à nova regra da EC 103/2019: média de todos os salários de contribuição desde julho de 1994, com aplicação do coeficiente de 60% sobre essa média, acrescido de 2% para cada ano de contribuição que exceder 20 anos (homem) ou 15 anos (mulher). Na prática, segurados com poucos anos de contribuição urbana e baixos salários de contribuição podem receber benefício inferior ao salário mínimo, hipótese em que se aplica a garantia constitucional do piso mínimo (art. 201, § 2º, da CF/88).
 
-### 9.16 Período de Graça do Segurado Especial
+### 9.16 Período de graça do segurado especial
 
 O segurado especial que cessa a atividade rural mantém a qualidade de segurado durante o período de graça previsto no art. 15 da Lei n. 8.213/91. Conforme examinado no Capítulo 3, o período básico de manutenção é de 12 meses após a cessação das contribuições (ou, no caso do segurado especial, após a cessação da atividade rural), prorrogável nas hipóteses previstas nos §§ 1º e 2º do art. 15.
 
@@ -307,7 +307,7 @@ A segunda peculiaridade envolve a prorrogação por desemprego involuntário (ar
 
 A interação entre o período de graça e a aposentadoria por idade rural levanta questão específica: o segurado que cessa a atividade rural antes de atingir a idade mínima, mas ainda dentro do período de graça, pode requerer a aposentadoria? A resposta é afirmativa quando os demais requisitos estiverem preenchidos — o período de graça mantém a qualidade de segurado e, portanto, permite o reconhecimento do direito ao benefício. A questão torna-se mais complexa quando o segurado cessa a atividade rural anos antes de completar a idade mínima: nesse caso, o período de graça já terá expirado, e o segurado não poderá invocar a aposentadoria por idade rural (Tema 642/STJ), restando-lhe, eventualmente, a via da aposentadoria híbrida (art. 48, § 3º).
 
-### 9.17 Regime Contributivo do Segurado Especial
+### 9.17 Regime contributivo do segurado especial
 
 O segurado especial contribui para a seguridade social de forma diferenciada, mediante aplicação de alíquota sobre o resultado da comercialização de sua produção rural (art. 195, § 8º, CF/88; art. 25, Lei n. 8.212/91). Cabe aqui detalhar a composição da alíquota, a que se fez remissão na seção 9.1. A alíquota previdenciária totaliza 1,3% sobre a receita bruta da comercialização da produção: 1,2% a título de contribuição básica (art. 25, I, da Lei n. 8.212/91, com a redução promovida pela Lei n. 13.606/2018, que rebaixou o percentual então vigente) + 0,1% para o financiamento do SAT/GILRAT (art. 25, II). Há, ainda, a parcela de 0,2% destinada ao SENAR (art. 25, § 1º, acrescentado pela Lei n. 10.256/2001), que não integra o custeio da seguridade social em sentido estrito, perfazendo o conjunto 1,5% sobre a receita bruta da comercialização (o denominado FUNRURAL do segurado especial).
 
@@ -321,7 +321,7 @@ Na hipótese de o segurado especial comercializar diretamente a produção ao co
 O segurado especial que pretende obter benefício previdenciário em valor superior ao salário mínimo deve recolher contribuições facultativas sobre base de cálculo correspondente ao salário de benefício pretendido, nos termos do art. 39, inciso II, da Lei n. 8.213/91. A ausência de contribuição facultativa limita o benefício ao piso constitucional de um salário mínimo. Na experiência dos juizados dos JEFs, é excepcional o pedido de aposentadoria rural em valor superior ao mínimo, mas o advogado deve orientar o segurado sobre essa possibilidade quando houver interesse e capacidade contributiva.
 :::
 
-### 9.18 Documentos do Cônjuge e do Grupo Familiar como Prova
+### 9.18 Documentos do cônjuge e do grupo familiar como prova
 
 A utilização de documentos em nome do cônjuge ou de outros membros do grupo familiar como início de prova material é admitida de forma ampla, conforme a Súmula 6 da TNU, tratada na seção 9.7. A lógica subjacente é direta: o regime de economia familiar pressupõe que todos os membros exercem atividade rural em mútua colaboração, de modo que o documento que comprova a condição rural de um atinge, por extensão, os demais integrantes do grupo.
 
@@ -331,7 +331,7 @@ A extensão da prova documental de um cônjuge ao outro não é, todavia, autom�
 
 A extensão de documentos de pais para filhos segue a mesma lógica. A certidão de nascimento ou a CTPS do genitor com qualificação rural constitui início de prova material para o filho que comprove ter trabalhado com a família na lavoura. A presunção é de que, em regime de economia familiar, os filhos participam das atividades produtivas desde tenra idade — presunção que deve ser confirmada pela prova testemunhal.
 
-### 9.19 Autodeclaração e DAP: Evolução do Regime Documental
+### 9.19 Autodeclaração e DAP: evolução do regime documental
 
 O regime documental da comprovação da atividade rural vem passando por transformações significativas nos últimos anos. A Declaração de Aptidão ao Pronaf (DAP), que durante mais de duas décadas foi o documento de identificação do agricultor familiar, vem sendo progressivamente substituída pelo Cadastro Nacional da Agricultura Familiar (CAF), instituído pelo Decreto n. 9.064/2017.
 
@@ -343,7 +343,7 @@ A autodeclaração do segurado especial é instrumento previsto na legislação 
 A exigência de cadastro no Cadastro Nacional de Informações Sociais (CNIS) como condição para reconhecimento da qualidade de segurado especial vem sendo implementada gradualmente pelo INSS. O art. 38-A da Lei n. 8.213/91 (incluído pela Lei n. 11.718/2008) prevê que o INSS utilizará as informações constantes do CNIS, do CAF e de outros cadastros para comprovar o exercício da atividade rural do segurado especial. Na prática judicial, contudo, a ausência de cadastro no CNIS não impede o reconhecimento da condição de segurado especial, desde que comprovada por início de prova material e prova testemunhal. A exigência de cadastro é requisito administrativo, não condição de existência do direito.
 :::
 
-### 9.20 Jurisprudência Consolidada: Temas Repetitivos e Súmulas
+### 9.20 Jurisprudência consolidada: temas repetitivos e súmulas
 
 A matéria da aposentadoria rural acumulou, ao longo de três décadas de vigência da Lei n. 8.213/91, vasto acervo jurisprudencial. A sistematização dos principais entendimentos consolidados é indispensável para a atuação nos JEFs.
 
@@ -377,7 +377,7 @@ No âmbito da TNU, os seguintes entendimentos merecem destaque:
 
 Esses precedentes formam o arcabouço jurisprudencial que orienta a análise das ações de aposentadoria rural nos JEFs, conferindo segurança jurídica a um campo normativo que, pela natureza do benefício e pela vulnerabilidade dos segurados, exige sensibilidade na aplicação das regras de direito.
 
-### 9.21 Data de Início do Benefício (DIB)
+### 9.21 Data de início do benefício (DIB)
 
 A fixação da data de início do benefício (DIB) da aposentadoria por idade rural segue, em regra, o art. 49 da Lei n. 8.213/91: a aposentadoria por idade será devida a partir da data do requerimento administrativo (DER), ou, na sua ausência, a partir da data da citação.
 
@@ -389,7 +389,7 @@ A aplicação do instituto da reafirmação da DER (Tema 995/STJ) é pertinente 
 Na sentença de procedência em ação de aposentadoria por idade rural nos JEFs, a fixação da DIB deve observar as seguintes regras: (a) se houve requerimento administrativo anterior: DIB na DER, com condenação em parcelas vencidas desde então, corrigidas monetariamente e acrescidas de juros de mora conforme a Lei n. 11.960/2009; (b) se não houve requerimento administrativo: DIB na data da citação; (c) se o implemento do requisito etário é posterior à DER: DIB na data do implemento da idade, por reafirmação da DER. Em qualquer caso, a implantação do benefício deve ser determinada como obrigação de fazer, com prazo para cumprimento pelo INSS.
 :::
 
-### 9.22 Cálculo da Renda Mensal
+### 9.22 Cálculo da renda mensal
 
 A renda mensal da aposentadoria por idade rural do segurado especial corresponde, na quase totalidade dos casos, a um salário mínimo (art. 39, I, da Lei n. 8.213/91). Para as regras gerais de apuração do salário de benefício e da renda mensal inicial, remete-se ao Capítulo 16. Aqui se examinam apenas as particularidades do cálculo rural.
 
@@ -403,7 +403,7 @@ A diferença de tratamento entre os dois regimes pode ser significativa. No regi
 O cálculo do salário de benefício na aposentadoria híbrida pós-EC 103/2019 pode resultar em valor inferior ao salário mínimo, especialmente quando o segurado possui poucos anos de contribuição urbana e baixos salários de contribuição. Nesses casos, aplica-se a garantia constitucional do art. 201, § 2º, da CF/88, que assegura que nenhum benefício que substitua o salário de contribuição terá valor mensal inferior ao salário mínimo. Na prática, o segurado receberá, no mínimo, um salário mínimo mensal, independentemente do resultado do cálculo atuarial.
 :::
 
-### 9.23 Questões Procedimentais nos JEFs
+### 9.23 Questões procedimentais nos JEFs
 
 A ação de aposentadoria por idade rural nos JEFs apresenta particularidades procedimentais que a distinguem das demais ações previdenciárias.
 
@@ -429,7 +429,7 @@ O recurso inominado contra sentença em ação de aposentadoria rural nos JEFs �
 A elaboração de quesitos para testemunhas em ações de aposentadoria rural nos JEFs deve ser orientada por elementos específicos que o juiz precisa aferir: (a) a localidade onde o segurado exerce ou exerceu atividade rural; (b) o tipo de cultura ou criação (milho, feijão, mandioca, café, gado, etc.); (c) a extensão aproximada da área explorada; (d) os instrumentos de trabalho utilizados (tração animal, mecanização parcial, trabalho manual); (e) a composição do grupo familiar que participa da atividade; (f) eventuais períodos de afastamento do campo (entressafra, doença, atividade urbana temporária); (g) a forma de comercialização da produção (feiras, atravessadores, cooperativas); e (h) o conhecimento direto da testemunha sobre o segurado e há quanto tempo o conhece. Perguntas sobre detalhes concretos, como o preço de venda do produto, as dificuldades climáticas enfrentadas ou os vizinhos de propriedade, permitem ao juiz aferir a autenticidade dos relatos com segurança.
 :::
 
-### 9.24 Indígenas, Quilombolas e Comunidades Tradicionais
+### 9.24 Indígenas, quilombolas e comunidades tradicionais
 
 Indígenas, quilombolas e demais comunidades tradicionais (ribeirinhos, caiçaras, quebradeiras de coco babaçu, seringueiros) integram a categoria de segurados especiais quando preenchidos os requisitos do art. 11, VII, da Lei n. 8.213/91 — o conceito é funcional, centrado no exercício de atividade em regime de economia familiar, sem distinção étnica.
 
@@ -439,7 +439,7 @@ As comunidades quilombolas, reconhecidas pelo art. 68 do ADCT, exercem atividade
 
 A prova da atividade rural de membros de comunidades tradicionais apresenta dificuldades próprias, relacionadas à informalidade ainda mais acentuada dessas populações e à distância geográfica dos órgãos de registro. A jurisprudência dos TRFs vem adotando postura sensível a essas especificidades, admitindo documentos emitidos pela FUNAI, pela Fundação Palmares, por associações de comunidades tradicionais e por entidades de assistência técnica e extensão rural como início de prova material.
 
-### 9.25 Meação, Parceria e Comodato Rural
+### 9.25 Meação, parceria e comodato rural
 
 A exploração de terra alheia mediante contratos de meação, parceria ou comodato é forma habitual de exercício de atividade rural por trabalhadores que não são proprietários da terra. O meeiro cultiva a terra de outrem e divide a produção em partes iguais com o proprietário. O parceiro reparte a produção em proporções distintas (geralmente 70/30 ou 60/40). O comodatário usa gratuitamente a terra cedida pelo proprietário, sem obrigação de repartição da produção.
 
@@ -451,7 +451,7 @@ Na prática, porém, esses contratos raramente são formalizados por escrito. A 
 Quando o segurado alega ter exercido atividade rural como meeiro, parceiro ou comodatário, o advogado deve buscar obter declaração do proprietário da terra confirmando a cessão e o período de exploração. Essa declaração, ainda que produzida unilateralmente, constitui início de prova material apto a ser corroborado pela prova testemunhal. Se o proprietário já faleceu, os herdeiros podem prestar essa declaração, ou testemunhas que conheciam a relação de parceria podem suprir a ausência documental. A escritura pública ou a matrícula do imóvel rural em nome do proprietário, combinada com prova testemunhal de que o segurado efetivamente trabalhava naquela terra, constitui conjunto probatório satisfatório.
 :::
 
-### 9.26 Pescador Artesanal como Segurado Especial
+### 9.26 Pescador artesanal como segurado especial
 
 Na prática dos JEFs do litoral e da região amazônica, o pescador artesanal responde por parcela expressiva dos pedidos de aposentadoria rural. O art. 11, VII, "b", da Lei n. 8.213/91 o enquadra como segurado especial quando a pesca constitui profissão habitual ou principal meio de vida, sem sujeição ao limite de quatro módulos fiscais.
 
@@ -465,7 +465,7 @@ A atividade de mariscagem, catação de caranguejos, coleta de mariscos e outras
 O pescador artesanal que emprega regime de economia familiar e se vale de embarcação de pequeno porte mantém a condição de segurado especial. A própria definição legal de pesca artesanal — art. 8º, I, "b", da Lei n. 11.959/2009 (Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca) — funda-se no exercício da atividade de forma autônoma, em regime de economia familiar, com meios de produção próprios ou em parceria. O parâmetro de porte da embarcação habitualmente referido — embarcações de até 20 toneladas de arqueação bruta (AB) — não consta da lei, mas de regulamentação infralegal/administrativa do órgão de pesca, de caráter variável e meramente indicativo: a exemplo do que se assentou quanto aos 120 dias de entressafra (seção 9.13), o limite de tonelagem orienta a análise, sem operar como teto categórico, devendo o julgador aferir, no caso concreto, se a capacidade da embarcação e o volume de pesca são compatíveis com a atividade de subsistência. O uso de embarcação motorizada não descaracteriza a condição de artesanal. A pesca industrial, por outro lado, realizada em embarcações de grande porte e com relação de emprego formal, não se enquadra no conceito de segurado especial — o pescador industrial é segurado empregado (art. 11, I) ou contribuinte individual, conforme a relação de trabalho.
 :::
 
-### 9.27 A Regra de Transição do Art. 143 da Lei n. 8.213/91
+### 9.27 A regra de transição do art. 143 da lei n. 8.213/91
 
 O art. 143 da Lei n. 8.213/91, em sua redação original, previu regra de transição para a comprovação da atividade rural, nos seguintes termos: o trabalhador rural, ora enquadrado como segurado obrigatório no RGPS, podia requerer aposentadoria por idade mediante a comprovação do exercício de atividade rural, ainda que descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico à carência do referido benefício.
 
@@ -477,7 +477,7 @@ O prazo de vigência do art. 143 foi sucessivamente prorrogado: a Lei n. 11.718/
 A relação entre o art. 143 (regra de transição) e o art. 48, § 2º (regra permanente), gera complexa questão de direito intertemporal. Ambos os dispositivos dispensam o recolhimento de contribuições pelo segurado especial, exigindo a comprovação do exercício de atividade rural pelo período equivalente à carência. A diferença reside na expressão "período imediatamente anterior ao requerimento" (art. 143): a regra de transição exige contemporaneidade entre a atividade rural e o requerimento, enquanto a regra permanente do art. 48, § 2º, foi interpretada pelo STJ (Tema 642) como igualmente exigente de contemporaneidade. Na rotina previdenciária forense, a distinção perdeu relevância operacional, mas o advogado deve estar atento ao fundamento legal adequado, especialmente em casos limítrofes.
 :::
 
-### 9.28 Fraudes e Litigância Predatória nas Ações Rurais
+### 9.28 Fraudes e litigância predatória nas ações rurais
 
 O regime probatório da aposentadoria rural — flexível por necessidade constitucional — é também vulnerável a fraudes. A relativa facilidade de obtenção de declarações sindicais, a dificuldade de verificação da atividade rural por parte do INSS em regiões remotas e a valorização da prova testemunhal como elemento complementar criam espaço para condutas fraudulentas que comprometem a integridade do sistema.
 
@@ -487,7 +487,7 @@ A Lei n. 13.846/2019 introduziu mecanismos de combate à fraude previdenciária 
 
 Entendemos que o combate à fraude não pode servir de pretexto para endurecimento generalizado do regime probatório. A flexibilização da prova em favor do trabalhador rural é conquista constitucional que reflete a realidade socioeconômica do campo brasileiro. O caminho adequado é a análise criteriosa do conjunto probatório em cada caso concreto, sem presunções genéricas de fraude ou de legitimidade.
 
-### 9.29 Consolidação das Posições Adotadas
+### 9.29 Consolidação das posições adotadas
 
 As posições sustentadas neste capítulo podem ser sintetizadas nos seguintes termos:
 
@@ -514,7 +514,7 @@ O quadro a seguir sintetiza os principais parâmetros decisórios na aposentador
 
 Esses parâmetros orientam tanto a atuação do advogado na elaboração da petição inicial quanto a condução da instrução processual pelo magistrado, conferindo previsibilidade e uniformidade à aplicação do direito previdenciário rural nos Juizados Especiais Federais.
 
-### 9.30 Referências
+### Referências
 
 #### Legislação
 

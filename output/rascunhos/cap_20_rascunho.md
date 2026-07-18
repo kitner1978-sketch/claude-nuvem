@@ -8,9 +8,9 @@ data: 2026-05-15
 
 ## Capítulo 20 — Acumulação de Benefícios
 
-### 20.1 Introdução: Lógica do Sistema de Acumulação
+### 20.1 Introdução: lógica do sistema de acumulação
 
-O sistema previdenciário brasileiro admite, como regra geral, a acumulação de benefícios quando cada prestação corresponde a fato gerador e fundamento jurídico distintos. Essa premissa decorre da própria estrutura da proteção social: se um mesmo segurado sofre dois eventos cobertos pelo sistema, uma incapacidade laboral e a morte de seu cônjuge, por exemplo, a negativa de proteção para um dos eventos frustraria a finalidade constitucional da seguridade social. A vedação de acumulação é exceção, não regra, e precisa de previsão normativa expressa para que possa ser imposta ao beneficiário (IBRAHIM, 2025; CASTRO; LAZZARI, 2025).
+O sistema previdenciário brasileiro admite, como regra geral, a acumulação de benefícios quando cada prestação corresponde a fato gerador e fundamento jurídico distintos. Essa premissa decorre da própria estrutura da proteção social: se um mesmo segurado sofre dois eventos cobertos pelo sistema, uma incapacidade laboral e a morte de seu cônjuge, por exemplo, a negativa de proteção para um dos eventos frustraria a finalidade constitucional da seguridade social. A vedação de acumulação é exceção, não regra, e precisa de previsão normativa expressa para que possa ser imposta ao beneficiário (Ibrahim, 2025; Castro; Lazzari, 2025).
 
 Essa lógica nem sempre foi clara na legislação brasileira. A evolução normativa do tema pode ser dividida em três fases distintas, cada qual com características próprias.
 
@@ -24,9 +24,9 @@ Três categorias de acumulação passaram a coexistir no ordenamento após a EC 
 
 O presente capítulo funciona como capítulo-matriz da obra sobre o tema da acumulação de benefícios. Os capítulos dedicados a cada benefício em espécie — aposentadoria por incapacidade permanente (Cap. 6), auxílio por incapacidade temporária (Cap. 7), aposentadorias programadas (Caps. 10 a 12), salário-maternidade (Cap. 13), auxílio-reclusão (Cap. 14), auxílio-acidente (Cap. 15), BPC (Cap. 18) e pensão por morte (Cap. 19) — tratam das regras de acumulação sob a perspectiva de cada prestação individualmente considerada. O Cap. 20 consolida todas as combinações possíveis em um único quadro sistemático, desenvolve a mecânica do escalonamento com exemplos numéricos detalhados e oferece ao advogado e ao magistrado dos JEFs uma ferramenta de consulta rápida para a resolução de casos concretos envolvendo pluralidade de benefícios.
 
-### 20.2 Art. 124 da Lei 8.213/91: Vedações Internas ao RGPS
+### 20.2 Art. 124 da lei 8.213/91: vedações internas ao RGPS
 
-O art. 124 da Lei n. 8.213/91 estabelece o rol de vedações de acumulação internas ao Regime Geral de Previdência Social (CASTRO; LAZZARI, 2025; KERTZMAN, 2025). Trata-se de dispositivo que permanece em plena vigência após a EC 103/2019 e que disciplina as hipóteses em que a acumulação é absolutamente proibida, independentemente de qualquer redutor. Examinaremos cada inciso com atenção às implicações práticas nos JEFs.
+O art. 124 da Lei n. 8.213/91 estabelece o rol de vedações de acumulação internas ao Regime Geral de Previdência Social (Castro; Lazzari, 2025; Kertzman, 2025). Trata-se de dispositivo que permanece em plena vigência após a EC 103/2019 e que disciplina as hipóteses em que a acumulação é absolutamente proibida, independentemente de qualquer redutor. Examinaremos cada inciso com atenção às implicações práticas nos JEFs.
 
 **Inciso I — Duas aposentadorias no RGPS.** O dispositivo veda que o segurado receba, pelo mesmo regime, mais de uma aposentadoria. A vedação é coerente com a estrutura do RGPS: o segurado que exerce duas ou mais atividades simultâneas, empregado em uma empresa e contribuinte individual em outra, por exemplo, recolhe contribuições sobre ambas as remunerações, mas essas contribuições convergem para um único regime e são consideradas na apuração de uma única aposentadoria. O art. 32 da Lei 8.213/91, que disciplina o cálculo do salário de benefício do segurado com atividades concomitantes, reflete essa lógica de unificação. Não há, pois, dois vínculos previdenciários distintos capazes de gerar duas aposentadorias autônomas. A exceção se aplica quando se trata de regimes diferentes: a acumulação de aposentadoria pelo RGPS com aposentadoria pelo RPPS (servidor público que também contribuiu como empregado no setor privado, por exemplo) é permitida, desde que cada aposentadoria decorra de contribuições vertidas em períodos distintos e ao regime respectivo. Após a EC 103/2019, essa acumulação inter-regimes está sujeita ao escalonamento do art. 24 (seção 20.3, infra).
 
@@ -58,9 +58,9 @@ O art. 124 da Lei n. 8.213/91 estabelece o rol de vedações de acumulação int
 | Par. único | Seguro-desemprego + benefício continuado | Ressalvados: pensão por morte e auxílio-acidente |
 :::
 
-### 20.3 Art. 24 da EC 103/2019: Regime de Escalonamento
+### 20.3 Art. 24 da EC 103/2019: regime de escalonamento
 
-A Emenda Constitucional n. 103/2019 introduziu, em seu art. 24, um regime de escalonamento aplicável às acumulações de benefícios que permanecem lícitas após a reforma (IBRAHIM, 2025). O dispositivo representa a mais significativa inovação legislativa sobre o tema da acumulação de benefícios desde a edição da Lei 8.213/91 e aplica-se tanto ao RGPS quanto ao RPPS, unificando o tratamento da matéria nos dois regimes.
+A Emenda Constitucional n. 103/2019 introduziu, em seu art. 24, um regime de escalonamento aplicável às acumulações de benefícios que permanecem lícitas após a reforma (Ibrahim, 2025). O dispositivo representa a mais significativa inovação legislativa sobre o tema da acumulação de benefícios desde a edição da Lei 8.213/91 e aplica-se tanto ao RGPS quanto ao RPPS, unificando o tratamento da matéria nos dois regimes.
 
 O caput do art. 24 estabelece duas vedações. A primeira proíbe a acumulação de mais de uma pensão por morte deixada por cônjuge ou companheiro no âmbito do mesmo regime de previdência social. A segunda veda a acumulação de pensão por morte com aposentadoria concedida no mesmo regime, ressalvadas as exceções previstas no § 1º. Essas vedações operam de forma análoga às do art. 124 da Lei 8.213/91: trata-se de proibição absoluta, que impõe ao beneficiário a opção pelo benefício mais vantajoso.
 
@@ -115,7 +115,7 @@ O escalonamento do art. 24 no contexto específico da pensão por morte, incluin
 SM 2026 = R$ 1.621,00 | Teto RGPS 2026 = R$ 8.475,55
 :::
 
-### 20.4 Cálculos Práticos de Escalonamento
+### 20.4 Cálculos práticos de escalonamento
 
 A aplicação concreta do escalonamento exige cálculos faixa a faixa que, embora não sejam complexos do ponto de vista aritmético, demandam atenção para evitar erros que comprometam o valor final percebido pelo beneficiário. Apresentamos a seguir quatro cenários representativos das situações mais frequentes nos JEFs, com demonstração numérica completa.
 
@@ -222,7 +222,7 @@ Valor sem redutor (integral): R$ [x]
 Diferença: R$ [x] ([x]%)
 :::
 
-### 20.5 Acumulações Permitidas: Quadro Completo
+### 20.5 Acumulações permitidas: quadro completo
 
 Esta seção consolida todas as combinações possíveis de benefícios previdenciários e assistenciais, indicando para cada par se a acumulação é vedada, permitida com integralidade ou permitida com escalonamento. Trata-se da peça central do capítulo, concebida como ferramenta de consulta rápida para o operador do direito nos JEFs.
 
@@ -340,7 +340,7 @@ Legenda: **V** = Vedada | **P** = Permitida (integral) | **E** = Permitida (com 
 Apos = Aposentadoria; PM = Pensão por Morte; AIT = Auxílio por Incapacidade Temporária; AA = Auxílio-Acidente; SM = Salário-Maternidade; SF = Salário-Família; AR = Auxílio-Reclusão; BPC = Benefício de Prestação Continuada.
 :::
 
-### 20.6 Exceções ao Redutor: Integralidade na Acumulação
+### 20.6 Exceções ao redutor: integralidade na acumulação
 
 O sistema de escalonamento instituído pelo art. 24 da EC 103/2019 comporta três categorias de exceção, nas quais a acumulação de benefícios ocorre com integralidade, sem aplicação do redutor progressivo. Essas exceções refletem escolhas do constituinte reformador fundadas na natureza da proteção conferida ou na garantia constitucional que ampara a acumulação.
 
@@ -377,12 +377,12 @@ Na prática dos JEFs, a comprovação da acumulabilidade dos cargos é questão 
 ::: box-jurisprudencia
 **Orientação consolidada**
 
-A doutrina majoritária e a interpretação sistemática da Constituição convergem no entendimento de que o escalonamento do art. 24 da EC 103/2019 não se aplica a benefícios decorrentes de cargos constitucionalmente acumuláveis (art. 37, XVI, CF). O fundamento é direto: a garantia constitucional de acumulação de cargos públicos, inscrita no texto constitucional originário, não pode ser esvaziada por emenda que reduza a proteção previdenciária correspondente. Essa orientação aplica-se a todas as combinações de benefícios oriundos de cargos acumuláveis: duas aposentadorias, aposentadoria e pensão, ou duas pensões. Os tribunais regionais federais têm aplicado esse entendimento de forma consistente (CASTRO; LAZZARI, 2025; IBRAHIM, 2025).
+A doutrina majoritária e a interpretação sistemática da Constituição convergem no entendimento de que o escalonamento do art. 24 da EC 103/2019 não se aplica a benefícios decorrentes de cargos constitucionalmente acumuláveis (art. 37, XVI, CF). O fundamento é direto: a garantia constitucional de acumulação de cargos públicos, inscrita no texto constitucional originário, não pode ser esvaziada por emenda que reduza a proteção previdenciária correspondente. Essa orientação aplica-se a todas as combinações de benefícios oriundos de cargos acumuláveis: duas aposentadorias, aposentadoria e pensão, ou duas pensões. Os tribunais regionais federais têm aplicado esse entendimento de forma consistente (Castro; Lazzari, 2025; Ibrahim, 2025).
 :::
 
-### 20.7 Direito Adquirido e Intertemporalidade
+### 20.7 Direito adquirido e intertemporalidade
 
-A EC n. 103/2019 trouxe consigo cláusula expressa de proteção ao direito adquirido em matéria de acumulação de benefícios (SANTOS; CALEJON, 2025). O art. 24, §4º, dispõe que "as vedações previstas neste artigo não se aplicam quando o direito aos benefícios houver sido adquirido antes da data de entrada em vigor desta Emenda Constitucional". A data de corte é 13 de novembro de 2019, data de promulgação da EC 103. Essa previsão, embora pudesse ser considerada desnecessária, uma vez que o art. 5º, XXXVI, da Constituição Federal já protege o direito adquirido como garantia fundamental, cumpre função didática e preventiva. O legislador constituinte derivado antecipou o potencial contencioso e optou por afastar qualquer dúvida interpretativa acerca da retroatividade das novas regras de escalonamento.
+A EC n. 103/2019 trouxe consigo cláusula expressa de proteção ao direito adquirido em matéria de acumulação de benefícios (Santos; Calejon, 2025). O art. 24, §4º, dispõe que "as vedações previstas neste artigo não se aplicam quando o direito aos benefícios houver sido adquirido antes da data de entrada em vigor desta Emenda Constitucional". A data de corte é 13 de novembro de 2019, data de promulgação da EC 103. Essa previsão, embora pudesse ser considerada desnecessária, uma vez que o art. 5º, XXXVI, da Constituição Federal já protege o direito adquirido como garantia fundamental, cumpre função didática e preventiva. O legislador constituinte derivado antecipou o potencial contencioso e optou por afastar qualquer dúvida interpretativa acerca da retroatividade das novas regras de escalonamento.
 
 A compreensão adequada dessa cláusula exige a definição precisa do conceito de direito adquirido previdenciário. O direito ao benefício previdenciário consolida-se no momento em que o segurado ou dependente preenche todos os requisitos legais exigidos pela norma vigente. Não se exige requerimento administrativo, tampouco ato concessório do INSS. O requerimento é ato meramente declaratório: reconhece direito preexistente, mas não o constitui. Dessa distinção decorre a correta aplicação da regra de transição do art. 24, §4º: o que define a incidência ou não do escalonamento é a data de preenchimento dos requisitos de cada benefício, e não a data em que o segurado apresentou seu requerimento administrativo ou a data em que o INSS proferiu decisão concessória.
 
@@ -418,7 +418,7 @@ A aplicação prática da cláusula de direito adquirido no âmbito administrati
 
 A regra do art. 24, §4º, é autoaplicável e não depende de regulamentação. Qualquer ato administrativo do INSS que imponha escalonamento a segurado com direito adquirido anterior à EC 103 constitui lesão a direito líquido e certo, passível de correção por via mandamental ou por ação ordinária nos JEFs.
 
-### 20.8 Auxílio-Acidente e Aposentadoria: Regime Especial
+### 20.8 Auxílio-acidente e aposentadoria: regime especial
 
 A acumulação de auxílio-acidente com aposentadoria constitui, conforme Ibrahim (2025), um dos temas de maior densidade jurisprudencial em matéria previdenciária, com evolução normativa que se desenvolve em três fases distintas e bem delimitadas no tempo. A compreensão dessas fases é indispensável para a correta aplicação do regime vigente e para a identificação de situações protegidas pelo direito adquirido.
 
@@ -446,9 +446,9 @@ O segurado que preenche as condições da dupla anterioridade (lesão e aposenta
 
 Recomendamos ao advogado que, ao analisar caso envolvendo auxílio-acidente e aposentadoria, verifique três elementos com precisão: a data da consolidação da lesão (ou o início da incapacidade parcial), a data da aposentadoria e a data de 11 de novembro de 1997. Somente com a dupla anterioridade a acumulação é juridicamente viável. O desenvolvimento aprofundado do regime jurídico do auxílio-acidente encontra-se nas seções 15.13 e 15.19 deste livro.
 
-### 20.9 BPC e Acumulação: Vedação e Opção
+### 20.9 BPC e acumulação: vedação e opção
 
-O Benefício de Prestação Continuada (BPC), disciplinado pelo art. 20 da Lei n. 8.742/1993 (LOAS), submete-se a regime de acumulação próprio, mais restritivo que o aplicável aos benefícios previdenciários (KERTZMAN, 2025; CASTRO; LAZZARI, 2025). O art. 20, §4º, da LOAS estabelece que o BPC não pode ser acumulado pelo beneficiário com qualquer outro benefício no âmbito da seguridade social ou de outro regime, salvo os da assistência médica e da pensão especial de natureza indenizatória. A vedação é ampla e abrange tanto benefícios previdenciários quanto assistenciais, de qualquer regime.
+O Benefício de Prestação Continuada (BPC), disciplinado pelo art. 20 da Lei n. 8.742/1993 (LOAS), submete-se a regime de acumulação próprio, mais restritivo que o aplicável aos benefícios previdenciários (Kertzman, 2025; Castro; Lazzari, 2025). O art. 20, §4º, da LOAS estabelece que o BPC não pode ser acumulado pelo beneficiário com qualquer outro benefício no âmbito da seguridade social ou de outro regime, salvo os da assistência médica e da pensão especial de natureza indenizatória. A vedação é ampla e abrange tanto benefícios previdenciários quanto assistenciais, de qualquer regime.
 
 A razão da vedação reside na natureza do BPC: trata-se de benefício assistencial, de caráter não contributivo, destinado a amparar idosos e pessoas com deficiência que comprovem não possuir meios de prover a própria manutenção nem de tê-la provida por sua família. Quem recebe benefício previdenciário, que pressupõe filiação ao regime e contribuições, já possui fonte de renda que, em tese, afasta a condição de miserabilidade que justifica o BPC. A acumulação representaria dupla proteção incompatível com a finalidade do benefício assistencial.
 
@@ -464,7 +464,7 @@ O BPC apresenta duas características que o distinguem dos benefícios previdenc
 **Quando o BPC é mais vantajoso que o benefício previdenciário**: essa hipótese é rara, mas possível quando o segurado tem direito apenas a benefício previdenciário de valor muito reduzido. O advogado deve comparar: BPC (R$ 1.621,00 em 2026, sem 13º, sem pensão por morte) versus benefício previdenciário (valor variável, com 13º e com possibilidade de gerar pensão por morte). A garantia constitucional do piso (salário mínimo) para benefícios substitutivos da renda reduz drasticamente as hipóteses em que o BPC supera o benefício previdenciário. Na quase totalidade dos casos, o benefício contributivo é mais vantajoso quando considerado o pacote completo (valor mensal + 13º + pensão por morte para dependentes). O exame aprofundado do BPC e suas interfaces está nas seções 18.20 e 18.22 deste livro.
 :::
 
-### 20.10 Incapacidade e Acumulação: Atividades Simultâneas
+### 20.10 Incapacidade e acumulação: atividades simultâneas
 
 A vedação de acumulação entre aposentadoria e auxílio por incapacidade temporária, inscrita no art. 124, inciso II, da Lei n. 8.213/91, gera consequências práticas que ultrapassam a simples regra de inacumulabilidade. A vedação ganha contornos específicos quando o segurado exerce atividades simultâneas ou quando retorna ao mercado de trabalho após aposentar-se.
 
@@ -488,7 +488,7 @@ A questão da reabilitação profissional conecta-se diretamente com o tema das 
 
 Conforme exposto na seção 20.2 (inciso V), a vedação de acumulação entre salário-maternidade e auxílio por incapacidade temporária é expressa no art. 124 da Lei 8.213/91. A mecânica de suspensão e retomada do auxílio é examinada no Cap. 13, seção 13.11.
 
-### 20.11 Compensação Judicial de Benefícios Não Acumuláveis
+### 20.11 Compensação judicial de benefícios não acumuláveis
 
 A concessão judicial de benefício previdenciário a segurado que já recebe outro benefício não acumulável impõe a solução de um problema prático de grande relevância para os JEFs: como tratar os valores pagos administrativamente durante o período em que tramitou a ação judicial. O segurado recebia um benefício pelo INSS; a sentença concede outro, mais vantajoso, retroativo à data do requerimento administrativo ou do óbito. Os dois benefícios não são acumuláveis. O segurado, por orientação do advogado ou por necessidade alimentar, manteve o benefício administrativo durante toda a tramitação do processo, pois não seria razoável exigir a renúncia a uma fonte de renda certa em favor de pretensão judicial incerta. A pergunta é direta: como calcular o que é efetivamente devido ao segurado na fase de liquidação?
 
@@ -522,9 +522,9 @@ O 13º salário merece tratamento específico na compensação. Como benefício 
 O advogado deve: (a) ao elaborar os cálculos de liquidação, aplicar a compensação mês a mês, nunca de forma global; (b) solicitar ao INSS, por meio de ofício judicial, o extrato detalhado dos valores pagos administrativamente para cada competência (mês/ano), com discriminação de principal, 13º salário e eventuais abonos; (c) na planilha de cálculos, estruturar colunas separadas para: valor judicial devido, valor administrativo pago e saldo (judicial − administrativo, com piso em R$ 0,00); (d) na hipótese de impugnação pelo INSS alegando compensação global, invocar expressamente o Tema 1.207/STJ; (e) aplicar a correção monetária pela taxa SELIC sobre os saldos positivos de cada competência, conforme o art. 3º da EC n. 113/2021, a partir de dezembro de 2021.
 :::
 
-### 20.12 Prática nos JEFs: Ações de Acumulação
+### 20.12 Prática nos JEFs: ações de acumulação
 
-A litigância envolvendo acumulação de benefícios previdenciários nos Juizados Especiais Federais apresenta particularidades que exigem domínio simultâneo de direito material previdenciário, técnica processual e habilidade de cálculo (SANTOS; CALEJON, 2025). Organizamos a matéria segundo os principais aspectos procedimentais que o advogado deve observar.
+A litigância envolvendo acumulação de benefícios previdenciários nos Juizados Especiais Federais apresenta particularidades que exigem domínio simultâneo de direito material previdenciário, técnica processual e habilidade de cálculo (Santos; Calejon, 2025). Organizamos a matéria segundo os principais aspectos procedimentais que o advogado deve observar.
 
 A competência dos JEFs abrange as causas de valor até sessenta salários mínimos, o que corresponde a R$ 97.260,00 em 2026 (60 x R$ 1.621,00). O valor da causa em ações de acumulação é fixado pela soma das prestações vencidas (desde a data em que a acumulação deveria ter sido reconhecida ou desde a data de início do segundo benefício) acrescida de 12 parcelas vincendas do benefício pretendido. Quando o beneficiário postula a acumulação integral por direito adquirido, em substituição ao escalonamento aplicado administrativamente, o valor da causa corresponde à diferença entre o que receberia com acumulação integral e o que efetivamente recebe com o escalonamento, projetada para o período vencido e 12 meses vincendos.
 
@@ -567,7 +567,7 @@ As diferenças apuradas são pagas por Requisição de Pequeno Valor (RPV) quand
 **Renúncia ao excedente de 60 SM para fixar competência do JEF**: a renúncia ao crédito excedente ao limite de 60 salários mínimos é admitida para viabilizar o processamento da causa no JEF, porém produz efeito irrevogável. O autor que renuncia ao excedente não poderá, em nenhuma hipótese futura, reclamar os valores objeto da renúncia. O advogado deve orientar o cliente de forma clara sobre essa consequência e obter declaração expressa de ciência. Nos casos em que as diferenças acumuladas são substanciais, o que pode ocorrer em ações com longo período retroativo e benefícios de valor elevado, a opção pela Justiça Federal comum (Vara Federal) pode ser economicamente mais vantajosa, ainda que implique tramitação mais longa e pagamento por precatório.
 :::
 
-### 20.13 Consolidação das Posições Adotadas
+### 20.13 Consolidação das posições adotadas
 
 Ao longo deste capítulo, adotamos posições sobre as principais questões relativas à acumulação de benefícios previdenciários e assistenciais. Consolidamos a seguir o conjunto dessas posições, com remissão às seções em que cada uma foi desenvolvida, como instrumento de consulta rápida para advogados e magistrados que atuam nos JEFs.
 
@@ -595,7 +595,7 @@ As posições consolidadas nesta seção refletem o estado do direito em maio de
 
 ---
 
-### 20.14 Referências
+### Referências
 
 #### Legislação
 

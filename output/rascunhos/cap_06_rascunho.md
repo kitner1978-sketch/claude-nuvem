@@ -15,7 +15,7 @@ A proteção constitucional à incapacidade para o trabalho encontra fundamento 
 
 Na experiência dos Juizados Especiais Federais, as ações de concessão e restabelecimento de aposentadoria por incapacidade permanente representam parcela significativa do acervo. A centralidade da prova pericial, as controvérsias sobre a extensão do conceito de incapacidade, a tensão entre o laudo médico e as condições pessoais do segurado, a fixação da data de início do benefício e o impacto das alterações trazidas pela EC 103/2019 no cálculo da renda mensal constituem questões com as quais o magistrado e o advogado previdenciarista se deparam cotidianamente.
 
-### 6.1 Conceito e Natureza Jurídica
+### 6.1 Conceito e natureza jurídica
 
 O art. 42 da Lei 8.213/91 define a aposentadoria por invalidez (atual aposentadoria por incapacidade permanente) como o benefício devido ao segurado que, "estando ou não em gozo de auxílio-doença (atual auxílio por incapacidade temporária), for considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, e ser-lhe-á paga enquanto permanecer nesta condição". A definição legal contém os elementos essenciais do benefício: (i) a incapacidade para o trabalho; (ii) o caráter permanente ou, ao menos, de prognóstico indefinido; (iii) a insusceptibilidade de reabilitação profissional; e (iv) a provisoriedade da concessão, condicionada à manutenção do estado incapacitante.
 
@@ -27,11 +27,11 @@ A evolução legislativa do benefício remonta à Lei Orgânica da Previdência 
 
 A EC 103/2019 promoveu a substituição terminológica de "aposentadoria por invalidez" por "aposentadoria por incapacidade permanente". A mudança não é meramente semântica. A expressão "invalidez" carregava conotação estigmatizante, sugerindo inutilidade ou incapacidade absoluta, quando, na realidade, o segurado aposentado pode conservar habilidades em esferas distintas da atividade laborativa. A nova nomenclatura, "incapacidade permanente para o trabalho", é tecnicamente mais precisa, pois delimita o objeto da proteção (o trabalho) e o qualifica temporalmente (permanente). A Lei 8.213/91 ainda não teve sua redação formalmente alterada nos arts. 42 a 47; foi o Decreto 10.410/2020 que adotou a nova terminologia no regulamento, razão pela qual persiste na legislação ordinária a referência a "aposentadoria por invalidez".
 
-### 6.2 Requisitos Legais
+### 6.2 Requisitos legais
 
 A concessão da aposentadoria por incapacidade permanente exige a conjugação de quatro requisitos: (a) qualidade de segurado; (b) carência mínima de doze contribuições mensais, salvo nas hipóteses de dispensa; (c) incapacidade total e permanente para o trabalho; e (d) insusceptibilidade de reabilitação profissional. A verificação desses requisitos, na prática dos JEFs, envolve complexidades que merecem tratamento individualizado.
 
-#### 6.2.1 Qualidade de Segurado
+#### 6.2.1 Qualidade de segurado
 
 O primeiro requisito é a manutenção da qualidade de segurado na data do início da incapacidade — ou, mais precisamente, na data em que a doença ou lesão incapacitante se manifestou com gravidade suficiente para impedir o trabalho. A matéria foi examinada no Capítulo 3, ao qual se remete o leitor para análise detalhada do período de graça e das hipóteses de prorrogação. A perda da qualidade de segurado anterior ao surgimento da incapacidade impede a concessão do benefício, sem exceção — a dispensa de qualidade de segurado prevista para aposentadorias programadas não se aplica à aposentadoria por incapacidade permanente, que é benefício não programado.
 
@@ -59,7 +59,7 @@ No cômputo dessas 12 contribuições, questão recorrente é a de saber se o pe
 O § 2º do art. 42 da Lei 8.213/91, lido em conjunto com a Súmula 53 da TNU, conduz à seguinte distinção: havendo doença preexistente à filiação, não há direito à concessão de benefício por incapacidade se a incapacidade laborativa também for preexistente, ainda que tenha havido agravamento da doença, se este agravamento não gerou piora da capacidade laborativa. A distinção é sutil, mas fundamental: o agravamento da doença somente justifica a concessão se resultar em agravamento da incapacidade. Se a doença progride clinicamente mas a capacidade de trabalho permanece inalterada, não há direito ao benefício.
 :::
 
-#### 6.2.3 Incapacidade Total e Permanente
+#### 6.2.3 Incapacidade total e permanente
 
 O terceiro requisito é a incapacidade total e permanente para o trabalho. A lei exige que o segurado seja "considerado incapaz e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência" (art. 42, caput). A expressão "atividade que lhe garanta a subsistência" indica que a incapacidade deve ser avaliada não apenas em relação à última atividade exercida, mas em perspectiva ampla, considerando todas as atividades que o segurado poderia razoavelmente exercer para prover seu sustento.
 
@@ -76,17 +76,17 @@ Essa distinção teórica, contudo, é mitigada pela jurisprudência. A Súmula 
 Segurado de 58 anos, analfabeto, residente em município do interior do Nordeste, que exerceu durante toda a vida a atividade de trabalhador rural braçal e apresenta lesão incapacitante na coluna lombar: embora o laudo pericial possa concluir pela incapacidade parcial (o segurado poderia, em tese, exercer atividade sedentária), a análise das condições pessoais revela que a reinserção no mercado de trabalho é virtualmente impossível. Nessa hipótese, aplica-se a Súmula 47 da TNU: a incapacidade parcial, conjugada com as condições pessoais desfavoráveis, autoriza a concessão da aposentadoria por incapacidade permanente. O magistrado deve fundamentar expressamente a análise das condições pessoais, sob pena de nulidade da sentença.
 :::
 
-#### 6.2.4 Insusceptibilidade de Reabilitação
+#### 6.2.4 Insusceptibilidade de reabilitação
 
-O quarto requisito, a insusceptibilidade de reabilitação profissional, é corolário lógico da exigência de incapacidade total. Se o segurado pode ser reabilitado para outra atividade que lhe garanta a subsistência, a hipótese é de auxílio por incapacidade temporária com encaminhamento ao Programa de Reabilitação Profissional (arts. 89 a 93 da Lei 8.213/91), e não de aposentadoria. A aposentadoria por incapacidade permanente é, no desenho legislativo, benefício de última ratio, somente concedida quando esgotadas as possibilidades de reabilitação (CASTRO; LAZZARI, 2025; HORVATH JÚNIOR, 2025).
+O quarto requisito, a insusceptibilidade de reabilitação profissional, é corolário lógico da exigência de incapacidade total. Se o segurado pode ser reabilitado para outra atividade que lhe garanta a subsistência, a hipótese é de auxílio por incapacidade temporária com encaminhamento ao Programa de Reabilitação Profissional (arts. 89 a 93 da Lei 8.213/91), e não de aposentadoria. A aposentadoria por incapacidade permanente é, no desenho legislativo, benefício de última ratio, somente concedida quando esgotadas as possibilidades de reabilitação (Castro; Lazzari, 2025; Horvath Júnior, 2025).
 
 Na prática, a reabilitação profissional do INSS apresenta limitações estruturais. O Programa frequentemente não dispõe de recursos adequados para oferecer capacitação efetiva, sobretudo em municípios do interior. A jurisprudência tem reconhecido que a mera possibilidade teórica de reabilitação, sem a existência concreta de programa acessível ao segurado, não impede a concessão da aposentadoria. A TNU, em diversos precedentes, tem entendido que cabe ao INSS demonstrar a viabilidade da reabilitação, e não ao segurado provar a inviabilidade.
 
-### 6.3 A Incapacidade como Conceito Jurídico-Médico
+### 6.3 A incapacidade como conceito jurídico-médico
 
 A avaliação da incapacidade para o trabalho envolve dimensões que transcendem o campo estritamente médico. O conceito jurídico de incapacidade, para fins previdenciários, não se confunde com o conceito clínico de doença ou deficiência. Uma pessoa pode ser portadora de doença grave e não ser incapaz para o trabalho; inversamente, pode apresentar limitações funcionais que, embora clinicamente modestas, inviabilizam o exercício de qualquer atividade laborativa disponível em seu contexto socioeconômico.
 
-#### 6.3.1 Incapacidade Omniprofissional e Seus Limites
+#### 6.3.1 Incapacidade omniprofissional e seus limites
 
 A exigência legal de incapacidade para "atividade que lhe garanta a subsistência" foi interpretada pela doutrina e jurisprudência como incapacidade omniprofissional — a impossibilidade de exercer qualquer atividade remunerada que assegure o sustento do segurado. Conforme Santos e Calejon (2025), esse conceito sofre temperamentos relevantes na aplicação concreta.
 
@@ -96,7 +96,7 @@ A jurisprudência consolidou o entendimento de que a avaliação da incapacidade
 
 Há situações em que a incapacidade, embora parcial do ponto de vista estritamente médico, equivale funcionalmente à incapacidade total quando conjugada com as condições pessoais do segurado. É o que a doutrina denomina "incapacidade social" — a impossibilidade de reinserção laboral decorrente não apenas da limitação física ou mental, mas da combinação desta com fatores sociais adversos.
 
-#### 6.3.2 Condições Pessoais e Sociais do Segurado
+#### 6.3.2 Condições pessoais e sociais do segurado
 
 A análise das condições pessoais e sociais do segurado, para fins de avaliação da incapacidade, está consolidada na jurisprudência da TNU e dos Tribunais Regionais Federais. A Súmula 47 da TNU é o marco normativo fundamental: "Uma vez reconhecida a incapacidade parcial para o trabalho, o juiz deve analisar as condições pessoais e sociais do segurado para a concessão de aposentadoria por invalidez".
 
@@ -107,7 +107,7 @@ Os fatores que devem ser considerados incluem: (i) a idade do segurado (quanto m
 Na elaboração de quesitos para a perícia judicial, o advogado previdenciarista deve formular perguntas que permitam ao magistrado avaliar não apenas a dimensão médica da incapacidade, mas também sua dimensão social. Exemplos de quesitos relevantes: "Considerando a idade, escolaridade e atividade habitual do periciando, é possível sua reabilitação para outra atividade que lhe garanta a subsistência?"; "A doença diagnosticada gera estigma social que dificulta a reinserção profissional?"; "O periciando necessita de assistência permanente de terceiro para os atos da vida diária?". Esses quesitos, quando bem formulados, fornecem ao magistrado elementos para a aplicação da Súmula 47 da TNU.
 :::
 
-#### 6.3.3 Doenças Estigmatizantes e o Tema 274 da TNU
+#### 6.3.3 Doenças estigmatizantes e o tema 274 da TNU
 
 A TNU, no Tema 274 (PEDILEF 0512288-77.2017.4.05.8300), estendeu a todas as doenças estigmatizantes a lógica antes restrita ao HIV (Súmula 78/TNU): é possível a concessão de aposentadoria por incapacidade permanente, após análise das condições pessoais, sociais, econômicas e culturais, quando houver incapacidade parcial e permanente combinada com doença que impacte negativamente a funcionalidade social do segurado.
 
@@ -115,7 +115,7 @@ Até o julgamento do Tema 274, a concessão de aposentadoria por incapacidade pe
 
 A aplicação do Tema 274 exige do magistrado uma análise multidimensional da incapacidade. Não se trata de presumir a incapacidade total a partir do diagnóstico de doença estigmatizante, mas de avaliar concretamente se o estigma social associado à enfermidade, conjugado com as demais condições pessoais do segurado, inviabiliza sua reinserção no mercado de trabalho. A análise deve ser fundamentada em elementos de prova — relatórios médicos, laudos psicossociais, informações sobre o mercado de trabalho local — e não em presunções genéricas. A aplicação do Tema 274 no contexto do auxílio por incapacidade temporária é examinada no Cap. 7, seção 7.16.
 
-#### 6.3.4 Doença Preexistente: DID e DII
+#### 6.3.4 Doença preexistente: DID e DII
 
 A questão da doença preexistente à filiação ou ao reingresso no RGPS é disciplinada pelo § 2º do art. 42 da Lei 8.213/91: "A doença ou lesão de que o segurado já era portador ao filiar-se ao Regime Geral de Previdência Social não lhe conferirá direito à aposentadoria por incapacidade permanente, salvo quando a incapacidade sobrevier por motivo de progressão ou agravamento dessa doença ou lesão". A regra visa impedir a fraude — o ingresso no sistema previdenciário por pessoa já incapaz, com o propósito exclusivo de obter benefício — mas comporta exceção relevante: se a doença existia antes da filiação, mas a incapacidade sobreveio após, por progressão ou agravamento, o benefício é devido.
 
@@ -123,7 +123,7 @@ A operacionalização dessa regra exige a fixação precisa de duas datas: a Dat
 
 A Súmula 53 da TNU sintetiza: "Não há direito a auxílio por incapacidade temporária ou a aposentadoria por incapacidade permanente quando a incapacidade para o trabalho é preexistente ao reingresso do segurado no Regime Geral de Previdência Social". Essa súmula deve ser lida em conjunto com o § 2º do art. 42: a vedação se aplica quando a incapacidade, e não apenas a doença, é preexistente. Se houve progressão real da doença que gerou nova incapacidade ou agravamento da incapacidade preexistente, o segurado faz jus ao benefício, desde que cumpridos os demais requisitos.
 
-#### 6.3.5 O Modelo Biopsicossocial e a Classificação Internacional de Funcionalidade (CIF)
+#### 6.3.5 O modelo biopsicossocial e a classificação internacional de funcionalidade (CIF)
 
 A avaliação da incapacidade para o trabalho no direito previdenciário brasileiro tem sido progressivamente influenciada pelo modelo biopsicossocial, cujo marco normativo internacional é a Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF), adotada pela Organização Mundial da Saúde em 2001.
 
@@ -142,11 +142,11 @@ A convergência entre a Súmula 47/TNU, o Tema 274/TNU e o modelo biopsicossocia
 Na formulação de quesitos periciais, o advogado pode incorporar a perspectiva biopsicossocial com perguntas como: "Considerando as barreiras ambientais e sociais no contexto de vida do periciando (especificar: rural/urbano, acessibilidade, oferta de emprego local), as limitações funcionais identificadas comprometem sua participação efetiva no mercado de trabalho?"; "A interação entre as limitações funcionais do periciando e os fatores ambientais de seu contexto (especificar) resulta em restrição de atividade ou de participação social que inviabilize o exercício de atividade laborativa?". Quesitos assim formulados permitem ao perito ir além do diagnóstico clínico e avaliar a funcionalidade no contexto real do segurado — exatamente o que a Súmula 47 da TNU exige do magistrado na sentença.
 :::
 
-### 6.4 O Laudo Pericial e Sua Valoração
+### 6.4 O laudo pericial e sua valoração
 
 A prova pericial é o elemento central da instrução processual nas ações de aposentadoria por incapacidade permanente. A verificação da incapacidade depende de conhecimento técnico especializado, o que torna a perícia médica judicial instrumento processual indispensável. O CPC/2015 disciplina a prova pericial nos arts. 464 a 480, aplicáveis subsidiariamente ao procedimento dos JEFs (art. 1º da Lei 9.099/95 c/c art. 1º da Lei 10.259/2001).
 
-#### 6.4.1 Perícia Médica Judicial: Natureza e Finalidade
+#### 6.4.1 Perícia médica judicial: natureza e finalidade
 
 A perícia médica judicial é meio de prova técnica destinada a auxiliar o juiz na formação de sua convicção sobre questões que demandam conhecimento especializado. Como ensina Savaris (2023), a perícia nos feitos previdenciários assume papel central na formação do convencimento judicial, dada a natureza eminentemente técnica da controvérsia sobre a incapacidade. No contexto previdenciário, a perícia tem por finalidade responder a três perguntas fundamentais: (i) o periciando é portador de doença ou lesão? (ii) em caso positivo, essa doença ou lesão gera incapacidade para o trabalho? (iii) a incapacidade é total ou parcial, temporária ou permanente?
 
@@ -154,7 +154,7 @@ Nos JEFs, a perícia médica é realizada por perito único nomeado pelo juiz, n
 
 A Lei 8.213/91, em seu art. 42, § 1º, prevê que "a concessão de aposentadoria por incapacidade permanente dependerá da verificação da condição de incapacidade mediante exame médico-pericial a cargo da Previdência Social, podendo o segurado, às suas expensas, fazer-se acompanhar de médico de sua confiança". Essa regra refere-se à perícia administrativa do INSS, não à perícia judicial. No âmbito dos JEFs, o perito é nomeado pelo juiz e atua com independência funcional em relação tanto ao INSS quanto ao segurado.
 
-#### 6.4.2 Quesitos do Juízo e das Partes
+#### 6.4.2 Quesitos do juízo e das partes
 
 A formulação de quesitos adequados é determinante para a qualidade da prova pericial. Os JEFs tipicamente utilizam quesitos padronizados que abrangem: (i) identificação da doença ou lesão; (ii) data provável de início da doença; (iii) data de início da incapacidade; (iv) grau de incapacidade (total ou parcial); (v) duração provável da incapacidade (temporária ou permanente); (vi) possibilidade de reabilitação para outra atividade; (vii) necessidade de assistência permanente de terceiro.
 
@@ -165,9 +165,9 @@ Os quesitos das partes complementam os do juízo e devem ser direcionados às qu
 Modelo de quesitos complementares para o segurado: "1. Qual a doença ou lesão diagnosticada e qual o CID-10 correspondente? 2. A doença é progressiva ou estável? 3. Há necessidade de tratamento contínuo? Em caso positivo, os medicamentos utilizados possuem efeitos colaterais que limitam a atividade laborativa? 4. Considerando a idade do periciando (informar), sua escolaridade (informar) e sua atividade habitual (informar), é viável a reabilitação para outra atividade profissional? 5. A doença diagnosticada encontra-se no rol de doenças que dispensam carência (art. 26, II, da Lei 8.213/91, c/c Portaria Interministerial MTP/MS 22/2022, Anexo II)? 6. A incapacidade é compatível com o exercício de alguma atividade remunerada, ainda que diversa da habitual? 7. O periciando necessita de assistência permanente de outra pessoa para os atos da vida diária?"
 :::
 
-#### 6.4.3 Valor Probante do Laudo e Livre Convicção Motivada
+#### 6.4.3 Valor probante do laudo e livre convicção motivada
 
-O laudo pericial não vincula o juiz. O princípio da livre convicção motivada (art. 371 do CPC/2015) autoriza o magistrado a acolher total ou parcialmente as conclusões do perito, ou delas divergir com fundamentação adequada. A divergência do laudo pericial exige, porém, motivação robusta — o juiz não pode simplesmente desconsiderar a conclusão do perito sem indicar os elementos de prova que sustentam sua decisão divergente (SAVARIS, 2023; PORTO, 2024).
+O laudo pericial não vincula o juiz. O princípio da livre convicção motivada (art. 371 do CPC/2015) autoriza o magistrado a acolher total ou parcialmente as conclusões do perito, ou delas divergir com fundamentação adequada. A divergência do laudo pericial exige, porém, motivação robusta — o juiz não pode simplesmente desconsiderar a conclusão do perito sem indicar os elementos de prova que sustentam sua decisão divergente (Savaris, 2023; Porto, 2024).
 
 Na prática dos JEFs, a divergência entre o laudo pericial e a convicção do juiz ocorre tipicamente em três cenários. No primeiro, o perito conclui pela ausência de incapacidade, mas os documentos médicos juntados pelo segurado (atestados, prontuários, exames complementares) indicam quadro clínico incompatível com a conclusão pericial. No segundo, o perito reconhece incapacidade parcial, mas as condições pessoais e sociais do segurado, analisadas à luz da Súmula 47 da TNU, conduzem à conclusão de incapacidade equivalente à total. No terceiro, o perito fixa a DII em data incompatível com a documentação médica constante dos autos.
 
@@ -178,29 +178,29 @@ O STJ, no julgamento do Tema 1.246 (REsp 2.082.395/SP, Primeira Seção, j. 13/1
 O laudo pericial do INSS (perícia administrativa) e o laudo pericial judicial são provas distintas, com naturezas e finalidades diferentes. O laudo administrativo é produzido no âmbito do procedimento de concessão do benefício, por médico perito do INSS, sem contraditório pleno. O laudo judicial é produzido no curso da ação, por perito nomeado pelo juiz, com contraditório assegurado às partes (formulação de quesitos, acesso ao laudo, possibilidade de impugnação). A divergência entre os dois laudos não é incomum e deve ser resolvida pelo juiz à luz do conjunto probatório, com prevalência, em regra, do laudo judicial — produzido com maiores garantias processuais.
 :::
 
-#### 6.4.4 Divergência entre Laudos e Documentação Médica
+#### 6.4.4 Divergência entre laudos e documentação médica
 
 Situação frequente nos JEFs é a divergência entre o laudo pericial judicial e a documentação médica apresentada pelo segurado. Atestados médicos de tratamento, prontuários hospitalares, exames laboratoriais e de imagem, relatórios de internação e receituários compõem acervo probatório que pode confirmar ou contraditar as conclusões do perito.
 
 A TNU tem entendido que o laudo pericial não é prova absoluta e que o juiz deve considerar todo o conjunto probatório, incluindo a documentação médica particular. A TNU já manteve decisões que concederam aposentadoria por incapacidade permanente com base em exames particulares que contradiziam o laudo pericial, entendendo que a prova documental médica, quando robusta e coerente, pode fundamentar a convicção do juiz em sentido diverso da conclusão pericial.
 
-### 6.5 Técnica de Reação ao Laudo Adverso
+### 6.5 Técnica de reação ao laudo adverso
 
 O laudo pericial adverso — aquele que conclui pela ausência de incapacidade ou pela incapacidade apenas parcial e temporária — não encerra a instrução probatória nos JEFs. O segurado dispõe de instrumentos processuais para questionar as conclusões periciais e buscar a reversão do resultado desfavorável.
 
-#### 6.5.1 Impugnação do Laudo Pericial
+#### 6.5.1 Impugnação do laudo pericial
 
 A impugnação ao laudo pericial deve ser apresentada no prazo concedido pelo juiz para manifestação das partes, nos termos do art. 477 do CPC/2015, aplicável subsidiariamente. A impugnação deve apontar, fundamentadamente, as deficiências do laudo: contradições internas, incompatibilidade com a documentação médica dos autos, ausência de exame clínico adequado, desatualização do exame em relação ao quadro atual do segurado, incompetência do perito para a especialidade em questão ou omissão na resposta a quesitos relevantes.
 
 A impugnação genérica, que se limita a discordar da conclusão pericial sem indicar vícios concretos, é ineficaz e não obriga o juiz a determinar nova perícia. A impugnação específica, ao contrário, que identifica contradições e aponta provas contrárias, pode fundamentar tanto o pedido de esclarecimentos quanto a determinação de nova perícia.
 
-#### 6.5.2 Pedido de Esclarecimentos e Nova Perícia
+#### 6.5.2 Pedido de esclarecimentos e nova perícia
 
 O pedido de esclarecimentos ao perito (art. 477, § 2º, do CPC/2015) é instrumento útil quando a impugnação identifica omissões ou contradições no laudo que podem ser sanadas sem a realização de novo exame. O perito é intimado a prestar esclarecimentos por escrito, complementando o laudo original.
 
 A nova perícia (art. 480 do CPC/2015) é cabível quando os esclarecimentos não forem suficientes para sanar as deficiências apontadas. No procedimento dos JEFs, a realização de nova perícia depende de decisão fundamentada do juiz, que avaliará a necessidade diante do conjunto probatório. A nova perícia pode ser realizada por profissional de especialidade diversa, quando a natureza da doença assim exigir — por exemplo, quando o laudo foi elaborado por clínico geral e a doença demanda avaliação de especialista (ortopedista, psiquiatra, neurologista).
 
-#### 6.5.3 Provas Complementares
+#### 6.5.3 Provas complementares
 
 O segurado pode apresentar, a qualquer tempo durante a instrução, documentos médicos que complementem ou contradigam o laudo pericial. Atestados de médicos assistentes, relatórios de internação, resultados de exames laboratoriais e de imagem, receituários de medicamentos, relatórios de acompanhamento psicológico ou psiquiátrico e laudos de outros profissionais de saúde integram o acervo probatório e devem ser valorados pelo juiz.
 
@@ -211,11 +211,11 @@ A jurisprudência dos TRFs e da TNU reconhece que o laudo do médico assistente 
 Estratégia processual para reação ao laudo adverso nos JEFs: (1) Requerer prazo para impugnação do laudo e, obtendo-o, apresentar impugnação específica e fundamentada, apontando contradições com a documentação médica dos autos. (2) Requerer esclarecimentos do perito sobre pontos omissos ou contraditórios, formulando quesitos suplementares direcionados. (3) Juntar documentação médica atualizada — atestados, exames, relatórios — que demonstre a evolução do quadro clínico desde a perícia. (4) Requerer nova perícia se os esclarecimentos forem insatisfatórios, indicando a especialidade médica adequada. (5) Em audiência de instrução, quando houver, solicitar a oitiva do segurado sobre suas condições pessoais, limitações funcionais e histórico laboral, elementos essenciais para a aplicação da Súmula 47 da TNU. (6) Nas razões finais, articular expressamente a análise das condições pessoais como fundamento autônomo para a concessão, independentemente da conclusão estritamente médica do laudo.
 :::
 
-### 6.6 Data de Início do Benefício
+### 6.6 Data de início do benefício
 
 A fixação da Data de Início do Benefício (DIB) nas ações de aposentadoria por incapacidade permanente é questão de grande repercussão prática, pois determina o marco temporal a partir do qual o segurado faz jus ao pagamento de parcelas atrasadas. A matéria é disciplinada pelo art. 43 da Lei 8.213/91 e pela jurisprudência consolidada do STF e do STJ.
 
-#### 6.6.1 Regra Geral: Requerimento Administrativo ou Cessação do Auxílio por Incapacidade Temporária
+#### 6.6.1 Regra geral: requerimento administrativo ou cessação do auxílio por incapacidade temporária
 
 O art. 43 da Lei 8.213/91 estabelece duas regras para a fixação da DIB conforme a situação do segurado. O inciso I trata da hipótese em que o segurado não está em gozo de auxílio por incapacidade temporária: nesse caso, a aposentadoria será devida a contar da data do requerimento, quando não precedida de auxílio-doença (atual auxílio por incapacidade temporária). O inciso II trata da hipótese inversa: quando o segurado já se encontra em gozo de auxílio por incapacidade temporária, a aposentadoria é devida a contar do dia imediato ao da cessação daquele benefício. A leitura conjunta dos dois incisos revela a lógica do legislador: se há auxílio prévio, a aposentadoria o sucede sem solução de continuidade; se não há, o marco é o requerimento administrativo.
 
@@ -223,13 +223,13 @@ A construção jurisprudencial acrescentou uma terceira hipótese, não prevista
 
 O art. 62 da Lei 8.213/91 prevê que "o segurado em gozo de auxílio-doença, insusceptível de recuperação para sua atividade habitual, deverá submeter-se a processo de reabilitação profissional para o exercício de outra atividade". Note-se que a redação original do dispositivo emprega o termo "auxílio-doença", pois a Lei 8.213/91 não teve sua redação formalmente alterada pela EC 103/2019. O art. 62 não prevê textualmente a conversão do auxílio em aposentadoria; o que prevê é o encaminhamento à reabilitação profissional. A conversão em aposentadoria por incapacidade permanente é consequência lógica da inviabilidade da reabilitação, construída pela interpretação sistemática da lei e consolidada pela jurisprudência.
 
-#### 6.6.2 Prévio Requerimento Administrativo (Tema 350/STF)
+#### 6.6.2 Prévio requerimento administrativo (tema 350/STF)
 
 O Supremo Tribunal Federal, no julgamento do RE 631.240 (Tema 350, rel. Min. Roberto Barroso, j. 03/09/2014), fixou a tese de que "a concessão de benefícios previdenciários depende de requerimento do interessado, não se caracterizando ameaça ou lesão a direito antes de sua apreciação e indeferimento pelo INSS, ou se excedido o prazo legal para sua análise". O prévio requerimento administrativo é, em regra, condição para o interesse de agir nas ações previdenciárias.
 
 A tese comporta exceções importantes: (i) quando a posição do INSS seja notoriamente contrária ao direito postulado — por exemplo, quando o INSS adota interpretação normativa consolidada contra a pretensão do segurado; (ii) nos pedidos de revisão de benefícios em manutenção, quando a controvérsia é exclusivamente de direito; e (iii) quando o segurado comprova ter comparecido ao INSS e não ter conseguido protocolar o requerimento por razões imputáveis à autarquia.
 
-#### 6.6.3 Termo Inicial em Concessão Judicial
+#### 6.6.3 Termo inicial em concessão judicial
 
 A fixação do termo inicial dos efeitos financeiros quando o benefício é concedido judicialmente envolve regras distintas conforme tenha havido ou não requerimento administrativo. O STJ, no Tema 626 (REsp 1.369.165/SP, j. 26/02/2014), estabeleceu que, quando ausente postulação administrativa prévia, o termo inicial da aposentadoria por incapacidade permanente concedida judicialmente é a data da citação válida do INSS. Quando houve requerimento administrativo seguido de indeferimento, a DIB retroage à data do requerimento, desde que a incapacidade já existisse naquela data.
 
@@ -239,7 +239,7 @@ A primeira diz respeito ao **interesse de agir**. O Tribunal exigiu requerimento
 
 A segunda questão, superada a primeira, diz respeito ao **termo inicial dos efeitos financeiros** quando a concessão judicial se baseia em prova não submetida ao crivo administrativo do INSS. Conforme a tese fixada, quando a prova é levada a juízo somente após a propositura da ação ou por comprovada impossibilidade material de apresentação na via administrativa, o termo inicial é a data da citação válida — ou data posterior em que preenchidos os requisitos, nos termos do Tema 995/STJ. Quando, ao contrário, o segurado leva a juízo os mesmos fatos e provas apresentados ao INSS, ou quando o INSS deixou de oportunizar a complementação da prova, admite-se a fixação da DIB na data do requerimento administrativo. A questão é relevante nos casos em que o segurado apresenta em juízo documentação médica que não foi analisada na esfera administrativa — exames realizados após o indeferimento, laudos de especialistas não consultados pelo INSS etc.
 
-#### 6.6.4 Reafirmação da DER e Incapacidade Permanente
+#### 6.6.4 Reafirmação da DER e incapacidade permanente
 
 O instituto da reafirmação da DER (Tema 995/STJ) é examinado em profundidade no Capítulo 10, seção 10.7. Nesta seção, interessa sua aplicação específica à aposentadoria por incapacidade permanente.
 
@@ -249,7 +249,7 @@ A jurisprudência dos TRFs admite, nessas hipóteses, a conversão do pedido de 
 
 Cabe, todavia, uma ressalva técnica. O paradigma fixado no Tema 995/STJ tem por objeto a aposentadoria programada, em que o requisito que se completa no curso da ação (tempo de contribuição ou idade) é fato objetivo, verificável por cálculo a partir de elementos documentais incontroversos. A transposição dessa lógica para a incapacidade superveniente não é automática: aqui, o "fato novo" do art. 493 não é o transcurso de um requisito aritmético, mas a evolução de um quadro clínico, cuja data de consolidação depende de juízo médico-pericial e comporta margem de incerteza. Por isso, sustentamos que a reafirmação da DER em sede de incapacidade só é legítima quando a perícia fixar, de modo seguro, a data em que a incapacidade temporária se converteu em permanente — fixando-se a DIB nesse marco, e não na data do requerimento — e desde que franqueado ao INSS o contraditório sobre essa nova realidade fática. Trata-se, a rigor, menos de aplicar diretamente a tese do Tema 995/STJ do que de invocar o regime geral do art. 493 do CPC/2015 quanto ao conhecimento, de ofício ou a requerimento, do fato superveniente capaz de influir no julgamento.
 
-#### 6.6.5 Cumulação de Salários e Benefício Retroativo (Tema 1.013/STJ)
+#### 6.6.5 Cumulação de salários e benefício retroativo (tema 1.013/STJ)
 
 O STJ, no julgamento do Tema 1.013 (REsp 1.786.590/SP, Primeira Seção, j. 24/06/2020), fixou tese de grande relevância prática: "No período entre o indeferimento administrativo e a efetiva implantação de auxílio por incapacidade temporária ou de aposentadoria por incapacidade permanente mediante decisão judicial, o segurado do RGPS tem direito ao recebimento conjunto das rendas do trabalho exercido e do benefício previdenciário pago retroativamente".
 
@@ -260,23 +260,23 @@ A tese resolve uma situação frequente: o segurado que, tendo seu benefício in
 O Tema 1.013/STJ consolidou entendimento que já vinha sendo adotado pela maioria dos TRFs e pela TNU: a cumulação de salários e benefício por incapacidade pago retroativamente é legítima quando o trabalho foi exercido durante a pendência da ação judicial. A Primeira Seção ressalvou que a cumulação não se aplica quando o segurado está em gozo efetivo do benefício e exerce atividade remunerada — nesse caso, incide a regra do art. 46 da Lei 8.213/91, que determina a cessação da aposentadoria por incapacidade permanente quando o segurado retorna voluntariamente à atividade.
 :::
 
-### 6.7 Cálculo do Benefício
+### 6.7 Cálculo do benefício
 
 As regras gerais de cálculo do salário de benefício e da renda mensal inicial — inclusive a sistemática do período básico de cálculo antes e depois da EC 103/2019 — são examinadas no Capítulo 16 (seções 16.3 a 16.5). Nesta seção, destacam-se as peculiaridades aplicáveis à aposentadoria por incapacidade permanente.
 
-#### 6.7.1 Coeficiente e Exceções Específicas
+#### 6.7.1 Coeficiente e exceções específicas
 
 No regime anterior à EC 103/2019, a renda mensal correspondia a 100% do salário de benefício, sem fator previdenciário (art. 44, I, Lei 8.213/91). Após a EC 103/2019, aplica-se o coeficiente geral de 60% da média de todos os salários de contribuição, acrescido de 2% por ano que exceder 20 (homem) ou 15 (mulher) — conforme o art. 26, § 2º, da EC 103/2019, cuja sistemática escalonada se desdobra nos respectivos incisos (v. Cap. 16, seção 16.5, para a fórmula detalhada e exemplos numéricos, e seção 6.7.3, infra, para a aplicação dessa regra geral às doenças graves após o Tema 1.300/STF).
 
 A exceção: quando a incapacidade decorrer de acidente de trabalho, doença profissional ou doença do trabalho, mantém-se a integralidade de 100% (art. 26, § 3º, II, da EC 103/2019). Portadores de doenças graves, que no regime anterior também faziam jus à integralidade, passaram a se sujeitar à regra geral de 60% + 2%/ano — questão cuja constitucionalidade foi enfrentada no Tema 1.300/STF (v. seção 6.7.3, infra).
 
-#### 6.7.2 Direito Intertemporal: a DII como Marco Temporal
+#### 6.7.2 Direito intertemporal: a DII como marco temporal
 
 O marco temporal para a definição do regime de cálculo aplicável é a DII — Data de Início da Incapacidade, e não a DER. Se a DII é anterior a 13/11/2019 (exclusive), aplica-se integralmente o regime anterior (100% do SB, calculado sobre a média dos 80% maiores salários de contribuição). Se a DII é em 13/11/2019 (inclusive) ou posterior, aplica-se o novo regime, pois a EC 103/2019 entrou em vigor na data de sua publicação (art. 36 da EC 103/2019). A distinção tem gerado contencioso expressivo nos JEFs.
 
 A precisão da perícia médica na fixação da DII torna-se, assim, determinante não apenas para a aferição da qualidade de segurado, mas para a definição do regime de cálculo — com impacto financeiro potencialmente expressivo ao longo de toda a vida do benefício. O magistrado e o advogado devem estar atentos à necessidade de quesitos específicos sobre a data precisa de início da incapacidade, especialmente quando a DII situa-se em período próximo a 13/11/2019.
 
-#### 6.7.3 Doenças Graves e o Tema 1.300 do STF
+#### 6.7.3 Doenças graves e o tema 1.300 do STF
 
 A constitucionalidade da nova regra de cálculo para portadores de doenças graves foi questionada perante o STF. O Tema 1.300 (RE 1.469.150, rel. Min. Luís Roberto Barroso) submeteu à repercussão geral a seguinte questão: saber se, após a edição da EC 103/2019, o pagamento da aposentadoria por incapacidade permanente decorrente de doença grave deve ser feito de forma integral ou pela regra geral de 60% + 2%.
 
@@ -287,7 +287,7 @@ O STF, em decisão concluída em 18/12/2025, declarou constitucional a regra ger
 O marco temporal para a aplicação do regime de cálculo é a Data de Início da Incapacidade (DII), e não a data do requerimento administrativo ou da concessão judicial. Se a DII é anterior a 13/11/2019 (exclusive), aplica-se o regime anterior (100% do salário de benefício). Se a DII é em 13/11/2019 (inclusive) ou posterior, aplica-se o novo regime (60% + 2% por ano). Nas ações em curso, a fixação da DII pelo perito judicial é determinante para o regime de cálculo aplicável. O advogado deve estar atento a essa questão e, se necessário, requerer esclarecimentos ao perito sobre a data precisa de início da incapacidade.
 :::
 
-#### 6.7.4 Acréscimo de 25% — Grande Invalidez
+#### 6.7.4 Acréscimo de 25% — grande invalidez
 
 O art. 45 da Lei 8.213/91 prevê que "o valor da aposentadoria por incapacidade permanente do segurado que necessitar da assistência permanente de outra pessoa será acrescido de 25% (vinte e cinco por cento)". Esse acréscimo, conhecido como "grande invalidez" ou "auxílio-acompanhante", destina-se a compensar os custos adicionais decorrentes da necessidade de cuidador permanente. O acréscimo pode ser concedido a qualquer tempo, mediante requerimento do segurado e verificação da necessidade por perícia médica.
 
@@ -300,11 +300,11 @@ A grande controvérsia sobre o adicional de 25% dizia respeito à possibilidade 
 A tensão entre o Tema 982/STJ e o Tema 1.095/STF ilustra o diálogo entre cortes no sistema previdenciário brasileiro. O STJ, adotando interpretação extensiva e protetiva, entendeu que a necessidade de assistência permanente, independentemente da modalidade de aposentadoria, justificaria o acréscimo. O STF acolheu argumento de reserva legal: a criação ou ampliação de benefícios previdenciários exige lei formal, nos termos do art. 195, § 5º, da Constituição. A superação do óbice apontado pelo STF depende, portanto, de inovação legislativa — e tramitam no Congresso Nacional proposições que visam positivar a extensão do adicional de 25% a todas as modalidades de aposentadoria. Enquanto não sobrevier lei nesse sentido, o acréscimo permanece restrito à aposentadoria por incapacidade permanente.
 :::
 
-### 6.8 Conversão, Revisão e Cessação
+### 6.8 Conversão, revisão e cessação
 
 A aposentadoria por incapacidade permanente não é, como visto, benefício necessariamente definitivo. A legislação prevê mecanismos de conversão (de auxílio por incapacidade temporária em aposentadoria), revisão periódica do estado incapacitante e cessação quando o segurado recupera a capacidade laborativa.
 
-#### 6.8.1 Conversão do Auxílio por Incapacidade Temporária
+#### 6.8.1 Conversão do auxílio por incapacidade temporária
 
 A conversão do auxílio por incapacidade temporária em aposentadoria por incapacidade permanente ocorre quando se verifica que a incapacidade, inicialmente temporária, é na verdade permanente e insusceptível de reabilitação. O art. 62 da Lei 8.213/91 prevê que o segurado em gozo de auxílio por incapacidade temporária que for considerado insusceptível de recuperação para sua atividade habitual deverá ser encaminhado ao Programa de Reabilitação Profissional; se a reabilitação não for viável, a conversão em aposentadoria por incapacidade permanente é consequência que se impõe por interpretação sistemática.
 
@@ -312,7 +312,7 @@ Na prática administrativa, a conversão depende de conclusão de perícia médi
 
 O chamado "limbo previdenciário" — situação em que o INSS cessa o auxílio por incapacidade temporária por considerar o segurado apto, mas o empregador não o readmite por considerá-lo inapto — constitui problema recorrente nos JEFs. O segurado fica sem renda de qualquer fonte: não recebe benefício do INSS e não recebe salário do empregador. Nessa hipótese, a jurisprudência tem admitido o restabelecimento do benefício ou, quando a incapacidade for permanente, a concessão direta da aposentadoria.
 
-#### 6.8.2 Revisão Periódica (Art. 101) e o "Pente-Fino"
+#### 6.8.2 Revisão periódica (art. 101) e o "pente-fino"
 
 O art. 101 da Lei 8.213/91, cuja redação vigente resulta da Lei 13.457/2017 (que converteu a MP 767/2017 e consolidou as alterações supervenientes ao texto originário), impõe ao aposentado por incapacidade permanente a obrigação de submeter-se a exame médico-pericial periódico, sob pena de suspensão do benefício. A finalidade é verificar se persiste a condição de incapacidade que motivou a concessão. A chamada operação "pente-fino" do INSS, programa de revisão em massa de benefícios por incapacidade, fundamenta-se nesse dispositivo.
 
@@ -322,7 +322,7 @@ Se a perícia médica concluir que a incapacidade permanente é irreversível ou
 
 A operação "pente-fino", implementada pelo INSS a partir de 2016, resultou na cessação de milhares de benefícios por incapacidade em todo o país. O volume de cessações gerou expressivo aumento de demandas nos JEFs por parte de segurados que tiveram seus benefícios cancelados. A jurisprudência tem sido criteriosa na análise desses casos, exigindo que o INSS demonstre a efetiva recuperação da capacidade laborativa, e não apenas a ausência de comparecimento do segurado à perícia de revisão — que pode decorrer de fatores alheios à sua vontade, como dificuldade de locomoção, desconhecimento da convocação ou impossibilidade de acesso à agência previdenciária.
 
-#### 6.8.3 Cessação e Retorno ao Trabalho
+#### 6.8.3 Cessação e retorno ao trabalho
 
 A cessação da aposentadoria por incapacidade permanente ocorre quando o segurado recupera a capacidade laborativa, verificada mediante perícia médica (art. 46 da Lei 8.213/91). O legislador, contudo, previu mecanismos de transição para proteger o segurado que retorna ao trabalho.
 
@@ -332,17 +332,17 @@ Essas regras de transição visam evitar a cessação abrupta do benefício, rec
 
 Note-se que os critérios etários de isenção do exame pericial periódico (55 anos + 15 anos de benefício; ou 60 anos de idade) estão previstos no art. 101, § 1º, da Lei 8.213/91, e não no art. 47, que trata exclusivamente das regras de cessação gradativa.
 
-### 6.9 Aposentadoria por Incapacidade Permanente Acidentária
+### 6.9 Aposentadoria por incapacidade permanente acidentária
 
 A aposentadoria por incapacidade permanente pode ter natureza previdenciária (quando decorrente de doença comum) ou acidentária (quando decorrente de acidente de trabalho, doença profissional ou doença do trabalho). A distinção possui relevância prática em múltiplas dimensões: carência, cálculo do benefício, responsabilidade tributária, estabilidade provisória e competência jurisdicional.
 
-#### 6.9.1 Distinção da Aposentadoria Previdenciária
+#### 6.9.1 Distinção da aposentadoria previdenciária
 
 A aposentadoria por incapacidade permanente acidentária difere da previdenciária em aspectos essenciais. A carência é dispensada (art. 26, II, Lei 8.213/91; v. Cap. 3, seção 3.3.2, para o detalhamento das hipóteses de dispensa). O cálculo da renda mensal é mais favorável: a EC 103/2019 manteve a integralidade (100% do salário de benefício) para a aposentadoria por incapacidade permanente decorrente de acidente de trabalho, doença profissional e doença do trabalho (art. 26, § 3º, II, da EC 103/2019). O empregado que sofre acidente de trabalho tem garantida a estabilidade provisória de doze meses após a cessação do auxílio por incapacidade temporária acidentário (art. 118 da Lei 8.213/91).
 
 Para a caracterização do benefício como acidentário, é necessário demonstrar o nexo causal entre a incapacidade e o trabalho. O nexo pode ser estabelecido por três vias: (i) a Comunicação de Acidente de Trabalho (CAT), emitida pela empresa; (ii) a investigação pela perícia médica do INSS; ou (iii) o Nexo Técnico Epidemiológico Previdenciário (NTEP).
 
-#### 6.9.2 Nexo Técnico Epidemiológico (NTEP)
+#### 6.9.2 Nexo técnico epidemiológico (NTEP)
 
 O Nexo Técnico Epidemiológico Previdenciário, instituído pela Lei n. 11.430, de 26 de dezembro de 2006, e regulamentado pelo Decreto 6.042/2007, constitui instrumento de presunção relativa do nexo causal entre a doença e o trabalho. O NTEP opera a partir da correlação estatística entre o código da doença (CID-10) e o código da atividade econômica do empregador (CNAE): quando a doença do segurado consta na lista do NTEP como estatisticamente associada à atividade econômica da empresa, presume-se que a incapacidade tem origem ocupacional.
 
@@ -352,21 +352,21 @@ O STF declarou constitucional o NTEP, reconhecendo que a presunção relativa de
 
 Na prática dos JEFs, a questão do nexo causal assume relevância quando o INSS concede benefício por incapacidade na espécie previdenciária (B31/B32), mas o segurado sustenta que a incapacidade tem origem ocupacional e pleiteia o enquadramento como acidentário (B91/B92). A conversão da espécie beneficiária pode ser pleiteada judicialmente, com impactos retroativos na estabilidade provisória, nos depósitos de FGTS durante o afastamento e, após a EC 103/2019, no cálculo da renda mensal (100% vs. 60% + 2% por ano).
 
-#### 6.9.3 Cálculo: Integralidade Mantida
+#### 6.9.3 Cálculo: integralidade mantida
 
 A EC 103/2019, ao alterar o cálculo da aposentadoria por incapacidade permanente previdenciária (de 100% para 60% + 2% por ano), manteve expressamente a integralidade para a aposentadoria por incapacidade permanente acidentária. O art. 26, § 3º, II, da EC 103/2019 dispõe que a aposentadoria por incapacidade permanente "será de 100% quando decorrer de acidente de trabalho, de doença profissional e de doença do trabalho".
 
-Essa distinção de tratamento entre a incapacidade previdenciária e a acidentária reflete a especial proteção constitucional conferida ao trabalhador que sofre infortúnio laboral (HORVATH JÚNIOR, 2025). O risco profissional, a exposição a perigos inerentes à atividade econômica, justifica regime mais favorável, tanto na dispensa de carência quanto na integralidade do cálculo.
+Essa distinção de tratamento entre a incapacidade previdenciária e a acidentária reflete a especial proteção constitucional conferida ao trabalhador que sofre infortúnio laboral (Horvath Júnior, 2025). O risco profissional, a exposição a perigos inerentes à atividade econômica, justifica regime mais favorável, tanto na dispensa de carência quanto na integralidade do cálculo.
 
-### 6.10 Questões Controvertidas
+### 6.10 Questões controvertidas
 
-#### 6.10.1 Cumulação com Auxílio-Acidente
+#### 6.10.1 Cumulação com auxílio-acidente
 
 O auxílio-acidente (art. 86 da Lei 8.213/91) é benefício de natureza indenizatória, devido ao segurado que, após a consolidação de lesão decorrente de acidente de qualquer natureza, apresente sequela que reduza sua capacidade para o trabalho habitualmente exercido. A questão da cumulação do auxílio-acidente com a aposentadoria por incapacidade permanente é resolvida pelo art. 86, § 2º: o auxílio-acidente é incorporado ao salário de contribuição e, quando da concessão de qualquer aposentadoria, integra o cálculo do salário de benefício. Após a concessão da aposentadoria, o auxílio-acidente cessa.
 
 A regra é lógica: se o segurado recebia auxílio-acidente (indenização pela redução de capacidade) e posteriormente se aposenta (por qualquer modalidade), o auxílio-acidente perde a razão de ser — a aposentadoria substitui a remuneração do trabalho, e o auxílio-acidente somente faz sentido enquanto o segurado está em atividade. A incorporação ao salário de contribuição assegura que o período de recebimento do auxílio-acidente não prejudique o cálculo da aposentadoria.
 
-#### 6.10.2 Aposentadoria por Incapacidade e BPC
+#### 6.10.2 Aposentadoria por incapacidade e BPC
 
 Quando o segurado não preenche os requisitos para a aposentadoria por incapacidade permanente (por falta de qualidade de segurado, carência ou outro motivo), pode fazer jus ao Benefício de Prestação Continuada — BPC (art. 20, Lei 8.742/93). A jurisprudência admite a fungibilidade entre os pedidos (Súmula 77/TNU, em leitura conjunta com a Súmula 47). A Súmula 77 estabelece: "O julgador não é obrigado a analisar as condições pessoais e sociais quando não reconhecer a incapacidade do requerente para a sua atividade habitual". A interpretação conjunta com a Súmula 47 revela que, reconhecida a incapacidade ao menos parcial, o juiz deve analisar as condições pessoais; não reconhecida sequer a incapacidade parcial, não há obrigação de análise socioeconômica para fins de aposentadoria — mas pode haver para fins de BPC.
 
@@ -376,7 +376,7 @@ A fungibilidade, contudo, encontra limites processuais que o julgador não pode 
 
 A distinção prática é relevante: a aposentadoria é contributiva, gera pensão por morte e admite adicional de 25%; o BPC é assistencial, de um salário mínimo, intransferível. O conceito amplo de deficiência adotado pela Lei 13.146/2015 (modelo biopsicossocial — v. seção 6.3.5, supra) e a avaliação multiprofissional para fins de BPC são tratados no Capítulo 18.
 
-#### 6.10.3 Reabilitação Profissional e o Benefício de Última Ratio
+#### 6.10.3 Reabilitação profissional e o benefício de última ratio
 
 A aposentadoria por incapacidade permanente é, no desenho legislativo, benefício de última ratio — somente concedida quando esgotadas as possibilidades de reabilitação profissional. O Programa de Reabilitação Profissional do INSS (arts. 89 a 93 da Lei 8.213/91) tem por finalidade proporcionar ao segurado incapaz para o trabalho habitual meios para a readaptação profissional.
 
@@ -389,7 +389,7 @@ O art. 62 da Lei 8.213/91, ao prever que o segurado insusceptível de recuperaç
 Quando o perito judicial conclui pela incapacidade parcial e permanente com possibilidade de reabilitação, o magistrado deve avaliar concretamente a viabilidade da reabilitação à luz das condições pessoais do segurado. Se o segurado tem mais de 50 anos, baixa escolaridade e experiência exclusiva em atividade braçal, a reabilitação para atividade intelectual ou sedentária é, na maioria dos casos, irrealista. Nesses casos, a Súmula 47 da TNU autoriza a concessão da aposentadoria por incapacidade permanente sem exigência de submissão prévia ao programa de reabilitação. Inversamente, se o segurado é jovem, possui escolaridade média ou superior e pode ser readaptado para atividade compatível com suas limitações, o encaminhamento ao Programa de Reabilitação Profissional é medida mais adequada do que a concessão imediata da aposentadoria.
 :::
 
-#### 6.10.4 Alta Programada e Limbo Previdenciário
+#### 6.10.4 Alta programada e limbo previdenciário
 
 A alta programada — sistema pelo qual o INSS fixa antecipadamente a data de cessação do auxílio por incapacidade temporária, sem nova perícia médica — gerou intenso debate jurídico. A Lei 13.457/2017 (conversão da MP 767/2017) regulamentou o COPES (Cobertura Previdenciária Estimada), sistema que fixa o prazo estimado de recuperação com base em critérios técnicos e estatísticos. O segurado que permanece incapaz na data da alta programada pode requerer prorrogação (pedido de reconsideração), a ser apreciado mediante nova perícia.
 
@@ -416,7 +416,7 @@ Sustentamos que a avaliação da incapacidade para fins previdenciários deve su
 
 O domínio da técnica de reação ao laudo adverso, a formulação adequada de quesitos periciais, a articulação entre a prova médica e as condições pessoais do segurado e o conhecimento preciso das regras de fixação da DIB constituem competências indispensáveis para a advocacia previdenciária de qualidade nos Juizados Especiais Federais.
 
-### 6.12 Referências
+### Referências
 
 #### Legislação
 

@@ -43,9 +43,9 @@ referencias:
 
 ## Capítulo 12 — Aposentadoria da Pessoa com Deficiência (LC 142/2013)
 
-### 12.1 Introdução e Fundamento Constitucional
+### 12.1 Introdução e fundamento constitucional
 
-A LC 142/2013 criou regras diferenciadas de aposentadoria para a pessoa com deficiência, reconhecendo o esforço adicional que a PcD faz para manter atividade laboral. O benefício sobreviveu integralmente à Reforma da Previdência (EC 103/2019), mantendo suas regras próprias de acesso e de cálculo por determinação expressa do art. 22 da emenda reformadora (IBRAHIM, 2025). Enquanto a aposentadoria por tempo de contribuição comum foi extinta para novos filiados e condicionada a regras de transição cada vez mais exigentes para os segurados pré-reforma (conforme examinado no Capítulo 11), a aposentadoria da pessoa com deficiência segue acessível com critérios diferenciados que refletem o reconhecimento constitucional das barreiras enfrentadas por esse grupo de segurados.
+A LC 142/2013 criou regras diferenciadas de aposentadoria para a pessoa com deficiência, reconhecendo o esforço adicional que a PcD faz para manter atividade laboral. O benefício sobreviveu integralmente à Reforma da Previdência (EC 103/2019), mantendo suas regras próprias de acesso e de cálculo por determinação expressa do art. 22 da emenda reformadora (Ibrahim, 2025). Enquanto a aposentadoria por tempo de contribuição comum foi extinta para novos filiados e condicionada a regras de transição cada vez mais exigentes para os segurados pré-reforma (conforme examinado no Capítulo 11), a aposentadoria da pessoa com deficiência segue acessível com critérios diferenciados que refletem o reconhecimento constitucional das barreiras enfrentadas por esse grupo de segurados.
 
 O fundamento constitucional encontra-se no art. 201, § 1º, da CF/88, que desde a redação originária de 1988 já previa critérios diferenciados para segurados com deficiência. A EC 47/2005 deu nova redação ao dispositivo, mantendo a previsão de critérios diferenciados para pessoas com deficiência por meio de lei complementar. A EC 103/2019 reestruturou o § 1º (criando os §§ 1º-I e 1º-II), preservando substancialmente a proteção à PcD. A ausência de regulamentação por lei complementar, contudo, deixou o dispositivo sem eficácia plena por vinte e cinco anos, período durante o qual o STF foi provocado por dezenas de mandados de injunção impetrados por segurados com deficiência que buscavam exercer o direito constitucionalmente previsto.
 
@@ -66,7 +66,7 @@ A regulamentação constitucional veio apenas em 2013, com a promulgação da Le
 
 Examinamos neste capítulo, em profundidade, a LC 142/2013, desde o conceito de deficiência para fins previdenciários até os aspectos processuais da perícia biopsicossocial nos JEFs, passando pela avaliação funcional (IF-BrA), pelos mecanismos de conversão proporcional em caso de deficiência superveniente ou alteração de grau, pela controvérsia sobre o cálculo após a EC 103/2019 e pela distinção em relação ao BPC e à aposentadoria por incapacidade. Ao longo da exposição, reunimos as ferramentas teóricas e práticas que reputamos necessárias para orientar o segurado com deficiência sobre a via mais vantajosa de proteção previdenciária — e registramos, quando a matéria comporta divergência, a posição que adotamos a partir da experiência de julgamento nos Juizados Especiais Federais.
 
-### 12.2 Evolução Legislativa: Da Omissão Legislativa ao Modelo Biopsicossocial
+### 12.2 Evolução legislativa: da omissão legislativa ao modelo biopsicossocial
 
 A trajetória normativa da aposentadoria da pessoa com deficiência no Brasil pode ser dividida em quatro fases distintas, cada qual marcada por paradigmas conceituais e marcos legislativos próprios.
 
@@ -86,7 +86,7 @@ A regulamentação veio pelo Decreto n. 8.145, de 3 de dezembro de 2013, que ins
 
 A Lei n. 13.146/2015 (Estatuto da Pessoa com Deficiência) reforçou o paradigma da CDPD, consolidando na legislação infraconstitucional o conceito funcional de deficiência (para detalhamento do conceito, v. seção 12.3 adiante). No mesmo período, a jurisprudência dos TRFs e da TNU consolidou parâmetros de aplicação da LC 142, enfrentando questões como a definição da data de início da deficiência, a valoração da perícia biopsicossocial e a fungibilidade entre benefícios previdenciários e assistenciais (TNU Tema 217).
 
-#### 12.2.4 Quarta fase: manutenção pós-Reforma (2019-presente)
+#### 12.2.4 Quarta fase: manutenção pós-reforma (2019-presente)
 
 A EC 103/2019 (Reforma da Previdência) extinguiu a aposentadoria por tempo de contribuição para novos filiados e alterou profundamente o cálculo dos benefícios previdenciários. Contudo, o art. 22 da emenda determinou expressamente que a aposentadoria da pessoa com deficiência seguiria regida pela LC 142/2013, "inclusive quanto aos critérios de cálculo", até que nova lei complementar discipline a matéria. Essa previsão faz da aposentadoria da PcD o único benefício por tempo de contribuição que preserva integralmente suas regras originais de acesso e cálculo após a Reforma.
 
@@ -103,7 +103,7 @@ A EC 103/2019 (Reforma da Previdência) extinguiu a aposentadoria por tempo de c
 | 2019 | EC 103/2019, art. 22 | Manutenção integral da LC 142 pós-Reforma |
 | 2021 | Lei 14.126/2021 | Visão monocular classificada como deficiência sensorial |
 
-### 12.3 Conceito de Deficiência para Fins de Aposentadoria
+### 12.3 Conceito de deficiência para fins de aposentadoria
 
 O art. 2º da LC 142/2013 define pessoa com deficiência, para fins de aposentadoria no RGPS, como aquela que tem impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. A definição alinha-se ao modelo biopsicossocial da CDPD e da Lei n. 13.146/2015 (para o conceito geral do modelo e suas implicações na avaliação da deficiência, v. Cap. 6, seção 6.10.2, e Cap. 18, seções 18.5-18.7). Castro e Lazzari (2025) observam que a adoção desse modelo pela LC 142 superou definitivamente o critério puramente médico.
 
@@ -161,7 +161,7 @@ Essa perspectiva tem implicações probatórias: a comprovação de que o segura
 
 A reserva de vagas para pessoas com deficiência em empresas com 100 ou mais empregados é prevista pelo art. 93 da Lei n. 8.213/91, que fixa a escala progressiva de cotas de 2% a 5% conforme o porte da empresa (2% de 100 a 200 empregados; 3% de 201 a 500; 4% de 501 a 1.000; 5% acima de 1.000). O Estatuto da PcD (Lei n. 13.146/2015) reforça, em plano principiológico, o direito ao trabalho da pessoa com deficiência, mas é o art. 93 da Lei n. 8.213/91 que estabelece a escala numérica das cotas. O segurado que ocupa vaga reservada e contribui regularmente está construindo tempo de contribuição para a aposentadoria da PcD — e o fato de ocupar vaga de cota reforça a comprovação da deficiência para fins previdenciários, embora os critérios de classificação para cotas (Decreto n. 3.298/99, Decreto n. 5.296/2004) não sejam idênticos aos do IF-BrA.
 
-### 12.4 Graus de Deficiência: Leve, Moderada e Grave
+### 12.4 Graus de deficiência: leve, moderada e grave
 
 A LC 142/2013, em seu art. 3º, incisos I a III, estabelece três graus de deficiência, grave, moderada e leve, cada qual com um tempo de contribuição diferenciado. O art. 5º determina que o grau será atestado por perícia própria do INSS, e o art. 4º remete ao regulamento para definição dos critérios de classificação.
 
@@ -232,7 +232,7 @@ O art. 70-A do Decreto 3.048/99 (incluído pelo Decreto 8.145/2013) introduz o c
 
 Por exemplo: se um segurado homem contribuiu 10 anos com deficiência grave, 15 anos com deficiência moderada e 5 anos sem deficiência, o grau preponderante é moderado (15 anos — maior período). O TC mínimo exigido será, portanto, 29 anos (TC da deficiência moderada para homem), e os períodos sob outros graus serão convertidos proporcionalmente para o parâmetro moderado.
 
-### 12.5 Aposentadoria por Tempo de Contribuição da Pessoa com Deficiência
+### 12.5 Aposentadoria por tempo de contribuição da pessoa com deficiência
 
 A aposentadoria por tempo de contribuição da PcD é a modalidade principal e mais vantajosa da LC 142/2013, correspondendo aos incisos I a III do art. 3º. Os requisitos são cumulativos:
 
@@ -276,7 +276,7 @@ Se Carlos fosse segurado sem deficiência e tivesse 29 anos de TC, não teria di
 **Vantagem da LC 142:** acesso 6 anos mais cedo + coeficiente 100% + sem fator previdenciário obrigatório.
 :::
 
-#### 12.5.2 Comparativo detalhado com as regras de transição do Capítulo 11
+#### 12.5.2 Comparativo detalhado com as regras de transição do capítulo 11
 
 Para dimensionar a vantagem da aposentadoria por TC da PcD, é útil comparar os requisitos e o cálculo com as regras de transição do Capítulo 11, que regem a aposentadoria por TC dos segurados sem deficiência filiados antes da EC 103/2019:
 
@@ -293,7 +293,7 @@ A tabela revela que a aposentadoria por TC da PcD supera todas as regras de tran
 
 Para o segurado com deficiência que tem direito adquirido a alguma regra de transição (porque atingiu os requisitos antes do reconhecimento da deficiência, por exemplo), a análise comparativa deve ser feita caso a caso, considerando o valor efetivo da RMI em cada cenário.
 
-#### 12.5.3 Controvérsia sobre o cálculo pós-EC 103/2019
+#### 12.5.3 Controvérsia sobre o cálculo pós-ec 103/2019
 
 A principal controvérsia relativa à aposentadoria da PcD após a Reforma diz respeito à aplicação do art. 26 da EC 103/2019. O INSS, em leitura literal, chegou a adotar a regra geral do art. 26 (média de 100% dos SC com coeficiente de 60% + 2% por ano excedente) para o cálculo da aposentadoria por TC da PcD, desconsiderando o coeficiente de 100% previsto no art. 8º, I, da LC 142/2013.
 
@@ -311,7 +311,7 @@ TRF3: a manutenção da LC 142/2013 pelo art. 22 da EC 103/2019 abrange tanto os
 Resta, ainda, definir a base de cálculo: se a média deve incidir sobre os 80% maiores SC (sistemática da Lei 8.213/91, vigente quando da edição da LC 142) ou sobre 100% dos SC (regra do art. 26, caput, EC 103). A doutrina dominante firma a tese — que adotamos — de que o art. 22 preserva o COEFICIENTE da LC 142 (100% do SB para TC; 70% + 1% por grupo de 12 contribuições para idade), mas a BASE de cálculo é a do art. 26 da EC 103: média de 100% dos SC, com possibilidade de exclusão das contribuições prejudiciais (art. 26, § 6º). Não se trata de regra mais restritiva: a média de 100% dos SC, conjugada à faculdade de descarte, costuma ser neutra ou favorável ao segurado, de modo que a cláusula de garantia do art. 6º da LC 142 raramente é acionada nesse ponto.
 :::
 
-### 12.6 Aposentadoria por Idade da Pessoa com Deficiência
+### 12.6 Aposentadoria por idade da pessoa com deficiência
 
 A aposentadoria por idade da PcD, prevista no art. 3º, IV, da LC 142/2013, constitui alternativa para o segurado com deficiência que não possui TC suficiente para a modalidade do art. 3º, I-III, mas já atingiu a idade mínima reduzida.
 
@@ -393,7 +393,7 @@ O art. 6º da LC 142 estabelece garantia importante: a aplicação da LC 142 nã
 
 Na prática, a situação é rara — o coeficiente da LC 142 (70% + 1% por grupo de 12 contribuições) tende a ser mais favorável que o da regra permanente (60% + 2%) para a maioria dos segurados, especialmente os que têm entre 15 e 25 anos de TC. Contudo, para segurados com TC muito elevado (acima de 30 anos), a regra permanente pode eventualmente ser mais favorável, caso em que o art. 6º assegura a aplicação do cálculo mais benéfico.
 
-### 12.7 Deficiência Superveniente e Conversão Proporcional
+### 12.7 Deficiência superveniente e conversão proporcional
 
 O art. 7º da LC 142/2013 disciplina a situação do segurado que adquire deficiência após a filiação ao RGPS ou que tem o grau de deficiência alterado ao longo de sua vida laboral. Nesses casos, os parâmetros de TC são proporcionalmente ajustados mediante conversão dos períodos sob cada condição (sem deficiência, deficiência leve, moderada ou grave).
 
@@ -465,7 +465,7 @@ Os fatores de conversão da LC 142/2013 (art. 70-E, Decreto 3.048/99) são DIFER
 - **Vedação de cumulação:** o art. 70-F do Decreto 3.048/99 veda expressamente a cumulação de ambas as reduções no mesmo período contributivo. O segurado PcD que exerceu atividade especial deve optar pela via mais vantajosa.
 :::
 
-### 12.8 Alteração do Grau de Deficiência
+### 12.8 Alteração do grau de deficiência
 
 O art. 7º da LC 142 contempla também a hipótese de alteração do grau de deficiência ao longo da vida laboral, seja por melhora (por exemplo, evolução tecnológica de próteses, acesso a tratamento) ou por piora (progressão de doença, perda funcional adicional). Nesses casos, cada período é contado conforme o grau vigente à época e convertido proporcionalmente para o grau preponderante, utilizando os mesmos fatores de conversão do art. 70-E.
 
@@ -518,7 +518,7 @@ O advogado previdenciarista deve monitorar eventuais projetos legislativos que p
 O entendimento dos TRFs é uniforme no sentido de que o art. 22 da EC 103/2019 preserva integralmente a LC 142/2013 para a aposentadoria da PcD, inclusive o coeficiente de cálculo (100% do SB para TC; 70% + 1% por grupo de 12 contribuições para idade), afastando a aplicação do art. 26 da EC 103 (60% + 2%). Quanto à base de cálculo, firma-se com segurança a tese — que sufragamos — de que o art. 22 preserva o COEFICIENTE da LC 142, mas adota a BASE do art. 26: média de 100% dos SC, com faculdade de exclusão das contribuições prejudiciais (art. 26, § 6º, EC 103). Essa solução é hoje a dominante e não desfavorece o segurado: a média de 100% conjugada ao descarte das contribuições baixas costuma ser neutra ou benéfica, e a cláusula de garantia do art. 6º da LC 142 protege os casos residuais em que a sistemática anterior (80% maiores SC) seria mais vantajosa.
 :::
 
-### 12.10 Fator Previdenciário na Aposentadoria da PcD
+### 12.10 Fator previdenciário na aposentadoria da PcD
 
 O art. 9º, I, da LC 142/2013 estabelece regra peculiar sobre o fator previdenciário: ele é aplicável somente se resultar em renda mensal de valor superior, ou seja, somente quando for vantajoso para o segurado. Essa disposição inverte a lógica que prevalecia na aposentadoria por TC comum antes da EC 103/2019 (quando o fator era obrigatório e, na grande maioria dos casos, reduzia o valor do benefício) e que permanece nas regras de transição do pedágio 50% e do direito adquirido pré-reforma (conforme detalhado na seção 11.8 do Capítulo 11).
 
@@ -553,7 +553,7 @@ O bônus de 5 anos no TC da fórmula do fator previdenciário para mulheres apli
 Não há, contudo, bônus específico de PcD no fator previdenciário — diferentemente do professor, que conta com acréscimo de 5 ou 10 anos. A justificativa é que o benefício da PcD já contempla redução direta do TC mínimo (de 2 a 10 anos conforme o grau), tornando desnecessário um bônus adicional no fator.
 
 
-### 12.11 Avaliação Biopsicossocial: Perícia Médica e Funcional
+### 12.11 Avaliação biopsicossocial: perícia médica e funcional
 
 A avaliação biopsicossocial é o núcleo operacional da LC 142/2013: é o procedimento que traduz o conceito abstrato de deficiência em um grau concreto (grave, moderada ou leve) que determina os requisitos de acesso à aposentadoria. O art. 4º da LC 142, combinado com o art. 2º, § 1º, da Lei n. 13.146/2015, estabelece que a avaliação deve ser médica e funcional, realizada por equipe multiprofissional e interdisciplinar.
 
@@ -650,7 +650,7 @@ A Lei n. 13.146/2015 (Estatuto da PcD) e a CDPD impõem ao poder público o deve
 
 O descumprimento desses deveres de acessibilidade pode ser impugnado administrativamente (ouvidoria do INSS) ou judicialmente (mandado de segurança para garantir avaliação acessível e em prazo razoável).
 
-### 12.12 Prova da Deficiência no Processo Judicial
+### 12.12 Prova da deficiência no processo judicial
 
 A comprovação da deficiência em juízo é uma das questões mais complexas da aposentadoria da PcD, envolvendo múltiplos meios de prova e uma dinâmica processual peculiar nos JEFs.
 
@@ -720,7 +720,7 @@ TRF4: a perícia biopsicossocial é meio de prova indispensável para a aferiç�
 TNU: a perícia biopsicossocial para fins da LC 142/2013 deve avaliar tanto os aspectos médicos (estrutura e função corporal) quanto os sociais (barreiras e limitação de participação), nos termos da CDPD e da Lei 13.146/2015; a omissão da avaliação social compromete a validade da perícia (TNU, PEDILEF 0502831-39.2017.4.05.8300).
 :::
 
-### 12.13 Visão Monocular e Deficiência
+### 12.13 Visão monocular e deficiência
 
 A Lei n. 14.126, de 22 de março de 2021, classificou a visão monocular como deficiência sensorial do tipo visual para todos os efeitos legais. Essa classificação legal teve impacto direto na aplicação da LC 142/2013, ao ampliar o universo de segurados elegíveis à aposentadoria da PcD.
 
@@ -761,7 +761,7 @@ Após a Lei 14.126/2021, não há dúvida de que a visão monocular é deficiên
 - O advogado deve preparar a prova para demonstrar o impacto funcional concreto da visão monocular na vida do segurado, independentemente da posição do tribunal competente.
 :::
 
-### 12.14 Distinção BPC × Aposentadoria PcD: Qual Pedir?
+### 12.14 Distinção BPC × aposentadoria PcD: qual pedir?
 
 A distinção entre o BPC/LOAS e a aposentadoria da PcD (LC 142/2013) é decisiva para a orientação do cliente nos JEFs. Ambos os benefícios atendem pessoas com deficiência, mas com naturezas e consequências distintas (para o tratamento completo do BPC, v. Cap. 18).
 
@@ -833,7 +833,7 @@ O segurado que se aposenta pela LC 142 e falece gera direito à pensão por mort
 Essa diferença deve ser informada ao cliente de forma clara, especialmente quando o segurado com deficiência tem filhos menores ou cônjuge dependente economicamente. A aposentadoria da PcD, mesmo com valor mensal similar ao BPC, oferece proteção previdenciária que o BPC não oferece.
 :::
 
-#### 12.14.3 Fungibilidade: TNU Tema 217
+#### 12.14.3 Fungibilidade: TNU tema 217
 
 O Tema 217 da TNU consagrou o princípio da fungibilidade entre benefícios previdenciários e assistenciais. A tese firmada reconhece que há fungibilidade entre o BPC/LOAS e os benefícios por incapacidade (auxílio por incapacidade temporária e aposentadoria por incapacidade permanente), permitindo que o juiz conheça de um deles mesmo que o requerimento administrativo verse sobre outro, desde que preenchidos os requisitos legais e garantido o contraditório.
 
@@ -859,7 +859,7 @@ A escolha entre BPC e aposentadoria da PcD tem impacto patrimonial que ultrapass
 
 A diferença anual (R$ 26.048,00) e a proteção dos dependentes (pensão por morte vs. nenhuma proteção) tornam a aposentadoria da PcD mais vantajosa, por margem considerável, quando o segurado tem contribuições suficientes. A informação ao cliente deve ser clara e incluir a análise do impacto sobre dependentes, especialmente filhos menores.
 
-### 12.15 Distinção Aposentadoria PcD × Aposentadoria por Incapacidade
+### 12.15 Distinção aposentadoria PcD × aposentadoria por incapacidade
 
 Deficiência pressupõe que o segurado trabalha; incapacidade pressupõe que não pode trabalhar. A confusão entre os dois conceitos leva a erros de enquadramento tanto no INSS (que por vezes encaminha a pessoa com deficiência para perícia de incapacidade) quanto em juízo (onde a petição inicial pode confundir os fundamentos dos dois benefícios).
 
@@ -934,7 +934,7 @@ TRF4: verificada a existência de incapacidade laboral total e permanente, é po
 TRF3: embora o segurado tenha requerido aposentadoria por incapacidade, a perícia judicial constatou impedimentos funcionais de longo prazo configuradores de deficiência moderada, sem incapacidade laboral total; cabível a concessão da aposentadoria da pessoa com deficiência (LC 142/2013) em substituição ao benefício por incapacidade, por fungibilidade (TRF3, ApCiv 5010782-31.2019.4.03.6105).
 :::
 
-### 12.16 Aspectos Processuais nos JEFs
+### 12.16 Aspectos processuais nos JEFs
 
 A aposentadoria da PcD nos Juizados Especiais Federais apresenta peculiaridades processuais que o advogado deve conhecer para uma atuação eficaz.
 
@@ -1037,7 +1037,7 @@ A Turma Recursal, ao analisar o recurso, pode: manter a sentença, reformá-la t
 - [ ] Verificação de fator previdenciário (se vantajoso)
 :::
 
-### 12.17 Questões Especiais e Casos de Fronteira
+### 12.17 Questões especiais e casos de fronteira
 
 A aplicação da LC 142/2013 suscita questões especiais que transcendem os cenários típicos de aposentadoria da PcD. Reunimos a seguir as situações de fronteira que, na nossa experiência, mais frequentemente desafiam o intérprete por exigirem a leitura combinada da LC 142 com outras camadas do sistema — a aposentadoria especial, as regras de custeio do contribuinte individual e do MEI, a contagem recíproca e o regime de acumulação. O fio que costura todas elas é o mesmo: a LC 142 não é um microssistema isolado, e seu art. 70-I (Decreto 3.048/99) determina a aplicação subsidiária das demais normas do RGPS, de modo que cada caso de fronteira se resolve menos por regra específica e mais pela articulação coerente de princípios já conhecidos.
 
@@ -1158,7 +1158,7 @@ A análise comparativa deve ser documentada e apresentada ao cliente de forma cl
 8. **Não verificar se o fator previdenciário é vantajoso:** Em raros casos, segurados PcD com TC muito superior ao mínimo e idade avançada podem ter fator > 1,0. A não verificação implica perda de valor.
 :::
 
-### 12.18 Síntese e Tabelas de Consulta Rápida
+### 12.18 Síntese e tabelas de consulta rápida
 
 Examinamos, ao longo deste capítulo, a aposentadoria da pessoa com deficiência no RGPS, regulada pela LC 142/2013, desde seu fundamento constitucional até os aspectos processuais nos JEFs. Reunimos a seguir as tabelas e ferramentas de consulta rápida que sintetizam os pontos essenciais e que pretendem servir de roteiro objetivo para a atuação cotidiana.
 
@@ -1197,7 +1197,7 @@ Examinamos, ao longo deste capítulo, a aposentadoria da pessoa com deficiência
 
 **Leitura da tabela (idêntica à da seção 12.7.2):** para converter tempo cumprido sob a condição da LINHA (origem) para a condição da COLUNA (destino), multiplique o tempo pelo fator correspondente. Exemplo: 10 anos cumpridos com deficiência leve (linha), convertidos para o parâmetro moderada (coluna) = 10 × 0,88 = 8,80 anos.
 
-#### 12.18.3 Comparativo triplo: Aposentadoria PcD × BPC × Aposentadoria por incapacidade
+#### 12.18.3 Comparativo triplo: aposentadoria PcD × BPC × aposentadoria por incapacidade
 
 | Aspecto | Aposentadoria PcD (LC 142) | BPC/LOAS (Cap. 18) | Apos. por incapacidade (Cap. 6) |
 |---------|---------------------------|---------------------|-------------------------------|
@@ -1303,9 +1303,9 @@ A atuação eficaz nas ações de aposentadoria da PcD exige domínio não apena
 Encerramos com uma convicção que a prática nos JEFs reforça a cada julgamento: o eixo de toda a LC 142 é a distinção entre deficiência e incapacidade — entre tutelar quem trabalha apesar das barreiras e tutelar quem já não pode trabalhar. Tratamos, ao longo deste capítulo, dos institutos, dos cálculos e dos procedimentos; mas é dessa distinção elementar, mais do que de qualquer tabela de conversão, que depende o acerto da decisão. Tê-la sempre presente é, a nosso ver, a melhor garantia de que o benefício alcance exatamente quem a Constituição quis proteger.
 
 
-### 12.19 Referências
+### Referências
 
-#### 12.19.1 Legislação
+#### Legislação
 
 - Constituição Federal de 1988 (art. 201, § 1º, redação EC 47/2005 e EC 103/2019).
 - LC n. 142, de 8 de maio de 2013 (arts. 1 a 10).
@@ -1317,14 +1317,14 @@ Encerramos com uma convicção que a prática nos JEFs reforça a cada julgament
 - Decreto n. 3.048, de 6 de maio de 1999 (arts. 70-A a 70-J).
 - Portaria Interministerial AGU/MPS/MF/SEDH/MP n. 1/2014 (IF-BrA).
 
-#### 12.19.2 Jurisprudência
+#### Jurisprudência
 
 - STF, Mandados de Injunção (MI 1.967, MI 1.886, MI 3.357) — mora legislativa na regulamentação do art. 201, § 1º.
 - STF, Tema 350 (RE 631.240) — prévio requerimento administrativo.
 - STJ, Tema 995 (REsp 1.727.069/SP e REsp 1.727.063/SP), reafirmação da DER.
 - TNU, Tema 217, fungibilidade entre BPC/LOAS e benefícios por incapacidade.
 
-#### 12.19.3 Doutrina
+#### Doutrina
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 27. ed. Niterói: Impetus, 2025.

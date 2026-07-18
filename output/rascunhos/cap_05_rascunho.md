@@ -40,9 +40,9 @@ referencias:
 
 ## Capítulo 5 — Reconhecimento, Cômputo e Averbação de Tempo de Contribuição
 
-### 5.1 Introdução: A Centralidade do Tempo de Contribuição no Direito Previdenciário
+### 5.1 Introdução: a centralidade do tempo de contribuição no direito previdenciário
 
-O tempo de contribuição constitui o eixo gravitacional do sistema previdenciário brasileiro (CASTRO; LAZZARI, 2025; IBRAHIM, 2025). Sua correta apuração determina não apenas o direito à aposentadoria, mas também o valor do benefício, a aplicação das regras de transição e a possibilidade de acumulação de tempo em regimes distintos. Para o advogado que atua nos Juizados Especiais Federais, compreender os mecanismos de reconhecimento, cômputo e averbação é pressuposto de qualquer estratégia previdenciária eficaz.
+O tempo de contribuição constitui o eixo gravitacional do sistema previdenciário brasileiro (Castro; Lazzari, 2025; Ibrahim, 2025). Sua correta apuração determina não apenas o direito à aposentadoria, mas também o valor do benefício, a aplicação das regras de transição e a possibilidade de acumulação de tempo em regimes distintos. Para o advogado que atua nos Juizados Especiais Federais, compreender os mecanismos de reconhecimento, cômputo e averbação é pressuposto de qualquer estratégia previdenciária eficaz.
 
 A EC 103/2019 elevou a importância do tempo de contribuição ao convertê-lo em requisito cumulativo com a idade mínima para todas as modalidades de aposentadoria programada. Antes da Reforma, a aposentadoria por tempo de contribuição prescindia de idade mínima (exceto pela incidência do fator previdenciário); após a EC 103, o tempo de contribuição opera sempre em conjugação com requisito etário, seja na regra definitiva, seja nas regras de transição. A consequência prática é que cada mês reconhecido pode ser decisivo para o enquadramento do segurado na regra mais favorável.
 
@@ -52,11 +52,11 @@ O capítulo segue ordem lógica: inicia pelo CNIS (repositório central de infor
 
 Tempo de contribuição não se confunde com carência, conforme demonstrado no Capítulo 3. Enquanto a carência exige contribuições efetivamente recolhidas em competências determinadas, o tempo de contribuição admite períodos computáveis por força de lei mesmo sem recolhimento, como é o caso paradigmático da atividade rural anterior a novembro de 1991. Da mesma forma, contribuições em atraso indenizadas na forma do art. 45-A da Lei 8.212/91 (Capítulo 4) geram tempo de contribuição, mas não contam para carência. Essa distinção permeia todo o capítulo e tem consequências decisivas na concessão de benefícios.
 
-### 5.2 CNIS: O Cadastro Nacional de Informações Sociais
+### 5.2 CNIS: o cadastro nacional de informações sociais
 
 #### 5.2.1 Natureza jurídica e força probatória
 
-O Cadastro Nacional de Informações Sociais é o repositório eletrônico que concentra os dados relativos a vínculos empregatícios, remunerações, contribuições e filiações dos segurados do RGPS (IBRAHIM, 2025). Instituído pela Lei 8.212/91 e regulamentado pelo Decreto 3.048/99, o CNIS assumiu papel central na administração previdenciária brasileira a partir de 1997, quando passou a ser alimentado sistematicamente pelo sistema de arrecadação.
+O Cadastro Nacional de Informações Sociais é o repositório eletrônico que concentra os dados relativos a vínculos empregatícios, remunerações, contribuições e filiações dos segurados do RGPS (Ibrahim, 2025). Instituído pela Lei 8.212/91 e regulamentado pelo Decreto 3.048/99, o CNIS assumiu papel central na administração previdenciária brasileira a partir de 1997, quando passou a ser alimentado sistematicamente pelo sistema de arrecadação.
 
 O art. 29-A da Lei 8.213/91 confere ao CNIS a natureza de fonte primária de informações para cálculo e concessão de benefícios. Nos termos do § 5º do mesmo dispositivo, os dados constantes do CNIS valem, para todos os efeitos, como prova de filiação à Previdência Social, tempo de contribuição e salários de contribuição. Trata-se de presunção legal de veracidade, que dispensa o segurado de apresentar documentos adicionais quando os registros do CNIS estiverem completos e regulares.
 
@@ -146,11 +146,11 @@ Para além de sua função probatória, o CNIS constitui ferramenta indispensáv
 
 O advogado previdenciário deve dominar a leitura do CNIS e compreender seus códigos e indicadores. O extrato pode ser obtido gratuitamente pelo portal Meu INSS (www.meu.inss.gov.br) ou pelo aplicativo do INSS. A versão detalhada (CNIS analítico) contém informações sobre remunerações, códigos de afastamento, indicadores de pendência e data de inclusão de cada registro — dados essenciais para identificar inconsistências e planejar a estratégia processual.
 
-### 5.3 Retificação de Dados do CNIS
+### 5.3 Retificação de dados do CNIS
 
 #### 5.3.1 Via administrativa (INSS)
 
-O art. 29-A, § 2º, da Lei 8.213/91 assegura ao segurado o direito de solicitar, a qualquer tempo, a inclusão, exclusão ou retificação de informações constantes do CNIS (CASTRO; LAZZARI, 2025). O requerimento deve ser dirigido ao INSS, acompanhado dos documentos que demonstrem a divergência entre os dados registrados e a realidade contributiva.
+O art. 29-A, § 2º, da Lei 8.213/91 assegura ao segurado o direito de solicitar, a qualquer tempo, a inclusão, exclusão ou retificação de informações constantes do CNIS (Castro; Lazzari, 2025). O requerimento deve ser dirigido ao INSS, acompanhado dos documentos que demonstrem a divergência entre os dados registrados e a realidade contributiva.
 
 A IN INSS/PRES 128/2022 disciplina o procedimento de retificação administrativa em seus arts. 85 a 88. O art. 85 determina que o INSS deve considerar os dados do CNIS independentemente de apresentação de documentos pelo segurado, quando estes estiverem regulares. O art. 86 trata da hipótese de discordância: o segurado apresenta documentos para demonstrar que os dados registrados são incorretos ou incompletos. O art. 87 prevê a retificação de ofício pelo INSS quando este detectar inconsistências nos registros. O art. 88 trata especificamente da análise diferenciada de vínculos inseridos extemporaneamente (após 120 dias do fato gerador).
 
@@ -217,11 +217,11 @@ A ação de retificação do CNIS pode ser cumulada com o pedido de concessão o
 
 A competência para a retificação do CNIS é sempre da Justiça Federal (art. 109, I, CF), por envolver o INSS (autarquia federal). Quando a retificação decorre de sentença trabalhista, o segurado pode apresentá-la administrativamente ao INSS; se este recusar a averbação, a via adequada é o JEF, não a Justiça do Trabalho (que já esgotou sua competência ao julgar a relação de emprego).
 
-### 5.4 Atividade Rural Anterior a Novembro de 1991
+### 5.4 Atividade rural anterior a novembro de 1991
 
 #### 5.4.1 Fundamento legal e regra geral
 
-O art. 55, § 2º, da Lei 8.213/91, combinado com o art. 143 do mesmo diploma, permite o cômputo de tempo de serviço rural anterior à vigência da Lei (25 de julho de 1991) como tempo de contribuição, independentemente do recolhimento de contribuições previdenciárias (IBRAHIM, 2025; CASTRO; LAZZARI, 2025). Trata-se de norma de transição que reconheceu a atividade rural exercida em período no qual não existia obrigatoriedade de contribuição para a grande maioria dos trabalhadores rurais.
+O art. 55, § 2º, da Lei 8.213/91, combinado com o art. 143 do mesmo diploma, permite o cômputo de tempo de serviço rural anterior à vigência da Lei (25 de julho de 1991) como tempo de contribuição, independentemente do recolhimento de contribuições previdenciárias (Ibrahim, 2025; Castro; Lazzari, 2025). Trata-se de norma de transição que reconheceu a atividade rural exercida em período no qual não existia obrigatoriedade de contribuição para a grande maioria dos trabalhadores rurais.
 
 A regra aplica-se ao segurado especial (regime de economia familiar) e ao empregado rural que exerceu atividade antes da Lei 8.213/91. A distinção é relevante: o segurado especial tem seu tempo computado independentemente de contribuição, mesmo para períodos posteriores a 1991, por força do art. 39, I, da Lei 8.213/91 (para aposentadoria por idade rural); já o contribuinte individual rural que exerceu atividade após novembro de 1991 precisa indenizar o período na forma do art. 45-A da Lei 8.212/91 para ter o tempo reconhecido (cf. Capítulo 4).
 
@@ -251,7 +251,7 @@ A jurisprudência consolidada admite como início de prova material uma ampla ga
 - Escritura de imóvel rural;
 - Prontuário médico com indicação da profissão rural.
 
-#### 5.4.3 Extensão temporal da prova — Súmula 577/STJ
+#### 5.4.3 Extensão temporal da prova — súmula 577/STJ
 
 A Súmula 577 do STJ estabelece que "é possível reconhecer o tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado em convincente prova testemunhal colhida sob o contraditório." Essa súmula tem grande impacto prático: o segurado que apresenta como documento mais antigo uma certidão de casamento de 1985 (com qualificação de "lavrador") pode ter reconhecido período rural anterior a 1985, desde que a prova testemunhal seja convincente e coerente.
 
@@ -319,11 +319,11 @@ Para períodos posteriores a novembro de 1991, o tratamento varia conforme a cat
 
 A TNU Súmula 74 sintetiza a matéria: "O exercício de atividade rural posterior a novembro de 1991, comprovado mediante início de prova material, autoriza o cômputo como tempo de contribuição, independentemente do recolhimento das contribuições previdenciárias relativas ao período rural." Esse enunciado refere-se especificamente ao segurado especial, cuja contribuição social incide sobre a receita bruta da comercialização da produção (art. 25, Lei 8.212/91), não sobre salário de contribuição individual.
 
-### 5.5 Tempo de Serviço Militar Obrigatório
+### 5.5 Tempo de serviço militar obrigatório
 
 #### 5.5.1 Fundamento legal e natureza do cômputo
 
-O art. 55, inciso I, da Lei 8.213/91 assegura o cômputo, como tempo de contribuição, do período de serviço militar, inclusive o obrigatório (CASTRO; LAZZARI, 2025). Trata-se de disposição expressa que não exige filiação prévia ao RGPS nem recolhimento de contribuição pelo militar durante o período de serviço. O fundamento é constitucional: o art. 143, caput e § 2º, da Constituição Federal estabelece a obrigatoriedade do serviço militar nos termos da lei, cabendo aos brasileiros do sexo masculino a prestação do serviço (Lei 4.375/1964). Essa imposição estatal não pode gerar prejuízo previdenciário ao cidadão.
+O art. 55, inciso I, da Lei 8.213/91 assegura o cômputo, como tempo de contribuição, do período de serviço militar, inclusive o obrigatório (Castro; Lazzari, 2025). Trata-se de disposição expressa que não exige filiação prévia ao RGPS nem recolhimento de contribuição pelo militar durante o período de serviço. O fundamento é constitucional: o art. 143, caput e § 2º, da Constituição Federal estabelece a obrigatoriedade do serviço militar nos termos da lei, cabendo aos brasileiros do sexo masculino a prestação do serviço (Lei 4.375/1964). Essa imposição estatal não pode gerar prejuízo previdenciário ao cidadão.
 
 O cômputo abrange tanto o serviço militar obrigatório (conscrito) quanto o serviço militar voluntário (engajamento posterior), e aplica-se a todas as Forças Armadas (Exército, Marinha e Aeronáutica), bem como às Forças Auxiliares (Polícias Militares e Corpos de Bombeiros, quando em serviço federal).
 
@@ -358,7 +358,7 @@ O tempo de serviço militar obrigatório, quando computado no RGPS:
 
 A questão da contagem para carência merece aprofundamento. Embora o art. 55, § 2º, da Lei 8.213/91 ressalve a carência para a atividade rural, não há ressalva equivalente para o serviço militar. A interpretação dominante nos tribunais é de que o serviço militar conta integralmente, inclusive para carência, dado que a imposição estatal substitui a contribuição que o segurado teria recolhido se estivesse no mercado de trabalho civil.
 
-#### 5.5.4 Tiro de Guerra e outros serviços auxiliares
+#### 5.5.4 Tiro de guerra e outros serviços auxiliares
 
 Merece tratamento específico o Tiro de Guerra — modalidade de serviço militar obrigatório prestado em municípios que não possuem Organização Militar. O período de Tiro de Guerra é geralmente inferior ao serviço militar regular (em torno de 6 a 10 meses), mas é igualmente reconhecido como tempo de contribuição. O documento comprobatório é o Certificado de Reservista de 2ª categoria ou a certidão do Tiro de Guerra.
 
@@ -370,9 +370,9 @@ Outra hipótese é o CPOR (Centro de Preparação de Oficiais da Reserva) e o NP
 Quando o segurado perdeu o Certificado de Reservista ou quando o documento não contém as datas precisas, a certidão pode ser obtida junto ao Centro de Recrutamento Regional (CRR) da área de alistamento ou pelo portal de serviços das Forças Armadas. Para o Exército: https://www.eb.mil.br (serviços ao cidadão). Para Marinha e Aeronáutica: respectivos portais ou unidades militares. O prazo de emissão varia de 15 a 60 dias. A certidão é gratuita.
 :::
 
-### 5.6 Tempo de Aluno-Aprendiz
+### 5.6 Tempo de aluno-aprendiz
 
-#### 5.6.1 Origem e fundamento — Súmula 96/TCU
+#### 5.6.1 Origem e fundamento — súmula 96/TCU
 
 A Súmula 96 do Tribunal de Contas da União estabelece: "Conta-se para todos os efeitos, como tempo de serviço público, o período de trabalho prestado, na qualidade de aluno-aprendiz, em Escola Pública Profissional, desde que comprovada a retribuição pecuniária à conta do Orçamento, admitindo-se, como tal, o recebimento de alimentação, fardamento, material escolar e parcela de renda auferida com a execução de encomendas para terceiros."
 
@@ -380,7 +380,7 @@ Embora a Súmula tenha sido editada no contexto do serviço público, sua aplica
 
 O período típico abrangido situa-se entre as décadas de 1950 e 1990, quando as Escolas Técnicas Federais (ETFs), Escolas Agrotécnicas Federais e instituições como SENAI e SENAC mantinham programas de formação profissional nos quais os alunos executavam trabalhos produtivos para terceiros, com retribuição, em dinheiro, alimentação ou fardamento, custeada pelo orçamento público.
 
-#### 5.6.2 Requisitos para o cômputo — TNU Tema 216
+#### 5.6.2 Requisitos para o cômputo — TNU tema 216
 
 A TNU, no Tema 216 (PEDILEF 0525048-76.2017.4.05.8100/CE, julgado em 14/02/2020), fixou critérios mais rigorosos para o cômputo do tempo de aluno-aprendiz, alterando a Súmula 18 da TNU. Os requisitos são cumulativos:
 
@@ -415,11 +415,11 @@ A dificuldade probatória é agravada pelo tempo decorrido: muitas ETFs foram tr
 Antes de ajuizar ação, o advogado deve requerer formalmente ao Instituto Federal (sucessor da antiga ETF) certidão circunstanciada contendo: (a) período de matrícula do aluno; (b) existência de programa de aprendizagem com produção para terceiros; (c) natureza da retribuição (pecuniária, alimentação, fardamento); (d) origem orçamentária da retribuição. Se a instituição declarar impossibilidade de fornecer tais informações, o documento de recusa serve como prova da dificuldade probatória e justifica a produção de prova testemunhal em juízo.
 :::
 
-### 5.7 Contagem Recíproca entre Regimes (RGPS/RPPS)
+### 5.7 Contagem recíproca entre regimes (RGPS/RPPS)
 
 #### 5.7.1 Fundamento constitucional e legislativo
 
-A contagem recíproca — possibilidade de somar tempo de contribuição cumprido no RGPS com tempo de contribuição cumprido em Regime Próprio de Previdência Social (RPPS), e vice-versa, para efeito de aposentadoria — é instituto amplamente examinado pela doutrina (IBRAHIM, 2025; CASTRO; LAZZARI, 2025) e encontra fundamento no art. 201, § 9º, da Constituição Federal: "Para fins de aposentadoria, será assegurada a contagem recíproca do tempo de contribuição entre o Regime Geral de Previdência Social e os regimes próprios de previdência social, e destes entre si, observada a compensação financeira, de acordo com os critérios estabelecidos em lei."
+A contagem recíproca — possibilidade de somar tempo de contribuição cumprido no RGPS com tempo de contribuição cumprido em Regime Próprio de Previdência Social (RPPS), e vice-versa, para efeito de aposentadoria — é instituto amplamente examinado pela doutrina (Ibrahim, 2025; Castro; Lazzari, 2025) e encontra fundamento no art. 201, § 9º, da Constituição Federal: "Para fins de aposentadoria, será assegurada a contagem recíproca do tempo de contribuição entre o Regime Geral de Previdência Social e os regimes próprios de previdência social, e destes entre si, observada a compensação financeira, de acordo com os critérios estabelecidos em lei."
 
 O dispositivo constitucional consagra três elementos: (a) o direito à contagem recíproca; (b) a obrigatoriedade de compensação financeira entre regimes; (c) a remissão à lei para critérios operacionais. A legislação infraconstitucional que disciplina a matéria inclui a Lei 6.226/75 (primeira a prever contagem recíproca para servidores federais), a Lei 6.864/80 (extensão a estados e municípios), os arts. 94 a 99 da Lei 8.213/91 e a Lei 9.796/99 (compensação previdenciária).
 
@@ -479,7 +479,7 @@ A EC 103/2019 não alterou o direito à contagem recíproca (que permanece asseg
 
 Outro impacto relevante: o STF, no Tema 942 (RE 1.014.286, Rel. Min. Edson Fachin), reconheceu o direito do **servidor público** à conversão, em tempo comum, do período prestado sob condições especiais que prejudiquem a saúde ou a integridade física (hipótese do então vigente art. 40, § 4º, III, da CF), aplicando-se as normas do Regime Geral de Previdência Social relativas à aposentadoria especial (Lei 8.213/91), até a edição da EC 103/2019. Em termos práticos, esse entendimento alcança o segurado que exerceu atividade especial e a leva, via contagem recíproca, para o regime próprio: o tempo especial pode ser convertido (com o acréscimo do fator de 1,40/1,20) e averbado no RPPS por meio de CTC. Esse direito limita-se a períodos anteriores à EC 103/2019, em razão da vedação à conversão para períodos posteriores.
 
-### 5.8 Certidão de Tempo de Contribuição (CTC)
+### 5.8 Certidão de tempo de contribuição (CTC)
 
 #### 5.8.1 Conceito e requisitos formais
 
@@ -530,9 +530,9 @@ Para servidores federais pós-FUNPRESP (ingressados a partir de fev/2013), a CTC
 
 A irreversibilidade da CTC guarda relação com a vedação da desaposentação (STF Tema 503). Assim como não é possível renunciar à aposentadoria para obter nova aposentadoria mais vantajosa (desaposentação), também não é possível "devolver" CTC já averbada. Ambas as vedações decorrem do mesmo princípio: a segurança jurídica e o equilíbrio atuarial dos regimes previdenciários.
 
-### 5.9 Atividades Concomitantes
+### 5.9 Atividades concomitantes
 
-#### 5.9.1 Regime anterior à Lei 13.846/2019
+#### 5.9.1 Regime anterior à lei 13.846/2019
 
 Antes da alteração legislativa promovida inicialmente pela MP 871, de 18/01/2019, e consolidada pela Lei 13.846, de 18/06/2019 (que converteu a MP), o art. 32 da Lei 8.213/91 estabelecia regime complexo de cálculo para segurados que exerciam atividades concomitantes (simultâneas) vinculadas ao RGPS. O sistema distinguia a "atividade principal" (geralmente a de maior remuneração ou a última exercida) das "atividades secundárias", aplicando cálculo proporcional ao tempo de contribuição em cada atividade.
 
@@ -540,13 +540,13 @@ O cálculo proporcional funcionava da seguinte forma: o salário de benefício e
 
 Esse regime gerava distorções evidentes: o segurado contribuía sobre a totalidade das remunerações (respeitado o teto), mas recebia benefício calculado proporcionalmente, em valor inferior à soma das contribuições. A incongruência era especialmente prejudicial para profissionais que mantinham múltiplos vínculos (professores, médicos, contadores, etc.).
 
-#### 5.9.2 Regime atual — Lei 13.846/2019
+#### 5.9.2 Regime atual — lei 13.846/2019
 
-A MP 871/2019 (18/01/2019), convertida na Lei 13.846/2019 (18/06/2019), ao dar nova redação ao art. 32 da Lei 8.213/91, eliminou o cálculo proporcional (IBRAHIM, 2025). A nova regra é simples e direta: o salário de benefício é calculado com base na soma dos salários de contribuição de todas as atividades exercidas concomitantemente, respeitado o limite máximo do salário de contribuição (teto do RGPS).
+A MP 871/2019 (18/01/2019), convertida na Lei 13.846/2019 (18/06/2019), ao dar nova redação ao art. 32 da Lei 8.213/91, eliminou o cálculo proporcional (Ibrahim, 2025). A nova regra é simples e direta: o salário de benefício é calculado com base na soma dos salários de contribuição de todas as atividades exercidas concomitantemente, respeitado o limite máximo do salário de contribuição (teto do RGPS).
 
 A redação atual do art. 32, § 1º: "Quando o segurado satisfizer, em relação a cada atividade, as condições do benefício requerido, o salário de benefício será calculado com base na soma dos salários de contribuição das atividades exercidas na data do requerimento ou do óbito, ou no período básico de cálculo, observado o limite máximo desse salário."
 
-#### 5.9.3 STJ Tema 1.070 — Efeitos retroativos
+#### 5.9.3 STJ tema 1.070 — efeitos retroativos
 
 O STJ, no Tema 1.070 (REsp 1.870.793/RS), fixou tese com alcance temporal relevante: "Após o advento da Lei 9.876/99, e para fins de cálculo do benefício de aposentadoria, no caso do exercício de atividades concomitantes pelo segurado, o salário de contribuição deverá ser composto da soma de todas as contribuições previdenciárias por ele vertidas ao sistema, respeitado o teto previdenciário."
 
@@ -606,11 +606,11 @@ A concomitância deve ser distinguida da pluralidade de vínculos sucessivos: se
 João aposentou-se em 2015 com dois vínculos simultâneos: professor (SC de R$ 3.000) e contador autônomo (SC de R$ 2.000). Pelo cálculo proporcional antigo, seu salário de benefício foi de R$ 3.600 (R$ 3.000 da atividade principal + 60% de R$ 2.000 da secundária). Com a aplicação do Tema 1.070, o correto seria R$ 5.000 (soma integral, abaixo do teto). A diferença mensal de R$ 1.400 justifica ação revisional — se ajuizada dentro do prazo decadencial de 10 anos (até 2025, no caso).
 :::
 
-### 5.10 Tempo Fictício: Vedação pela EC 103/2019
+### 5.10 Tempo fictício: vedação pela EC 103/2019
 
 #### 5.10.1 Conceito de tempo fictício
 
-Tempo fictício é aquele computado para fins de aposentadoria sem que tenha havido efetiva prestação de serviço ou correspondente recolhimento de contribuição previdenciária (CASTRO; LAZZARI, 2025). Trata-se de um "tempo presumido" por ficção legal, que existia em diversas legislações estaduais e federais anteriores à EC 20/1998.
+Tempo fictício é aquele computado para fins de aposentadoria sem que tenha havido efetiva prestação de serviço ou correspondente recolhimento de contribuição previdenciária (Castro; Lazzari, 2025). Trata-se de um "tempo presumido" por ficção legal, que existia em diversas legislações estaduais e federais anteriores à EC 20/1998.
 
 Exemplos históricos de tempo fictício:
 - Licença-prêmio não usufruída contada em dobro para aposentadoria;
@@ -673,7 +673,7 @@ No RGPS, o impacto prático da vedação ao tempo fictício é limitado, pois o 
 
 - **Tempo residência médica:** Algumas legislações estaduais anteriormente computavam a residência médica em dobro. Com a vedação, esse cômputo não é mais admitido em nenhum regime.
 
-### 5.11 Conversão de Tempo Especial em Comum
+### 5.11 Conversão de tempo especial em comum
 
 #### 5.11.1 Mecanismo da conversão e fatores aplicáveis
 
@@ -689,7 +689,7 @@ Os fatores de conversão são calculados pela razão entre o tempo máximo de co
 
 A aplicação é simples: multiplica-se o tempo de atividade especial pelo fator correspondente. Assim, 10 anos de atividade especial (25 anos) de um segurado homem convertem-se em 14 anos de tempo comum (10 × 1,40 = 14). O segurado "ganha" 4 anos de tempo de contribuição pelo exercício de atividade em condições nocivas.
 
-#### 5.11.2 STJ Temas 422, 423 e 546 — Direito à conversão e fator aplicável
+#### 5.11.2 STJ temas 422, 423 e 546 — direito à conversão e fator aplicável
 
 No julgamento do REsp 1.151.363/MG (Rel. Min. Jorge Mussi), leading case dos **Temas 422 e 423**, o STJ firmou duas proposições essenciais sobre a conversão de tempo especial em comum:
 
@@ -787,11 +787,11 @@ O STJ consolidou o entendimento de que, para o período anterior à Lei 9.032/19
 
 O art. 70, § 2º, do Decreto 3.048/99 vedou a conversão inversa (tempo comum em tempo especial) a partir de 28/05/1998. Para períodos anteriores a essa data, a conversão inversa era admitida, com fatores invertidos (0,71 para homem, 0,83 para mulher, no caso de 25 anos). Atualmente, a conversão opera exclusivamente em sentido unidirecional: de especial para comum.
 
-### 5.12 Acordos Internacionais Previdenciários
+### 5.12 Acordos internacionais previdenciários
 
 #### 5.12.1 Fundamento e natureza jurídica
 
-Os acordos internacionais previdenciários são tratados bilaterais ou multilaterais firmados pelo Brasil com outros países, com o objetivo de garantir a proteção previdenciária de trabalhadores que exercem ou exerceram atividade em mais de um país signatário (CASTRO; LAZZARI, 2025). Esses acordos têm status supralegal no ordenamento brasileiro (abaixo da Constituição, acima da lei ordinária) e são promulgados por decreto presidencial após aprovação legislativa.
+Os acordos internacionais previdenciários são tratados bilaterais ou multilaterais firmados pelo Brasil com outros países, com o objetivo de garantir a proteção previdenciária de trabalhadores que exercem ou exerceram atividade em mais de um país signatário (Castro; Lazzari, 2025). Esses acordos têm status supralegal no ordenamento brasileiro (abaixo da Constituição, acima da lei ordinária) e são promulgados por decreto presidencial após aprovação legislativa.
 
 O Decreto 3.048/99, em seu art. 150-A (incluído pelo Decreto 10.410/2020), disciplina as regras gerais de aplicação dos acordos internacionais no âmbito do RGPS. O INSS é o órgão de ligação brasileiro (liaison body) responsável pela operacionalização dos acordos.
 
@@ -836,7 +836,7 @@ O Brasil mantém acordos previdenciários — bilaterais e multilaterais — com
 | Mercosul (multilateral) | Dec. 5.722/2006 | 2006 |
 | Ibero-Americano (multilateral) | Dec. 8.358/2014 | 2014 |
 
-#### 5.12.5 Acordo Multilateral do Mercosul
+#### 5.12.5 Acordo multilateral do Mercosul
 
 O Acordo Multilateral de Seguridade Social do Mercosul (Argentina, Brasil, Paraguai e Uruguai), promulgado pelo Decreto 5.722/2006, permite a totalização de períodos cumpridos em qualquer dos países membros. O acordo abrange: aposentadoria por idade, aposentadoria por incapacidade permanente, pensão por morte e, em alguns casos, auxílio por incapacidade temporária.
 
@@ -885,7 +885,7 @@ Ações envolvendo acordos internacionais previdenciários são de competência 
 
 As dificuldades processuais são significativas: a obtenção de documentos do exterior pode exigir carta rogatória ou auxílio direto; a comunicação entre os organismos de ligação é lenta; as legislações estrangeiras devem ser provadas pela parte (art. 376, CPC). No cotidiano dos JEFs, os juízes têm admitido a expedição de ofício ao INSS (Divisão de Acordos Internacionais) para obtenção das informações, dispensando o segurado de providenciar diretamente a documentação estrangeira.
 
-### 5.13 Aspectos Práticos no JEF: Estratégias de Reconhecimento de Tempo
+### 5.13 Aspectos práticos no JEF: estratégias de reconhecimento de tempo
 
 #### 5.13.1 Competência e valor da causa
 
@@ -1012,7 +1012,7 @@ R: Não necessariamente. Se o segurado cumpre todos os requisitos brasileiros co
 O art. 103 da Lei 8.213/91 estabelece prazo decadencial de 10 anos para revisão do ato de concessão de benefício. Esse prazo aplica-se às revisões por atividades concomitantes (Tema 1.070), inclusão de tempo especial não computado, e retificação de salários de contribuição. Contado do primeiro dia do mês seguinte ao primeiro pagamento, o prazo é fatal: uma vez decorrido, extingue-se o direito material de revisão. Não se confunde com a prescrição quinquenal das parcelas (que atinge apenas os valores devidos há mais de 5 anos do ajuizamento). O advogado deve calcular imediatamente se o benefício do cliente ainda está dentro do prazo revisional.
 :::
 
-### 5.14 Síntese do Capítulo
+### 5.14 Síntese do capítulo
 
 O reconhecimento de tempo de contribuição responde pela maioria das ações previdenciárias nos JEFs. Os mecanismos examinados neste capítulo permitem ao advogado:
 
@@ -1078,9 +1078,9 @@ A interação entre os diversos temas estudados neste capítulo é frequente na 
 
 O capítulo seguinte (Capítulo 6) examinará a aposentadoria por incapacidade permanente, benefício de natureza não programada cuja concessão independe de tempo de contribuição mínimo (exige apenas carência de 12 contribuições ou dispensa de carência quando a incapacidade decorre de acidente ou doença grave listada em regulamento). A interface com o presente capítulo reside na necessidade de demonstrar a qualidade de segurado e a carência como pressupostos do benefício, demonstração que frequentemente exige cômputo prévio de períodos controversos.
 
-### 5.15 Referências
+### Referências
 
-#### 5.15.1 Legislação
+#### Legislação
 
 - Constituição Federal de 1988 (arts. 40, § 10; 201, § 9º).
 - EC 103/2019 (Reforma da Previdência).
@@ -1093,7 +1093,7 @@ O capítulo seguinte (Capítulo 6) examinará a aposentadoria por incapacidade p
 - Decreto n. 3.048, de 6 de maio de 1999 (arts. 19-B, 19-C, 70, 150-A, 188-G, IX — aluno-aprendiz, com a redação do Decreto n. 10.410/2020).
 - IN INSS/PRES n. 128/2022.
 
-#### 5.15.2 Jurisprudência
+#### Jurisprudência
 
 - STF, Tema 840 (RE 683.621) — vedação ao tempo fictício ("serviço efetivo, em qualquer regime jurídico" não aproveita tempo ficto).
 - STF, Tema 942 (RE 1.014.286, Rel. Min. Edson Fachin), conversão de tempo especial do RGPS para averbação no RPPS via CTC.
@@ -1114,7 +1114,7 @@ O capítulo seguinte (Capítulo 6) examinará a aposentadoria por incapacidade p
 - Súmula 34/TNU, início de prova material contemporâneo aos fatos.
 - Súmula 96/TCU, aluno-aprendiz em escola pública profissional.
 
-#### 5.15.3 Doutrina
+#### Doutrina
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte; BRAGANÇA, Kerlly Huback; FOLMANN, Melissa. *Curso de Direito Previdenciário*. 28. ed. Niterói: Impetus, 2025.

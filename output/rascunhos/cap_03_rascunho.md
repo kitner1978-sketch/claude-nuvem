@@ -6,15 +6,15 @@ Carência e qualidade de segurado são conceitos autônomos, mas funcionalmente 
 
 A importância prática desses institutos revela-se na constatação de que carência e qualidade de segurado constituem, ao lado da ocorrência do fato gerador, os três pressupostos genéricos de concessão de benefícios previdenciários. A ausência de qualquer um deles, salvo nos casos expressamente ressalvados pela legislação, acarreta o indeferimento administrativo ou a improcedência do pedido judicial. A análise desses pressupostos antecede o exame do mérito propriamente dito e, não raro, constitui o fundamento exclusivo da decisão. Não por acaso, Porto (2024) os denomina "parte geral do plano de benefícios": a compreensão articulada dos institutos é pré-requisito indispensável para o estudo das prestações em espécie, daí a conveniência de isolá-los para análise autônoma antes de adentrar os contornos específicos de cada benefício. Esse enfoque sistemático será adotado no presente capítulo, que busca esgotar os aspectos mais relevantes da carência e da qualidade de segurado para a prática previdenciária nos JEFs.
 
-### 3.1 Conceito e Natureza Jurídica da Carência
+### 3.1 Conceito e natureza jurídica da carência
 
-O art. 24 da Lei n. 8.213, de 24 de julho de 1991, define o período de carência como "o número mínimo de contribuições mensais indispensáveis para que o beneficiário faça jus ao benefício, consideradas a partir do transcurso do primeiro dia dos meses de suas competências". A doutrina majoritária classifica a carência como requisito objetivo de concessão do benefício previdenciário, ao lado da qualidade de segurado e da ocorrência do fato gerador (IBRAHIM, 2025; CASTRO; LAZZARI, 2025; SANTOS; CALEJON, 2025). Ibrahim situa a carência na hipótese de incidência da norma previdenciária, conectando-a à função atuarial do sistema: assegurar que o acesso aos benefícios seja restrito a segurados com vínculo contributivo efetivo e contínuo.
+O art. 24 da Lei n. 8.213, de 24 de julho de 1991, define o período de carência como "o número mínimo de contribuições mensais indispensáveis para que o beneficiário faça jus ao benefício, consideradas a partir do transcurso do primeiro dia dos meses de suas competências". A doutrina majoritária classifica a carência como requisito objetivo de concessão do benefício previdenciário, ao lado da qualidade de segurado e da ocorrência do fato gerador (Ibrahim, 2025; Castro; Lazzari, 2025; Santos; Calejon, 2025). Ibrahim situa a carência na hipótese de incidência da norma previdenciária, conectando-a à função atuarial do sistema: assegurar que o acesso aos benefícios seja restrito a segurados com vínculo contributivo efetivo e contínuo.
 
 Porto (2024) sintetiza o conceito com objetividade: a carência consiste em um número mínimo de contribuições mensais (ou de atividade laborativa, no caso do segurado especial) exigido para a concessão de certos benefícios. Assim, há benefícios que não exigem carência e outros que a exigem, sendo variável o número de contribuições mensais conforme a espécie. O conceito é simples de enunciar, mas a sua aplicação concreta depende da correta identificação da categoria do segurado, do regime temporal aplicável e da natureza do evento gerador — e é justamente nesse ponto que, em nossa experiência judicante, residem as maiores dificuldades.
 
 A natureza jurídica da carência é objeto de debate doutrinário. A corrente majoritária a classifica como condição objetiva de acesso ao benefício, de natureza diversa tanto da qualidade de segurado (que é condição subjetiva de proteção) quanto do fato gerador (que é o evento coberto pelo seguro). Trata-se, em essência, de requisito atuarial que reflete o princípio do equilíbrio financeiro e atuarial consagrado no art. 201, caput, da Constituição Federal: exige-se um período mínimo de contribuição para que o beneficiário demonstre participação efetiva no custeio do sistema antes de usufruir de suas prestações. Essa exigência distingue a previdência social da assistência social, na qual o acesso independe de contribuição prévia.
 
-#### 3.1.1 Carência versus Tempo de Contribuição
+#### 3.1.1 Carência versus tempo de contribuição
 
 Poucos equívocos chegam com tanta frequência aos JEFs quanto a confusão entre carência e tempo de contribuição, sobre a qual Kertzman (2025) expressamente adverte. A carência é contada em número de contribuições mensais válidas, ao passo que o tempo de contribuição compreende o cômputo total de períodos laborais em dias, meses e anos, podendo incluir períodos indenizados, ficcionais e retroativos. Contribuições recolhidas em atraso, por exemplo, são computadas para tempo de contribuição, mas não necessariamente para carência (art. 27, II, da Lei 8.213/91). A Turma Nacional de Uniformização consolidou essa distinção no Tema 358 (rel. Juiz Federal Giovani Bigolin, j. 16/10/2024), fixando a tese de que "tempo de contribuição e carência são institutos distintos" e que "a carência consiste em contribuições tempestivas", esclarecendo ainda que "o art. 18 da EC n. 103/2019 não dispensa o requisito da carência para concessão de aposentadoria".
 
@@ -22,35 +22,35 @@ A distinção adquire relevância prática quando se considera que o segurado po
 
 Porto (2024) oferece exemplo esclarecedor: para os benefícios programados (aposentadorias por idade, especial e por tempo de contribuição), que não exigem qualidade de segurado na data do requerimento por força do art. 3º da Lei n. 10.666/2003, basta reunir ao longo de toda a vida laborativa os 180 meses de contribuição exigidos como carência, ainda que de forma espaçada no tempo. Já para os benefícios não programados (auxílio por incapacidade temporária, aposentadoria por incapacidade permanente, salário-maternidade e auxílio-reclusão), o cômputo da carência deve observar contribuições sequenciais, de modo que entre todas elas não tenha havido perda da qualidade de segurado. A perda da qualidade acarreta, salvo as exceções legais, a caducidade da carência anteriormente cumprida.
 
-#### 3.1.2 Função Atuarial e Dimensão Constitucional da Carência
+#### 3.1.2 Função atuarial e dimensão constitucional da carência
 
 A carência desempenha função atuarial no sistema previdenciário ao evitar que segurados recém-ingressantes acessem imediatamente benefícios cujo custeio pressupõe contribuição mínima pretérita. Sem esse filtro, o sistema enfrentaria desequilíbrio financeiro decorrente da concessão de prestações a segurados que contribuíram por período ínfimo. A Constituição Federal, ao consagrar o princípio do equilíbrio financeiro e atuarial (art. 201, caput), fornece o fundamento para a exigência de carência, embora não a imponha diretamente, delegando ao legislador ordinário a definição dos períodos aplicáveis.
 
 A função atuarial da carência não a coloca, porém, acima do controle de constitucionalidade. Ao apreciar as ADIs 2.110 e 2.111, que tinham por objeto a carência de 10 contribuições mensais exigida das seguradas contribuinte individual, especial e facultativa para o salário-maternidade (art. 25, III, da Lei 8.213/91), o Supremo Tribunal Federal declarou-a inconstitucional. Embora a tese tenha alcance circunscrito ao salário-maternidade, dela se extrai diretriz de projeção mais ampla: a carência, ainda que legítima em sua função atuarial, encontra limites nos princípios constitucionais que regem a seguridade social, em especial a isonomia. Os fundamentos dessa decisão são examinados em detalhe adiante (seção 3.3.5), com destaque sintético também no box de jurisprudência da seção 3.2.4.
 
-### 3.2 Prazos de Carência por Espécie de Benefício
+### 3.2 Prazos de carência por espécie de benefício
 
 O art. 25 da Lei 8.213/91 estabelece os períodos de carência exigidos para cada espécie de benefício, adotando critério que reflete a natureza e a previsibilidade do evento coberto: benefícios relacionados a eventos imprevisíveis exigem carência menor, enquanto aposentadorias programadas demandam período contributivo mais extenso.
 
-#### 3.2.1 Benefícios por Incapacidade: 12 Contribuições Mensais
+#### 3.2.1 Benefícios por incapacidade: 12 contribuições mensais
 
 O auxílio por incapacidade temporária (antigo auxílio-doença) e a aposentadoria por incapacidade permanente (antiga aposentadoria por invalidez) exigem 12 contribuições mensais (art. 25, inciso I). A carência relativamente reduzida se justifica pela natureza imprevisível do evento incapacitante: não seria razoável exigir período contributivo extenso para proteção contra riscos que independem da vontade do segurado. Santos e Calejon (2025) observam que, uma vez perdida a qualidade de segurado, o art. 27-A exige que o segurado cumpra novamente metade da carência (6 contribuições) a partir da nova filiação para readquirir o direito ao benefício por incapacidade, regra que será examinada em detalhe na seção 3.8.
 
 A nomenclatura dos benefícios por incapacidade foi alterada após a EC 103/2019. O INSS passou a adotar as denominações "aposentadoria por incapacidade permanente" e "auxílio por incapacidade temporária", decorrentes da nova redação do art. 201, I, da Constituição. Porto (2024) registra que a legislação ordinária ainda não incorporou formalmente a nova nomenclatura, embora o Decreto 10.410/2020 já a tenha adotado no Regulamento da Previdência Social.
 
-#### 3.2.2 Aposentadorias Programadas: 180 Contribuições Mensais
+#### 3.2.2 Aposentadorias programadas: 180 contribuições mensais
 
 As aposentadorias por idade, por tempo de contribuição e especial demandam 180 contribuições mensais (art. 25, inciso II). Trata-se do período de carência mais extenso do sistema, coerente com a natureza programada desses benefícios: o segurado pode planejar antecipadamente o cumprimento dos requisitos. A exigência de 180 contribuições aplica-se também à aposentadoria programada instituída pela EC 103/2019 — que substituiu as antigas aposentadorias por idade e por tempo de contribuição para os segurados ingressos no RGPS após 13 de novembro de 2019 —, sem que isso represente inovação infralegal: a base normativa do requisito permanece sendo o art. 25, II, da Lei 8.213/91, tendo o Decreto 10.410/2020 apenas explicitado, no Regulamento, a aplicação dessa carência ao novo desenho da aposentadoria programada.
 
 A tabela de transição prevista no art. 142 da Lei 8.213/91 ainda pode ser relevante para situações pretéritas. Esse dispositivo estabelecia carência progressiva para segurados inscritos no RGPS até 24 de julho de 1991 (data de publicação da Lei 8.213/91), partindo de 60 contribuições mensais em 1991 e alcançando 180 contribuições a partir de 2011. A tabela foi integralmente cumprida e deixou de ter aplicação prática para novos requerimentos, mas permanece relevante para análise de direito adquirido em ações envolvendo segurados que preencheram requisitos antes de 2011.
 
-#### 3.2.3 Auxílio-Reclusão e Salário-Maternidade
+#### 3.2.3 Auxílio-reclusão e salário-maternidade
 
 O salário-maternidade das seguradas contribuinte individual, especial e facultativa exigia 10 contribuições mensais (art. 25, inciso III) — exigência hoje superada, pois o dispositivo foi declarado inconstitucional pelo STF nas ADIs 2.110 e 2.111, de modo que a prestação não está mais sujeita a carência para nenhuma categoria de segurada (v. seção 3.3.5). O auxílio-reclusão, por sua vez, passou a exigir 24 contribuições mensais (art. 25, inciso IV), exigência introduzida pela Medida Provisória n. 871/2019, a partir de 18 de janeiro de 2019, e posteriormente confirmada pela Lei n. 13.846, de 18 de junho de 2019.
 
 A alteração promovida pela Lei 13.846/2019 em relação ao auxílio-reclusão é significativa. Até a vigência da Medida Provisória n. 871/2019 (18/01/2019), o auxílio-reclusão dispensava carência, figurando no rol do art. 26, inciso I, da Lei 8.213/91. A partir dessa data, a prestação passou a exigir 24 contribuições mensais (art. 25, IV), a mais elevada carência entre os benefícios que não são aposentadoria — circunstância que Porto (2024) também sublinha ao registrar a retirada do benefício do rol do art. 26, I. A modificação, cumulada à exigência de baixa renda que a EC 103/2019 posteriormente constitucionalizou, restringiu substancialmente o acesso de dependentes de segurados recolhidos à prisão. Daí a importância prática do regime temporal: requerimentos cujo fato gerador (recolhimento à prisão) seja anterior a 18 de janeiro de 2019 seguem o regime antigo, sem carência, enquanto os posteriores submetem-se às 24 contribuições.
 
-#### 3.2.4 Impactos da EC 103/2019 nos Prazos de Carência
+#### 3.2.4 Impactos da EC 103/2019 nos prazos de carência
 
 A EC 103/2019, embora tenha promovido profunda reforma no sistema previdenciário, não alterou diretamente os períodos de carência previstos na Lei 8.213/91. A emenda, contudo, introduziu a exigência de tempo mínimo de contribuição de 20 anos para homens e 15 anos para mulheres nas novas regras de aposentadoria (art. 201, § 7º, I, da Constituição), o que representa, na prática, requisito superior à carência legal de 180 meses para os segurados do sexo masculino que ingressarem no RGPS após a reforma.
 
@@ -61,11 +61,11 @@ Santos e Calejon (2025) observam que a EC 103/2019, ao dar nova redação ao art
 No julgamento conjunto das ADIs 2.110 e 2.111, o Supremo Tribunal Federal declarou inconstitucional a exigência de carência de 10 contribuições mensais prevista no inciso III do art. 25 da Lei 8.213/91 para o salário-maternidade das seguradas contribuinte individual, especial e facultativa, com efeitos retroativos à data de publicação da Lei n. 9.876/1999 (29/11/1999), que havia inserido o inciso. O exame dos fundamentos dessa decisão — em especial a violação à isonomia — e de seus desdobramentos práticos é desenvolvido na seção 3.3.5, à qual remetemos.
 :::
 
-### 3.3 Dispensa de Carência
+### 3.3 Dispensa de carência
 
 O art. 26 da Lei 8.213/91 enumera as prestações cuja concessão independe de carência. A norma contempla duas categorias de hipóteses: benefícios intrinsecamente dispensados (pensão por morte, salário-família, auxílio-acidente, serviço social e reabilitação profissional) e benefícios condicionalmente dispensados, nos quais a isenção depende da natureza do evento causador. A compreensão detalhada dessas hipóteses é essencial para a prática nos JEFs, pois a dispensa de carência frequentemente constitui o fundamento central do pedido inicial em ações previdenciárias.
 
-#### 3.3.1 Benefícios Intrinsecamente Dispensados
+#### 3.3.1 Benefícios intrinsecamente dispensados
 
 O primeiro grupo de benefícios dispensados de carência abrange aqueles cuja natureza é incompatível com a exigência de período contributivo prévio. A pensão por morte, o salário-família e o auxílio-acidente independem de carência por expressa disposição do art. 26, I, da Lei 8.213/91. O serviço social e a reabilitação profissional, que são serviços (e não benefícios em sentido estrito), também figuram no rol de prestações dispensadas (art. 26, V).
 
@@ -79,13 +79,13 @@ Vale converter a regra em números, espelhando os exemplos das demais categorias
 
 A comprovação observa o regime do art. 55, § 3º, da Lei 8.213/91, que veda a prova exclusivamente testemunhal: exige-se início de prova material contemporâneo aos fatos, corroborado por prova testemunhal idônea. A autodeclaração do segurado especial, hoje colhida pelo INSS e cotejada com bases governamentais (art. 38-B da Lei 8.213/91), e os registros do CNIS rural funcionam como elementos de partida, mas não dispensam o início de prova material quando impugnados. Vale registrar, porém, que a Súmula 577 do STJ admite o reconhecimento de tempo de serviço rural anterior ao documento mais antigo apresentado, desde que amparado por convincente prova testemunhal colhida sob o contraditório — diretriz que flexibiliza a contemporaneidade estrita da prova material. A matéria — meios de prova admitidos, valor da autodeclaração e eficácia probatória de cada documento — é tratada de modo próprio no capítulo dedicado à comprovação da atividade rural, ao qual remetemos para o aprofundamento devido.
 
-#### 3.3.2 Dispensa por Acidente de Qualquer Natureza
+#### 3.3.2 Dispensa por acidente de qualquer natureza
 
-O inciso II do art. 26 é o que mais comparece na rotina dos JEFs. Dispensa ele a carência para auxílio por incapacidade temporária e aposentadoria por incapacidade permanente nos casos de "acidente de qualquer natureza ou causa" e de "doença profissional ou do trabalho", bem como quando o segurado, após filiar-se ao RGPS, for acometido de doença grave constante de lista elaborada pelos Ministérios da Saúde e da Previdência Social. A doutrina é convergente na interpretação de que a expressão "acidente de qualquer natureza" abrange tanto o acidente de trabalho (art. 19 da Lei 8.213/91) quanto o acidente de qualquer outra causa, inclusive doméstico, de trânsito ou esportivo (IBRAHIM, 2025; KERTZMAN, 2025; CASTRO; LAZZARI, 2025).
+O inciso II do art. 26 é o que mais comparece na rotina dos JEFs. Dispensa ele a carência para auxílio por incapacidade temporária e aposentadoria por incapacidade permanente nos casos de "acidente de qualquer natureza ou causa" e de "doença profissional ou do trabalho", bem como quando o segurado, após filiar-se ao RGPS, for acometido de doença grave constante de lista elaborada pelos Ministérios da Saúde e da Previdência Social. A doutrina é convergente na interpretação de que a expressão "acidente de qualquer natureza" abrange tanto o acidente de trabalho (art. 19 da Lei 8.213/91) quanto o acidente de qualquer outra causa, inclusive doméstico, de trânsito ou esportivo (Ibrahim, 2025; Kertzman, 2025; Castro; Lazzari, 2025).
 
 A amplitude da expressão legal é significativa: a lei não distingue entre acidente de trabalho e acidente comum para fins de dispensa de carência. A dispensa abrange toda e qualquer incapacidade decorrente de evento acidentário, independentemente do nexo com a atividade laboral. A distinção entre acidente de trabalho e acidente de outra natureza permanece relevante para outros fins (como a estabilidade provisória do art. 118 da Lei 8.213/91 e o cálculo diferenciado da aposentadoria por incapacidade permanente após a EC 103/2019), mas não para a carência.
 
-#### 3.3.3 Doenças Graves e o Rol do Art. 151
+#### 3.3.3 Doenças graves e o rol do art. 151
 
 O rol de doenças graves que dispensam carência encontra-se atualmente disciplinado por duas fontes normativas complementares. O art. 151 da Lei 8.213/91 enumera, em caráter transitório, as doenças que dispensam carência até a elaboração da lista ministerial prevista no inciso II do art. 26. A Portaria Interministerial MTP/MS n. 22, de 31 de agosto de 2022, atualizou e ampliou esse rol, estabelecendo as seguintes doenças e afecções: (I) tuberculose ativa; (II) hanseníase; (III) transtorno mental grave, desde que cursando com alienação mental; (IV) neoplasia maligna; (V) cegueira; (VI) paralisia irreversível e incapacitante; (VII) cardiopatia grave; (VIII) doença de Parkinson; (IX) espondilite anquilosante; (X) nefropatia grave; (XI) estado avançado da doença de Paget (osteíte deformante); (XII) síndrome da deficiência imunológica adquirida (AIDS); (XIII) contaminação por radiação, com base em conclusão da medicina especializada; (XIV) hepatopatia grave; (XV) esclerose múltipla; (XVI) acidente vascular encefálico (agudo); e (XVII) abdome agudo cirúrgico.
 
@@ -98,20 +98,20 @@ A questão sobre a taxatividade desse rol foi enfrentada pela TNU no Tema 220 (j
 Saber se o rol é taxativo ou comporta interpretação extensiva decide muitos casos concretos. O exame costuma seguir uma sequência simples. Primeiro, verifica-se se a doença do segurado está expressamente prevista no art. 151 ou na Portaria Interministerial MTP/MS 22/2022; em caso positivo, a dispensa é automática. Não estando listada, indaga-se se apresenta especificidade e gravidade equivalentes às doenças do rol, hipótese em que se sustenta a dispensa por interpretação extensiva, nos termos do Tema 220/TNU. Resta ainda a gravidez de alto risco com afastamento superior a 15 dias, que a TNU incluiu na cobertura da dispensa. Em qualquer dessas situações, a prova pericial é indispensável, pois é dela que dependerá a demonstração da natureza e da gravidade da enfermidade.
 :::
 
-#### 3.3.4 Doença Preexistente e a Distinção DID/DII
+#### 3.3.4 Doença preexistente e a distinção DID/DII
 
 ::: box-atencao
 **Atenção**
-A questão da doença preexistente à filiação exige atenção redobrada. O art. 26, II, pressupõe que a doença tenha se manifestado após a filiação ao RGPS. Quando o segurado reingressa no sistema já portador de enfermidade, não faz jus à dispensa de carência. A jurisprudência, contudo, consolidou distinção fundamental entre a data de início da doença (DID) e a data de início da incapacidade (DII): o dado juridicamente relevante não é quando surgiu a doença, mas quando se instalou a incapacidade laboral. O art. 42, § 2º, da Lei 8.213/91 permite expressamente o benefício quando a incapacidade sobrevém por motivo de progressão ou agravamento de doença preexistente (IBRAHIM, 2025; CASTRO; LAZZARI, 2025). Savaris (2023) enfatiza que o juiz, nesses casos, deve determinar prova pericial ampla para verificar se houve progressão posterior à filiação.
+A questão da doença preexistente à filiação exige atenção redobrada. O art. 26, II, pressupõe que a doença tenha se manifestado após a filiação ao RGPS. Quando o segurado reingressa no sistema já portador de enfermidade, não faz jus à dispensa de carência. A jurisprudência, contudo, consolidou distinção fundamental entre a data de início da doença (DID) e a data de início da incapacidade (DII): o dado juridicamente relevante não é quando surgiu a doença, mas quando se instalou a incapacidade laboral. O art. 42, § 2º, da Lei 8.213/91 permite expressamente o benefício quando a incapacidade sobrevém por motivo de progressão ou agravamento de doença preexistente (Ibrahim, 2025; Castro; Lazzari, 2025). Savaris (2023) enfatiza que o juiz, nesses casos, deve determinar prova pericial ampla para verificar se houve progressão posterior à filiação.
 :::
 
 Porto (2024) formula a regra com precisão: caso o segurado já fosse portador da doença antes da filiação, não cabe dispensa de carência em qualquer hipótese. Contudo, se a incapacidade sobrevier por motivo de progressão ou agravamento da doença ou lesão preexistente, a concessão do benefício será admitida desde que cumprida a carência exigida. Trata-se de leitura conjugada do art. 26, II, com o art. 42, § 2º, e o art. 59, § 1º, da Lei 8.213/91.
 
 Santos e Calejon (2025) registram que a jurisprudência dominante firmou-se no sentido de que a contingência se configura com a existência da incapacidade total e permanente (ou temporária), e não com a mera existência da doença. Nesse sentido, a Súmula 53 da TNU dispõe que "Não há direito a auxílio-doença (atual auxílio por incapacidade temporária) ou a aposentadoria por invalidez (atual aposentadoria por incapacidade permanente) quando a incapacidade para o trabalho é preexistente ao reingresso do segurado no Regime Geral de Previdência Social". A distinção entre doença preexistente (que não impede o benefício) e incapacidade preexistente (que impede) é determinante na análise dos casos concretos nos JEFs.
 
-Situação particular envolve os portadores do vírus HIV. A Súmula 78 da TNU orienta que, comprovada a condição de portador do vírus HIV, cabe ao julgador analisar a incapacidade em sentido amplo, levando em conta as condições pessoais e socioeconômicas do segurado e a elevada estigmatização social associada à doença. Por trás dessa diretriz há uma divisão jurisprudencial bem mapeada na doutrina: entre exigir a manifestação de doenças oportunistas (incapacidade clínica) e reconhecer a incapacidade pela simples contaminação (incapacidade social), o estigma e o preconceito frequentemente transformam portadores do HIV em incapazes do ponto de vista socioprofissional, ainda que clinicamente aptos ao trabalho (SANTOS; CALEJON, 2025).
+Situação particular envolve os portadores do vírus HIV. A Súmula 78 da TNU orienta que, comprovada a condição de portador do vírus HIV, cabe ao julgador analisar a incapacidade em sentido amplo, levando em conta as condições pessoais e socioeconômicas do segurado e a elevada estigmatização social associada à doença. Por trás dessa diretriz há uma divisão jurisprudencial bem mapeada na doutrina: entre exigir a manifestação de doenças oportunistas (incapacidade clínica) e reconhecer a incapacidade pela simples contaminação (incapacidade social), o estigma e o preconceito frequentemente transformam portadores do HIV em incapazes do ponto de vista socioprofissional, ainda que clinicamente aptos ao trabalho (Santos; Calejon, 2025).
 
-#### 3.3.5 Salário-Maternidade: Inconstitucionalidade da Carência
+#### 3.3.5 Salário-maternidade: inconstitucionalidade da carência
 
 O salário-maternidade das seguradas empregada, trabalhadora avulsa e empregada doméstica é dispensado de carência pelo inciso VI do art. 26. Após a declaração de inconstitucionalidade do inciso III do art. 25 pelo STF nas ADIs 2.110 e 2.111, com efeitos retroativos à data de publicação da Lei n. 9.876/1999 (29/11/1999), o salário-maternidade de todas as categorias de seguradas passou a independer de carência, resultado que a doutrina já defendia com fundamento na isonomia constitucional.
 
@@ -119,11 +119,11 @@ Convém deter-nos sobre os fundamentos dessa decisão do STF, que este capítulo
 
 Importa fixar a conclusão sem margem para dúvida: depois da inconstitucionalidade do art. 25, III, nenhuma categoria de segurada está sujeita à carência para o salário-maternidade. A prestação independe de carência tanto para empregada, avulsa e doméstica (que já a dispensavam pelo art. 26, VI) quanto para contribuinte individual, facultativa e segurada especial. A única ressalva diz respeito à segurada especial, de quem se exige não carência em sentido próprio, mas a comprovação do exercício de atividade rural nos meses imediatamente anteriores ao parto (art. 39, parágrafo único, da Lei 8.213/91) — requisito funcional equivalente, e não contributivo, na linha do que se expôs na seção 3.3.1.
 
-### 3.4 Contagem do Período de Carência
+### 3.4 Contagem do período de carência
 
 O art. 27 da Lei 8.213/91 estabelece regras distintas de contagem conforme a categoria do segurado (sobre as categorias em espécie, v. Capítulo 2), refletindo a diferente posição que cada categoria ocupa em relação à responsabilidade pelo recolhimento das contribuições. Calcular corretamente a carência segundo a categoria do segurado é tarefa diária na análise de requerimentos previdenciários nos JEFs, e nem sempre trivial.
 
-#### 3.4.1 Segurados Empregado e Trabalhador Avulso
+#### 3.4.1 Segurados empregado e trabalhador avulso
 
 Para empregados e trabalhadores avulsos, a carência é contada a partir da data de filiação ao RGPS (art. 27, inciso I). A razão é simples: o empregado não é responsável pelo recolhimento de sua contribuição, que incumbe ao empregador. Seria injusto imputar ao segurado empregado as consequências da inadimplência patronal.
 
@@ -131,7 +131,7 @@ A diferença entre as duas regras é substancial. O segurado empregado conta a c
 
 Porto (2024) enfatiza que a regra do art. 27, I, aplica-se também quando o contribuinte individual não é responsável pelo recolhimento de sua própria contribuição. O § 4º do art. 26 do Decreto 3.048/99 dispõe que, para o contribuinte individual cujo recolhimento é de responsabilidade do empregador ou contratante, a carência é computada a partir do exercício da atividade remunerada, tal como para o empregado. Essa distinção é relevante na prática, pois nem todo contribuinte individual é responsável tributário pelo próprio recolhimento.
 
-#### 3.4.2 O Empregado Doméstico Antes e Depois da LC 150/2015
+#### 3.4.2 O empregado doméstico antes e depois da LC 150/2015
 
 O empregado doméstico apresenta particularidades decorrentes da evolução legislativa que sofreu. Antes da Lei Complementar n. 150, de 1º de junho de 2015, o empregado doméstico não estava expressamente incluído no inciso I do art. 27, o que gerava a aplicação do regime mais rigoroso do inciso II (contagem a partir do efetivo recolhimento). A doutrina criticava essa exclusão, pois o doméstico, à semelhança do empregado comum, não era responsável pelo recolhimento de sua contribuição, que incumbia ao empregador. A própria TNU já vinha afastando essa limitação antes mesmo da alteração legislativa, equiparando o doméstico ao empregado comum para fins de contagem da carência a partir da filiação — orientação depois positivada pela LC 150/2015.
 
@@ -142,7 +142,7 @@ A LC 150/2015 corrigiu a distorção ao incluir expressamente o empregado domés
 A regra de transição do empregado doméstico ganha relevo nas ações cujo fato gerador é anterior a junho de 2015. Diante de um CNIS de segurado que trabalhou como doméstico antes da LC 150/2015, alguns cuidados se impõem. Convém verificar se há recolhimentos efetivos registrados, pois a carência anterior a 01/06/2015 só é computada a partir do primeiro recolhimento tempestivo. É útil identificar se o empregador doméstico foi regularizado pelo eSocial, que passou a operar para a categoria a partir de outubro de 2015. E não se deve perder de vista que, mesmo sem comprovação de recolhimento, o segurado pode fazer jus ao benefício no valor de um salário mínimo, nos termos do § 4º-C do art. 26 do Decreto 3.048/99. Em nossa prática, é nessa última hipótese que se concentram os litígios mais frequentes da categoria.
 :::
 
-#### 3.4.3 Contribuinte Individual, Segurado Especial e Facultativo
+#### 3.4.3 Contribuinte individual, segurado especial e facultativo
 
 Para contribuintes individuais, segurados especiais e facultativos, a contagem inicia na data do efetivo pagamento da primeira contribuição sem atraso, não sendo consideradas as contribuições recolhidas com atraso referentes a competências anteriores (art. 27, inciso II). Como resume Porto (2024), uma vez feita a primeira contribuição tempestiva, caso haja atraso no recolhimento das subsequentes, a jurisprudência admite o pagamento a destempo como computável para carência, desde que não tenha havido perda da qualidade de segurado.
 
@@ -157,11 +157,11 @@ O Conselho de Recursos da Previdência Social consolidou esse entendimento no En
 O CNIS do contribuinte individual costuma chegar aos JEFs com recolhimentos irregulares, e é aí que o exame exige rigor. Ao aferir o direito à aposentadoria ou a benefício por incapacidade, convém identificar a data do primeiro recolhimento sem atraso, que define o marco inicial da carência; apurar se houve perda da qualidade de segurado no período, o que reinicia a contagem conforme o art. 27-A; e confirmar se as contribuições em atraso posteriores ao marco se situam dentro de período em que a qualidade de segurado se manteve. Fixe-se aqui, como alerta de referência para todo o capítulo, uma advertência que a experiência torna recorrente: a mera existência de 180 contribuições no CNIS não assegura o cumprimento da carência se parte delas foi recolhida com atraso antes do primeiro pagamento tempestivo. É a tempestividade, e não o número bruto de registros, que define a carência do contribuinte individual.
 :::
 
-#### 3.4.4 Cômputo de Períodos de Afastamento por Incapacidade
+#### 3.4.4 Cômputo de períodos de afastamento por incapacidade
 
 Uma questão recorrente nos JEFs é o cômputo de períodos em gozo de benefício por incapacidade para fins de carência. A Súmula 73 da TNU dispõe que "O tempo de gozo de auxílio-doença (atual auxílio por incapacidade temporária) ou de aposentadoria por invalidez (atual aposentadoria por incapacidade permanente) não decorrentes de acidente de trabalho só pode ser computado como tempo de contribuição ou para fins de carência quando intercalado entre períodos nos quais houve recolhimento de contribuições para a previdência social" (redação original com atualização terminológica). O STJ adota entendimento similar, exigindo a intercalação entre períodos contributivos.
 
-Em sentido convergente, e com raciocínio análogo, o STJ entende que o período de recebimento de auxílio por incapacidade temporária não acidentário deve ser considerado no cômputo do prazo de carência da aposentadoria por idade, se intercalado com períodos contributivos (PORTO, 2024). A exigência de intercalação visa impedir que segurados com longos períodos de afastamento por incapacidade, desacompanhados de qualquer contribuição posterior, computem esse tempo para carência.
+Em sentido convergente, e com raciocínio análogo, o STJ entende que o período de recebimento de auxílio por incapacidade temporária não acidentário deve ser considerado no cômputo do prazo de carência da aposentadoria por idade, se intercalado com períodos contributivos (Porto, 2024). A exigência de intercalação visa impedir que segurados com longos períodos de afastamento por incapacidade, desacompanhados de qualquer contribuição posterior, computem esse tempo para carência.
 
 O Supremo Tribunal Federal enfrentou a matéria no Tema 1.125 da repercussão geral (RE 1.298.832, rel. Min. Luiz Fux, então Presidente da Corte, j. 19/02/2021), decidido por reafirmação de jurisprudência no Plenário Virtual. O Tribunal reconheceu a repercussão geral por unanimidade e, no mérito, por maioria, reafirmou a jurisprudência dominante, vencido o Min. Nunes Marques. Com o trânsito em julgado, fixou-se a seguinte tese: "É constitucional o cômputo, para fins de carência, do período no qual o segurado esteve em gozo do benefício de auxílio-doença, desde que intercalado com atividade laborativa." A decisão confirmou, em sede constitucional, a orientação da Súmula 73 da TNU, mantendo a exigência de intercalação como condição para o cômputo do período de afastamento por incapacidade na carência. Note-se que a tese fixada pelo STF refere-se expressamente ao auxílio-doença (atual auxílio por incapacidade temporária), não abrangendo a aposentadoria por incapacidade permanente, cuja extensão analógica permanece objeto de debate doutrinário e jurisprudencial.
 
@@ -170,7 +170,7 @@ O Supremo Tribunal Federal enfrentou a matéria no Tema 1.125 da repercussão ge
 Com o julgamento do Tema 1.125 pelo STF (RE 1.298.832, rel. Min. Luiz Fux, então Presidente da Corte, j. 19/02/2021, trânsito em julgado), a exigência de intercalação com atividade laborativa para o cômputo de período de gozo de auxílio por incapacidade temporária na carência está definitivamente confirmada em sede constitucional, em consonância com a Súmula 73 da TNU. Para benefícios por incapacidade decorrentes de acidente de trabalho, o período de afastamento é computado para carência independentemente de intercalação, nos termos do art. 60, III, do Decreto 3.048/99. Essa distinção entre benefício acidentário e não acidentário deve ser observada na análise dos casos concretos. Registre-se que a tese do STF abrange expressamente apenas o auxílio-doença (atual auxílio por incapacidade temporária); a aplicabilidade do mesmo regime à aposentadoria por incapacidade permanente não foi objeto da decisão e segue controvertida.
 :::
 
-### 3.5 Contribuição Inferior ao Mínimo e os Mecanismos da EC 103/2019
+### 3.5 Contribuição inferior ao mínimo e os mecanismos da EC 103/2019
 
 A EC 103/2019 introduziu regra com profundo impacto na contagem de carência dos segurados de baixa renda. O § 14 do art. 195 da Constituição Federal, na redação dada pela emenda, estabeleceu que "o segurado somente terá reconhecidas como tempo de contribuição ao Regime Geral de Previdência Social as competências cuja contribuição seja igual ou superior à contribuição mínima mensal exigida para sua categoria". Essa disposição atinge diretamente trabalhadores que recebem remuneração inferior ao salário mínimo mensal, cujas contribuições ficam abaixo do piso.
 
@@ -189,13 +189,13 @@ A contribuição inferior ao mínimo assume contornos críticos para trabalhador
 
 Há tensão evidente entre a posição da TNU no Tema 349 e a regulamentação do Decreto 10.410/2020. O Decreto estabelece, nos §§ 7º e 8º do art. 13 do RPS, que a contribuição inferior ao mínimo não é útil para manutenção da qualidade de segurado nem para carência. A TNU, contudo, firmou que essa restrição não encontra amparo na legislação e que a EC 103/2019, ao prever os mecanismos de complementação, utilização e agrupamento, não autorizou a desconsideração automática das competências com contribuição abaixo do piso. A consequência prática é que o INSS indeferirá administrativamente os benefícios com base no Decreto, mas o Judiciário, com base no Tema 349, tenderá a reconhecer a qualidade de segurado e o cômputo para carência. Para os segurados que optam pela alíquota reduzida de 11% (art. 21, § 2º, da Lei 8.212/91), excluindo o direito à aposentadoria por tempo de contribuição, ou pela alíquota de 5% (segurado facultativo de baixa renda e microempreendedor individual), a complementação posterior é expressamente admitida pela legislação, mediante recolhimento da diferença acrescida de juros moratórios. Santos e Calejon (2025) destacam que esse período contributivo com alíquota reduzida, embora não conte para aposentadoria por tempo de contribuição, é plenamente válido para os demais benefícios (incapacidade, idade, pensão por morte), desde que observados os requisitos de carência e qualidade de segurado.
 
-### 3.6 Manutenção da Qualidade de Segurado e Período de Graça
+### 3.6 Manutenção da qualidade de segurado e período de graça
 
 O art. 15 da Lei 8.213/91 estabelece o período de graça, durante o qual o segurado mantém essa qualidade e todos os direitos perante a Previdência Social, independentemente de contribuições. O instituto, já mencionado no capítulo anterior ao tratar dos segurados obrigatórios e facultativos, é agora examinado em profundidade. Horvath Júnior (2025) identifica no período de graça expressão do fundamento solidarístico da previdência social: o instituto impede a cessação abrupta da proteção em momentos de vulnerabilidade, quando circunstâncias alheias à vontade do segurado, como o desemprego involuntário ou a doença, impedem a continuidade contributiva.
 
 Porto (2024) apresenta o período de graça como modalidade de manutenção extraordinária da qualidade de segurado, distinguindo-a da manutenção ordinária, que se dá pela contribuição (segurado facultativo) ou pela permanência em relação contributiva (segurado obrigatório). A expressão "período de graça" traduz exatamente essa ideia: trata-se da manutenção "gratuita" da qualidade de segurado durante período variável, conforme as circunstâncias que motivaram a cessação contributiva.
 
-#### 3.6.1 Fundamento e Hipóteses Legais
+#### 3.6.1 Fundamento e hipóteses legais
 
 O período básico é de 12 meses após a cessação das contribuições ou do exercício de atividade remunerada (art. 15, II). Para o segurado em gozo de benefício, a qualidade é mantida sem limite de prazo (inciso I), com a ressalva introduzida pela MP 871/2019 (a partir de 18/01/2019), confirmada pela Lei 13.846/2019, que excluiu dessa proteção o beneficiário de auxílio-acidente. Porto (2024) registra que a inserção dessa exceção ocorreu com o advento da MP 871/2019, convertida na Lei 13.846/2019, e que, até então, não estava expresso que a percepção isolada do auxílio-acidente não permitiria a manutenção da qualidade de segurado, havendo forte controvérsia doutrinária em razão da natureza meramente indenizatória desse benefício. O STJ firmou, ainda, que a manutenção da qualidade prevista no art. 15, I, inclui os benefícios deferidos por decisão de caráter provisório, ainda que futuramente revogada (STJ, AREsp 2.023.456, rel. Min. Gurgel de Faria, Primeira Turma, j. 20/06/2023, DJe 17/08/2023). O fundamento decisivo foi o de que o art. 15, I, não diferencia a natureza da concessão do benefício e de que o segurado em gozo de prestação por incapacidade concedida por tutela de urgência não pode, nesse intervalo, verter contribuições na condição de segurado obrigatório ou facultativo; logo, não seria razoável imputar-lhe a perda da qualidade pela posterior revogação da medida precária.
 
@@ -203,7 +203,7 @@ O segurado acometido de doença de segregação compulsória mantém a qualidade
 
 Durante o período de graça, a qualidade de segurado está preservada, o que permite ao interessado conservar todos os seus direitos perante a Previdência Social (§ 3º do art. 15). Em regra, contudo, esse período não é computado como tempo de contribuição: serve apenas para manter os direitos inerentes à qualidade de segurado e à carência eventualmente já cumprida, na precisa observação de Porto (2024). Sobrevindo a perda da qualidade, será necessária nova filiação, nos mesmos moldes da original, para readquiri-la.
 
-#### 3.6.2 Mecanismos de Prorrogação
+#### 3.6.2 Mecanismos de prorrogação
 
 Dois mecanismos de prorrogação ampliam o período básico do inciso II. O § 1º do art. 15 estende o prazo para 24 meses quando o segurado já tiver vertido mais de 120 contribuições mensais sem interrupção que acarrete a perda da qualidade. O § 2º acrescenta 12 meses adicionais quando comprovada situação de desemprego involuntário. A combinação desses dois acréscimos pode elevar o período de graça ao máximo de 36 meses.
 
@@ -214,7 +214,7 @@ Porto (2024) esclarece que as duas situações de prorrogação podem ser aprove
 A TNU, no Tema 365 (Processo 0500120-68.2021.4.05.8311/PE, rel. originária Juíza Federal Lílian Oliveira da Costa Tourinho, redator para acórdão Juiz Federal Ivanir César Ireno Júnior, j. 12/11/2025), firmou a tese de que "não é possível o cômputo do período de gozo de benefício por incapacidade intercalado entre contribuições para fins de aferição das mais de 120 contribuições mensais exigidas para a prorrogação do período de graça, nos termos do art. 15, § 1º, da Lei n. 8.213/91". A decisão impede que segurados com longos períodos de afastamento por incapacidade se beneficiem da prorrogação automática do período de graça (de 12 para 24 meses) sem terem efetivamente vertido as contribuições exigidas.
 :::
 
-#### 3.6.3 Cálculo da Data Exata de Perda da Qualidade
+#### 3.6.3 Cálculo da data exata de perda da qualidade
 
 A perda efetiva da qualidade de segurado não ocorre no último dia do período de graça, mas em momento posterior, conforme a regra do § 4º do art. 15. Segundo esse dispositivo, a perda se dá no dia seguinte ao término do prazo de recolhimento da contribuição referente ao mês imediatamente posterior ao final do período de graça. O Decreto 3.048/99, em seu art. 14, complementa: o reconhecimento da perda ocorre no dia seguinte ao do vencimento da contribuição do contribuinte individual relativa ao mês imediatamente posterior ao término dos prazos.
 
@@ -222,29 +222,29 @@ Na prática administrativa e na contagem judicial, isso significa que o segurado
 
 Esse cálculo exige atenção minuciosa, pois um erro de dias pode alterar a conclusão sobre a manutenção ou perda da qualidade de segurado na data do evento gerador. Nos JEFs, o cálculo preciso dessa data é determinante para o resultado do processo, especialmente em ações de pensão por morte (em que o evento é o óbito) e de benefícios por incapacidade (em que o evento é a data de início da incapacidade).
 
-### 3.7 Prorrogação do Período de Graça e Jurisprudência
+### 3.7 Prorrogação do período de graça e jurisprudência
 
 A prova do desemprego involuntário, exigida para obtenção do acréscimo de 12 meses previsto no § 2º do art. 15, figura entre as questões mais litigadas em torno da qualidade de segurado. A lei reclama comprovação por meio de "registro no órgão próprio do Ministério do Trabalho e da Previdência Social", o que suscitou longa controvérsia sobre a taxatividade desse meio de prova.
 
-#### 3.7.1 Prova do Desemprego Involuntário
+#### 3.7.1 Prova do desemprego involuntário
 
 A TNU, por meio da Súmula 27, firmou que a ausência de registro em órgão do Ministério do Trabalho não impede a comprovação do desemprego por outros meios admitidos em direito. Porto (2024), em nota doutrinária, registra que o STJ exige prova mais robusta do que a mera ausência de anotação posterior na CTPS, ou seja, a prova negativa não é suficiente; é necessário elemento positivo que demonstre a condição de desempregado.
 
 O Superior Tribunal de Justiça, no julgamento do Tema Repetitivo 1360 (rel. Min. Afrânio Vilela, j. 11/03/2026), consolidou e expandiu esse entendimento, fixando que o registro perante o Ministério do Trabalho pode ser suprido por outros meios de prova, tanto na via administrativa quanto na judicial, desde que demonstrada a situação de desemprego involuntário. A Corte ressalvou que a mera ausência de anotações na CTPS ou no CNIS não é suficiente isoladamente, exigindo prova positiva da condição de desempregado, como FGTS movimentado, recibo de seguro-desemprego, Termo de Rescisão ou documentação equivalente.
 
-#### 3.7.2 Extensão ao Contribuinte Individual
+#### 3.7.2 Extensão ao contribuinte individual
 
 A prorrogação por desemprego involuntário alcança também o contribuinte individual. A TNU, no Tema 239 (PEDILEF 0504272-91.2018.4.05.8400, j. 28/04/2021), firmou a tese de que a prorrogação prevista no § 2º do art. 15 estende-se ao segurado contribuinte individual, quando comprovado que a cessação da atividade econômica decorreu de causa involuntária, além da ausência de atividade subsequente. Savaris (2023), que foi pioneiro na defesa dessa extensão antes de seu acolhimento jurisprudencial, fundamenta a tese no princípio da adequada proteção previdenciária, sustentando que o período de graça é concretização do direito fundamental à proteção social.
 
 Porto (2024) anota que, tradicionalmente, entendia-se que o termo "desempregado" abarcaria apenas o segurado empregado (inclusive o doméstico e o trabalhador avulso) em situação de desemprego. A evolução jurisprudencial, contudo, expandiu o conceito para incluir o contribuinte individual que comprove situação de "desocupação" (termo tecnicamente mais adequado que "desemprego" para essa categoria). A ressalva é que o contribuinte individual deve demonstrar não apenas a cessação involuntária de sua atividade, mas também a ausência de atividade remunerada subsequente.
 
-#### 3.7.3 Limbo Previdenciário
+#### 3.7.3 Limbo previdenciário
 
 Situação peculiar envolve o chamado limbo previdenciário, que ocorre quando o INSS cessa o benefício por incapacidade, considerando o segurado apto ao trabalho, mas o empregador recusa seu retorno por considerá-lo inapto. A TNU enfrentou a questão no Tema 300 (Processo 05130308820204058400, j. 07/12/2022), fixando que, nessa hipótese, a qualidade de segurado se mantém até o encerramento do vínculo de trabalho, que ocorrerá com a rescisão contratual, momento a partir do qual se inicia a contagem do período de graça do art. 15, inciso II. A tese protege o segurado em situação de vulnerabilidade, impedindo que a perda da qualidade seja contada a partir da cessação do benefício pelo INSS quando o trabalhador permanece vinculado ao emprego sem poder exercê-lo nem contribuir.
 
 O limbo previdenciário situa-se na fronteira entre o direito previdenciário e o direito do trabalho, e essa dupla natureza explica boa parte de sua dificuldade. O trabalhador que se encontra nessa situação não recebe remuneração do empregador (que recusa o retorno) nem benefício previdenciário (que foi cessado), ficando em completo desamparo. A tese firmada no Tema 300/TNU garante que, ao menos para fins previdenciários, a qualidade de segurado seja preservada durante o período de limbo, mas não resolve a questão trabalhista. Nos JEFs, a solução usual é o restabelecimento do benefício por incapacidade quando demonstrada a persistência da incapacidade, ou a fixação do termo inicial do período de graça na data da efetiva rescisão contratual.
 
-#### 3.7.4 Início da Contagem após Cessação de Benefício por Incapacidade
+#### 3.7.4 Início da contagem após cessação de benefício por incapacidade
 
 O início da contagem do período de graça após a cessação de benefício por incapacidade foi uniformizado pela TNU no Tema 251 (Processo 0501223-27.2018.4.05.8405/RN, rel. Juíza Federal Isadora Segalla Afanasieff, j. 16/10/2020): "o início da contagem do período de graça para o segurado que se encontra em gozo de auxílio por incapacidade temporária, para fins de aplicação do disposto no art. 15, inciso II e §§ 1º e 2º da Lei n. 8.213/1991, é o primeiro dia do mês seguinte à data de cessação do benefício previdenciário por incapacidade". Essa uniformização é essencial para o cálculo preciso da qualidade de segurado em ações de concessão de novos benefícios ou de pensão por morte.
 
@@ -253,11 +253,11 @@ O início da contagem do período de graça após a cessação de benefício por
 O cálculo do período de graça concentra boa parte das controvérsias sobre qualidade de segurado, e por isso convém reduzi-lo a uma sequência ordenada: (1) identificar a data de cessação das contribuições ou do último benefício por incapacidade (Tema 251/TNU: primeiro dia do mês seguinte à cessação); (2) verificar se o segurado conta com mais de 120 contribuições efetivas (prorrogação para 24 meses, conforme o § 1º, exigindo contribuições efetivas nos termos do Tema 365/TNU, sem cômputo de período em gozo de benefício por incapacidade intercalado); (3) verificar se há prova de desemprego involuntário (acréscimo de 12 meses, conforme o § 2º, admitindo qualquer meio de prova nos termos do Tema 1360/STJ e extensível ao contribuinte individual conforme Tema 239/TNU); (4) aplicar a regra do § 4º para determinar a data exata da perda (dia seguinte ao vencimento da contribuição do mês imediatamente posterior ao término do período de graça); e (5) em caso de limbo previdenciário, considerar o Tema 300/TNU para fixar o termo inicial da contagem na data da rescisão contratual. É desse cálculo, frequentemente disputado por questão de dias, que depende a conclusão sobre a manutenção da qualidade na data do evento gerador (incapacidade, óbito, recolhimento à prisão).
 :::
 
-### 3.8 Perda e Reaquisição da Qualidade de Segurado
+### 3.8 Perda e reaquisição da qualidade de segurado
 
 A perda da qualidade de segurado produz, como efeito principal, a caducidade dos direitos inerentes a essa condição, nos termos do art. 102 da Lei 8.213/91. O ex-segurado perde o acesso a benefícios cujo fato gerador ocorra após a perda, e seus dependentes ficam desprotegidos para fins de pensão por morte e auxílio-reclusão. Porto (2024) sintetiza a consequência: perdida a qualidade de segurado, será necessária nova filiação ("refiliação"), nos mesmos moldes da filiação original, para readquiri-la. Para os benefícios não programados, a perda acarreta também a caducidade da carência anteriormente cumprida. Há, contudo, exceções relevantes que merecem exame detalhado.
 
-#### 3.8.1 Efeitos da Perda e Exceções Legais
+#### 3.8.1 Efeitos da perda e exceções legais
 
 A primeira exceção é o direito adquirido à aposentadoria. O § 1º do art. 102 estabelece que a perda da qualidade não prejudica o direito à aposentadoria cujos requisitos já tenham sido integralmente preenchidos segundo a legislação vigente à época. A Lei n. 10.666, de 8 de maio de 2003, ampliou esse entendimento em seu art. 3º, dispondo que a perda da qualidade de segurado não será considerada para a concessão das aposentadorias por tempo de contribuição e especial. Essa norma dispensa a manutenção da qualidade de segurado para essas espécies de aposentadoria, bastando o cumprimento da carência e do tempo exigidos. O Decreto 3.048/99, em seus §§ 5º e 6º do art. 13, estendeu a mesma lógica à aposentadoria por idade, desde que o segurado conte com a carência mínima exigida.
 
@@ -265,13 +265,13 @@ Santos e Calejon (2025) observam que a regra do art. 102, § 1º, constitui norm
 
 A segunda exceção protege os dependentes. O § 2º do art. 102 veda a concessão de pensão por morte aos dependentes do segurado que falecer após a perda da qualidade, salvo se o falecido já havia preenchido todos os requisitos para aposentadoria na forma do § 1º. Essa ressalva é aplicação direta da Súmula 416 do STJ, que consagra o entendimento de que "é devida a pensão por morte aos dependentes do segurado que, apesar de ter perdido essa qualidade, preencheu os requisitos legais para a obtenção de aposentadoria até a data do seu óbito". A identificação do regime jurídico aplicável segue o princípio consagrado na Súmula 340 do STJ, segundo a qual a lei vigente na data do óbito é a que rege a concessão da pensão, o que exige atenção ao marco temporal em ações envolvendo óbitos ocorridos antes e depois da EC 103/2019.
 
-#### 3.8.2 A Regra Geral do Art. 24, Parágrafo Único
+#### 3.8.2 A regra geral do art. 24, parágrafo único
 
 A reaquisição da qualidade de segurado após sua perda suscita a questão do aproveitamento das contribuições anteriores para fins de carência. O art. 24, parágrafo único, da Lei 8.213/91 estabelece regra geral segundo a qual as contribuições anteriores à perda da qualidade só serão computadas para carência depois que o segurado contar, a partir da nova filiação, com no mínimo um terço do número de contribuições exigidas para o benefício pretendido. Na prática, para aposentadorias que exigem 180 contribuições, é necessário reunir 60 novas contribuições para aproveitar as anteriores; para benefícios por incapacidade que exigem 12, bastariam 4.
 
 Essa regra geral aplica-se aos benefícios não abrangidos pelo art. 27-A, que constitui norma especial. Atualmente, o campo de aplicação residual do art. 24, parágrafo único, é relativamente restrito: na prática forense, predomina a invocação do art. 27-A para benefícios por incapacidade, salário-maternidade e auxílio-reclusão.
 
-#### 3.8.3 O Art. 27-A e a Regra da Metade
+#### 3.8.3 O art. 27-A e a regra da metade
 
 A MP 871/2019, convertida na Lei 13.846/2019, inseriu o art. 27-A na redação vigente, que constitui norma especial para benefícios por incapacidade, salário-maternidade e auxílio-reclusão. Por essa regra, o segurado que perdeu a qualidade deve contar, a partir da nova filiação, com metade dos períodos previstos nos incisos I, III e IV do art. 25. Na prática, para benefícios por incapacidade, a exigência é de 6 contribuições (metade de 12) após a nova filiação; para o auxílio-reclusão, 12 contribuições (metade de 24). Essa norma representou agravamento em relação à regra anterior: sob o regime do parágrafo único do art. 24, bastavam 4 contribuições (um terço de 12) para readquirir o aproveitamento pleno das contribuições pretéritas.
 
@@ -279,7 +279,7 @@ Porto (2024) denomina essa exigência de "resgate da carência" ou "carência de
 
 Exemplo prático: segurado contribuinte individual que verteu 120 contribuições, perdeu a qualidade de segurado por cessação das contribuições e, após dois anos, refiliou-se ao RGPS. Para obter auxílio por incapacidade temporária (carência de 12 contribuições), deve cumprir 6 novas contribuições tempestivas (metade de 12) após a refiliação. Cumprida essa "carência de reingresso", as 120 contribuições anteriores são reaproveitadas, e o segurado terá 126 contribuições computadas para carência. Se, contudo, não cumprir as 6 contribuições necessárias antes do evento incapacitante, não terá direito ao benefício por falta de carência, mesmo tendo vertido 120 contribuições ao longo de sua vida laboral.
 
-#### 3.8.4 Histórico Legislativo do Art. 27-A (2016-2019)
+#### 3.8.4 Histórico legislativo do art. 27-A (2016-2019)
 
 ::: box-atencao
 **Atenção**
@@ -302,7 +302,7 @@ A cronologia detalhada é indispensável para a correta aplicação do direito i
 
 A aplicação do princípio tempus regit actum impõe que se identifique qual regime estava vigente na data do fato gerador. Para benefícios por incapacidade, o marco relevante é a data de início da incapacidade (DII); para o auxílio-reclusão, a data do recolhimento à prisão; para o salário-maternidade, a data do parto ou do evento que gera o direito ao benefício. A importância dessa verificação temporal não pode ser subestimada: um segurado que perdeu a qualidade em março de 2017 e sofreu incapacidade em maio de 2017, sob o regime da MP 767/2017 (vigente desde 06/01/2017), precisava cumprir a carência integral (12 contribuições) após a refiliação. Se o mesmo segurado tivesse sofrido a incapacidade em dezembro de 2016, sob o regime da MP 739/2016, idêntica exigência se aplicaria (carência integral de 12 contribuições). E se a incapacidade tivesse ocorrido em fevereiro de 2017, após a caducidade da MP 739/2016 e antes da edição da MP 767/2017, aplicava-se a regra geral do art. 24, parágrafo único (um terço, ou seja, 4 contribuições), regime substancialmente mais favorável. Já para incapacidade surgida a partir de 18/01/2019, sob o regime da MP 871/2019 (posteriormente convertida na Lei 13.846/2019), a exigência passou a ser de metade da carência (6 contribuições), representando abrandamento em relação à carência integral das MPs e da Lei anteriores. Essa oscilação normativa exige do advogado e do juiz nos JEFs meticulosa atenção à cronologia legislativa.
 
-#### 3.8.5 Complementação de Contribuições após o Óbito
+#### 3.8.5 Complementação de contribuições após o óbito
 
 Por fim, admite-se a possibilidade de complementação de contribuições após o óbito do segurado. A TNU, no Tema 286 (rel. Juiz Federal Ivanir César Ireno Júnior, j. 23/06/2022), admitiu que os dependentes complementem, após o óbito, as contribuições recolhidas em vida pelo segurado contribuinte de baixa renda (de 5% para 11% ou 20%), nos termos do art. 21, § 2º, II, "b", da Lei 8.212/91, em caso de não validação das contribuições originais. Essa complementação não se confunde com o recolhimento intempestivo de contribuições, que permanece vedado pela jurisprudência consolidada. A distinção é relevante: complementar a alíquota de contribuição tempestiva é permitido; recolher contribuição intempestiva após o óbito para criar carência é vedado.
 
@@ -319,7 +319,7 @@ Sustentamos que o sistema de perda e reaquisição da qualidade de segurado, tal
 
 Carência e qualidade de segurado, embora conceitos juridicamente autônomos, operam em interdependência funcional. A carência pressupõe a qualidade de segurado para os benefícios não programados; a perda da qualidade acarreta, como efeito reflexo, a caducidade da carência para esses mesmos benefícios. A jurisprudência atual da TNU e do STJ, examinada ao longo deste capítulo, oferece ao juiz, à defesa e ao próprio INSS balizas suficientes para a correta análise desses pressupostos, tanto na esfera administrativa quanto na judicial.
 
-### 3.10 Referências
+### Referências
 
 #### Doutrina
 

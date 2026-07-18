@@ -41,7 +41,7 @@ tags:
 
 ## Capítulo 15 — Auxílio-Acidente e Salário-Família
 
-### 15.1 Introdução e Fundamento Constitucional
+### 15.1 Introdução e fundamento constitucional
 
 O auxílio-acidente (art. 86, Lei n. 8.213/91) é o único benefício de natureza indenizatória do Regime Geral de Previdência Social. Enquanto os demais benefícios previdenciários substituem a renda do segurado em situações de incapacidade, idade avançada, maternidade ou reclusão, o auxílio-acidente compensa o segurado pela redução permanente de sua capacidade laborativa, permitindo-lhe continuar exercendo atividade remunerada concomitantemente ao recebimento do benefício.
 
@@ -51,7 +51,7 @@ A relevância prática do auxílio-acidente nos Juizados Especiais Federais é e
 
 Este capítulo examina o auxílio-acidente em todas as suas dimensões: fundamento normativo, evolução legislativa, natureza jurídica, requisitos de concessão, segurados beneficiários, cálculo, acumulação, competência jurisdicional e aspectos processuais nos JEFs. A análise incorpora a jurisprudência consolidada do STJ, especialmente o Tema 862, as Súmulas 44 e 507, e as edições 198 e 199 da Jurisprudência em Teses, e da TNU, com destaque para os Temas 269, 315 e 322, além das posições doutrinárias dos principais autores de referência.
 
-### 15.2 Evolução Legislativa
+### 15.2 Evolução legislativa
 
 A proteção previdenciária contra os efeitos residuais de acidentes percorreu caminho legislativo tortuoso até alcançar a configuração atual. A compreensão dessa trajetória é indispensável para interpretar corretamente o regime jurídico vigente, especialmente as regras de direito intertemporal que ainda produzem efeitos práticos nos JEFs.
 
@@ -69,7 +69,7 @@ A Lei Complementar n. 150, de 1º de junho de 2015, incluiu o empregado domésti
 
 A Emenda Constitucional n. 103, de 12 de novembro de 2019, não alterou diretamente o art. 86 da Lei n. 8.213/91, mas impactou o cálculo do auxílio-acidente ao modificar a fórmula do salário-de-benefício (o ponto é retomado, com o detalhamento do direito intertemporal, na seção 15.19 deste capítulo; para o tratamento completo da evolução do cálculo do salário-de-benefício no RGPS, v. Cap. 16). Na prática, a inclusão de todos os salários de contribuição desde julho de 1994 na média aritmética (não mais apenas os 80% maiores) tende a reduzir o valor do auxílio-acidente para segurados com trajetória contributiva irregular.
 
-### 15.3 Natureza Jurídica: Benefício Indenizatório
+### 15.3 Natureza jurídica: benefício indenizatório
 
 A distinção entre benefícios substitutivos e benefícios indenizatórios constitui o eixo de compreensão do auxílio-acidente e de suas regras peculiares. Os benefícios substitutivos, aposentadorias, auxílio por incapacidade temporária, salário-maternidade, destinam-se a substituir a renda do segurado em situações que o privam, total ou parcialmente, de sua capacidade de auferir rendimentos pelo trabalho. O auxílio-acidente, ao contrário, não substitui a renda: indeniza o segurado pela redução permanente de sua capacidade laborativa, permitindo-lhe continuar trabalhando e recebendo remuneração.
 
@@ -79,7 +79,7 @@ Dessa natureza indenizatória extraem-se consequências processuais relevantes, 
 
 Ibrahim (2025) sublinha que essa feição indenizatória singulariza o auxílio-acidente no rol de benefícios do RGPS: por não se destinar a substituir rendimentos, mas a compensar perda funcional permanente, ele convive com a remuneração do trabalho e, justamente por isso, recebeu da lei tratamento próprio nas regras de acumulação. Convém precisar, todavia, que essa natureza compensatória não retira o auxílio-acidente das bases de cálculo previdenciárias: ele integra o salário de contribuição para o cálculo de aposentadorias futuras (art. 31, examinado na seção 15.12) e, quando acumulado com pensão por morte, submete-se ao escalonamento do art. 24 da EC 103/2019 (seções 15.13 e 15.19). O que distingue o benefício, portanto, não é uma suposta imunidade às bases de cálculo, mas a compatibilidade com a renda do trabalho e o regime peculiar de acumulação que dela decorre.
 
-### 15.4 Fato Gerador: Consolidação das Lesões com Redução da Capacidade
+### 15.4 Fato gerador: consolidação das lesões com redução da capacidade
 
 O fato gerador do auxílio-acidente, conforme o art. 86, caput, da Lei n. 8.213/91, exige a presença simultânea de três elementos: (a) acidente de qualquer natureza; (b) consolidação das lesões; e (c) sequelas que impliquem redução da capacidade para o trabalho habitualmente exercido.
 
@@ -96,7 +96,7 @@ A tese do Tema 269 é restritiva: exclui do conceito de "acidente de qualquer na
 A distinção entre "redução da capacidade" (auxílio-acidente) e "incapacidade" (auxílio por incapacidade temporária ou aposentadoria por incapacidade permanente) é essencial. Se o segurado está incapaz para o trabalho, o benefício devido é o auxílio por incapacidade temporária ou a aposentadoria por incapacidade permanente, não o auxílio-acidente. O auxílio-acidente pressupõe capacidade laborativa residual, ainda que reduzida.
 :::
 
-### 15.5 Segurados Beneficiários e Exclusões
+### 15.5 Segurados beneficiários e exclusões
 
 O art. 18, §1º, da Lei n. 8.213/91 restringe o auxílio-acidente a determinadas categorias de segurados. São beneficiários:
 
@@ -114,13 +114,13 @@ O art. 18, §1º, da Lei n. 8.213/91 restringe o auxílio-acidente a determinada
 O TRF4 tem posição consolidada pela constitucionalidade da exclusão do contribuinte individual: "Não tem direito ao auxílio-acidente o contribuinte individual, ante a expressa exclusão legal prevista no art. 18, §1º, da Lei n. 8.213/91." A questão, contudo, não está pacificada no STJ ou no STF em sede de recurso repetitivo ou repercussão geral, o que deixa margem para decisões divergentes nos JEFs.
 :::
 
-### 15.6 Dispensa de Carência
+### 15.6 Dispensa de carência
 
 O auxílio-acidente independe de carência (art. 26, I, da Lei n. 8.213/91 — v. seção 3.3.1 para o tratamento completo da dispensa de carência). A dispensa é coerente com a natureza do benefício: a ocorrência de acidente é evento imprevisível, incompatível com a exigência de período contributivo mínimo.
 
 A dispensa de carência não significa dispensa de qualidade de segurado. Para fazer jus ao auxílio-acidente, o segurado deve estar filiado ao RGPS e manter a qualidade de segurado na data do acidente, conforme as regras do art. 15 da Lei n. 8.213/91 (período de graça), analisadas no Capítulo 3.
 
-### 15.7 Acidente de Qualquer Natureza: Acidente Típico, de Trajeto e Doença Ocupacional
+### 15.7 Acidente de qualquer natureza: acidente típico, de trajeto e doença ocupacional
 
 A correta classificação do evento que origina o auxílio-acidente é decisiva para a definição da competência jurisdicional e do regime jurídico aplicável. O sistema legal distingue três categorias:
 
@@ -135,7 +135,7 @@ A correta classificação do evento que origina o auxílio-acidente é decisiva 
 A definição da competência depende da causa de pedir e do pedido: se o segurado alega acidente do trabalho ou doença ocupacional (arts. 19-21), a competência é da Justiça Estadual, ainda que a ação seja contra o INSS. Se alega acidente de qualquer outra natureza (art. 86), a competência é da Justiça Federal/JEF. O juiz deve analisar a petição inicial para definir a competência, não pode alterar a qualificação jurídica do acidente para fins de remessa. Na prática dos JEFs, é frequente o recebimento de ações em que o segurado alega "acidente de qualquer natureza" mas os fatos narrados configuram acidente do trabalho, hipótese em que o juiz deve declinar da competência para a Justiça Estadual.
 :::
 
-### 15.8 Redução da Capacidade Laborativa: Critérios e Controvérsias
+### 15.8 Redução da capacidade laborativa: critérios e controvérsias
 
 A aferição da "redução da capacidade para o trabalho que habitualmente exercia" é o ponto mais sensível da concessão do auxílio-acidente. Ao contrário dos benefícios por incapacidade, em que a perícia avalia se o segurado está ou não incapaz, no auxílio-acidente a perícia deve avaliar se houve redução da capacidade, sem que o segurado esteja necessariamente incapaz.
 
@@ -154,7 +154,7 @@ Não existe, na legislação brasileira, uma tabela que gradue percentuais de re
 Segurado de 52 anos, pedreiro, sofre queda de escada em casa e fratura o punho direito. Após a consolidação, a perícia constata redução de 30% da força de preensão e limitação de movimento do punho. O INSS indefere o auxílio-acidente alegando que a redução é "mínima". Na ação perante o JEF, o perito judicial confirma a sequela e o juiz concede o benefício, fundamentando: (i) a redução é efetiva e permanente, ainda que percentualmente pequena; (ii) a atividade habitual de pedreiro exige força manual intensa, de modo que mesmo uma redução de 30% compromete significativamente o desempenho; (iii) as condições pessoais do segurado (baixa escolaridade, idade avançada, trabalho exclusivamente braçal) agravam o impacto funcional. A DIB é fixada no dia seguinte à cessação do auxílio por incapacidade temporária (Tema 862/STJ).
 :::
 
-### 15.9 Valor do Benefício: 50% do Salário-de-Benefício
+### 15.9 Valor do benefício: 50% do salário-de-benefício
 
 O valor do auxílio-acidente corresponde a 50% do salário-de-benefício, conforme o art. 86, §1º, da Lei n. 8.213/91 (redação dada pela Lei n. 9.032/95).
 
@@ -169,7 +169,7 @@ O valor do auxílio-acidente corresponde a 50% do salário-de-benefício, confor
 Ao contrário da aposentadoria e dos benefícios por incapacidade, o auxílio-acidente não tem piso constitucional de um salário mínimo. Sua natureza indenizatória permite que o valor seja inferior ao mínimo. Para ilustrar a ordem de grandeza, tome-se o segurado cuja média de salários de contribuição equivale ao salário mínimo: o auxílio-acidente será de R$ 810,50 (50% do salário mínimo de R$ 1.621,00 em 2026). Esse patamar é apenas um ponto de referência, e o valor concreto varia conforme a trajetória contributiva: se a média do segurado for inferior ao salário mínimo, o benefício resultará em montante ainda menor que R$ 810,50; se a média for superior, o benefício será proporcionalmente maior, sempre correspondendo a 50% do salário-de-benefício apurado. Esses montantes modestos — sempre inferiores ao próprio salário-de-benefício que serviria de base à aposentadoria — explicam em parte o baixo volume de requerimentos administrativos.
 :::
 
-### 15.10 Data de Início do Benefício (DIB)
+### 15.10 Data de início do benefício (DIB)
 
 A fixação da data de início do auxílio-acidente é questão pacificada pelo STJ no Tema 862 (REsp 1.729.555/SP, Primeira Seção, Rel. Min. Assusete Magalhães, j. 09/06/2021): "O termo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei 8.213/91, observando-se a prescrição quinquenal da Súmula 85/STJ." A expressão "auxílio-doença" corresponde ao atual auxílio por incapacidade temporária (terminologia da EC 103/2019).
 
@@ -187,7 +187,7 @@ A TNU, no Tema 315 (PEDILEF 5063339-35.2020.4.04.7100/RS, j. 18/10/2023), reafir
 O STJ, na edição 199 da Jurisprudência em Teses, firmou ainda que "o laudo pericial não é parâmetro para fixação da data de início do auxílio-acidente, porquanto não atesta o momento efetivo em que a doença se instalou, apenas orienta o livre convencimento do juiz." Essa tese é relevante porque impede que o INSS ou o juiz fixem a DIB na data da perícia judicial, prática que retardaria injustificadamente o início do benefício.
 :::
 
-### 15.11 Duração e Cessação
+### 15.11 Duração e cessação
 
 O auxílio-acidente é benefício de duração determinada, embora potencialmente longa. Nos termos do art. 86, §1º, da Lei n. 8.213/91, o benefício será devido "até a véspera do início de qualquer aposentadoria ou até a data do óbito do segurado".
 
@@ -199,7 +199,7 @@ O auxílio-acidente é benefício de duração determinada, embora potencialment
 
 **c) Recuperação da capacidade:** Hipótese teórica, se o segurado recuperar integralmente a capacidade que havia sido reduzida, o auxílio-acidente poderia ser cessado. Na prática, é situação raríssima, porque o auxílio-acidente pressupõe sequelas consolidadas (permanentes).
 
-### 15.12 Incorporação ao Salário de Contribuição
+### 15.12 Incorporação ao salário de contribuição
 
 O art. 31 da Lei n. 8.213/91 determina que o valor mensal do auxílio-acidente integra o salário de contribuição para fins de cálculo do salário-de-benefício de qualquer aposentadoria. Essa regra tem importância prática significativa: assegura que o período de recebimento do auxílio-acidente não prejudique, e, ao contrário, beneficie, o cálculo da aposentadoria futura.
 
@@ -212,7 +212,7 @@ A regra tem especial relevância para o segurado especial, como reconhecido pelo
 A incorporação do auxílio-acidente ao salário de contribuição é regra que favorece o segurado, pois eleva a base de cálculo da aposentadoria. Ao cessar o auxílio-acidente pela concessão da aposentadoria, o segurado perde o benefício indenizatório, mas obtém aposentadoria com valor potencialmente mais elevado. Essa lógica compensatória é a razão de ser da incorporação.
 :::
 
-### 15.13 Acumulação e Vedações
+### 15.13 Acumulação e vedações
 
 O regime de acumulação do auxílio-acidente é um dos temas mais recorrentes na prática dos JEFs (para o tratamento sistemático da acumulação de benefícios, v. Cap. 20). As regras específicas do auxílio-acidente podem ser sistematizadas em vedações e permissões.
 
@@ -238,7 +238,7 @@ Para as doenças ocupacionais, a fixação dessa data exige recorrer ao art. 23 
 
 **d) Auxílio-acidente e auxílio por incapacidade temporária por lesão diversa.** Possível, como visto acima.
 
-### 15.14 Segurado Especial e Auxílio-Acidente
+### 15.14 Segurado especial e auxílio-acidente
 
 O segurado especial — trabalhador rural em regime de economia familiar, pescador artesanal e demais categorias do art. 11, VII — apresenta particularidades relevantes no auxílio-acidente.
 
@@ -248,7 +248,7 @@ Mais relevante para a prática forense é a tese do Tema 322 (PEDILEF 5014634-54
 
 Não se pode perder de vista, por fim, a alta exposição dessa categoria a acidentes de qualquer natureza — quedas, acidentes com máquinas agrícolas, picadas de animais, intoxicação por agrotóxicos —, o que faz do auxílio-acidente benefício de incidência frequente entre os trabalhadores rurais.
 
-### 15.15 Competência Jurisdicional: Justiça Federal versus Justiça Estadual
+### 15.15 Competência jurisdicional: justiça federal versus justiça estadual
 
 A definição de competência é questão preliminar que se impõe em toda ação de auxílio-acidente e cuja solução depende da causa de pedir: a natureza do acidente.
 
@@ -264,7 +264,7 @@ A definição de competência é questão preliminar que se impõe em toda açã
 As Súmulas 15/STJ e 501/STF consolidam a competência da Justiça Estadual para ações acidentárias. Contudo, quando o segurado não alega acidente do trabalho, mas sim acidente doméstico, de trânsito ou de outra natureza, a competência é da Justiça Federal/JEF, e o juiz federal não pode declinar para a Justiça Estadual apenas porque a sequela é ortopédica ou semelhante às causadas por acidentes laborais.
 :::
 
-### 15.16 Perda Auditiva e Auxílio-Acidente
+### 15.16 Perda auditiva e auxílio-acidente
 
 A concessão de auxílio-acidente por perda auditiva é uma das matérias mais controvertidas na prática previdenciária. O art. 86, §4º, da Lei n. 8.213/91 (incluído pela Lei 9.528/97) estabelece requisitos específicos: "A perda da audição, em qualquer grau, somente proporcionará a concessão do auxílio-acidente, quando, além do reconhecimento de causalidade entre o trabalho e a doença, resultar, comprovadamente, na redução ou perda da capacidade para o trabalho que habitualmente exercia."
 
@@ -278,7 +278,7 @@ Embora o Tema 269/TNU não tenha enfrentado diretamente a PAIR, a definição re
 
 Na atuação forense dos JEFs, a questão da competência nas ações de auxílio-acidente por perda auditiva é recorrente e exige atenção do magistrado: se a causa de pedir é exposição ocupacional a ruído, a competência é da Justiça Estadual; se é trauma acústico não laboral, a competência é federal.
 
-### 15.17 Lesões Ortopédicas e Sequelas Funcionais
+### 15.17 Lesões ortopédicas e sequelas funcionais
 
 As sequelas ortopédicas, limitação de movimento articular, encurtamento de membro, deformidade óssea consolidada, perda de força em membro, constituem a causa mais frequente de auxílio-acidente nos JEFs, quando decorrentes de acidentes de qualquer natureza (quedas domésticas, acidentes de trânsito, acidentes esportivos).
 
@@ -288,7 +288,7 @@ As sequelas ortopédicas, limitação de movimento articular, encurtamento de me
 
 **Amputações e perdas funcionais.** Perda de dedos, mãos ou pés por acidente gera auxílio-acidente quando há capacidade residual para o trabalho. Se a perda gera incapacidade total e permanente, o benefício devido é a aposentadoria por incapacidade permanente, não o auxílio-acidente.
 
-### 15.18 Conversão do Auxílio por Incapacidade Temporária em Auxílio-Acidente
+### 15.18 Conversão do auxílio por incapacidade temporária em auxílio-acidente
 
 A conversão do auxílio por incapacidade temporária em auxílio-acidente é situação recorrente nos JEFs e reflete a dinâmica natural da recuperação: o segurado que estava incapaz recupera a capacidade para o trabalho, mas com sequelas permanentes que reduzem sua capacidade.
 
@@ -315,7 +315,7 @@ A Emenda Constitucional n. 103/2019 não alterou diretamente o art. 86 da Lei n.
 
 **d) Direito intertemporal.** Para auxílios-acidente concedidos antes de 13/11/2019, aplica-se o cálculo anterior (80% maiores salários). Para os concedidos após essa data, aplica-se o novo cálculo. O marco é a data do fato gerador (consolidação das lesões ou cessação do auxílio por incapacidade temporária), não a data do requerimento administrativo ou da decisão judicial.
 
-### 15.20 Aspectos Processuais nos JEFs
+### 15.20 Aspectos processuais nos JEFs
 
 As ações de auxílio-acidente nos Juizados Especiais Federais apresentam especificidades processuais relevantes para a prática forense.
 
@@ -349,13 +349,13 @@ O juiz do JEF pode conceder auxílio-acidente quando o segurado pleiteou auxíli
 
 Aplicam-se as regras gerais dos JEFs: sem condenação em honorários quando a sentença é favorável ao segurado (art. 55, Lei 9.099/95 c/c art. 1º, Lei 10.259/2001). Honorários periciais pagos pela Justiça Federal quando o autor é beneficiário da gratuidade.
 
-### 15.21 Questões Especiais e Controvérsias Emergentes
+### 15.21 Questões especiais e controvérsias emergentes
 
-#### 15.21.1 Doenças degenerativas e o Tema 269/TNU
+#### 15.21.1 Doenças degenerativas e o tema 269/TNU
 
 A tese do Tema 269 exclui as doenças degenerativas do conceito de "acidente de qualquer natureza". Na prática, isso afeta um volume significativo de demandas: segurados com artrose, discopatias, tendinopatias e outras condições progressivas não fazem jus ao auxílio-acidente por "acidente de qualquer natureza" — salvo se demonstrarem que a condição decorre de acidente (trauma) específico.
 
-A controvérsia persiste quando há concausa: o segurado sofre trauma que agrava condição degenerativa preexistente. Nesses casos, a jurisprudência tende a reconhecer o auxílio-acidente se o trauma contribuiu significativamente para a redução da capacidade, mesmo que a condição de base seja degenerativa (KERTZMAN, 2025; SANTOS, 2025).
+A controvérsia persiste quando há concausa: o segurado sofre trauma que agrava condição degenerativa preexistente. Nesses casos, a jurisprudência tende a reconhecer o auxílio-acidente se o trauma contribuiu significativamente para a redução da capacidade, mesmo que a condição de base seja degenerativa (Kertzman, 2025; Santos, 2025).
 
 #### 15.21.2 LER/DORT
 
@@ -379,7 +379,7 @@ O segurado que recebe auxílio-acidente pode ser encaminhado para reabilitação
 
 O STJ, na edição 198 da Jurisprudência em Teses, firmou que "é indevida a devolução ao INSS do auxílio-acidente recebido de boa-fé pelos segurados a título de aplicação retroativa da majoração estabelecida pela Lei 9.032, de 1995." Embora a tese tenha escopo específico, a majoração retroativa dos percentuais do auxílio-acidente, ela se insere no princípio mais amplo da irrepetibilidade dos benefícios previdenciários recebidos de boa-fé, consolidado pelo STJ em diversas outras matérias previdenciárias e extensamente aplicado nos JEFs. A vedação de devolução protege o segurado contra cobranças retroativas do INSS quando o benefício é posteriormente cessado ou revisado.
 
-### 15.22 Síntese e Quadros Práticos
+### 15.22 Síntese e quadros práticos
 
 ::: box-quadro
 **Quadro 15.1 — Requisitos do Auxílio-Acidente**
@@ -463,7 +463,7 @@ O STJ, na edição 198 da Jurisprudência em Teses, firmou que "é indevida a de
 
 ### Salário-Família
 
-### 15.23 Conceito e Natureza Jurídica
+### 15.23 Conceito e natureza jurídica
 
 O salário-família é benefício previdenciário de valor fixo, pago em cotas por filho ou equiparado de até 14 anos de idade, ou inválido de qualquer idade, ao segurado de baixa renda (art. 65 da Lei n. 8.213/91). Diferentemente da maioria dos benefícios previdenciários, o salário-família não visa substituir a renda do segurado nem indenizar perda funcional: sua finalidade é complementar a renda familiar para custear a manutenção dos dependentes, configurando prestação de natureza alimentar e assistencial dentro do sistema contributivo.
 
@@ -473,7 +473,7 @@ Sustentamos que a natureza jurídica do salário-família é de benefício previ
 
 Três características distinguem o salário-família dos demais benefícios do RGPS: (a) o valor é fixo por cota, independentemente do salário de contribuição do segurado; (b) não há limite de cotas — o segurado recebe uma cota por cada filho ou equiparado que preencha os requisitos; e (c) o pagamento é feito, em regra, pelo empregador, que o compensa na contribuição previdenciária.
 
-### 15.24 Evolução Histórica
+### 15.24 Evolução histórica
 
 O salário-família foi instituído pela Lei n. 4.266, de 3 de outubro de 1963, como benefício devido a todo empregado, sem critério de renda. Até a EC 20/1998, qualquer segurado empregado fazia jus ao benefício, independentemente de sua faixa salarial. A universalidade do benefício era coerente com a concepção original de política de incentivo à natalidade e proteção à infância, mas gerava crítica doutrinária pela distribuição de recursos previdenciários a segurados de alta renda.
 
@@ -481,7 +481,7 @@ A EC 20/1998 alterou o art. 201, IV, da CF para restringir o salário-família a
 
 A Lei n. 8.213/91, em seus arts. 65 a 70, disciplina o benefício em sua configuração atual. O Decreto n. 3.048/99 (arts. 81 a 92) regulamenta os procedimentos de habilitação, documentação e pagamento. A EC 103/2019 (art. 27, §2º) manteve a restrição aos segurados de baixa renda e delegou ao Poder Executivo a fixação dos valores da cota e do limite de remuneração por meio de portaria interministerial.
 
-### 15.25 Segurados Beneficiários
+### 15.25 Segurados beneficiários
 
 O art. 65 da Lei n. 8.213/91 restringe o salário-família a três categorias de segurados:
 
@@ -500,7 +500,7 @@ O art. 65 da Lei n. 8.213/91 restringe o salário-família a três categorias de
 O segurado especial (art. 11, VII) não é mencionado no art. 65 como beneficiário do salário-família. Entendemos que a exclusão decorre da incompatibilidade operacional: o segurado especial não tem empregador que possa pagar e compensar o benefício, e sua contribuição é sobre o resultado da comercialização (art. 25, Lei 8.212/91). Para o segurado especial que contribui facultativamente como contribuinte individual, a exclusão persiste, pois o art. 65 não o contempla nessa qualidade.
 :::
 
-### 15.26 Critério de Baixa Renda
+### 15.26 Critério de baixa renda
 
 Desde a EC 20/1998, o salário-família é devido apenas ao segurado de baixa renda. O critério é objetivo: a remuneração mensal do segurado deve ser igual ou inferior ao teto fixado em portaria interministerial, atualizada anualmente.
 
@@ -513,7 +513,7 @@ A EC 103/2019 (art. 27, §2º) manteve a restrição constitucional e delegou ao
 
 **Segurado com mais de um vínculo.** Quando o mesmo segurado mantém dois ou mais vínculos empregatícios simultâneos, a baixa renda é aferida pela *soma* dos salários de contribuição, e não vínculo a vínculo. O art. 83 do Decreto n. 3.048/99 é expresso: "considera-se remuneração mensal do segurado o valor total do respectivo salário de contribuição, ainda que resultante da soma dos salários de contribuição correspondentes a atividades simultâneas". No mesmo sentido dispõe a Portaria Interministerial MPS/MF n. 13/2026. Assim, o segurado com dois empregos cujos salários de contribuição, somados, ultrapassem o teto de R$ 1.980,38 não faz jus ao salário-família, ainda que a remuneração de cada vínculo, isoladamente, fique abaixo do limite. Cumpre não confundir essa hipótese — multiplicidade de vínculos do *mesmo* segurado, em que há soma — com a cumulação do benefício entre pessoas distintas (ambos os cônjuges ou companheiros segurados), na qual a baixa renda é aferida pela remuneração individual de cada titular, conforme exposto na seção 15.32.
 
-### 15.27 Valor da Cota
+### 15.27 Valor da cota
 
 O valor do salário-família é fixo por cota e atualizado anualmente por portaria interministerial. Para o exercício de 2026, a Portaria Interministerial MPS/MF n. 13/2026 fixou o valor da cota em R$ 67,54 por filho ou equiparado.
 
@@ -526,7 +526,7 @@ Cada segurado recebe uma cota por filho (ou equiparado) menor de 14 anos ou inv�
 > [!tip]
 > Na prática dos JEFs, a questão do valor da cota raramente gera litígio. As ações envolvendo salário-família concentram-se no critério de baixa renda (segurado que alega ter direito porque o empregador não pagou) e na documentação (empregador que suspendeu o pagamento por falta de comprovante de frequência escolar).
 
-### 15.28 Documentação Exigida
+### 15.28 Documentação exigida
 
 O art. 67 da Lei n. 8.213/91 e o art. 84 do Decreto n. 3.048/99 estabelecem a documentação necessária para a habilitação ao salário-família:
 
@@ -541,7 +541,7 @@ O art. 67 da Lei n. 8.213/91 e o art. 84 do Decreto n. 3.048/99 estabelecem a do
 A falta de apresentação da caderneta de vacinação ou do comprovante de frequência escolar acarreta a *suspensão* do pagamento, e não a *cessação* do benefício. Regularizada a documentação, o pagamento é restabelecido. O Decreto n. 3.048/99, art. 84, §2º, é claro: não há perda do direito, apenas suspensão da exigibilidade da prestação enquanto pendente a documentação. Essa distinção é relevante na prática dos JEFs, porque o INSS, em alguns casos, cessa o benefício ao invés de suspendê-lo, gerando demanda judicial para restabelecimento com pagamento das cotas retroativas ao período de suspensão indevida.
 :::
 
-### 15.29 Frequência Escolar: Obrigação Semestral
+### 15.29 Frequência escolar: obrigação semestral
 
 A exigência de comprovação de frequência escolar (art. 67, §2º, da Lei n. 8.213/91) merece análise destacada por ser a causa mais frequente de suspensão do salário-família na prática administrativa.
 
@@ -554,7 +554,7 @@ O segurado deve comprovar a frequência escolar do filho de 7 a 14 anos semestra
 > [!tip]
 > Nos JEFs, a questão da frequência escolar surge em ações de restabelecimento: o empregador ou o INSS suspendeu o salário-família por falta de comprovante e o segurado alega que não foi notificado ou que apresentou o documento e este não foi processado. O juiz deve verificar se houve efetiva notificação do segurado sobre a necessidade de apresentação e se a suspensão foi precedida de oportunidade de regularização.
 
-### 15.30 Pagamento e Responsabilidade
+### 15.30 Pagamento e responsabilidade
 
 O mecanismo de pagamento do salário-família é peculiar no sistema previdenciário, porque envolve o empregador como intermediário:
 
@@ -566,7 +566,7 @@ O mecanismo de pagamento do salário-família é peculiar no sistema previdenci�
 
 **Início do pagamento.** O salário-família é devido a partir da data da apresentação da certidão de nascimento do filho ou da documentação relativa ao equiparado (art. 68, Lei n. 8.213/91). Não há retroatividade à data do nascimento, salvo se o segurado comprovar que apresentou a documentação ao empregador na data do nascimento ou logo após.
 
-### 15.31 Cessação do Salário-Família
+### 15.31 Cessação do salário-família
 
 O direito à cota de salário-família cessa nas seguintes hipóteses (art. 88, Decreto n. 3.048/99):
 
@@ -582,7 +582,7 @@ O direito à cota de salário-família cessa nas seguintes hipóteses (art. 88, 
 
 **f) Remuneração superior ao teto.** O segurado que passa a receber remuneração superior ao limite perde o direito enquanto persistir a remuneração acima do teto. Trata-se de hipótese de suspensão funcional, não de cessação definitiva.
 
-### 15.32 Cumulação entre Cônjuges e Companheiros
+### 15.32 Cumulação entre cônjuges e companheiros
 
 Questão prática relevante: quando ambos os cônjuges ou companheiros são segurados de baixa renda, cada um pode receber o salário-família em relação aos mesmos filhos? A resposta é afirmativa.
 
@@ -592,7 +592,7 @@ O art. 66 da Lei n. 8.213/91 não rege essa questão: limita-se a *quantificar* 
 
 Na prática, isso significa que uma família com pai e mãe empregados, ambos com remuneração inferior ao teto, e dois filhos menores de 14 anos, receberá quatro cotas de salário-família: duas pagas pelo empregador do pai e duas pagas pelo empregador da mãe. O valor total (4 x R$ 67,54 = R$ 270,16 em 2026) complementa a renda familiar. Entendemos que essa cumulação é constitucional e legal: como o direito é deferido a cada "segurado" (art. 65), e não à família, a percepção por ambos os genitores não configura duplicidade vedada, mas exercício simultâneo de direitos individuais distintos.
 
-### 15.33 Impacto da EC 103/2019 e Regime Jurídico Atual
+### 15.33 Impacto da EC 103/2019 e regime jurídico atual
 
 A EC 103/2019 (art. 27, §2º) manteve a restrição do salário-família ao segurado de baixa renda e delegou ao regulamento a fixação dos valores. O impacto principal da reforma sobre o salário-família não está na alteração de suas regras (que permaneceram substancialmente inalteradas), mas no contexto mais amplo de contenção de gastos previdenciários.
 
@@ -600,7 +600,7 @@ O art. 13 da EC 103/2019 determinou que, até que lei discipline o acesso ao sal
 
 Entendemos que a delegação ao regulamento para fixação do teto de remuneração é constitucional, na medida em que o conceito de "baixa renda" é indeterminado e exige concretização normativa periódica para acompanhar a evolução salarial. A fixação por portaria interministerial, embora criticável pela ausência de debate legislativo, é mecanismo ágil que permite atualização anual sem necessidade de processo legislativo.
 
-### 15.34 Jurisprudência e Controvérsias
+### 15.34 Jurisprudência e controvérsias
 
 O salário-família é benefício de baixa litigiosidade se comparado ao auxílio-acidente ou aos benefícios por incapacidade. As controvérsias que chegam ao Judiciário concentram-se em quatro eixos:
 
@@ -634,7 +634,7 @@ As ações de salário-família nos Juizados Especiais Federais representam volu
 Segurado aposentado por idade, 66 anos, renda mensal de R$ 1.512,00, com neta de 8 anos sob tutela judicial. Requer salário-família ao INSS, que indefere sob o argumento de que "neta não é filha." O segurado ajuíza ação no JEF, apresentando: certidão de nascimento da neta, termo de tutela judicial e comprovante de frequência escolar. O juiz concede o salário-família, fundamentando: (i) a menor sob tutela é equiparada a filha para fins previdenciários (art. 16, §2º, Lei 8.213/91); (ii) a renda do segurado (R$ 1.512,00) é inferior ao teto de R$ 1.980,38; (iii) a documentação exigida pelo art. 67 está completa. A DIB retroage à data do requerimento administrativo.
 :::
 
-### 15.36 Quadro Prático — Salário-Família
+### 15.36 Quadro prático — salário-família
 
 ::: box-quadro
 **Quadro 15.7 — Requisitos do Salário-Família**
@@ -665,7 +665,7 @@ Segurado aposentado por idade, 66 anos, renda mensal de R$ 1.512,00, com neta de
 | Falta de vacinação/frequência escolar | Suspensão até regularização |
 :::
 
-### 15.37 Referências
+### Referências
 
 #### Legislação
 

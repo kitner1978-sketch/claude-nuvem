@@ -8,11 +8,11 @@ data: 2026-05-15
 
 ## Capítulo 21 — Decadência, Prescrição e Coisa Julgada Previdenciária
 
-### 21.1 Introdução: Os Limites Temporais do Direito Previdenciário
+### 21.1 Introdução: os limites temporais do direito previdenciário
 
-O direito previdenciário convive com uma tensão estrutural que permeia todo o seu regime jurídico: de um lado, a necessidade de proteger o segurado e seus dependentes contra os riscos sociais que ameaçam a subsistência, o que confere aos benefícios previdenciários natureza alimentar e status de direito fundamental; de outro, a exigência de segurança jurídica, que impõe a estabilização das relações jurídicas e a definitividade dos atos administrativos e judiciais. Essa tensão não é exclusiva do direito previdenciário, mas nele assume feições particularmente agudas (CASTRO; LAZZARI, 2025; IBRAHIM, 2025). O benefício previdenciário é, muitas vezes, a única fonte de renda do segurado ou de sua família. Submetê-lo a prazos extintivos rígidos pode significar a consolidação de um prejuízo alimentar cristalizado que compromete a dignidade do beneficiário por toda a vida. Ignorar qualquer limite temporal, por outro lado, criaria um ambiente de permanente instabilidade para o INSS, para o sistema previdenciário e, em última análise, para a própria coletividade de segurados.
+O direito previdenciário convive com uma tensão estrutural que permeia todo o seu regime jurídico: de um lado, a necessidade de proteger o segurado e seus dependentes contra os riscos sociais que ameaçam a subsistência, o que confere aos benefícios previdenciários natureza alimentar e status de direito fundamental; de outro, a exigência de segurança jurídica, que impõe a estabilização das relações jurídicas e a definitividade dos atos administrativos e judiciais. Essa tensão não é exclusiva do direito previdenciário, mas nele assume feições particularmente agudas (Castro; Lazzari, 2025; Ibrahim, 2025). O benefício previdenciário é, muitas vezes, a única fonte de renda do segurado ou de sua família. Submetê-lo a prazos extintivos rígidos pode significar a consolidação de um prejuízo alimentar cristalizado que compromete a dignidade do beneficiário por toda a vida. Ignorar qualquer limite temporal, por outro lado, criaria um ambiente de permanente instabilidade para o INSS, para o sistema previdenciário e, em última análise, para a própria coletividade de segurados.
 
-O ordenamento jurídico brasileiro responde a essa tensão com três institutos que, embora próximos, operam em planos distintos. A decadência extingue o direito potestativo de revisar o ato de concessão do benefício. A prescrição extingue a pretensão de cobrar parcelas vencidas e não pagas. A coisa julgada confere imutabilidade à decisão judicial de mérito transitada em julgado (KERTZMAN, 2025; SANTOS; CALEJON, 2025). Cada um desses institutos possui regime próprio, prazo próprio, fundamento constitucional próprio e consequências processuais distintas. A confusão entre eles é fonte frequente de erros em petições iniciais, contestações e sentenças nos Juizados Especiais Federais.
+O ordenamento jurídico brasileiro responde a essa tensão com três institutos que, embora próximos, operam em planos distintos. A decadência extingue o direito potestativo de revisar o ato de concessão do benefício. A prescrição extingue a pretensão de cobrar parcelas vencidas e não pagas. A coisa julgada confere imutabilidade à decisão judicial de mérito transitada em julgado (Kertzman, 2025; Santos; Calejon, 2025). Cada um desses institutos possui regime próprio, prazo próprio, fundamento constitucional próprio e consequências processuais distintas. A confusão entre eles é fonte frequente de erros em petições iniciais, contestações e sentenças nos Juizados Especiais Federais.
 
 No direito previdenciário, a decadência, a prescrição e a coisa julgada sofrem inflexões que as afastam das regras gerais do direito civil e do direito processual civil. A decadência previdenciária incide sobre o ato de concessão, mas não atinge o direito ao benefício em si, conforme assentou o Supremo Tribunal Federal na ADI 6096. A prescrição quinquenal atinge apenas as parcelas vencidas, preservando o fundo de direito nas relações de trato sucessivo, conforme a Súmula 85 do Superior Tribunal de Justiça. A coisa julgada, nas ações por incapacidade, opera sob a cláusula rebus sic stantibus, admitindo nova ação quando se demonstra alteração superveniente no estado de saúde do segurado. Essas particularidades não são meras curiosidades dogmáticas: são regras operacionais que determinam o desfecho de milhares de ações nos JEFs todos os anos.
 
@@ -22,7 +22,7 @@ A estrutura do capítulo reflete a tripartição dos institutos. As seções 21.
 
 Adotamos a mesma premissa que orienta toda a obra: a exposição deve ser funcional, orientada para a prática dos JEFs, sem sacrificar a densidade teórica que a matéria exige. O magistrado e o advogado previdenciarista precisam de regras claras sobre prazos, termos iniciais e exceções; precisam também compreender os fundamentos que sustentam essas regras, para poderem distinguir os casos em que elas incidem daqueles em que cedem lugar a soluções diversas.
 
-### 21.2 Art. 103 da Lei 8.213/91: Evolução Legislativa
+### 21.2 Art. 103 da lei 8.213/91: evolução legislativa
 
 #### 21.2.1 Redação original (1991): ausência de prazo decadencial
 
@@ -30,7 +30,7 @@ A Lei 8.213, de 24 de julho de 1991, em sua redação originária, não estabele
 
 Nesse período, o segurado poderia, a qualquer tempo, postular a revisão da renda mensal inicial de seu benefício. O único limite temporal aplicável era a prescrição das parcelas: mesmo que a revisão fosse deferida trinta anos após a concessão, o segurado somente receberia as diferenças dos últimos cinco anos. Na prática, essa ausência de prazo decadencial gerava um cenário de instabilidade permanente para a autarquia previdenciária, obrigada a manter em arquivo a documentação de benefícios concedidos décadas antes, e para o sistema como um todo, sujeito a demandas revisionais que podiam multiplicar-se sem limite temporal.
 
-#### 21.2.2 MP 1.523-9/1997 e Lei 9.528/1997: introdução do prazo de dez anos
+#### 21.2.2 MP 1.523-9/1997 e lei 9.528/1997: introdução do prazo de dez anos
 
 A situação mudou com a edição da Medida Provisória 1.523-9, de 27 de junho de 1997, posteriormente convertida na Lei 9.528, de 10 de dezembro de 1997. Pela primeira vez, o legislador inseriu no caput do art. 103 da Lei 8.213/91 um prazo decadencial para a revisão do ato de concessão, fixando-o em dez anos contados do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que o segurado tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo.
 
@@ -40,7 +40,7 @@ A introdução do prazo decadencial representou mudança de paradigma, conforme 
 
 A estabilidade do prazo decenal durou pouco. A Medida Provisória 1.663-15, de 22 de outubro de 1998, convertida na Lei 9.711, de 20 de novembro de 1998, reduziu o prazo decadencial de dez para cinco anos. A redução acompanhou um momento de austeridade fiscal e de reformas paramétricas no sistema previdenciário, contemporâneo à Emenda Constitucional 20/1998. A opção pelo prazo de cinco anos alinhava-se ao prazo prescricional geral contra a Fazenda Pública (Decreto 20.910/1932) e ao prazo prescricional do próprio art. 103, parágrafo único, da Lei 8.213/91.
 
-A redução foi duramente criticada pela doutrina previdenciarista (CASTRO; LAZZARI, 2025; SAVARIS, 2023). O prazo de cinco anos mostrou-se insuficiente para que segurados de baixa escolaridade, residentes em áreas remotas e sem acesso a assessoria jurídica pudessem identificar erros de cálculo em seus benefícios e buscar a tutela jurisdicional adequada. A crítica tinha fundamento empírico: na prática dos JEFs, a identificação do erro de cálculo pelo segurado depende, quase sempre, da intervenção de advogado especializado ou de sindicato, e o acesso a essas entidades não é imediato nem universal. Savaris (2023, p. 215) registra que a redução para cinco anos gerou um cenário de injustiça estrutural, no qual segurados cujos benefícios haviam sido calculados com erro grave não conseguiam exercer o direito de revisão antes do escoamento do prazo.
+A redução foi duramente criticada pela doutrina previdenciarista (Castro; Lazzari, 2025; Savaris, 2023). O prazo de cinco anos mostrou-se insuficiente para que segurados de baixa escolaridade, residentes em áreas remotas e sem acesso a assessoria jurídica pudessem identificar erros de cálculo em seus benefícios e buscar a tutela jurisdicional adequada. A crítica tinha fundamento empírico: na prática dos JEFs, a identificação do erro de cálculo pelo segurado depende, quase sempre, da intervenção de advogado especializado ou de sindicato, e o acesso a essas entidades não é imediato nem universal. Savaris (2023, p. 215) registra que a redução para cinco anos gerou um cenário de injustiça estrutural, no qual segurados cujos benefícios haviam sido calculados com erro grave não conseguiam exercer o direito de revisão antes do escoamento do prazo.
 
 #### 21.2.4 Lei 10.839/2004: retorno aos dez anos (redação vigente)
 
@@ -60,7 +60,7 @@ O Plenário do Supremo Tribunal Federal, no julgamento da ADI 6096 (Plenário Vi
 
 A decisão da ADI 6096 reafirmou que o art. 103 da Lei 8.213/91 tem objeto circunscrito: a decadência atinge o direito de revisar o ato de concessão e somente esse direito. Pretensões de concessão, de restabelecimento de benefício cessado e de reconhecimento de direito negado administrativamente não se submetem a prazo decadencial algum. Essa distinção é estruturante para todo o regime de limites temporais em matéria previdenciária e será retomada nas seções seguintes.
 
-#### 21.2.7 Quadro 21.1 — Evolução do art. 103 da Lei 8.213/91
+#### 21.2.7 Quadro 21.1 — evolução do art. 103 da lei 8.213/91
 
 ::: box-quadro
 **Quadro 21.1 — Evolução do art. 103 da Lei 8.213/91 (redações do caput)**
@@ -76,7 +76,7 @@ A decisão da ADI 6096 reafirmou que o art. 103 da Lei 8.213/91 tem objeto circu
 
 A leitura do quadro revela que o legislador oscilou significativamente ao longo de três décadas, transitando da completa ausência de prazo decadencial para um prazo decenal, reduzindo-o a cinco anos, retornando aos dez e tentando, sem sucesso, estendê-lo a hipóteses que extrapolavam a revisão do ato de concessão. Essa instabilidade normativa gerou dificuldades práticas consideráveis para o cálculo do prazo em benefícios concedidos durante os períodos de transição, matéria que examinamos na seção 21.5 ao tratar do termo inicial.
 
-### 21.3 Natureza Jurídica da Decadência Previdenciária
+### 21.3 Natureza jurídica da decadência previdenciária
 
 A decadência do art. 103 da Lei 8.213/91 extingue o direito potestativo do segurado de revisar o ato administrativo de concessão do benefício previdenciário. Trata-se de direito potestativo porque a revisão consiste na faculdade de provocar a modificação de uma situação jurídica preexistente (o ato de concessão) sem que o INSS possa opor-se ao exercício dessa faculdade, desde que o segurado demonstre o erro no cálculo. O transcurso do prazo decenal sem o exercício dessa faculdade acarreta a perda definitiva do direito de questionar os parâmetros do ato concessório.
 
@@ -98,7 +98,7 @@ A decadência do art. 103 da Lei 8.213/91 é matéria de ordem pública. O juiz 
 
 A doutrina debate se o prazo do art. 103 constitui verdadeira decadência ou se se aproxima de uma preclusão temporal administrativa. A questão não é meramente acadêmica. Se o prazo fosse de natureza preclusiva (e não decadencial no sentido técnico), poderia haver espaço para a aplicação analógica de causas de impedimento, como a menoridade civil ou a incapacidade absoluta. A posição majoritária, contudo, é de que se trata de autêntica decadência, no sentido técnico-civilístico do termo, o que exclui a incidência de causas de suspensão e interrupção, salvo expressa disposição legal. Essa qualificação encontra apoio no julgamento do RE 626.489/SE (Tema 313): ao reconhecer a constitucionalidade do prazo, o STF partiu da premissa de que se cuida de verdadeira decadência. A partir dessa premissa, a doutrina e a jurisprudência majoritárias afastam a aplicação subsidiária das causas de impedimento e suspensão da prescrição, próprias de instituto diverso. Trata-se, porém, de consequência derivada da natureza decadencial do prazo, e não do enunciado formal vinculante do Tema 313, que se ocupou da constitucionalidade do prazo decenal e de sua aplicação aos benefícios anteriores à MP 1.523-9/1997 (seção 21.8).
 
-### 21.4 Objeto da Decadência: O Que Decai e O Que Não Decai
+### 21.4 Objeto da decadência: o que decai e o que não decai
 
 A delimitação precisa do objeto da decadência previdenciária constitui uma das questões mais relevantes da prática nos JEFs. Entender o que está sujeito ao prazo decenal e o que dele escapa é pressuposto para a correta triagem das ações revisionais e para a fundamentação adequada das sentenças.
 
@@ -136,7 +136,7 @@ A terceira hipótese é a fraude. O ato de concessão obtido mediante fraude nã
 Declarou inconstitucional o art. 24 da Lei 13.846/2019 na parte em que estendia o prazo decadencial de dez anos ao indeferimento, cancelamento e cessação de benefícios previdenciários. O fundamento central reside na natureza de direito fundamental da previdência social (art. 6º e art. 201 da CF/88): admitir que a pretensão de concessão originária se extinga por decadência comprometeria o núcleo essencial do direito. A decadência do art. 103 permanece limitada ao direito de revisar o ato de concessão, preservando-se integralmente o direito de obter o benefício quando preenchidos os requisitos legais.
 :::
 
-### 21.5 Termo Inicial do Prazo Decadencial
+### 21.5 Termo inicial do prazo decadencial
 
 #### 21.5.1 Regra geral: primeiro dia do mês seguinte à primeira prestação
 
@@ -177,7 +177,7 @@ A interação entre a DIB e a DER também gera dúvidas. A DER (Data de Entrada 
 
 Outra questão prática envolve os benefícios concedidos durante a vigência do prazo de cinco anos (Lei 9.711/1998, de novembro de 1998 a novembro de 2003). Para esses benefícios, o prazo decadencial era de cinco anos. Contudo, com a reabertura promovida pela Lei 10.839/2004 (vigente desde 19/11/2003), os segurados cujo prazo quinquenal já havia se esgotado receberam novo prazo de dez anos, contados de 19/11/2003. O segurado que teve benefício concedido em janeiro de 2000, com primeiro pagamento em fevereiro de 2000, teria decadência consumada em fevereiro de 2005 sob a regra de cinco anos. Com a reabertura, ganhou novo prazo de dez anos a partir de 19/11/2003, que expirou em 19/11/2013.
 
-### 21.6 Tema 966/STJ: Decadência e Direito ao Benefício Mais Vantajoso
+### 21.6 Tema 966/STJ: decadência e direito ao benefício mais vantajoso
 
 O Tema 966 do STJ (REsp 1.631.021/SP, 1ª Seção, Rel. Min. Mauro Campbell Marques, j. 13/02/2019) fixou tese com a seguinte redação: "Incide o prazo decadencial de dez anos estabelecido no art. 103 da Lei 8.213/1991 para o reconhecimento do direito adquirido ao benefício previdenciário mais vantajoso."
 
@@ -193,7 +193,7 @@ A interface entre o Tema 966 e as teses revisionais específicas já foi examina
 
 Na prática, o cálculo da vantajosidade exige simulação comparativa entre as diferentes regras, levando em conta não apenas a RMI de cada cenário, mas também a expectativa de vida do segurado, a data de início do benefício e a evolução dos reajustamentos. Essa análise, de natureza atuarial, nem sempre é simples, e o segurado que não contava com assessoria jurídica especializada pode não ter tido, na prática, condições de avaliar a vantajosidade da regra aplicada pelo INSS. A objeção é procedente do ponto de vista social, mas o STJ não acolheu argumento dessa natureza para afastar a decadência. O prazo decenal foi considerado razoável para que o segurado, mesmo sem assessoria imediata, busque orientação sobre a adequação do cálculo de seu benefício.
 
-### 21.7 Decadência Administrativa: O Poder-Dever de Revisão pelo INSS (Art. 103-A)
+### 21.7 Decadência administrativa: o poder-dever de revisão pelo INSS (art. 103-A)
 
 A decadência previdenciária não opera apenas em favor do INSS. O art. 103-A da Lei 8.213/91, incluído pela Lei 10.839/2004, estabelece que o INSS deve anular o ato administrativo do qual decorram efeitos favoráveis para os seus beneficiários dentro do prazo de dez anos, contados da data em que foram praticados, salvo comprovada má-fé. Trata-se da decadência do poder-dever de revisão administrativa pelo INSS, simétrica à decadência do direito de revisão pelo segurado (art. 103).
 
@@ -221,7 +221,7 @@ A impugnação do ato revisional ilegal pode ser veiculada nos JEFs, desde que o
 
 A simetria entre o art. 103 e o art. 103-A confirma a coerência do sistema. O legislador estabeleceu prazos idênticos (dez anos) para ambas as partes da relação previdenciária: o segurado tem dez anos para revisar o ato de concessão em seu favor; o INSS tem dez anos para revisar o mesmo ato contra o segurado. Essa simetria confere coerência ao sistema e reforça a função estabilizadora da decadência. Transcorrido o decênio, o ato de concessão consolida-se com os parâmetros originais, não podendo ser questionado por nenhuma das partes, ressalvada a hipótese de fraude.
 
-### 21.8 Constitucionalidade do Prazo Decadencial de 10 Anos
+### 21.8 Constitucionalidade do prazo decadencial de 10 anos
 
 A constitucionalidade do prazo decadencial fixado pelo art. 103 da Lei 8.213/91 foi questionada desde a introdução do prazo pela MP 1.523-9/1997. O argumento central dos que sustentavam a inconstitucionalidade era o seguinte: se o direito à previdência social é direito fundamental (art. 6º da CF/88), e se o benefício previdenciário tem natureza alimentar, a imposição de prazo que extinga o direito de corrigir eventuais erros de cálculo representaria lesão ao núcleo essencial desse direito fundamental. O segurado que recebe benefício com valor inferior ao devido durante toda a vida, por não ter questionado o cálculo dentro do prazo, sofreria prejuízo de natureza alimentar cristalizado pelo decurso do tempo.
 
@@ -233,15 +233,15 @@ O segundo pilar é a razoabilidade do prazo. O período de dez anos foi consider
 
 O terceiro pilar é a distinção entre direito ao benefício e direito de revisão. A decadência atinge o direito de questionar os parâmetros do cálculo, não o direito ao benefício em si. O segurado que perde o prazo de revisão continua recebendo o benefício nos parâmetros originais. A perda é qualitativa (a possibilidade de correção), não quantitativa (o benefício em si). Essa distinção foi posteriormente reforçada pela ADI 6096, que confirmou que a decadência não pode atingir a pretensão de concessão originária.
 
-Acompanhamos, neste ponto, a doutrina majoritária (IBRAHIM, 2025; SANTOS; CALEJON, 2025) e o entendimento do STF. O prazo decenal é razoável e proporcional para a revisão do ato de concessão. Períodos mais curtos, como o prazo de cinco anos vigente entre 1998 e 2003, mostraram-se insuficientes na prática. Períodos superiores a dez anos, por outro lado, comprometeriam a estabilidade do sistema e a previsibilidade orçamentária da autarquia. A chave está nos limites: a constitucionalidade do prazo pressupõe que ele incida exclusivamente sobre a revisão do ato de concessão, jamais sobre o direito fundamental à obtenção do benefício. A ADI 6096 confirmou que o legislador não pode transpor a lógica da decadência revisional para o campo da concessão originária.
+Acompanhamos, neste ponto, a doutrina majoritária (Ibrahim, 2025; Santos; Calejon, 2025) e o entendimento do STF. O prazo decenal é razoável e proporcional para a revisão do ato de concessão. Períodos mais curtos, como o prazo de cinco anos vigente entre 1998 e 2003, mostraram-se insuficientes na prática. Períodos superiores a dez anos, por outro lado, comprometeriam a estabilidade do sistema e a previsibilidade orçamentária da autarquia. A chave está nos limites: a constitucionalidade do prazo pressupõe que ele incida exclusivamente sobre a revisão do ato de concessão, jamais sobre o direito fundamental à obtenção do benefício. A ADI 6096 confirmou que o legislador não pode transpor a lógica da decadência revisional para o campo da concessão originária.
 
 Registramos, contudo, uma preocupação que transcende o debate constitucional abstrato. Na atuação forense dos JEFs, a decadência decenal opera com maior rigor sobre segurados de menor escolaridade, residentes em áreas rurais ou periféricas, sem acesso a informação jurídica qualificada. Esses segurados frequentemente desconhecem que o cálculo de seu benefício contém erro e só descobrem o problema quando consultam advogado, o que pode ocorrer após o transcurso do prazo. A constitucionalidade formal do prazo não elimina essa dimensão social, que permanece como desafio para o sistema previdenciário e para as políticas de acesso à justiça. A atuação da Defensoria Pública da União nos JEFs constitui, assim, instrumento indispensável para assegurar que segurados vulneráveis possam exercer o direito de revisão dentro do prazo legal.
 
-### 21.9 Prescrição Quinquenal: Art. 103, Parágrafo Único
+### 21.9 Prescrição quinquenal: art. 103, parágrafo único
 
 O art. 103, parágrafo único, da Lei 8.213/91 estabelece: "Prescreve em cinco anos, a contar da data em que deveriam ter sido pagas, toda e qualquer ação para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela Previdência Social, ressalvado o direito dos menores, incapazes e ausentes, na forma do Código Civil."
 
-A norma institui a prescrição quinquenal das parcelas previdenciárias. Seu objeto é distinto do objeto da decadência (IBRAHIM, 2025; KERTZMAN, 2025): enquanto a decadência extingue o direito potestativo de revisar o ato de concessão (seções 21.2 a 21.8), a prescrição extingue a pretensão de cobrar parcelas já vencidas. A decadência atinge o "direito de mudar"; a prescrição atinge o "direito de cobrar". O segurado que ajuíza ação revisional dentro do prazo decadencial e obtém sentença favorável receberá as diferenças, mas apenas aquelas vencidas nos cinco anos anteriores ao ajuizamento. As diferenças anteriores ao quinquênio estarão prescritas.
+A norma institui a prescrição quinquenal das parcelas previdenciárias. Seu objeto é distinto do objeto da decadência (Ibrahim, 2025; Kertzman, 2025): enquanto a decadência extingue o direito potestativo de revisar o ato de concessão (seções 21.2 a 21.8), a prescrição extingue a pretensão de cobrar parcelas já vencidas. A decadência atinge o "direito de mudar"; a prescrição atinge o "direito de cobrar". O segurado que ajuíza ação revisional dentro do prazo decadencial e obtém sentença favorável receberá as diferenças, mas apenas aquelas vencidas nos cinco anos anteriores ao ajuizamento. As diferenças anteriores ao quinquênio estarão prescritas.
 
 A prescrição previdenciária quinquenal encontra fundamento adicional no art. 1º do Decreto 20.910, de 6 de janeiro de 1932, que fixa em cinco anos o prazo prescricional para ações contra a Fazenda Pública. A aplicação do Decreto 20.910/32 é subsidiária e reforça o prazo já estabelecido pelo art. 103, parágrafo único, da Lei 8.213/91. Na prática, a invocação do decreto acrescenta pouco, pois o prazo é idêntico ao da lei especial. A dupla fundamentação, contudo, revela a solidez do prazo quinquenal no sistema normativo brasileiro: não se trata de opção isolada do legislador previdenciário, mas de regra geral aplicável a todas as pretensões patrimoniais contra a Fazenda Pública.
 
@@ -253,11 +253,11 @@ Uma questão que surge com frequência nos JEFs envolve a prescrição em açõe
 
 A ressalva final do art. 103, parágrafo único, em favor dos menores, incapazes e ausentes remete ao regime do Código Civil. A análise dessa ressalva, que envolve a problemática da incapacidade civil após o Estatuto da Pessoa com Deficiência (Lei 13.146/2015), será desenvolvida na seção 21.13.
 
-### 21.10 Trato Sucessivo e Súmula 85/STJ
+### 21.10 Trato sucessivo e súmula 85/STJ
 
 A Súmula 85 do Superior Tribunal de Justiça enuncia: "Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação."
 
-O enunciado consagra regra que permeia todo o contencioso previdenciário nos JEFs (CASTRO; LAZZARI, 2025; SANTOS; CALEJON, 2025) e cuja compreensão precisa é indispensável para o correto equacionamento da prescrição em ações previdenciárias. A relação previdenciária é, por excelência, relação de trato sucessivo: o benefício é devido mês a mês, renovando-se a prestação a cada competência. Enquanto o benefício for devido, o direito se renova continuamente, e a prescrição atinge apenas as parcelas já vencidas há mais de cinco anos.
+O enunciado consagra regra que permeia todo o contencioso previdenciário nos JEFs (Castro; Lazzari, 2025; Santos; Calejon, 2025) e cuja compreensão precisa é indispensável para o correto equacionamento da prescrição em ações previdenciárias. A relação previdenciária é, por excelência, relação de trato sucessivo: o benefício é devido mês a mês, renovando-se a prestação a cada competência. Enquanto o benefício for devido, o direito se renova continuamente, e a prescrição atinge apenas as parcelas já vencidas há mais de cinco anos.
 
 #### 21.10.1 Fundo de direito imprescritível
 
@@ -294,7 +294,7 @@ A Súmula 85 do STJ aplica-se integralmente às relações previdenciárias, rec
 A interação entre a Súmula 85 e a decadência do art. 103 merece nota final. As duas regras operam em planos distintos e não se confundem. A decadência atinge o direito de revisar o ato de concessão (ações revisionais). A Súmula 85 protege o fundo de direito ao benefício (ações de concessão). Nas ações de concessão, a decadência é inaplicável (ADI 6096), e a prescrição atinge apenas as parcelas, conforme a Súmula 85. Nas ações de revisão, a decadência é o primeiro filtro temporal: se o direito de revisar decaiu, sequer se chega à análise da prescrição das parcelas, pois não há diferenças a cobrar. Se o direito de revisar está preservado (dentro do decênio ou em hipótese de exceção), a prescrição opera sobre as parcelas, limitando as diferenças ao quinquênio.
 
 
-### 21.11 Termo Inicial da Prescrição: Casuística
+### 21.11 Termo inicial da prescrição: casuística
 
 A fixação do termo inicial da prescrição quinquenal varia conforme a natureza da pretensão previdenciária deduzida em juízo. Diferentemente da decadência, que possui termo inicial único e objetivo (o primeiro dia do mês seguinte ao primeiro pagamento), a prescrição comporta múltiplos termos iniciais, determinados pela configuração fática de cada caso concreto. Essa diversidade de cenários exige do magistrado dos JEFs atenção particularizada na análise do marco prescricional, sob pena de reconhecer prescrição inexistente ou de deixar de aplicá-la quando devida.
 
@@ -330,7 +330,7 @@ Quando o segurado obtém decisão judicial trabalhista que reconhece vínculos e
 
 Na prática dos JEFs, o segurado que obtém decisão trabalhista favorável deve requerer ao INSS a revisão do benefício com base nos novos salários de contribuição reconhecidos judicialmente. Se o INSS indeferir a revisão, o prazo prescricional das diferenças retroage à data de cada competência, mas a contagem somente se inicia após o trânsito em julgado da sentença trabalhista. A combinação entre o prazo decadencial (contado do trânsito em julgado trabalhista, conforme o Tema 975) e o prazo prescricional (igualmente contado do trânsito em julgado) cria uma janela de proteção para o segurado que se beneficiou de decisão judicial trabalhista.
 
-### 21.12 Causas de Interrupção e Suspensão da Prescrição
+### 21.12 Causas de interrupção e suspensão da prescrição
 
 A prescrição previdenciária, ao contrário da decadência, admite causas de interrupção e suspensão previstas no Código Civil e no Código de Processo Civil. A correta identificação dessas causas pode ser determinante para o resultado da ação nos JEFs, pois a interrupção ou suspensão do prazo pode significar a diferença entre a procedência parcial (com prescrição de parcelas) e a procedência integral.
 
@@ -380,11 +380,11 @@ Essa posição encontra respaldo na jurisprudência que se consolidou após o pe
 7. Calcular o quinquênio: parcelas anteriores a cinco anos do ajuizamento (ou do requerimento administrativo, se houve interrupção) estão prescritas.
 :::
 
-### 21.13 Prescrição e Menores, Incapazes e Ausentes
+### 21.13 Prescrição e menores, incapazes e ausentes
 
 O art. 103, parágrafo único, da Lei 8.213/91 ressalva expressamente "o direito dos menores, incapazes e ausentes, na forma do Código Civil". A ressalva remete ao regime das causas impeditivas da prescrição previstas nos arts. 197 e 198 do Código Civil, com especial atenção ao art. 198, I, que estabelece que a prescrição não corre contra os absolutamente incapazes.
 
-#### 21.13.1 Absolutamente incapazes: art. 3º do CC após a Lei 13.146/2015
+#### 21.13.1 Absolutamente incapazes: art. 3º do CC após a lei 13.146/2015
 
 Até a entrada em vigor da Lei 13.146/2015 (Estatuto da Pessoa com Deficiência), em 2 de janeiro de 2016 (180 dias após a publicação, conforme art. 127 da lei), o art. 3º do Código Civil considerava absolutamente incapazes, além dos menores de 16 anos, os que por enfermidade ou deficiência mental não tivessem o necessário discernimento para a prática dos atos da vida civil, e os que, mesmo por causa transitória, não pudessem exprimir sua vontade. A prescrição não corria contra nenhuma dessas pessoas.
 
@@ -410,7 +410,7 @@ Para os menores de 16 anos, a proteção prescricional permanece integral após 
 
 Essa regra tem incidência frequente em ações de pensão por morte nos JEFs. O filho menor de 16 anos que perde o genitor segurado não sofre prescrição de parcelas durante a menoridade. Se a pensão foi requerida tardiamente, todas as parcelas desde o óbito são devidas, sem qualquer limitação prescricional, até que o menor complete 16 anos. A partir dos 16 anos, inicia-se a contagem do quinquênio. Para análise detalhada da pensão por morte e seus aspectos relacionados a menores e incapazes, remetemos ao Capítulo 19. Para a interface com o BPC, remetemos ao Capítulo 18.
 
-### 21.14 Tema 1057/STJ: Legitimidade de Herdeiros e Prescrição
+### 21.14 Tema 1057/STJ: legitimidade de herdeiros e prescrição
 
 O Tema 1057 do STJ (REsp 1.856.967/PR, REsp 1.856.968 e REsp 1.856.969, 1ª Seção, Rel. Min.ª Regina Helena Costa, j. 23/06/2021) fixou tese de grande repercussão prática nos JEFs, ao reconhecer a legitimidade de pensionistas e herdeiros para pleitear a revisão da aposentadoria do segurado falecido (instituidor da pensão por morte).
 
@@ -444,7 +444,7 @@ Em fevereiro de 2023, Marta, aconselhada por advogado, ajuíza ação revisional
 
 Para análise complementar da legitimidade de herdeiros e pensionistas no contexto da pensão por morte, remetemos ao Capítulo 19 (seções 19.7 a 19.9, que tratam do rol de dependentes e sua classificação por classes).
 
-### 21.15 Coisa Julgada Material nos JEFs: Particularidades
+### 21.15 Coisa julgada material nos JEFs: particularidades
 
 A terceira parte deste capítulo examina a coisa julgada previdenciária e suas particularidades no âmbito dos Juizados Especiais Federais. Se a decadência e a prescrição são limites temporais impostos pelo legislador, a coisa julgada é limite imposto pela decisão judicial transitada em julgado. Os três institutos compartilham a mesma função estabilizadora, mas operam em planos distintos: a decadência e a prescrição precedem o processo judicial; a coisa julgada sucede a ele.
 
@@ -454,13 +454,13 @@ A coisa julgada material (art. 502, CPC) vincula as partes quanto ao dispositivo
 
 #### 21.15.2 Particularidades previdenciárias
 
-No direito previdenciário, o regime da coisa julgada sofre inflexões que o diferenciam do regime geral do processo civil (SAVARIS, 2023; CASTRO; LAZZARI, 2025). Essas inflexões decorrem do caráter alimentar do benefício previdenciário, da proteção constitucional à previdência social como direito fundamental e da natureza dinâmica de certas condições fáticas que fundamentam a concessão de benefícios, especialmente a capacidade laborativa.
+No direito previdenciário, o regime da coisa julgada sofre inflexões que o diferenciam do regime geral do processo civil (Savaris, 2023; Castro; Lazzari, 2025). Essas inflexões decorrem do caráter alimentar do benefício previdenciário, da proteção constitucional à previdência social como direito fundamental e da natureza dinâmica de certas condições fáticas que fundamentam a concessão de benefícios, especialmente a capacidade laborativa.
 
 Destacamos três particularidades. A primeira é a aplicação da coisa julgada secundum eventum probationis em ações por incapacidade, pela qual a sentença de improcedência fundada em prova insuficiente não impede nova ação com prova nova (seção 21.16). A segunda é a cláusula rebus sic stantibus, que admite nova ação quando fatos supervenientes alteram a situação fática decidida (seção 21.17). A terceira é a inexistência de ação rescisória nos JEFs (art. 59 da Lei 9.099/95), compensada pela admissibilidade da querela nullitatis para vícios transrescisórios (seção 21.19).
 
 Essas particularidades não significam que a coisa julgada previdenciária seja "enfraquecida" ou "relativizada" em sentido genérico. A coisa julgada material permanece como regra nos JEFs: a sentença de mérito transitada em julgado vincula as partes e impede a rediscussão da causa. As exceções são tipificadas e condicionadas a requisitos específicos. O magistrado dos JEFs que recebe nova ação com a mesma causa de pedir de ação anterior julgada improcedente deve, em primeiro lugar, verificar se alguma das exceções se aplica. Se nenhuma se aplica, a coisa julgada impõe a extinção do processo sem resolução do mérito (art. 485, V, do CPC).
 
-### 21.16 Coisa Julgada Secundum Eventum Probationis
+### 21.16 Coisa julgada secundum eventum probationis
 
 #### 21.16.1 Conceito e fundamento
 
@@ -494,7 +494,7 @@ A coisa julgada secundum eventum probationis não se confunde com a ausência de
 
 A distinção tem consequência prática direta. Na segunda ação ajuizada após extinção sem mérito, o segurado não precisa demonstrar prova nova ou fato novo. Na segunda ação ajuizada após improcedência por insuficiência de provas, o segurado deve demonstrar prova nova ou fato novo (Tema 629). Na segunda ação ajuizada após improcedência com apreciação plena do mérito, o segurado só pode prosseguir se demonstrar fato superveniente que altere a situação fática (cláusula rebus sic stantibus, seção 21.17). A gradação reflete o grau de estabilidade que cada tipo de decisão anterior confere à relação jurídica.
 
-### 21.17 Cláusula Rebus Sic Stantibus: Fatos Supervenientes
+### 21.17 Cláusula rebus sic stantibus: fatos supervenientes
 
 #### 21.17.1 Conceito e aplicação previdenciária
 
@@ -538,7 +538,7 @@ A cláusula rebus sic stantibus aplica-se naturalmente às ações previdenciár
 
 Essa posição não implica banalização da coisa julgada. O filtro é rigoroso: somente fatos efetivamente supervenientes e qualitativamente distintos dos apreciados na ação anterior justificam nova demanda. O magistrado dos JEFs tem o poder-dever de examinar, liminarmente, se a segunda ação apresenta elementos que, ao menos em tese, configuram fato novo. A ausência de tais elementos impõe a extinção por coisa julgada (art. 485, V, do CPC).
 
-### 21.18 Coisa Julgada e Benefício por Incapacidade: Síntese Operacional
+### 21.18 Coisa julgada e benefício por incapacidade: síntese operacional
 
 A confluência entre a coisa julgada material, a coisa julgada secundum eventum probationis e a cláusula rebus sic stantibus gera cenários decisórios que o magistrado dos JEFs precisa equacionar com rapidez e segurança. A síntese que se segue organiza as quatro situações possíveis em quadro funcional.
 
@@ -569,7 +569,7 @@ Na triagem de segunda ação por incapacidade, o magistrado dos JEFs deve seguir
 
 Essa triagem pode ser realizada no despacho inicial, antes mesmo da citação do INSS, o que contribui para a eficiência dos JEFs ao evitar a tramitação desnecessária de ações que esbarram na coisa julgada. A economia processual, nesse ponto, opera tanto em favor do Judiciário quanto do próprio segurado, que obtém decisão célere sobre a admissibilidade de sua pretensão.
 
-### 21.19 Querela Nullitatis nos JEFs
+### 21.19 Querela nullitatis nos JEFs
 
 #### 21.19.1 Conceito e fundamento
 
@@ -599,9 +599,9 @@ Na prática dos JEFs, a veiculação como questão prejudicial é particularment
 
 Para os aspectos procedimentais da querela nullitatis nos JEFs — competência para processamento, rito, legitimidade passiva e forma de instrução —, remetemos ao Capítulo 23, seção 23.35. Para a interface da querela com a revisão de benefícios, remetemos ao Capítulo 17, seção 17.10.
 
-### 21.20 Ação Rescisória e os JEFs: Vedação e Alternativas
+### 21.20 Ação rescisória e os JEFs: vedação e alternativas
 
-#### 21.20.1 A vedação do art. 59 da Lei 9.099/95
+#### 21.20.1 A vedação do art. 59 da lei 9.099/95
 
 O art. 59 da Lei 9.099, de 26 de setembro de 1995, dispõe de forma categórica: "Não se admitirá ação rescisória nas causas sujeitas ao procedimento instituído por esta Lei." A vedação integra a arquitetura dos Juizados Especiais, concebidos como sistema processual simplificado, célere e orientado pela oralidade, no qual a estabilidade das decisões é reforçada pela inexistência do instrumento rescisório.
 
@@ -644,7 +644,7 @@ A vedação de ação rescisória nos JEFs é legítima e coerente com o princí
 
 O advogado e o magistrado devem considerar, na prática, que a vedação de ação rescisória torna ainda mais relevante a qualidade da instrução processual na primeira ação. Nos JEFs, a sentença de mérito é, em regra, definitiva: uma vez transitada em julgado, não há instrumento que permita reexame de mérito por erro de julgamento. Essa realidade impõe ao magistrado o dever de instrução cuidadosa e fundamentação adequada, e ao advogado o dever de produzir prova robusta e de manejar os recursos internos do sistema (recurso inominado para a Turma Recursal, pedido de uniformização) antes do trânsito em julgado.
 
-### 21.21 Consolidação das Posições Adotadas
+### 21.21 Consolidação das posições adotadas
 
 Ao longo das vinte seções precedentes, examinamos os três institutos que delimitam temporalmente o exercício dos direitos previdenciários nos Juizados Especiais Federais: decadência, prescrição e coisa julgada. A extensão da análise reflete a complexidade da matéria e a frequência com que ela se apresenta na rotina dos JEFs. Consolidamos, a seguir, as dez posições que adotamos neste capítulo, com remissão às seções que as fundamentam.
 
@@ -672,9 +672,9 @@ As dez posições consolidadas formam sistema coerente de limites temporais que 
 
 ---
 
-### 21.22 Referências
+### Referências
 
-#### 21.22.1 Legislação
+#### Legislação
 
 - Constituição da República Federativa do Brasil de 1988 (arts. 5º, XXXV; 6º; 201)
 - Lei 8.213, de 24 de julho de 1991 (arts. 103 e 103-A)
@@ -690,7 +690,7 @@ As dez posições consolidadas formam sistema coerente de limites temporais que 
 - Código de Processo Civil de 2015 (arts. 240, 332, 485, 487, 494, 502-508, 966, 975, 988)
 - Lei 13.146, de 6 de julho de 2015 (Estatuto da Pessoa com Deficiência)
 
-#### 21.22.2 Jurisprudência
+#### Jurisprudência
 
 - ADI 6096/STF (Plenário Virtual, j. 01/07/2020, Rel. Min. Edson Fachin) — inconstitucionalidade da extensão do art. 103 ao indeferimento/cancelamento/cessação
 - RE 626.489/SE — Tema 313/STF (Plenário, j. 16/10/2013, Rel. Min. Roberto Barroso), constitucionalidade do prazo decadencial de 10 anos
@@ -706,7 +706,7 @@ As dez posições consolidadas formam sistema coerente de limites temporais que 
 - Enunciado 26/FONAJEF, vedação de ação rescisória nos JEFs
 - Enunciado 35/FONAJEF, fato superveniente e nova ação
 
-#### 21.22.3 Doutrina
+#### Doutrina
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 28. ed. Niterói: Impetus, 2025.

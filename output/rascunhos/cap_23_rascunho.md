@@ -14,9 +14,9 @@ O domínio das regras de competência e procedimento dos JEFs é pressuposto da 
 
 > **Nota metodológica.** As súmulas, teses e enunciados invocados ao longo deste capítulo foram cotejados com os repositórios oficiais respectivos. A numeração e a redação dos enunciados do FONAJEF, em particular, são periodicamente revistas e consolidadas; antes de qualquer transcrição literal em peça processual, recomendamos a conferência do texto vigente no sítio do FONAJEF/CJF. A mesma cautela vale para teses de repercussão geral e de recursos repetitivos de fixação muito recente, cujo inteiro teor deve ser confrontado com o registro do tribunal de origem. Para não repetir a ressalva a cada citação, ela fica aqui consolidada e é retomada no corpo do texto apenas nos pontos em que a instabilidade da fonte a torna indispensável.
 
-### 23.1 Criação e Fundamento Constitucional dos JEFs
+### 23.1 Criação e fundamento constitucional dos JEFs
 
-Os Juizados Especiais Federais foram instituídos pela Lei n. 10.259/2001 (SAVARIS, 2023; CASTRO; LAZZARI, 2025), em cumprimento ao mandamento constitucional do art. 98, inciso I, da Constituição Federal, que prevê a criação de juizados especiais pela União no âmbito da Justiça Federal. A Emenda Constitucional n. 22/1999 inseriu o parágrafo único no art. 98, determinando que lei federal disporá sobre a criação de juizados especiais no âmbito da Justiça Federal, dispositivo regulamentado pela Lei n. 10.259/2001, publicada em 13 de julho de 2001 e em vigor seis meses após a publicação (art. 27), ou seja, a partir de 14 de janeiro de 2002.
+Os Juizados Especiais Federais foram instituídos pela Lei n. 10.259/2001 (Savaris, 2023; Castro; Lazzari, 2025), em cumprimento ao mandamento constitucional do art. 98, inciso I, da Constituição Federal, que prevê a criação de juizados especiais pela União no âmbito da Justiça Federal. A Emenda Constitucional n. 22/1999 inseriu o parágrafo único no art. 98, determinando que lei federal disporá sobre a criação de juizados especiais no âmbito da Justiça Federal, dispositivo regulamentado pela Lei n. 10.259/2001, publicada em 13 de julho de 2001 e em vigor seis meses após a publicação (art. 27), ou seja, a partir de 14 de janeiro de 2002.
 
 A finalidade dos JEFs é democratizar o acesso à Justiça Federal, tradicionalmente percebida como distante do cidadão comum. O rito sumaríssimo, a dispensa de advogado em primeiro grau, a gratuidade processual, a oralidade e a busca pela conciliação tornam o JEF instrumento acessível ao segurado que litiga contra o INSS. Na prática, os JEFs transformaram a dinâmica da litigância previdenciária: antes de sua criação, ações de benefícios previdenciários de baixo valor tramitavam nas varas federais comuns, com rito ordinário, prazos extensos e custas processuais, o que desestimulava o acesso judicial de segurados hipossuficientes.
 
@@ -32,7 +32,7 @@ A informatização do processo judicial nos JEFs antecedeu a adoção do process
 O advogado que atua nos JEFs previdenciários deve dominar a hierarquia normativa do microssistema: primeiro, aplica-se a Lei n. 10.259/2001 (lei especial dos JEFs); na lacuna, aplica-se a Lei n. 9.099/95 (juizados especiais cíveis estaduais), no que compatível; na lacuna de ambas, aplica-se o CPC/2015, de forma supletiva e subsidiária (art. 1.046, § 2º, CPC/2015). Os Enunciados do FONAJEF (Fórum Nacional dos Juizados Especiais Federais) orientam a aplicação prática, embora sem força vinculante. A Resolução CJF n. 390/2004, que regulamenta os JEFs, complementa o arcabouço normativo. A articulação entre essas fontes é tarefa cotidiana do operador do direito previdenciário nos JEFs.
 :::
 
-### 23.2 Competência Material: Matéria Previdenciária
+### 23.2 Competência material: matéria previdenciária
 
 A competência material dos JEFs abrange, conforme Ibrahim (2025), as causas de competência da Justiça Federal previstas no art. 109 da Constituição Federal, desde que não excluídas pelo art. 3º, § 1º, da Lei n. 10.259/2001. As ações previdenciárias contra o INSS inserem-se na competência federal (art. 109, I, CF/88: causas em que a autarquia federal é interessada), e constituem, numericamente, a maioria das demandas processadas nos JEFs.
 
@@ -44,9 +44,9 @@ As exclusões de competência previstas no art. 3º, § 1º, da Lei n. 10.259/20
 A pensão por morte acidentária (espécie B93) constitui exceção relevante. Nos termos do art. 109, I, parte final, da CF/88, e da Súmula 501 do STF ("Compete à Justiça ordinária estadual o processo e o julgamento, em ambas as instâncias, das causas de acidente do trabalho, ainda que promovidas contra a União, suas autarquias, empresas públicas ou sociedades de economia mista"), as causas de acidente do trabalho são de competência da Justiça Estadual (cível comum), não da Justiça Federal. A pensão por morte de origem acidentária, por integrar o gênero "causas de acidente do trabalho", é processada e julgada pela Justiça Estadual, fora da competência dos JEFs. A distinção entre pensão por morte previdenciária (B21, competência dos JEFs) e pensão por morte acidentária (B93, competência estadual) é fonte de equívocos na distribuição de ações. Quando houver dúvida sobre a natureza do benefício, o advogado deve requerer o benefício previdenciário comum no JEF e, paralelamente, a pensão acidentária na Justiça Estadual.
 :::
 
-### 23.3 Competência em Razão do Valor da Causa
+### 23.3 Competência em razão do valor da causa
 
-O art. 3º, caput, da Lei n. 10.259/2001 fixa a competência dos JEFs para causas cujo valor não exceda 60 salários mínimos (KERTZMAN, 2025). O valor da causa é aferido na data do ajuizamento da ação, tomando-se por referência o salário mínimo vigente naquele momento. Em 2026, com o salário mínimo fixado em R$ 1.621,00, o teto do JEF corresponde a R$ 97.260,00.
+O art. 3º, caput, da Lei n. 10.259/2001 fixa a competência dos JEFs para causas cujo valor não exceda 60 salários mínimos (Kertzman, 2025). O valor da causa é aferido na data do ajuizamento da ação, tomando-se por referência o salário mínimo vigente naquele momento. Em 2026, com o salário mínimo fixado em R$ 1.621,00, o teto do JEF corresponde a R$ 97.260,00.
 
 A natureza da competência em razão do valor é absoluta. O art. 3º, § 3º, da Lei n. 10.259/2001 dispõe que "no foro onde estiver instalada Vara do Juizado Especial, a sua competência é absoluta". O STF, no julgamento do Tema 1.277 (RE 1.426.083, rel. Min. Alexandre de Moraes, julgamento em 25/08/2025), fixou tese definindo que "o art. 3º, § 3º, da Lei 10.259/2001 é compatível com a Constituição Federal, devendo ser interpretado no sentido de que a competência absoluta dos juizados especiais federais se restringe ao valor da causa, havendo a faculdade de escolha do foro pelo demandante na forma do art. 109, § 2º, da CF/88".
 
@@ -62,7 +62,7 @@ A incompetência absoluta do JEF em razão do valor gera consequências processu
 
 O juiz do JEF que reconhece a incompetência absoluta em razão do valor remete os autos à vara federal competente, por decisão fundamentada. O autor pode interpor recurso contra a decisão de remessa, sustentando a adequação do valor da causa ao teto do JEF. A controvérsia sobre o valor da causa é resolvida nos próprios autos, sem necessidade de incidente processual específico.
 
-### 23.4 Cálculo do Valor da Causa nas Ações Previdenciárias
+### 23.4 Cálculo do valor da causa nas ações previdenciárias
 
 O cálculo do valor da causa nas ações previdenciárias é matéria de relevância prática direta, pois dele depende a fixação da competência. O valor da causa em ações de concessão de benefício previdenciário corresponde à soma de 12 parcelas do benefício pretendido, acrescida das parcelas vencidas (atrasados) entre a data de início do benefício (DIB) e a data do ajuizamento.
 
@@ -74,7 +74,7 @@ A complexidade do cálculo reside na apuração dos atrasados. Quando o interval
 O cálculo do valor da causa deve ser feito com precisão antes do ajuizamento. A fórmula básica para ações de concessão é: VC = (RMB × 12) + Σ parcelas vencidas, onde RMB é a renda mensal do benefício pretendido. Se o segurado pretende aposentadoria de R$ 2.000,00 e a DIB é 24 meses anterior ao ajuizamento, o cálculo seria: VC = (R$ 2.000 × 12) + (R$ 2.000 × 24) = R$ 24.000 + R$ 48.000 = R$ 72.000. Esse valor situa-se abaixo do teto do JEF (R$ 97.260 em 2026), de modo que a ação pode ser ajuizada no juizado sem renúncia. Bastaria, porém, que a DIB recuasse a cerca de 37 meses anteriores ao ajuizamento para que os atrasados elevassem o valor da causa acima do teto, exigindo a opção pela vara federal ou a renúncia ao excedente. Quando o cálculo resultar em valor superior ao teto, cabe à parte, devidamente orientada, decidir entre a vara federal (preservando o crédito integral) e o JEF (com renúncia ao excedente, mas rito mais célere). A decisão deve considerar o valor da renúncia, a complexidade da causa e a estimativa de duração do processo em cada juízo.
 :::
 
-### 23.5 Renúncia ao Valor Excedente
+### 23.5 Renúncia ao valor excedente
 
 A possibilidade de o autor renunciar ao valor que excede 60 salários mínimos para ajuizar no JEF é questão central da prática previdenciária. O art. 3º, § 3º, da Lei n. 10.259/2001, ao fixar a competência absoluta do JEF em razão do valor, não trata expressamente da renúncia. A jurisprudência, contudo, consolidou o entendimento de que a renúncia ao excedente é admissível e constitui faculdade do autor.
 
@@ -90,7 +90,7 @@ A renúncia ao excedente de 60 salários mínimos refere-se ao valor da causa na
 
 A estratégia de renúncia ao excedente deve ser avaliada caso a caso. Para ações de concessão de benefício com atrasados expressivos (anos de indeferimento), a renúncia pode representar perda patrimonial significativa. Nessas hipóteses, a opção pela vara federal pode ser mais vantajosa, apesar do rito mais lento. Para ações de revisão ou restabelecimento com atrasados modestos, o JEF oferece vantagem clara: rito célere, isenção de custas em primeiro grau e possibilidade de tutela antecipada na própria audiência de conciliação.
 
-### 23.6 Competência Territorial
+### 23.6 Competência territorial
 
 A competência territorial nas ações previdenciárias do JEF segue as regras do art. 109, § 2º, da CF/88, aplicável por força da remissão constitucional e da interpretação consolidada pelo STF no Tema 1.277. O segurado pode ajuizar a ação previdenciária: (a) no JEF de seu domicílio; (b) no JEF do local onde ocorreu o fato (data do óbito, data do acidente, local do trabalho); ou (c) no JEF do Distrito Federal.
 
@@ -108,7 +108,7 @@ Na prática, a escolha do foro pelo segurado deve considerar fatores que ultrapa
 A distinção entre competência territorial (relativa) e competência por valor (absoluta) tem consequências processuais diferentes. A incompetência territorial relativa não é cognoscível de ofício pelo juiz (Súmula 33/STJ); somente o réu pode arguí-la, no prazo de contestação, sob pena de prorrogação. A incompetência absoluta por valor é cognoscível de ofício, a qualquer tempo e grau de jurisdição, e não admite prorrogação. Na atuação forense dos JEFs previdenciários, o INSS raramente argui incompetência territorial, pois a faculdade de escolha do foro pelo segurado (art. 109, § 2º, CF/88) dificulta o acolhimento da exceção. A incompetência por valor, ao contrário, é arguida com frequência quando o INSS identifica que os atrasados ultrapassam 60 salários mínimos.
 :::
 
-### 23.7 Competência Delegada à Justiça Estadual
+### 23.7 Competência delegada à justiça estadual
 
 O art. 109, § 3º, da Constituição Federal prevê a delegação de competência à Justiça Estadual para processar e julgar ações previdenciárias nas comarcas que não sejam sede de vara federal. O objetivo é facilitar o acesso à Justiça para segurados residentes em localidades distantes da sede da Justiça Federal.
 
@@ -126,9 +126,9 @@ O recurso contra a sentença proferida pelo juiz estadual no exercício de compe
 
 A competência delegada levanta questões adicionais sobre atos executórios. A implantação do benefício determinada pelo juiz estadual é cumprida pelo INSS da mesma forma que a determinação do juiz federal: o ofício é dirigido à Gerência Executiva do INSS competente, que processa a implantação no sistema. A execução dos atrasados (RPV ou precatório), contudo, segue rito próprio, com expedição da requisição de pagamento pelo TRF competente, não pelo juízo estadual.
 
-### 23.8 Prévio Requerimento Administrativo: Condição da Ação
+### 23.8 Prévio requerimento administrativo: condição da ação
 
-O prévio requerimento administrativo como condição para o ajuizamento de ação previdenciária, amplamente debatido pela doutrina (SAVARIS, 2023; IBRAHIM, 2025), foi objeto do julgamento pelo STF no Tema 350 (RE 631.240, rel. Min. Roberto Barroso, julgamento em 03/09/2014). A decisão, com repercussão geral, fixou balizas que orientam toda a prática previdenciária nos JEFs.
+O prévio requerimento administrativo como condição para o ajuizamento de ação previdenciária, amplamente debatido pela doutrina (Savaris, 2023; Ibrahim, 2025), foi objeto do julgamento pelo STF no Tema 350 (RE 631.240, rel. Min. Roberto Barroso, julgamento em 03/09/2014). A decisão, com repercussão geral, fixou balizas que orientam toda a prática previdenciária nos JEFs.
 
 O STF estabeleceu que a concessão de benefícios previdenciários depende de requerimento do interessado, não se caracterizando ameaça ou lesão a direito antes da apreciação e indeferimento pelo INSS, ou antes do transcurso de prazo razoável sem decisão. A exigência de prévio requerimento não se confunde com o esgotamento das instâncias administrativas: basta o requerimento inicial e o indeferimento (ou a mora do INSS em decidir) para que se configure o interesse de agir.
 
@@ -144,9 +144,9 @@ A questão do requerimento administrativo formulado após o ajuizamento da açã
 
 Sobre o prazo de 45 dias para decisão administrativa e a configuração da mora, remetemos ao Cap. 22, §22.6, que aprofunda a questão. Na prática, o prazo é frequentemente ultrapassado pelo INSS, especialmente em requerimentos que dependem de perícia médica (auxílio por incapacidade, BPC), reconhecimento de tempo rural ou análise de documentação complexa (conversão de tempo especial). O extrato do sistema Meu INSS, que registra o status do requerimento ("em análise", "em exigência", "concluído"), constitui prova idônea da mora administrativa para fins de ajuizamento da ação no JEF.
 
-### 23.9 Jus Postulandi: Dispensa de Advogado em Primeiro Grau
+### 23.9 Jus postulandi: dispensa de advogado em primeiro grau
 
-O art. 10 da Lei n. 10.259/2001 assegura às partes o direito de designar representante para a causa, advogado ou não (HORVATH JÚNIOR, 2025). A norma consagra o jus postulandi nos JEFs, permitindo que o segurado postule em juízo sem a assistência de advogado. O instituto visa garantir o acesso à Justiça ao segurado hipossuficiente que não dispõe de recursos para contratar patrono.
+O art. 10 da Lei n. 10.259/2001 assegura às partes o direito de designar representante para a causa, advogado ou não (Horvath Júnior, 2025). A norma consagra o jus postulandi nos JEFs, permitindo que o segurado postule em juízo sem a assistência de advogado. O instituto visa garantir o acesso à Justiça ao segurado hipossuficiente que não dispõe de recursos para contratar patrono.
 
 O jus postulandi é exercido em primeiro grau de jurisdição. Em sede recursal (recurso inominado à Turma Recursal), a representação por advogado é obrigatória (art. 41, § 2º, da Lei n. 9.099/95, aplicável subsidiariamente). A distinção é relevante: o segurado pode ingressar com a ação, participar da audiência de conciliação e da audiência de instrução sem advogado, mas, se desejar recorrer da sentença, deve constituir patrono.
 
@@ -158,7 +158,7 @@ Embora o jus postulandi permita ao segurado postular sem advogado, a prática de
 
 A questão dos honorários advocatícios nos JEFs vincula-se ao jus postulandi. Em primeiro grau, não há condenação em honorários de sucumbência (art. 55, caput, da Lei n. 9.099/95, aplicável subsidiariamente). A isenção protege tanto o autor vencido (que não paga honorários ao INSS) quanto o INSS vencido (que não paga honorários ao advogado do autor em primeiro grau). Em sede recursal, o recorrente vencido é condenado em honorários de sucumbência. A base normativa da condenação é o art. 55, caput, segunda parte, da Lei n. 9.099/95, que autoriza a imposição de honorários ao recorrente vencido; o percentual, contudo, não é fixado por esse dispositivo. A Lei n. 9.099/95 não estabelece a faixa de 10% a 20%: esse intervalo decorre do art. 85, § 2º, do CPC/2015, aplicado subsidiariamente, que o calcula sobre o valor da condenação ou, não havendo condenação, sobre o proveito econômico ou o valor atualizado da causa.
 
-### 23.10 Procedimento Sumaríssimo: Princípios e Características
+### 23.10 Procedimento sumaríssimo: princípios e características
 
 O procedimento nos JEFs é informado pelos princípios da oralidade, simplicidade, informalidade, economia processual e celeridade (art. 2º da Lei n. 9.099/95), como destaca Savaris (2023). Esses princípios não são meras declarações programáticas: eles condicionam a interpretação das normas processuais e orientam a condução do processo pelo magistrado, que deve privilegiar a solução do conflito em detrimento de formalidades dispensáveis.
 
@@ -174,7 +174,7 @@ A oralidade nos JEFs não impede o uso de petições escritas, mas dispensa exig
 
 A concentração de atos em audiência é expressão concreta da oralidade. Nos JEFs bem estruturados, uma audiência pode contemplar: tentativa de conciliação, produção de prova testemunhal, esclarecimentos do perito, debates orais e prolação de sentença. A concentração reduz o número de atos processuais, o volume de movimentação processual e o tempo total de tramitação. A prática, contudo, nem sempre corresponde ao ideal normativo: em JEFs com acervo excessivo, as audiências são fracionadas (conciliação em uma data, instrução em outra, sentença em terceira), comprometendo a efetividade dos princípios orientadores.
 
-### 23.11 Petição Inicial e Distribuição
+### 23.11 Petição inicial e distribuição
 
 A petição inicial no JEF previdenciário segue o modelo simplificado previsto no art. 14 da Lei n. 9.099/95, adaptado às peculiaridades da Justiça Federal. Os requisitos essenciais são: (a) qualificação do autor; (b) indicação do réu (INSS); (c) descrição dos fatos e do pedido; (d) valor da causa; e (e) documentos indispensáveis.
 
@@ -186,7 +186,7 @@ A distribuição nos JEFs é, em regra, eletrônica. O processo eletrônico (PJe
 A petição inicial previdenciária no JEF deve ser concisa e funcional. Recomendamos a seguinte estrutura: (1) qualificação do autor e do réu (INSS — Gerência Executiva competente); (2) breve relato dos fatos (data do requerimento administrativo, motivo do indeferimento, fundamentação do direito); (3) pedido de concessão/revisão/restabelecimento do benefício, com indicação da DIB pretendida; (4) pedido de tutela de urgência, se cabível; (5) pedido de condenação no pagamento dos atrasados com correção e juros; (6) indicação do valor da causa (com renúncia ao excedente, se necessário); (7) requerimento de justiça gratuita. A fundamentação jurídica pode ser sucinta: nos JEFs, o juiz conhece o direito previdenciário aplicável e dispensa exposições doutrinárias extensas. O foco da petição deve ser a demonstração fática do preenchimento dos requisitos do benefício.
 :::
 
-### 23.12 Citação e Contestação do INSS
+### 23.12 Citação e contestação do INSS
 
 A citação do INSS nos JEFs segue procedimento próprio. O art. 7º da Lei n. 10.259/2001 prevê que as citações e intimações da União, autarquias e fundações serão feitas na forma do art. 35 da Lei Complementar n. 73/1993, ou seja, mediante intimação da procuradoria competente. Na prática, a citação do INSS é realizada eletronicamente, por meio do sistema processual, com remessa automática à Procuradoria Federal Especializada junto ao INSS.
 
@@ -194,7 +194,7 @@ O prazo para contestação é de 30 dias, mais elástico que o de 15 dias previs
 
 A revelia do INSS, embora juridicamente possível, é rara em termos operacionais. Se o INSS não contesta, aplica-se o art. 20 da Lei n. 9.099/95: os fatos alegados pelo autor serão tidos como verdadeiros. A revelia, contudo, não produz efeito automático de procedência, pois o juiz deve verificar se os fatos alegados são verossímeis e se os documentos juntados sustentam o pedido. Em ações previdenciárias, a presunção de veracidade decorrente da revelia é atenuada pela indisponibilidade do interesse público e pela necessidade de prova documental ou pericial para a comprovação de determinados requisitos (invalidez, atividade especial, tempo de contribuição).
 
-### 23.13 Audiência de Conciliação
+### 23.13 Audiência de conciliação
 
 A audiência de conciliação é etapa obrigatória do procedimento nos JEFs, prevista no art. 21 da Lei n. 9.099/95, aplicável subsidiariamente. Nos JEFs previdenciários, a conciliação assume importância particular pela possibilidade de acordo entre o segurado e o INSS, com implantação imediata do benefício.
 
@@ -208,7 +208,7 @@ Os mutirões de conciliação previdenciária, organizados pelos Tribunais Regio
 Na audiência de conciliação previdenciária, o advogado deve estar preparado para avaliar propostas de acordo do INSS. As propostas mais comuns envolvem: (a) concessão do benefício com DIB na data do ajuizamento (renúncia aos atrasados entre o requerimento administrativo e o ajuizamento); (b) concessão com desconto sobre os atrasados (percentual variável, conforme a margem de transação autorizada à Procuradoria no caso concreto); (c) reconhecimento parcial do pedido (concessão de benefício de espécie diversa da pretendida). Na prática, convém calcular previamente o valor integral do crédito e compará-lo com a proposta de acordo, orientando o cliente sobre as vantagens e desvantagens. A aceitação do acordo implica renúncia ao direito de recorrer sobre as parcelas transacionadas. A recusa do acordo não prejudica o segurado: o processo prossegue normalmente para instrução e julgamento.
 :::
 
-### 23.14 Audiência de Instrução e Julgamento
+### 23.14 Audiência de instrução e julgamento
 
 Não havendo acordo na audiência de conciliação, o processo segue para a audiência de instrução e julgamento (AIJ). A AIJ é o momento central do processo no JEF, no qual se concentram a produção de provas, os debates orais e, frequentemente, a prolação da sentença.
 
@@ -226,7 +226,7 @@ A oitiva do perito em audiência (esclarecimentos periciais) é instrumento rele
 **Enunciados do FONAJEF — prova técnica complexa.** O FONAJEF firmou diretriz no sentido de que não cabe a produção de prova técnica de elevada complexidade no âmbito dos JEFs, por incompatível com o rito sumaríssimo. A orientação reflete o entendimento de que perícias que demandem múltiplos peritos, diligências longas ou conhecimento técnico altamente especializado desbordam do procedimento dos juizados. Na rotina previdenciária, a distinção é relevante: perícias médicas judiciais simples (avaliação de incapacidade) são compatíveis com o JEF; perícias contábeis complexas sobre cálculo de RMI com múltiplas atividades concomitantes podem ser consideradas incompatíveis. A tendência jurisprudencial, contudo, é ampliar o conceito de compatibilidade, admitindo nos JEFs a maioria das perícias previdenciárias.
 :::
 
-### 23.15 Prova Pericial nos JEFs Previdenciários
+### 23.15 Prova pericial nos JEFs previdenciários
 
 A prova pericial nos JEFs previdenciários segue regras próprias, disciplinadas pelo art. 12 da Lei n. 10.259/2001. A norma prevê que, para efetuar o exame técnico necessário à conciliação ou ao julgamento da causa, o juiz nomeará pessoa habilitada, que apresentará o laudo até cinco dias antes da audiência.
 
@@ -240,7 +240,7 @@ A formulação de quesitos periciais é habilidade essencial do advogado previde
 
 A valoração do laudo pericial pelo juiz do JEF segue o princípio do livre convencimento motivado (art. 371, CPC/2015). O juiz não está vinculado ao laudo pericial, podendo divergir de suas conclusões com base em outros elementos de prova (laudos médicos particulares, relatórios de internação, atestados de médicos assistentes). A jurisprudência da TNU consolidou que o juiz pode acolher laudo pericial desfavorável ao segurado e julgar improcedente a ação, desde que fundamente sua decisão, assim como pode afastar o laudo pericial e conceder o benefício com base em elementos probatórios convergentes.
 
-### 23.16 Tutela de Urgência nos JEFs Previdenciários
+### 23.16 Tutela de urgência nos JEFs previdenciários
 
 A tutela de urgência nos JEFs previdenciários, examinada por Savaris (2023) e Santos (2025), é disciplinada pelo art. 4º da Lei n. 10.259/2001, que prevê a possibilidade de medidas cautelares e de antecipação de tutela "quando presentes os pressupostos do art. 273 do CPC" (referência ao CPC/1973, hoje correspondente ao art. 300 do CPC/2015).
 
@@ -254,9 +254,9 @@ A irreversibilidade da tutela antecipada em matéria previdenciária é questão
 A tutela antecipada nos JEFs pode ser concedida em três momentos distintos: (a) na própria petição inicial, como pedido de tutela de urgência inaudita altera pars (antes da citação do INSS), quando a urgência é extrema; (b) na audiência de conciliação, quando o juiz verifica que o acordo é inviável mas a probabilidade do direito é alta; (c) na audiência de instrução, após a produção de provas que reforçam a probabilidade do direito. O advogado deve requerer a tutela antecipada desde a inicial, demonstrando a urgência e a probabilidade, e reiterar o pedido nas audiências se não deferido liminarmente. A implantação provisória do benefício assegura renda alimentar ao segurado durante a tramitação do processo, cuja duração pode atingir meses ou anos até o trânsito em julgado.
 :::
 
-### 23.17 Sentença nos JEFs Previdenciários
+### 23.17 Sentença nos JEFs previdenciários
 
-A sentença no JEF previdenciário é proferida pelo juiz federal do juizado, observando o rito sumaríssimo (CASTRO; LAZZARI, 2025). As sentenças nos JEFs são, por expressa disposição legal, dispensadas de relatório (art. 38, caput, da Lei n. 9.099/95, aplicável subsidiariamente). A fundamentação, contudo, é obrigatória: o juiz deve indicar os elementos de convicção que o levaram à decisão, identificando as provas em que se baseou.
+A sentença no JEF previdenciário é proferida pelo juiz federal do juizado, observando o rito sumaríssimo (Castro; Lazzari, 2025). As sentenças nos JEFs são, por expressa disposição legal, dispensadas de relatório (art. 38, caput, da Lei n. 9.099/95, aplicável subsidiariamente). A fundamentação, contudo, é obrigatória: o juiz deve indicar os elementos de convicção que o levaram à decisão, identificando as provas em que se baseou.
 
 A sentença pode ser de procedência total, procedência parcial ou improcedência. Nas ações de concessão de benefício, a sentença de procedência concede o benefício, com indicação da espécie e da DIB, e condena o INSS ao pagamento dos atrasados, acrescidos de correção monetária e juros de mora. Confirma ou revoga, conforme o caso, a tutela antecipada eventualmente deferida no curso do processo e, quando houver condenação em sede recursal, fixa os honorários advocatícios devidos.
 
@@ -272,9 +272,9 @@ A sentença ilíquida é a regra nas ações previdenciárias dos JEFs. O juiz f
 
 O recurso cabível contra a sentença do JEF é o recurso inominado, dirigido à Turma Recursal composta por três juízes federais de primeiro grau. O prazo para interposição é de 10 dias (art. 42 da Lei n. 9.099/95), contados da ciência da sentença. O recurso deve ser acompanhado de preparo (custas recursais), exceto quando o recorrente é beneficiário de justiça gratuita (hipótese que abrange a totalidade dos autores em ações previdenciárias).
 
-### 23.18 Recurso Inominado e Turma Recursal
+### 23.18 Recurso inominado e turma recursal
 
-O recurso inominado é o recurso cabível contra as sentenças dos JEFs, previsto nos arts. 41 a 46 da Lei n. 9.099/95, aplicáveis subsidiariamente (KERTZMAN, 2025; SAVARIS, 2023). Trata-se de recurso de fundamentação livre, que devolve à Turma Recursal o exame integral da matéria fática e jurídica decidida em primeiro grau.
+O recurso inominado é o recurso cabível contra as sentenças dos JEFs, previsto nos arts. 41 a 46 da Lei n. 9.099/95, aplicáveis subsidiariamente (Kertzman, 2025; Savaris, 2023). Trata-se de recurso de fundamentação livre, que devolve à Turma Recursal o exame integral da matéria fática e jurídica decidida em primeiro grau.
 
 A Turma Recursal é composta por três juízes federais de primeiro grau, designados pelo Tribunal Regional Federal (art. 21 da Lei n. 10.259/2001). A composição por juízes de primeiro grau, e não por desembargadores, é característica distintiva do sistema dos juizados: o julgamento do recurso permanece no âmbito do primeiro grau de jurisdição, sem ascender ao tribunal.
 
@@ -290,7 +290,7 @@ O acórdão da Turma Recursal deve conter fundamentação suficiente, embora dis
 **Súmula 203/STJ**: "Não cabe recurso especial contra decisão proferida por órgão de segundo grau dos Juizados Especiais." O enunciado aplica-se tanto aos JEFs quanto aos juizados estaduais, vedando o acesso ao STJ por meio de recurso especial. A via adequada para uniformização da jurisprudência dos juizados é o pedido de uniformização (à Turma Regional de Uniformização ou à TNU), disciplinado pelo art. 14 da Lei n. 10.259/2001, ou a reclamação ao STJ quando a decisão da Turma Recursal contrariar súmula ou orientação do STJ (Resolução STJ n. 12/2009).
 :::
 
-### 23.19 Pedido de Uniformização e TNU
+### 23.19 Pedido de uniformização e TNU
 
 O sistema de uniformização da jurisprudência dos JEFs é disciplinado pelo art. 14 da Lei n. 10.259/2001 e opera em três níveis: (a) pedido de uniformização à Turma Regional de Uniformização (TRU), quando houver divergência entre Turmas Recursais da mesma região; (b) pedido de uniformização à Turma Nacional de Uniformização (TNU), quando houver divergência entre Turmas Recursais de regiões diversas ou entre Turma Recursal e súmula/jurisprudência dominante do STJ; (c) incidente de uniformização ao STJ, quando a TNU contrariar súmula ou jurisprudência dominante do STJ.
 
@@ -300,7 +300,7 @@ O pedido de uniformização à TNU é cabível em matéria de direito material, 
 
 A TNU tem produzido jurisprudência de relevância para o direito previdenciário, fixando teses sobre temas recorrentes nos JEFs. As Súmulas da TNU constituem referência obrigatória para o advogado previdenciarista: Súmula 47 (incapacidade parcial e condições pessoais), Súmula 53 (benefício por incapacidade e condições pessoais), Súmula 63 (comprovação de união estável), Súmula 77 (incapacidade e deficiência), Súmula 78 (avaliação biopsicossocial do BPC), entre outras. A consolidação das Súmulas da TNU ao longo dos capítulos anteriores deste livro demonstra a importância da TNU como fonte de uniformização no microssistema dos JEFs.
 
-### 23.20 Execução da Sentença: RPV e Precatório
+### 23.20 Execução da sentença: RPV e precatório
 
 A execução da sentença nos JEFs previdenciários segue procedimento próprio, condicionado pelo valor da condenação e pelo regime constitucional de pagamentos contra a Fazenda Pública (art. 100, CF/88). O pagamento é feito por meio de Requisição de Pequeno Valor (RPV) ou de precatório, conforme o montante.
 
@@ -326,9 +326,9 @@ O sequestro de verbas públicas é medida excepcional prevista no art. 100, §6�
 A vedação de fracionamento do crédito para pagamento parcial por RPV e parcial por precatório é regra constitucional expressa (art. 100, §8º, CF/88, na numeração vigente após a EC n. 113/2021). O segurado não pode dividir artificialmente o crédito para receber parte por RPV e parte por precatório. A exceção são os créditos de natureza alimentar cujos titulares são idosos (60 anos ou mais, nos termos do Estatuto do Idoso), pessoas com deficiência ou portadores de doença grave, que podem receber até o triplo do valor da RPV por essa via preferencial (art. 100, §2º, CF/88, na redação vigente), sendo o excedente pago por precatório. O limite exato da superpreferência e a idade de corte devem ser conferidos na legislação regulamentadora vigente na data de expedição da requisição. Recomenda-se verificar se o cliente se enquadra na superpreferência antes de requerer a expedição da RPV ou do precatório.
 :::
 
-### 23.21 Honorários Advocatícios e Custas nos JEFs
+### 23.21 Honorários advocatícios e custas nos JEFs
 
-O regime de honorários advocatícios e custas nos JEFs é peculiar e constitui uma das principais vantagens do sistema para o segurado (SANTOS, 2025). Em primeiro grau de jurisdição, não há condenação em custas nem em honorários de sucumbência, seja para o autor vencido, seja para o réu vencido (art. 55, caput, primeira parte, da Lei n. 9.099/95, aplicável subsidiariamente).
+O regime de honorários advocatícios e custas nos JEFs é peculiar e constitui uma das principais vantagens do sistema para o segurado (Santos, 2025). Em primeiro grau de jurisdição, não há condenação em custas nem em honorários de sucumbência, seja para o autor vencido, seja para o réu vencido (art. 55, caput, primeira parte, da Lei n. 9.099/95, aplicável subsidiariamente).
 
 A isenção de custas em primeiro grau é absoluta: independe da condição econômica da parte e abrange todas as despesas processuais (taxa judiciária, custas de citação, honorários periciais, despesas com diligências). O segurado que litiga no JEF não suporta qualquer ônus financeiro em primeiro grau, mesmo que vencido.
 
@@ -340,7 +340,7 @@ A questão da base de cálculo dos honorários contratuais sobre parcelas vincen
 
 O INSS, como autarquia federal, não é condenado em custas processuais nos JEFs (isenção prevista no art. 4º, I, da Lei n. 9.289/96). A isenção refere-se às custas devidas ao Judiciário, não aos honorários periciais (custeados pela Justiça Federal) nem aos honorários de sucumbência (devidos em sede recursal). A distinção entre isenção de custas (que beneficia o INSS como ente público) e isenção de honorários em primeiro grau (que beneficia ambas as partes) é relevante para a compreensão do regime financeiro do processo nos JEFs.
 
-### 23.22 Tutela de Evidência em Matéria Previdenciária
+### 23.22 Tutela de evidência em matéria previdenciária
 
 A tutela de evidência (art. 311 do CPC/2015) é instrumento processual com potencial de aplicação relevante nos JEFs previdenciários, embora sua utilização ainda seja incipiente na prática forense. A tutela de evidência dispensa a demonstração de perigo de dano, exigindo apenas a probabilidade do direito, em hipóteses taxativas.
 
@@ -348,7 +348,7 @@ A hipótese mais relevante para o direito previdenciário é a do art. 311, inci
 
 A aplicação prática da tutela de evidência nos JEFs enfrenta resistência institucional. O INSS frequentemente contesta a aplicação do instituto, argumentando que a análise individual de cada caso impede a automatização da concessão. A jurisprudência dos JEFs tem admitido a tutela de evidência em hipóteses restritas, como ações de restabelecimento de benefício cessado por alta programada (quando a TNU já fixou tese favorável ao segurado) ou ações de revisão baseadas em teses já consolidadas (como a revisão da vida toda, enquanto vigente).
 
-### 23.23 Desistência, Extinção e Arquivamento
+### 23.23 Desistência, extinção e arquivamento
 
 O processo nos JEFs pode ser extinto sem resolução de mérito em diversas hipóteses, sendo as mais frequentes na prática previdenciária: (a) falta de interesse de agir por ausência de prévio requerimento administrativo (Tema 350/STF); (b) incompetência absoluta em razão do valor; (c) litispendência ou coisa julgada; e (d) desistência do autor.
 
@@ -360,7 +360,7 @@ O não comparecimento do autor à audiência é causa de extinção do processo 
 O arquivamento do processo por não comparecimento à audiência é problema recorrente nos JEFs previdenciários. Recomenda-se adotar as seguintes precauções: (a) confirmar a data e o horário da audiência com o cliente, por meio de comunicação documentada (e-mail, mensagem com comprovante de recebimento); (b) orientar o cliente sobre a importância do comparecimento e as consequências da ausência; (c) em caso de impedimento, requerer a redesignação com antecedência, juntando comprovante do motivo (atestado médico, comprovante de internação, declaração de empregador); (d) se o cliente não compareceu por motivo de força maior, requerer a reconsideração da decisão de extinção, no prazo de 48 horas, demonstrando o impedimento. A extinção por não comparecimento não produz coisa julgada material: o segurado pode ajuizar nova ação com o mesmo objeto.
 :::
 
-### 23.24 Cumprimento de Sentença e Obrigação de Fazer
+### 23.24 Cumprimento de sentença e obrigação de fazer
 
 O cumprimento da sentença nos JEFs previdenciários envolve duas obrigações distintas: (a) a obrigação de fazer (implantação do benefício, com pagamento de parcelas vincendas); e (b) a obrigação de pagar quantia certa (atrasados, com correção monetária e juros de mora). As duas obrigações possuem regimes de execução diferentes.
 
@@ -372,7 +372,7 @@ A obrigação de pagar quantia certa é executada por meio de RPV ou precatório
 
 O regime de correção monetária e juros de mora segue o esquema INPC/SELIC detalhado na seção 23.38, infra.
 
-### 23.25 Competência para Execução de Título Judicial
+### 23.25 Competência para execução de título judicial
 
 A competência para a execução do título judicial formado no JEF é do próprio JEF que proferiu a sentença. O art. 3º, caput, da Lei n. 10.259/2001 atribui ao JEF competência para "executar as suas sentenças". A execução permanece no JEF mesmo quando o valor da condenação (atrasados acumulados durante a tramitação) supera 60 salários mínimos: a competência executória vincula-se ao juízo que proferiu a sentença, não ao valor da condenação.
 
@@ -382,7 +382,7 @@ A liquidação de sentença previdenciária nos JEFs é feita pela Contadoria Ju
 Após o trânsito em julgado, o operador atento acompanha a fase de liquidação observando os seguintes pontos: (a) conferir se a Contadoria utilizou a DIB e a RMI fixadas na sentença; (b) verificar os índices de correção monetária e juros aplicados (INPC até 08/12/2021, SELIC a partir de 09/12/2021); (c) verificar se os períodos de pagamento estão corretos (descontando parcelas já pagas pelo INSS, se houve implantação provisória do benefício); (d) impugnar os cálculos no prazo fixado pelo juiz (geralmente 5 a 10 dias), com demonstração aritmética precisa da divergência; (e) requerer a expedição de RPV ou precatório após a homologação dos cálculos; (f) verificar se o cliente se enquadra na superpreferência (idoso, deficiente, doente grave) para pagamento prioritário.
 :::
 
-### 23.26 Particularidades da Litigância Previdenciária nos JEFs
+### 23.26 Particularidades da litigância previdenciária nos JEFs
 
 A litigância previdenciária nos JEFs apresenta características que a distinguem de outras matérias processadas no mesmo juízo, como as ações contra a União, contra o FGTS ou contra outras autarquias. Essas particularidades decorrem da natureza do direito previdenciário, da vulnerabilidade típica dos segurados e da complexidade técnica das questões envolvidas, e convém percorrê-las em conjunto, pois é da combinação delas que resulta o perfil próprio desse contencioso.
 
@@ -392,7 +392,7 @@ A natureza do réu também singulariza o contencioso. Diferentemente das ações
 
 Sobre todas essas características projeta-se a relevância social da decisão. A concessão ou a negativa de um benefício previdenciário afeta diretamente a subsistência do segurado e de sua família, e o juiz do JEF previdenciário exerce, por isso, função social de primeira grandeza: suas decisões determinam se idosos, pessoas com deficiência, trabalhadores rurais e dependentes de segurados falecidos terão acesso à renda necessária para viver com dignidade. Essa dimensão impõe ao magistrado cautela redobrada na análise das provas e na interpretação das normas, de modo a evitar tanto a concessão indevida, que compromete o equilíbrio atuarial do sistema, quanto a negativa injusta, que priva o segurado de proteção a que faz jus.
 
-### 23.27 Questões Processuais Recorrentes
+### 23.27 Questões processuais recorrentes
 
 A prática cotidiana nos JEFs previdenciários suscita questões processuais recorrentes que exigem tratamento específico.
 
@@ -416,7 +416,7 @@ A fungibilidade do pedido em ações previdenciárias constitui princípio opera
 **TNU, Súmula 77**: "O julgador não é obrigado a analisar as condições pessoais e sociais quando não reconhecer a incapacidade do requerente para a sua atividade habitual." A Súmula delimita o alcance da análise judicial em ações de incapacidade: as condições pessoais (idade, escolaridade, experiência profissional) somente são examinadas quando reconhecida a incapacidade parcial, para fins de verificação da possibilidade de reabilitação. Se o perito conclui pela capacidade plena, o juiz pode julgar improcedente sem examinar as condições pessoais. A interpretação harmoniza-se com a Súmula 47/TNU, que exige a análise das condições pessoais quando há incapacidade parcial.
 :::
 
-### 23.28 Gratuidade de Justiça nos JEFs
+### 23.28 Gratuidade de justiça nos JEFs
 
 A gratuidade de justiça nos JEFs é matéria de relevância prática direta, pois a totalidade dos autores em ações previdenciárias é beneficiária do instituto. O art. 54 da Lei n. 9.099/95, aplicável subsidiariamente, isenta de custas em primeiro grau. A gratuidade complementar (honorários periciais, despesas com diligências) decorre do deferimento da justiça gratuita nos termos do art. 98 do CPC/2015.
 
@@ -424,7 +424,7 @@ A presunção de hipossuficiência nas ações previdenciárias dos JEFs é prat
 
 A gratuidade abrange todas as despesas processuais, incluindo honorários periciais, despesas com certidões, custas de diligências e honorários de sucumbência (em caso de improcedência com condenação em sede recursal). A condenação em honorários de sucumbência contra o beneficiário de justiça gratuita tem exigibilidade suspensa por cinco anos (art. 98, § 3º, CPC/2015): se nesse prazo o credor não demonstrar que a situação econômica do devedor permite o pagamento, a obrigação se extingue.
 
-### 23.29 Embargos de Declaração nos JEFs
+### 23.29 Embargos de declaração nos JEFs
 
 Os embargos de declaração nos JEFs são disciplinados pelo art. 48 da Lei n. 9.099/95, aplicável subsidiariamente. O prazo para interposição é de cinco dias, contados da ciência da decisão embargada. O recurso pode ser oposto contra qualquer decisão (sentença, decisão interlocutória ou acórdão de Turma Recursal), quando houver obscuridade, contradição, omissão ou erro material.
 
@@ -436,7 +436,7 @@ O efeito interruptivo dos embargos de declaração (art. 50 da Lei n. 9.099/95) 
 Os embargos de declaração protelatórios sujeitam o embargante a multa de até 1% sobre o valor da causa (art. 1.026, § 2º, CPC/2015, aplicável subsidiariamente). No cotidiano previdenciário, a multa é raramente imposta nesses juizados, pois os juízes reconhecem que a maioria dos embargos tem finalidade legítima (suprir omissão, esclarecer contradição). Contudo, a reiteração de embargos com conteúdo idêntico ou a oposição de embargos sem fundamentação específica podem ensejar a aplicação da sanção. O advogado deve assegurar que os embargos contenham indicação precisa da omissão, obscuridade ou contradição, com referência ao ponto específico da decisão que se pretende esclarecer.
 :::
 
-### 23.30 Contagem de Prazos nos JEFs
+### 23.30 Contagem de prazos nos JEFs
 
 A contagem de prazos nos JEFs observa regras próprias que decorrem da natureza sumaríssima do procedimento e da aplicação subsidiária da Lei n. 9.099/95. Os prazos são, em regra, mais curtos do que os previstos no CPC/2015: recurso inominado em 10 dias (contra 15 dias da apelação), embargos de declaração em 5 dias (igual ao CPC/2015), contestação do INSS em 30 dias (contra 15 dias da regra geral do CPC).
 
@@ -450,7 +450,7 @@ A prerrogativa de prazo em dobro para a Fazenda Pública não se aplica nos JEFs
 Impõe-se ao patrono manter controle rigoroso dos prazos nos JEFs, especialmente porque a contagem em dias úteis pode gerar confusão quando combinada com prazos diferentes dos praticados na Justiça Federal comum. Os prazos mais relevantes são: 30 dias para contestação do INSS; 10 dias para recurso inominado; 5 dias para embargos de declaração; 10 dias para pedido de uniformização à TNU; 5 a 10 dias para impugnação aos cálculos da Contadoria (conforme intimação do juízo); 15 dias para cumprimento de diligências determinadas pelo juiz. A perda de prazo recursal nos JEFs é particularmente grave, pois não há mecanismo de reabertura análogo ao recurso adesivo ou à ação rescisória (que não é cabível no microssistema dos juizados).
 :::
 
-### 23.31 Prova Documental e o CNIS como Elemento de Prova
+### 23.31 Prova documental e o CNIS como elemento de prova
 
 A prova documental é o alicerce da instrução processual previdenciária nos JEFs. O Cadastro Nacional de Informações Sociais (CNIS) goza de presunção relativa de veracidade (art. 29-A, Lei n. 8.213/91). Para a análise detalhada de sua natureza jurídica, força probatória, inversão do ônus e tratamento de extemporaneidades, remetemos o leitor ao Cap. 5, §§ 5.2.1 a 5.2.4. Nos JEFs, a impugnação do CNIS é frequente: o segurado alega vínculos não registrados, períodos rurais sem contribuição, atividade especial não anotada ou divergências nos valores de contribuição.
 
@@ -466,7 +466,7 @@ A prova do exercício de atividade rural é questão probatória com regras espe
 
 A prova de atividade especial nos JEFs segue regime particular. O PPP (Perfil Profissiográfico Previdenciário), emitido pelo empregador, é o documento-base para a comprovação da exposição a agentes nocivos. Na ausência de PPP, admite-se o LTCAT (Laudo Técnico de Condições Ambientais de Trabalho), formulários antigos (SB-40, DSS-8030, DIRBEN-8030) e, excepcionalmente, prova pericial. O juiz do JEF pode determinar a realização de perícia no local de trabalho quando os documentos são insuficientes ou contraditórios. A jurisprudência da TNU consolidou que o ruído acima de 85 dB (a partir de 19/11/2003, Decreto n. 4.882/2003) caracteriza atividade especial. Quanto ao EPI, o STF, no Tema 555 (ARE 664.335, rel. Min. Luiz Fux, j. 09/12/2014), fixou que, embora o EPI realmente capaz de neutralizar a nocividade afaste o direito à aposentadoria especial, a declaração de eficácia do EPI no PPP não descaracteriza o tempo especial na hipótese de exposição a ruído acima dos limites legais de tolerância. A ressalva específica de que o uso de EPI eficaz não descaracteriza a nocividade no caso de agentes cancerígenos não decorre da tese do Tema 555, mas de orientação administrativa e jurisprudencial posterior (entre outras, a orientação do INSS e os julgados relativos aos agentes do Grupo 1 da LINACH). Adverte-se, ainda, que a caracterização do tempo especial e suas vedações foram afetadas por desenvolvimentos materiais recentes, tratados em profundidade no Cap. 8 (Aposentadoria Especial): a ADI 6.309 (j. 03/06/2026), que declarou inconstitucional a exigência de idade mínima para a aposentadoria especial, mantida, contudo, a vedação à conversão de tempo especial em comum; e o Tema 1.209/STF, relativo à atividade de vigilante. Para que o capítulo processual permaneça alinhado ao estado material da matéria, remetemos o operador àquele capítulo antes de deduzir, no JEF, pretensão fundada em tempo especial.
 
-### 23.32 Litispendência e Coisa Julgada em Matéria Previdenciária
+### 23.32 Litispendência e coisa julgada em matéria previdenciária
 
 A litispendência e a coisa julgada em matéria previdenciária apresentam peculiaridades que decorrem da natureza continuada dos benefícios e da possibilidade de alteração do quadro fático do segurado. O juiz do JEF deve verificar, de ofício, a existência de litispendência ou coisa julgada (art. 337, § 5º, CPC/2015), determinando a extinção do processo sem resolução do mérito quando configurada (art. 485, V, CPC/2015).
 
@@ -480,7 +480,7 @@ A questão da coisa julgada secundum eventum probationis surge quando a sentenç
 A verificação de litispendência e coisa julgada nos JEFs previdenciários exige atenção a detalhes que podem passar despercebidos. O mesmo segurado pode ter ações de benefícios diferentes tramitando simultaneamente (ação de aposentadoria e ação de auxílio por incapacidade), sem que se configure litispendência (pedidos distintos). Pode, porém, ter duas ações com o mesmo pedido em juízos diferentes (JEF do domicílio e JEF do local do trabalho), caso em que a litispendência é configurada. O advogado deve consultar o sistema de acompanhamento processual antes de ajuizar nova ação, verificando a existência de processos anteriores com o mesmo objeto. A extinção por litispendência ou coisa julgada não impede o ajuizamento de nova ação quando demonstrada a alteração do quadro fático.
 :::
 
-### 23.33 Cumulação de Pedidos no JEF
+### 23.33 Cumulação de pedidos no JEF
 
 A cumulação de pedidos no JEF é admitida, desde que observado o limite de competência em razão do valor. O art. 15, caput, da Lei n. 9.099/95, aplicável subsidiariamente, permite a cumulação de pedidos quando o valor total não exceder o teto de competência do juizado. Nos JEFs, a soma dos pedidos cumulados não pode ultrapassar 60 salários mínimos (art. 3º, caput, da Lei n. 10.259/2001).
 
@@ -490,7 +490,7 @@ A cumulação de pedidos contra réus distintos (litisconsórcio passivo) é res
 
 A cumulação imprópria (pedidos alternativos ou subsidiários) é admitida. O segurado pode formular pedido principal de aposentadoria por tempo de contribuição e, subsidiariamente, pedido de aposentadoria por idade, caso o juiz entenda que os requisitos da primeira não estão preenchidos. A cumulação subsidiária é instrumento processual relevante em termos operacionais, pois permite ao juiz conceder o benefício mais adequado sem necessidade de novo processo.
 
-### 23.34 Incidente de Uniformização ao STJ
+### 23.34 Incidente de uniformização ao STJ
 
 O incidente de uniformização ao STJ é a via recursal que permite ao Superior Tribunal de Justiça controlar a jurisprudência da TNU quando esta contrariar súmula ou jurisprudência dominante do STJ. O art. 14, § 4º, da Lei n. 10.259/2001 prevê que, quando a orientação da TNU contrariar súmula ou jurisprudência dominante do STJ, a parte interessada pode provocar o incidente de uniformização.
 
@@ -500,7 +500,7 @@ O incidente de uniformização ao STJ não se confunde com a reclamação consti
 
 A relevância do incidente de uniformização ao STJ para o direito previdenciário reside na possibilidade de o STJ fixar orientação vinculante sobre temas previdenciários decididos no âmbito dos juizados. Diversas teses previdenciárias relevantes foram definidas nessa via: critérios para a comprovação de atividade rural, parâmetros para avaliação da incapacidade, aplicação de fatores de conversão de tempo especial, entre outras. O advogado previdenciarista deve acompanhar os julgamentos do STJ em sede de incidente de uniformização, pois suas decisões vinculam a TNU e, por extensão, as Turmas Recursais de todo o País.
 
-### 23.35 Ação Rescisória e Querela Nullitatis no Microssistema dos JEFs
+### 23.35 Ação rescisória e querela nullitatis no microssistema dos JEFs
 
 A ação rescisória não é cabível no microssistema dos JEFs, descabimento que o FONAJEF também sufraga em enunciado próprio. A vedação decorre da ausência de órgão jurisdicional competente para processar e julgar a ação rescisória no âmbito dos juizados: as Turmas Recursais não exercem competência originária para esse tipo de ação, e o TRF não tem competência sobre os JEFs em grau recursal.
 
@@ -510,7 +510,7 @@ A querela nullitatis é admitida nos JEFs como sucedâneo da ação rescisória 
 
 A competência para processar a querela nullitatis no âmbito dos JEFs é controversa. Parte da jurisprudência atribui a competência ao próprio JEF que proferiu a sentença; outra parte sustenta que a competência é da vara federal comum (já que a querela nullitatis é ação autônoma, não recurso interno do JEF). A tendência predominante nos TRFs é reconhecer a competência do JEF para processar a querela, por aplicação do princípio da simetria e por economia processual.
 
-### 23.36 Procedimentos Específicos do BPC/LOAS no JEF
+### 23.36 Procedimentos específicos do BPC/LOAS no JEF
 
 O Benefício de Prestação Continuada (BPC), previsto no art. 20 da Lei n. 8.742/93 (LOAS), segue, nos JEFs, procedimento que guarda particularidades em relação às demais ações previdenciárias. Embora o BPC não seja benefício previdenciário em sentido estrito (é benefício assistencial, que independe de contribuição), as ações de concessão de BPC são processadas nos JEFs por força da competência federal (art. 109, I, CF/88), pois o INSS é o órgão responsável pela concessão e manutenção do benefício.
 
@@ -524,7 +524,7 @@ Nas ações de BPC no JEF, recomenda-se requerer: (a) perícia médica para aval
 
 Há, por fim, o critério de exclusão de renda familiar. O art. 20, § 14, da LOAS (incluído pela Lei n. 14.176/2021) prevê que devem ser excluídos do cálculo da renda per capita: benefícios assistenciais de outros membros da família, benefícios previdenciários de até um salário mínimo recebidos por idoso (65 anos ou mais), e o BPC concedido a outro membro da família. A exclusão evita que a concessão de um BPC inviabilize o reconhecimento do direito de outro membro da mesma família. Nos JEFs, o juiz deve aplicar esses critérios de exclusão de ofício, ainda que o autor não os invoque na inicial, por tratar-se de matéria de ordem pública.
 
-### 23.37 Recurso Extraordinário ao STF em Matéria dos JEFs
+### 23.37 Recurso extraordinário ao STF em matéria dos JEFs
 
 O recurso extraordinário ao STF é cabível contra decisões dos JEFs que contrariem dispositivo da Constituição Federal (art. 102, III, CF/88). Diferentemente do recurso especial ao STJ (vedado pela Súmula 203/STJ), o recurso extraordinário constitui via recursal aberta no microssistema dos juizados, pois o STF exerce jurisdição constitucional sobre todos os órgãos do Judiciário, inclusive sobre as Turmas Recursais dos JEFs.
 
@@ -534,7 +534,7 @@ Na prática previdenciária, o recurso extraordinário é utilizado para questio
 
 A interposição do recurso extraordinário nos JEFs é dirigida ao presidente da Turma Recursal, que realiza o juízo de admissibilidade. A negativa de seguimento pode ser impugnada por agravo ao STF (art. 1.042, CPC/2015). O regime de repercussão geral permite que o STF determine a suspensão de processos com a mesma questão constitucional em todos os JEFs do País, com efeito multiplicador da decisão de mérito.
 
-### 23.38 Correção Monetária, Juros e Atualização das Condenações
+### 23.38 Correção monetária, juros e atualização das condenações
 
 A correção monetária e os juros de mora nas condenações previdenciárias dos JEFs seguem regime que sofreu alterações significativas ao longo do tempo. O conhecimento dos critérios de atualização é indispensável para o advogado previdenciarista, tanto na fase de conhecimento (para requerer a correta fixação na sentença) quanto na fase de liquidação (para conferir os cálculos da Contadoria).
 
@@ -560,7 +560,7 @@ O cálculo de atualização das condenações previdenciárias nos JEFs segue, e
 
 A incidência de contribuição previdenciária sobre os atrasados tem impacto financeiro relevante para o segurado. Os valores pagos como atrasados de benefícios previdenciários sofrem retenção da contribuição do segurado (alíquota de 7,5% a 14%, conforme a faixa de contribuição vigente). O desconto é feito pelo INSS no momento da operacionalização do pagamento (RPV ou precatório), abatendo-se o valor da contribuição do montante bruto. O advogado deve alertar o cliente sobre o desconto e incluir a estimativa da retenção na projeção do valor líquido a receber.
 
-### 23.39 Consolidação das Posições Adotadas
+### 23.39 Consolidação das posições adotadas
 
 As posições adotadas ao longo deste capítulo partem de premissa comum: o rito dos JEFs constitui o sistema processual que mais se aproxima do acesso efetivo do segurado à prestação jurisdicional. O rito sumaríssimo, a dispensa de advogado em primeiro grau, a gratuidade processual e a busca pela conciliação constituem instrumentos que concretizam o direito fundamental de acesso à Justiça (art. 5º, XXXV, CF/88) para a população que mais necessita da proteção previdenciária.
 
@@ -574,7 +574,7 @@ O sistema de execução (RPV para condenações de até 60 salários mínimos, p
 
 Entendemos que o JEF previdenciário cumpre função social insubstituível no ordenamento jurídico brasileiro. A democratização do acesso à Justiça Federal, a simplificação procedimental e a especialização dos magistrados em matéria previdenciária transformaram o cenário da litigância previdenciária no País. Os desafios remanescentes — volume excessivo de demandas, demora na execução e na liquidação, insuficiência de estrutura física e de pessoal, especialmente de peritos médicos — exigem investimento contínuo na capacitação dos juízes, na informatização dos processos e na cooperação institucional entre o Judiciário e o INSS. A ampliação do quadro de juízes federais dedicados aos JEFs, a manutenção de corpo permanente de peritos e a integração eletrônica entre os sistemas da Justiça Federal e do INSS são medidas indispensáveis para que o microssistema dos juizados continue cumprindo sua missão constitucional de garantir acesso efetivo à justiça previdenciária.
 
-### 23.40 Referências
+### Referências
 
 #### Legislação
 

@@ -41,11 +41,11 @@ referencias:
 
 ## Capítulo 11 — Aposentadoria por Tempo de Contribuição e Regras de Transição
 
-### 11.1 Introdução e Escopo
+### 11.1 Introdução e escopo
 
 Nenhuma espécie de benefício acumulou tantas regras de transição quanto a aposentadoria por tempo de contribuição. Quatro regimes convivem: as regras pré-EC 20/1998, as regras intermediárias (fator previdenciário e regra 85/95), as transições da EC 103/2019 e a regra permanente. O segurado que busca essa aposentadoria em 2026 depara com até seis caminhos distintos, cada qual com requisitos, base de cálculo e coeficiente próprios.
 
-A EC 103/2019 extinguiu a aposentadoria por tempo de contribuição como espécie autônoma para quem se filiou ao RGPS a partir de 13/11/2019 — esses novos segurados só acessam a aposentadoria programada (Cap. 10). Para os filiados anteriores, que ainda representam a ampla maioria dos segurados em atividade (CASTRO; LAZZARI, 2025; IBRAHIM, 2025), quatro regras de transição (arts. 15, 16, 17 e 20 da EC 103) mantêm aberta a via da aposentadoria por tempo de contribuição. Cada regra favorece um perfil distinto de segurado, e a escolha equivocada pode significar prejuízo financeiro irreversível — razão pela qual a simulação comparativa por todas as regras se impõe como dever profissional do advogado previdenciarista.
+A EC 103/2019 extinguiu a aposentadoria por tempo de contribuição como espécie autônoma para quem se filiou ao RGPS a partir de 13/11/2019 — esses novos segurados só acessam a aposentadoria programada (Cap. 10). Para os filiados anteriores, que ainda representam a ampla maioria dos segurados em atividade (Castro; Lazzari, 2025; Ibrahim, 2025), quatro regras de transição (arts. 15, 16, 17 e 20 da EC 103) mantêm aberta a via da aposentadoria por tempo de contribuição. Cada regra favorece um perfil distinto de segurado, e a escolha equivocada pode significar prejuízo financeiro irreversível — razão pela qual a simulação comparativa por todas as regras se impõe como dever profissional do advogado previdenciarista.
 
 Este capítulo trata das regras de transição por tempo de contribuição, do fator previdenciário (ainda aplicável em situações específicas), da regra 85/95 (aplicação residual por direito adquirido), da aposentadoria proporcional da EC 20/1998 e de temas correlatos: contagem recíproca, tempo fictício, conversão de tempo especial e planejamento previdenciário. As regras gerais de cálculo do SB/RMI estão no Cap. 16; tempo de contribuição e CNIS, no Cap. 5; aposentadoria especial e conversão, no Cap. 8; regras de transição por idade, no Cap. 10.
 
@@ -62,7 +62,7 @@ Este capítulo trata das regras de transição por tempo de contribuição, do f
 | **Regras de transição por TC (arts. 15-20), fator previd. (aplicação), regra 85/95, aposentadoria proporcional, professor** | **Este capítulo** |
 :::
 
-### 11.2 Evolução Histórica da Aposentadoria por Tempo de Serviço/Contribuição
+### 11.2 Evolução histórica da aposentadoria por tempo de serviço/contribuição
 
 #### 11.2.1 Da aposentadoria por tempo de serviço à aposentadoria por tempo de contribuição
 
@@ -72,19 +72,19 @@ A Constituição de 1988, em sua redação original (art. 202), manteve a aposen
 
 #### 11.2.2 A EC 20/1998: idade mínima frustrada e fator previdenciário
 
-A EC 20/1998 tentou introduzir idade mínima para a aposentadoria por tempo de contribuição, mas a resistência política impediu a medida (CASTRO; LAZZARI, 2025; AMADO, 2025). Em compensação, duas mudanças relevantes foram implementadas:
+A EC 20/1998 tentou introduzir idade mínima para a aposentadoria por tempo de contribuição, mas a resistência política impediu a medida (Castro; Lazzari, 2025; Amado, 2025). Em compensação, duas mudanças relevantes foram implementadas:
 
 **Primeira:** A substituição do conceito de "tempo de serviço" por "tempo de contribuição" (art. 201, § 7º, nova redação), exigindo contribuição efetiva ao sistema, e não apenas exercício de atividade. Essa mudança conceitual vedou a contagem de tempo fictício (art. 40, § 10, CF), eliminando benefícios como a contagem em dobro de licença-prêmio não gozada.
 
 **Segunda:** A criação de uma regra de transição (art. 9º da EC 20/98) que previa aposentadoria proporcional para segurados com idade mínima de 48/53 anos e pedágio de 40% sobre o tempo faltante. Essa regra de transição, posteriormente revogada pelo art. 35 da EC 103/2019, ainda produz efeitos para segurados que implementaram seus requisitos antes de 13/11/2019 (direito adquirido).
 
-#### 11.2.3 A Lei 9.876/1999: o fator previdenciário
+#### 11.2.3 A lei 9.876/1999: o fator previdenciário
 
-Sem a idade mínima, o governo recorreu a um mecanismo indireto: o fator previdenciário (Lei 9.876/1999, inserido no art. 29 da Lei 8.213/91). A fórmula relaciona tempo de contribuição, idade e expectativa de sobrevida (tabela IBGE), produzindo um coeficiente que, na maioria dos casos de aposentadoria precoce, reduz o valor do benefício — por vezes em mais de 30% (KERTZMAN, 2025; IBRAHIM, 2025).
+Sem a idade mínima, o governo recorreu a um mecanismo indireto: o fator previdenciário (Lei 9.876/1999, inserido no art. 29 da Lei 8.213/91). A fórmula relaciona tempo de contribuição, idade e expectativa de sobrevida (tabela IBGE), produzindo um coeficiente que, na maioria dos casos de aposentadoria precoce, reduz o valor do benefício — por vezes em mais de 30% (Kertzman, 2025; Ibrahim, 2025).
 
 O STF indeferiu a medida cautelar na ADI 2.111 (julgada em 16/03/2000), sinalizando a constitucionalidade do fator previdenciário como mecanismo legítimo de equilíbrio financeiro do sistema. O mérito das ADIs 2.110 e 2.111 foi concluído em 21/03/2024 (ata publicada em 05/04/2024), quando o STF declarou constitucional a Lei 9.876/1999 — inclusive a regra de transição do art. 3º —, afastando, no mesmo julgamento, a tese da "revisão da vida toda" (v. Caps. 16 e 17).
 
-#### 11.2.4 A Lei 13.183/2015: a regra 85/95
+#### 11.2.4 A lei 13.183/2015: a regra 85/95
 
 Em resposta à insatisfação generalizada com o fator, a Lei 13.183/2015 criou a regra 85/95 (art. 29-C da Lei 8.213/91): quem atingisse pontuação mínima (idade + TC) aposentava-se com 100% do SB, sem incidência do fator previdenciário. A pontuação era progressiva (85/95 em 2015, até 90/100). A seção 11.9 examina a regra em detalhe e sua aplicação residual como direito adquirido.
 
@@ -103,7 +103,7 @@ Para os filiados anteriores, quatro regras de transição foram estabelecidas, c
 | 2015-2019 | Lei 13.183/15 | Regra 85/95 alternativa (afasta fator se atingir pontos) |
 | 2019+ | EC 103/19 | Extinção da aposentadoria por TC para novos filiados; 4 regras de transição |
 
-### 11.3 Direito Adquirido à Regra Anterior (Art. 3º, EC 103/2019)
+### 11.3 Direito adquirido à regra anterior (art. 3º, EC 103/2019)
 
 #### 11.3.1 Fundamento constitucional
 
@@ -167,11 +167,11 @@ O advogado deve verificar, para cada cliente:
 **Lição:** O direito adquirido pode ser exercido a qualquer tempo. Esperar mais anos pode torná-lo ainda mais vantajoso quando o fator previdenciário supera 1,0, mas o segurado perde meses de benefício enquanto espera.
 :::
 
-### 11.4 Regra de Transição por Pontos — Art. 15, EC 103/2019
+### 11.4 Regra de transição por pontos — art. 15, EC 103/2019
 
 #### 11.4.1 Conceito e requisitos
 
-Das quatro regras de transição, a de pontos (art. 15) é a que atinge o maior número de segurados. O mecanismo é direto: soma-se a idade ao tempo de contribuição, e o resultado deve atingir a pontuação mínima do ano de requerimento. Herdeira da regra 85/95 (IBRAHIM, 2025; AMADO, 2025), dela se distingue por uma diferença crucial: os pontos aqui são mero requisito de acesso, sem efeito sobre o cálculo do benefício.
+Das quatro regras de transição, a de pontos (art. 15) é a que atinge o maior número de segurados. O mecanismo é direto: soma-se a idade ao tempo de contribuição, e o resultado deve atingir a pontuação mínima do ano de requerimento. Herdeira da regra 85/95 (Ibrahim, 2025; Amado, 2025), dela se distingue por uma diferença crucial: os pontos aqui são mero requisito de acesso, sem efeito sobre o cálculo do benefício.
 
 Os requisitos são cumulativos:
 
@@ -250,7 +250,7 @@ Embora ambos usem o sistema de pontos (idade + TC), os efeitos são radicalmente
 A confusão entre as duas regras é um dos erros mais comuns na prática previdenciária. O advogado que calcula o benefício do art. 15 como se fosse a regra 85/95 (100% do SB, sem fator) comete erro grave que pode resultar em expectativa equivocada ao cliente e eventual responsabilidade profissional.
 :::
 
-### 11.5 Regra de Transição por Idade Mínima Progressiva — Art. 16, EC 103/2019
+### 11.5 Regra de transição por idade mínima progressiva — art. 16, EC 103/2019
 
 #### 11.5.1 Conceito e requisitos
 
@@ -308,7 +308,7 @@ Na prática, o art. 15 tem campo de aplicação mais amplo porque permite compen
 **Em ambos os casos, o cálculo do benefício é idêntico.** A diferença é apenas no acesso.
 :::
 
-### 11.6 Regra de Transição do Pedágio de 50% — Art. 17, EC 103/2019
+### 11.6 Regra de transição do pedágio de 50% — art. 17, EC 103/2019
 
 #### 11.6.1 Conceito e requisitos de elegibilidade
 
@@ -379,11 +379,11 @@ A regra do pedágio 50% pode ser a mais vantajosa quando:
 **Pedágio 50% (R$ 5.087,50) > Art. 15 (R$ 4.416,00).** A diferença de R$ 671,50/mês (R$ 8.058/ano) demonstra que o pedágio 50% pode ser extremamente vantajoso para seguradas com idade elevada.
 :::
 
-### 11.7 Regra de Transição do Pedágio de 100% — Art. 20, EC 103/2019
+### 11.7 Regra de transição do pedágio de 100% — art. 20, EC 103/2019
 
 #### 11.7.1 Conceito e requisitos
 
-Entre as regras de transição, o pedágio de 100% (art. 20) é a que gera maior interesse dos segurados com idade e TC suficientes, por uma razão objetiva: é a única que garante coeficiente de 100% sobre a média, sem fator previdenciário (AMADO, 2025; IBRAHIM, 2025). A contrapartida é o tempo adicional de contribuição exigido.
+Entre as regras de transição, o pedágio de 100% (art. 20) é a que gera maior interesse dos segurados com idade e TC suficientes, por uma razão objetiva: é a única que garante coeficiente de 100% sobre a média, sem fator previdenciário (Amado, 2025; Ibrahim, 2025). A contrapartida é o tempo adicional de contribuição exigido.
 
 Os requisitos são cumulativos:
 
@@ -450,11 +450,11 @@ Em 2026, Fernando tem: 39 anos de TC (1987-2026) ≥ 38 anos ✅. Idade: 62 ≥ 
 O segurado que se aposenta pelo pedágio 100% também pode utilizar a possibilidade de exclusão de salários de contribuição que reduzam a média (art. 26, § 6º). Contudo, há uma particularidade: a exclusão não pode reduzir o TC abaixo do mínimo exigido (incluindo o pedágio). Se Fernando precisa de 38 anos de TC e exclui 3 anos de salários baixos, restam 36 anos — inferior aos 38 necessários. Nesse caso, a exclusão não é possível nessa extensão. O cálculo deve ser feito considerando essa limitação.
 :::
 
-### 11.8 O Fator Previdenciário: Fórmula, Variáveis e Impacto
+### 11.8 O fator previdenciário: fórmula, variáveis e impacto
 
 #### 11.8.1 Origem e fundamento
 
-O fator previdenciário (Lei 9.876/1999) é o mecanismo pelo qual o legislador buscou desestimular aposentadorias precoces sem impor idade mínima formal (IBRAHIM, 2025; KERTZMAN, 2025). Ajusta o valor do benefício a três variáveis — tempo de contribuição, idade e expectativa de sobrevida — e é a principal razão pela qual muitos segurados optavam pela regra 85/95.
+O fator previdenciário (Lei 9.876/1999) é o mecanismo pelo qual o legislador buscou desestimular aposentadorias precoces sem impor idade mínima formal (Ibrahim, 2025; Kertzman, 2025). Ajusta o valor do benefício a três variáveis — tempo de contribuição, idade e expectativa de sobrevida — e é a principal razão pela qual muitos segurados optavam pela regra 85/95.
 
 A fórmula está prevista no Anexo da Lei 9.876/99 e regulamentada nos arts. 181-A a 181-F do Decreto 3.048/99.
 
@@ -486,7 +486,7 @@ A Lei 9.876/99 prevê acréscimos fictícios ao tempo de contribuição exclusiv
 
 Esses bônus elevam significativamente o fator previdenciário, reduzindo o efeito redutor da fórmula. Uma professora com 25 anos de TC e 52 anos de idade, por exemplo, calcula o fator com Tc=35 (25+10) e Id=57 (52+5).
 
-#### 11.8.4 Impacto prático e referência ao Cap. 16
+#### 11.8.4 Impacto prático e referência ao cap. 16
 
 A tabela completa de simulações, o guia de cálculo passo a passo e exemplos numéricos detalhados do fator previdenciário estão no Cap. 16, seção 16.4, à qual se remete o leitor. Como referência rápida para este capítulo: o fator é redutor (< 1,0) para segurados que se aposentam jovens (homem de 55 anos com 35 de TC obtém fator de aproximadamente 0,71, redução de ~29%); torna-se neutro ou majorador (>= 1,0) para segurados com idade e TC elevados (homem de 62 anos com 40 de TC obtém fator de aproximadamente 1,15, acréscimo de ~15%). O resultado é sempre limitado ao teto do RGPS (R$ 8.475,55 em 2026).
 
@@ -504,7 +504,7 @@ A tabela completa de simulações, o guia de cálculo passo a passo e exemplos n
 O fator previdenciário e o coeficiente 60%+2% são mecanismos distintos que NUNCA se aplicam simultaneamente à mesma aposentadoria. Cada regra de transição define qual dos dois se aplica.
 :::
 
-### 11.9 A Regra 85/95 Progressiva (Lei 13.183/2015) — Aplicação Residual
+### 11.9 A regra 85/95 progressiva (lei 13.183/2015) — aplicação residual
 
 #### 11.9.1 Conceito original
 
@@ -554,7 +554,7 @@ Sustentamos que essa é a regra mais generosa entre todas as disponíveis para q
 O direito adquirido à regra 85/95 é, neste caso, superior. O advogado que não verifica esse direito causa prejuízo ao cliente.
 :::
 
-### 11.10 Análise Comparativa: Qual Regra de Transição Escolher?
+### 11.10 Análise comparativa: qual regra de transição escolher?
 
 #### 11.10.1 Tabela-mestre das regras
 
@@ -619,7 +619,7 @@ A análise dos exemplos demonstra que cada regra pode ser a mais vantajosa depen
 O advogado deve calcular o benefício por TODAS as regras aplicáveis e apresentar a comparação ao cliente. Essa é a essência da advocacia previdenciária de qualidade.
 :::
 
-### 11.11 Contagem Recíproca e Impacto nas Regras de Transição
+### 11.11 Contagem recíproca e impacto nas regras de transição
 
 #### 11.11.1 Fundamento e mecanismo geral
 
@@ -685,11 +685,11 @@ Algumas situações merecem atenção especial quando se combina contagem recíp
 
 **c) CTC expedida com erro:** A CTC que contém erros (períodos incorretos, omissão de contribuições) deve ser retificada pelo órgão emissor. O INSS não tem competência para corrigir CTC emitida por outro regime. Se o órgão de origem se recusar a retificar, cabe ação judicial contra o ente federativo emissor.
 
-### 11.12 Tempo Fictício: Vedação e Exceções Remanescentes
+### 11.12 Tempo fictício: vedação e exceções remanescentes
 
 #### 11.12.1 Conceito e vedação constitucional
 
-A EC 20/1998 vedou a contagem de tempo fictício de contribuição (art. 40, § 10, CF/88). Tempo fictício é aquele computado sem exercício efetivo de atividade laboral nem contribuição: ficção jurídica que atribuía efeitos previdenciários a períodos em que o segurado não trabalhou nem contribuiu. A vedação, embora inserida no art. 40 (servidores públicos), aplica-se também ao RGPS como princípio geral do sistema (CASTRO; LAZZARI, 2025; AMADO, 2025). O dispositivo determina:
+A EC 20/1998 vedou a contagem de tempo fictício de contribuição (art. 40, § 10, CF/88). Tempo fictício é aquele computado sem exercício efetivo de atividade laboral nem contribuição: ficção jurídica que atribuía efeitos previdenciários a períodos em que o segurado não trabalhou nem contribuiu. A vedação, embora inserida no art. 40 (servidores públicos), aplica-se também ao RGPS como princípio geral do sistema (Castro; Lazzari, 2025; Amado, 2025). O dispositivo determina:
 
 > *É vedada a contagem de tempo de contribuição fictício para efeito de concessão dos benefícios previdenciários e de contagem recíproca.*
 
@@ -748,9 +748,9 @@ O tempo de contribuição sem recolhimento, quando admitido, integra o TC total 
 
 Porém, há uma distinção crucial quanto à **carência**: o tempo rural pré-1991, embora compute como TC, somente conta como carência se houver contribuição efetiva (art. 55, § 2º, Lei 8.213/91). Nas regras de transição que exigem carência de 180 meses (arts. 15 e 16), o segurado deve observar se possui carência suficiente mesmo após a averbação do tempo rural.
 
-### 11.13 Conversão de Tempo Especial e Impacto na Aposentadoria por TC
+### 11.13 Conversão de tempo especial e impacto na aposentadoria por TC
 
-#### 11.13.1 Remissão ao Cap. 8 e delimitação
+#### 11.13.1 Remissão ao cap. 8 e delimitação
 
 O Capítulo 8 deste livro tratou em profundidade da aposentadoria especial e da conversão de tempo especial em comum, incluindo os fatores de conversão, o enquadramento por agente nocivo, a vedação da conversão para períodos posteriores a 13/11/2019 (art. 25, § 2º, EC 103/2019) e a ADI 6.309, julgada pelo STF em 03/06/2026, no que a vedação à conversão foi mantida (afastada, no mesmo julgado, a idade mínima da aposentadoria especial). Remete-se o leitor à seção 8.9 para os fundamentos gerais.
 
@@ -797,7 +797,7 @@ Conclui-se que a primeira regra disponível para Paulo é o art. 15, em **2029**
 
 A conversão transformou um segurado sem qualquer regra de transição disponível em um segurado com aposentadoria viável, ainda que em horizonte futuro.
 
-#### 11.13.4 A vedação pós-EC 103 e suas consequências
+#### 11.13.4 A vedação pós-ec 103 e suas consequências
 
 O art. 25, § 2º, da EC 103/2019, veda a conversão de tempo especial em comum para períodos de atividade especial exercidos após 13/11/2019. Na prática, isso significa:
 
@@ -841,11 +841,11 @@ A ADI 6.309 (Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. Andr�
 A conversão de tempo especial é estratégia poderosa para completar o TC nas regras de transição, mas pressupõe que o período seja efetivamente reconhecido como especial. Atenção redobrada ao tempo de **vigilante**: o STF, no **Tema 1.209**, firmou que a atividade de vigilante não é especial pela mera periculosidade — exige-se a comprovação, na forma da legislação de cada época, do uso de arma de fogo e da exposição efetiva a risco à integridade física. Antes de incluir tempo de vigilante no cálculo do TC convertido, portanto, é indispensável verificar se o período preenche esses requisitos; do contrário, a projeção de elegibilidade ruirá. O enquadramento da atividade de vigilante e os contornos do Tema 1.209 são tratados em detalhe no Capítulo 8 (aposentadoria especial e conversão de tempo).
 :::
 
-### 11.14 Planejamento Previdenciário: Quando Esperar, Quando Requerer
+### 11.14 Planejamento previdenciário: quando esperar, quando requerer
 
 #### 11.14.1 Conceito e importância
 
-O planejamento previdenciário consiste na análise técnica e projetiva da situação do segurado, considerando todas as variáveis relevantes — idade, TC, salários de contribuição, regras aplicáveis — para determinar o momento ótimo de requerimento da aposentadoria (KERTZMAN, 2025; AMADO, 2025). Com quatro regras de transição simultâneas e cálculos de benefício distintos, o planejamento deixou de ser diferencial e tornou-se obrigação. Temos visto casos em que a diferença entre a regra escolhida e a regra ótima ultrapassava R$ 500/mês — o que, projetado pela expectativa de sobrevida do segurado, representa centenas de milhares de reais ao longo da vida.
+O planejamento previdenciário consiste na análise técnica e projetiva da situação do segurado, considerando todas as variáveis relevantes — idade, TC, salários de contribuição, regras aplicáveis — para determinar o momento ótimo de requerimento da aposentadoria (Kertzman, 2025; Amado, 2025). Com quatro regras de transição simultâneas e cálculos de benefício distintos, o planejamento deixou de ser diferencial e tornou-se obrigação. Temos visto casos em que a diferença entre a regra escolhida e a regra ótima ultrapassava R$ 500/mês — o que, projetado pela expectativa de sobrevida do segurado, representa centenas de milhares de reais ao longo da vida.
 
 O planejamento previdenciário para aposentadoria por TC deve considerar três horizontes temporais:
 
@@ -960,7 +960,7 @@ O planejamento previdenciário opera com projeções e, como toda projeção, es
 **Recomendação:** O planejamento deve ser revisto periodicamente (ao menos anualmente) e o segurado deve ser alertado sobre esses riscos. A decisão final é sempre do cliente, devidamente informado.
 :::
 
-### 11.15 Cálculo Detalhado do Benefício: Caso Unificado por Cada Regra
+### 11.15 Cálculo detalhado do benefício: caso unificado por cada regra
 
 #### 11.15.1 Apresentação do caso-base
 
@@ -977,7 +977,7 @@ A seção 11.10 apresentou um quadro comparativo simplificado. Neste tópico, ap
 - **Média de 100% dos SC:** R$ 5.600,00
 - **Média de 100% dos SC com exclusão (art. 26, § 6º):** R$ 5.900,00 (excluindo 15 meses de SC que reduziam a média)
 
-#### 11.15.2 Cálculo 1 — Direito adquirido TC + fator previdenciário
+#### 11.15.2 Cálculo 1 — direito adquirido TC + fator previdenciário
 
 **Verificação de elegibilidade:**
 - TC até 12/11/2019: 30,83 anos < 35 anos → **NÃO ELEGÍVEL**
@@ -985,7 +985,7 @@ A seção 11.10 apresentou um quadro comparativo simplificado. Neste tópico, ap
 
 **Resultado:** Inaplicável.
 
-#### 11.15.3 Cálculo 2 — Direito adquirido regra 85/95
+#### 11.15.3 Cálculo 2 — direito adquirido regra 85/95
 
 **Verificação de elegibilidade:**
 - TC até 12/11/2019: 30,83 anos < 35 anos → **NÃO ELEGÍVEL** (não atingiu TC mínimo)
@@ -993,7 +993,7 @@ A seção 11.10 apresentou um quadro comparativo simplificado. Neste tópico, ap
 
 **Resultado:** Inaplicável.
 
-#### 11.15.4 Cálculo 3 — Art. 15 (pontos)
+#### 11.15.4 Cálculo 3 — art. 15 (pontos)
 
 **Verificação de elegibilidade (usando TC sem conversão, pois os arts. 15-16 usam TC real):**
 - TC: 37,33 anos ≥ 35 ✅
@@ -1009,7 +1009,7 @@ A seção 11.10 apresentou um quadro comparativo simplificado. Neste tópico, ap
 
 Observação: sem conversão de tempo especial. A conversão de tempo especial em comum não gera acréscimo no TC para fins dos arts. 15 e 16 quando o segurado já possui o TC mínimo de 35 anos; ela é útil quando o segurado NÃO atingiu os 35 anos de TC com o tempo real.
 
-#### 11.15.5 Cálculo 4 — Art. 16 (idade mínima progressiva)
+#### 11.15.5 Cálculo 4 — art. 16 (idade mínima progressiva)
 
 **Verificação de elegibilidade:**
 - TC: 37,33 anos ≥ 35 ✅
@@ -1022,14 +1022,14 @@ Observação: sem conversão de tempo especial. A conversão de tempo especial e
 - Coeficiente: 60% + 2% × (40,33 - 20) = 100,66%
 - RMI: R$ 5.900 × 100,66% = **R$ 5.938,94** (idêntico ao art. 15)
 
-#### 11.15.6 Cálculo 5 — Art. 17 (pedágio 50%)
+#### 11.15.6 Cálculo 5 — art. 17 (pedágio 50%)
 
 **Verificação de elegibilidade:**
 - TC em 13/11/2019: 30,83 anos → faltavam 4,17 anos para 35 → **> 2 anos → NÃO ELEGÍVEL**
 
 **Resultado:** Inaplicável. O pedágio 50% exige que faltassem menos de 2 anos em 13/11/2019.
 
-#### 11.15.7 Cálculo 6 — Art. 20 (pedágio 100%)
+#### 11.15.7 Cálculo 6 — art. 20 (pedágio 100%)
 
 **Verificação de elegibilidade:**
 - Idade: 62 ≥ 60 ✅
@@ -1065,10 +1065,10 @@ O STF consolidou, no Tema 334 (RE 630.501/RS), o entendimento de que o segurado 
 
 O art. 26, § 6º, da EC 103/2019, ao permitir a exclusão de salários de contribuição que reduzam a média, reforça o princípio do benefício mais vantajoso: o cálculo deve considerar todas as possibilidades de exclusão e de regras aplicáveis, sempre em favor do segurado.
 
-Na prática forense, o advogado deve formular pedido alternativo (art. 326, CPC), requerendo a concessão pela regra mais vantajosa entre todas as aplicáveis. O juiz, por sua vez, deve realizar a comparação de ofício, como expressão do princípio da proteção e do dever de decidir pelo benefício mais favorável (CASTRO; LAZZARI, 2025).
+Na prática forense, o advogado deve formular pedido alternativo (art. 326, CPC), requerendo a concessão pela regra mais vantajosa entre todas as aplicáveis. O juiz, por sua vez, deve realizar a comparação de ofício, como expressão do princípio da proteção e do dever de decidir pelo benefício mais favorável (Castro; Lazzari, 2025).
 :::
 
-### 11.16 Aspectos Processuais Específicos nos JEFs
+### 11.16 Aspectos processuais específicos nos JEFs
 
 #### 11.16.1 Competência e valor da causa
 
@@ -1084,7 +1084,7 @@ O teto de competência dos JEFs é de 60 salários mínimos (R$ 97.260,00 em 202
 
 #### 11.16.2 Formulação do pedido
 
-O pedido na ação de aposentadoria por TC deve ser formulado de modo a abranger todas as regras de transição potencialmente aplicáveis (SAVARIS, 2023). A formulação ideal é o **pedido alternativo** (art. 326, CPC), requerendo:
+O pedido na ação de aposentadoria por TC deve ser formulado de modo a abranger todas as regras de transição potencialmente aplicáveis (Savaris, 2023). A formulação ideal é o **pedido alternativo** (art. 326, CPC), requerendo:
 
 - A concessão da aposentadoria pela regra de transição mais vantajosa entre todas as aplicáveis (arts. 15, 16, 17 e 20 da EC 103/2019), incluindo eventual direito adquirido à regra anterior;
 - A reafirmação da DER, se necessário, para implementação dos requisitos;
@@ -1159,11 +1159,11 @@ A audiência de conciliação e instrução no JEF previdenciário por TC segue 
 - **Conciliação:** O INSS frequentemente apresenta propostas de acordo em ações de aposentadoria por TC. O advogado deve verificar se a proposta corresponde efetivamente à regra mais vantajosa ou se o INSS oferece apenas uma das regras (geralmente a de menor valor). É prática comum o INSS propor acordo pela regra do art. 15/16 quando o pedágio 100% seria mais vantajoso — cabe ao advogado recusar propostas desvantajosas.
 - **Instrução:** A oitiva de testemunhas é relevante especialmente para comprovação de tempo rural, atividade especial sem PPP adequado e tempo de aluno-aprendiz. As audiências podem ser realizadas por videoconferência (art. 1º, § 2º, Lei 10.259/2001).
 
-### 11.17 Questões Especiais e Casos de Fronteira
+### 11.17 Questões especiais e casos de fronteira
 
 #### 11.17.1 O professor nas regras de transição
 
-O professor que comprove exclusivamente tempo de efetivo exercício em funções de magistério na educação infantil, no ensino fundamental e no ensino médio tem regras diferenciadas nas transições da EC 103/2019 (CASTRO; LAZZARI, 2025; KERTZMAN, 2025):
+O professor que comprove exclusivamente tempo de efetivo exercício em funções de magistério na educação infantil, no ensino fundamental e no ensino médio tem regras diferenciadas nas transições da EC 103/2019 (Castro; Lazzari, 2025; Kertzman, 2025):
 
 **a) Art. 15 (pontos) — § único:**
 - TC mínimo: **25 anos (mulher) / 30 anos (homem)** (redução de 5 anos)
@@ -1292,7 +1292,7 @@ Na prática, o advogado deve incluir o período militar em toda apuração de TC
 - Reduzir o pedágio dos arts. 17 e 20 (mais TC em 2019 = menos tempo faltante = menos pedágio)
 - Aumentar o fator previdenciário (Tc maior eleva o fator)
 
-#### 11.17.5 Aposentadoria proporcional (EC 20/1998) — Direito adquirido residual
+#### 11.17.5 Aposentadoria proporcional (EC 20/1998) — direito adquirido residual
 
 Embora revogada pela EC 103/2019 (art. 35), a regra de transição da EC 20/1998 (art. 9º) para aposentadoria proporcional permanece aplicável para segurados que implementaram seus requisitos até 12/11/2019. Trata-se de direito adquirido protegido pelo art. 5º, XXXVI, da CF e pelo art. 3º da EC 103/2019.
 
@@ -1335,7 +1335,7 @@ Para as regras de transição, a totalização internacional é especialmente re
 5. **Trabalho no exterior sem acordo:** O tempo de trabalho em país sem acordo previdenciário com o Brasil NÃO pode ser totalizado. O segurado que emigrou para país sem acordo e retornou ao Brasil conta apenas o tempo de contribuição efetivamente exercido em território brasileiro ou em país conveniado.
 :::
 
-### 11.18 Síntese e Tabelas de Consulta Rápida
+### 11.18 Síntese e tabelas de consulta rápida
 
 #### 11.18.1 Tabela-resumo das regras de transição por TC
 
@@ -1348,7 +1348,7 @@ Para as regras de transição, a totalização internacional é especialmente re
 | Dir. adquirido TC | 35H/30M (pré-2019) | Não | 80% maiores SC | 100% SB | Obrigatório | Implementou requisitos até 12/11/2019 |
 | Dir. adquirido 85/95 | 35H/30M + pontos (pré-2019) | Não | 80% maiores SC | 100% SB | **Afastado** | A mais vantajosa (se direito adquirido) |
 
-#### 11.18.2 Tabela evolutiva ano a ano — Pontos (art. 15) e Idade (art. 16)
+#### 11.18.2 Tabela evolutiva ano a ano — pontos (art. 15) e idade (art. 16)
 
 | Ano | Pontos H | Pontos M | Idade H | Idade M | Pontos Prof. H | Pontos Prof. M | Idade Prof. H | Idade Prof. M |
 |-----|---------|---------|---------|---------|---------------|---------------|--------------|--------------|
@@ -1487,9 +1487,9 @@ A aposentadoria por tempo de contribuição caminha para a extinção gradual: n
 Até lá, a multiplicidade de regras simultâneas exige do advogado domínio técnico que vai além da mera verificação de tempo mínimo. A jurisprudência consolidada impõe ao julgador o dever de considerar de ofício todas as regras aplicáveis, concedendo a mais favorável ao segurado, independentemente da regra invocada na petição inicial. E a vedação da desaposentação (STF, Tema 503) torna a escolha irreversível. Em síntese: o planejamento previdenciário comparativo por todas as regras não é diferencial — é dever profissional cuja omissão pode configurar responsabilidade civil.
 
 
-### 11.19 Referências
+### Referências
 
-#### 11.19.1 Legislação
+#### Legislação
 
 - Constituição Federal de 1988 (art. 201, § 7º, redação EC 103/2019).
 - EC 103/2019 (arts. 3º, 15, 16, 17, 20, 25, § 2º, 26, 35).
@@ -1500,7 +1500,7 @@ Até lá, a multiplicidade de regras simultâneas exige do advogado domínio té
 - Lei n. 3.807, de 26 de agosto de 1960 (LOPS).
 - Decreto n. 3.048, de 6 de maio de 1999 (arts. 70, 181-A a 181-F, 188-A a 188-F).
 
-#### 11.19.2 Jurisprudência
+#### Jurisprudência
 
 - STF, Tema 503 — vedação da desaposentação.
 - STF, ADI 2.111 — constitucionalidade do fator previdenciário.
@@ -1511,7 +1511,7 @@ Até lá, a multiplicidade de regras simultâneas exige do advogado domínio té
 - TNU, Tema 216, aluno-aprendiz (requisitos restritivos).
 - Súmula 12/TST, presunção de veracidade das anotações em CTPS.
 
-#### 11.19.3 Doutrina
+#### Doutrina
 
 - CASTRO, Carlos Alberto Pereira de; LAZZARI, João Batista. *Manual de Direito Previdenciário*. 28. ed. Rio de Janeiro: Forense, 2025.
 - IBRAHIM, Fábio Zambitte. *Curso de Direito Previdenciário*. 27. ed. Niterói: Impetus, 2025.

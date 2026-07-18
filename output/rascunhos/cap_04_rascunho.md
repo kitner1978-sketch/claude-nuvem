@@ -46,9 +46,9 @@ referencias:
 
 ## Capítulo 4 — Contribuições Previdenciárias e Custeio do RGPS
 
-### 4.1 Introdução: O Financiamento da Previdência Social
+### 4.1 Introdução: o financiamento da previdência social
 
-O sistema previdenciário brasileiro sustenta-se sobre a lógica do pacto intergeracional: trabalhadores ativos financiam os benefícios dos inativos por meio de contribuições compulsórias (CASTRO; LAZZARI, 2025). A CF/88 consolidou essa estrutura no art. 195, distribuindo o ônus entre empregadores, trabalhadores e Estado.
+O sistema previdenciário brasileiro sustenta-se sobre a lógica do pacto intergeracional: trabalhadores ativos financiam os benefícios dos inativos por meio de contribuições compulsórias (Castro; Lazzari, 2025). A CF/88 consolidou essa estrutura no art. 195, distribuindo o ônus entre empregadores, trabalhadores e Estado.
 
 Questões de contribuição permeiam a concessão de quase todos os benefícios: a carência depende de contribuições efetivamente recolhidas; o tempo de contribuição pressupõe prova do recolhimento ou da atividade que o dispensa; o valor do benefício é calculado a partir dos salários de contribuição registrados no CNIS. Não há como litigar nos JEFs sem dominar o custeio.
 
@@ -62,7 +62,7 @@ Além da equidade, dois outros princípios constitucionais norteiam o custeio pr
 
 Essas regras de custeio ganham vida concreta quando se percebe que uma contribuição não recolhida pode impedir a aposentadoria de um trabalhador com 35 anos de labor, ou que uma complementação de R$ 3.000 pode viabilizar economicamente um benefício vitalício. Na prática dos JEFs, verificamos que boa parte das demandas previdenciárias tem, em seu núcleo, uma questão de custeio mal resolvida na via administrativa. O capítulo organiza-se em blocos temáticos. Primeiro, examinamos as contribuições por categoria de segurado (empregado, contribuinte individual, MEI, facultativo, doméstico, segurado especial) e a contribuição patronal. Em seguida, tratamos do salário de contribuição como base de cálculo e dos mecanismos de regularização (contribuição em atraso, complementação, retenção). Por fim, abordamos temas transversais, fiscalização, imunidades, restituição, e os aspectos práticos nos JEFs.
 
-### 4.2 Alíquotas Progressivas do Segurado Empregado
+### 4.2 Alíquotas progressivas do segurado empregado
 
 #### 4.2.1 O modelo anterior à EC 103/2019
 
@@ -70,7 +70,7 @@ Antes da Reforma da Previdência, vigoravam três faixas com alíquotas de 8%, 9
 
 Esse modelo vigorou por décadas e gerava o chamado "efeito degrau": um aumento salarial nominal podia resultar em redução do salário líquido quando o segurado mudava de faixa. A EC 103/2019 corrigiu essa distorção adotando a progressividade por faixas.
 
-#### 4.2.2 O modelo progressivo pós-EC 103/2019
+#### 4.2.2 O modelo progressivo pós-ec 103/2019
 
 A EC 103/2019 introduziu a progressividade por faixas, inspirada na sistemática do Imposto de Renda. Registre-se que o art. 28 da EC 103/2019 disciplina primariamente as alíquotas progressivas do RPPS (servidores públicos federais). Para o RGPS, as alíquotas progressivas foram inseridas no art. 28, § 1º, da Lei 8.212/91, com redação dada pela própria EC 103/2019. A contribuição incide de forma escalonada: cada parcela da remuneração é tributada pela alíquota correspondente à sua faixa. As alíquotas são:
 
@@ -158,11 +158,11 @@ Para o cálculo judicial de benefícios, o advogado deve atentar que o modelo de
 - Economia para o segurado: R$ 71,39/mês (R$ 856,68/ano)
 :::
 
-### 4.3 Contribuição Patronal, RAT e FAP
+### 4.3 Contribuição patronal, RAT e FAP
 
 #### 4.3.1 Estrutura da contribuição do empregador
 
-A contribuição patronal previdenciária é a principal fonte de custeio do RGPS e incide sobre a totalidade das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados e trabalhadores avulsos que prestem serviços à empresa (VIANNA, 2025). O art. 22, incisos I a III, da Lei 8.212/91 disciplina a contribuição patronal em três componentes (o inciso IV, que previa contribuição de 15% sobre o valor da nota fiscal de serviços prestados por cooperativas de trabalho, foi declarado inconstitucional pelo STF no Tema 166 — RE 595.838, j. 23/04/2014):
+A contribuição patronal previdenciária é a principal fonte de custeio do RGPS e incide sobre a totalidade das remunerações pagas, devidas ou creditadas a qualquer título, durante o mês, aos segurados empregados e trabalhadores avulsos que prestem serviços à empresa (Vianna, 2025). O art. 22, incisos I a III, da Lei 8.212/91 disciplina a contribuição patronal em três componentes (o inciso IV, que previa contribuição de 15% sobre o valor da nota fiscal de serviços prestados por cooperativas de trabalho, foi declarado inconstitucional pelo STF no Tema 166 — RE 595.838, j. 23/04/2014):
 
 a) **Contribuição básica (cota patronal):** 20% sobre o total das remunerações pagas aos segurados empregados e avulsos (art. 22, I). Essa alíquota é fixa, não progressiva, ao contrário da contribuição do segurado, que varia por faixa, o empregador paga 20% sobre toda a folha, sem limite de teto por segurado.
 
@@ -190,7 +190,7 @@ O enquadramento é feito pelo CNAE da atividade preponderante da empresa, confor
 
 Na prática forense, a classificação do grau de risco gera litígios frequentes na Justiça Federal (varas federais de execução fiscal, não JEFs), quando a empresa contesta a alíquota do RAT atribuída pela RFB. Nos JEFs, o impacto é indireto: o RAT financia as aposentadorias especiais (art. 57, § 6º, Lei 8.213/91), e sua arrecadação repercute na viabilidade atuarial desses benefícios.
 
-#### 4.3.3 FAP — Fator Acidentário de Prevenção
+#### 4.3.3 FAP — fator acidentário de prevenção
 
 O FAP é um multiplicador que individualiza a alíquota do RAT para cada empresa, conforme seu histórico de acidentes do trabalho e doenças ocupacionais. Instituído pela Lei 10.666/2003 (art. 10) e regulamentado pelo Decreto 6.042/2007, o FAP varia de 0,5000 a 2,0000, funcionando como bônus (redução) ou malus (majoração) da alíquota do RAT.
 
@@ -251,7 +251,7 @@ Embora não sejam contribuições previdenciárias em sentido estrito, as contri
 
 Para o advogado previdenciarista, a relevância dessas contribuições é sobretudo conceitual: quando se debate a sustentabilidade do sistema previdenciário, é preciso considerar que o RGPS não é financiado exclusivamente pelas contribuições sobre a folha de salários. As contribuições sobre receita, lucro e importação compõem o orçamento da seguridade social e devem ser computadas na análise do equilíbrio atuarial do regime.
 
-### 4.4 Desoneração da Folha de Pagamento e CPRB
+### 4.4 Desoneração da folha de pagamento e CPRB
 
 #### 4.4.1 Conceito e fundamento legal
 
@@ -300,7 +300,7 @@ b) **Ações de retificação de CNIS:** Empregados de empresas desoneradas pode
 
 c) **Discussão sobre equilíbrio atuarial:** Em ações que envolvem a constitucionalidade de regras previdenciárias, a desoneração é frequentemente invocada como argumento de que o déficit previdenciário decorre de renúncias fiscais concedidas pelo governo, não da generosidade dos benefícios — argumento relevante em ações de revisão (Capítulo 17).
 
-### 4.5 Contribuição do Contribuinte Individual
+### 4.5 Contribuição do contribuinte individual
 
 #### 4.5.1 Regra geral: 20% sobre a remuneração
 
@@ -335,7 +335,7 @@ Não pode optar pelo plano simplificado o CI que presta serviço a empresa, pois
 | Simplificado | 1 SM | 11% | R$ 178,31 | Não |
 | Com retenção | Remuneração até teto | 11% (empresa) + 9% (CI) | Variável | Sim |
 
-### 4.6 Retenção de 11% sobre o CI e Cessão de Mão de Obra
+### 4.6 Retenção de 11% sobre o CI e cessão de mão de obra
 
 #### 4.6.1 Mecanismo da retenção obrigatória
 
@@ -361,7 +361,7 @@ Diferença a recolher por GPS (código 1007): R$ 595,11
 **Observação:** O CI deve acompanhar mensalmente as retenções para verificar se atingem o limite do teto. Quando a soma das remunerações ultrapassa o teto, o CI deve informar à empresa pagadora para que a retenção seja cessada ou reduzida a partir do limite. Na prática, essa comunicação raramente ocorre e o CI pode ter retenção a maior — situação que gera direito à restituição (seção 4.20).
 :::
 
-#### 4.6.2 Retenção de 11% na cessão de mão de obra (art. 31, Lei 8.212/91)
+#### 4.6.2 Retenção de 11% na cessão de mão de obra (art. 31, lei 8.212/91)
 
 A cessão de mão de obra é instituto distinto da contratação individual de CI. Quando uma empresa (cedente) coloca trabalhadores à disposição de outra empresa (contratante) para executar serviços contínuos, mediante cessão de mão de obra ou empreitada, a contratante é obrigada a reter 11% do valor bruto da nota fiscal ou fatura de prestação de serviços (art. 31 da Lei 8.212/91, com redação dada pela Lei 9.711/98).
 
@@ -400,7 +400,7 @@ a) **CNIS com divergência por retenção não repassada:** A empresa reteve 11%
 
 b) **Restituição de retenção a maior:** O CI que teve retenção de 11% por diversas empresas, totalizando valor superior à contribuição devida (20% do teto), tem direito à restituição do excedente. O pedido é feito à RFB (PER/DCOMP), mas pode ser judicializado no JEF se houver negativa administrativa.
 
-### 4.7 MEI — Microempreendedor Individual
+### 4.7 MEI — microempreendedor individual
 
 #### 4.7.1 Enquadramento e alíquota diferenciada
 
@@ -449,7 +449,7 @@ Total efetivo: 20% x R$ 1.621,00 = R$ 324,20
 Não incide juros nem multa sobre a complementação, desde que recolhida dentro do prazo de decadência (5 anos). Para competências anteriores, aplica-se atualização monetária.
 :::
 
-#### 4.7.5 MEI Caminhoneiro
+#### 4.7.5 MEI caminhoneiro
 
 A Lei 14.260/2021 (vigência a partir de 2022) criou a figura do MEI Caminhoneiro Transportador Autônomo de Cargas, com receita bruta anual de até R$ 251.600,00 e alíquota previdenciária diferenciada de 12% sobre o salário mínimo. A complementação para TC é de apenas 8% (20% - 12%).
 
@@ -479,7 +479,7 @@ O MEI que possui empregado registrado assume obrigações previdenciárias adici
 
 Essa contribuição patronal reduzida (3% em vez de 20%) é benefício exclusivo do MEI. Caso o empresário perca o enquadramento como MEI (por ultrapassar o faturamento ou contratar mais de um empregado), a contribuição patronal passa a seguir as regras ordinárias (20% + RAT).
 
-### 4.8 Segurado Facultativo
+### 4.8 Segurado facultativo
 
 #### 4.8.1 Conceito e opções de contribuição
 
@@ -539,7 +539,7 @@ Assim como o MEI, o segurado facultativo que contribuiu pelo plano simplificado 
 
 O código GPS para complementação é o 1686 (facultativo complementar). A complementação somente produz efeitos se recolhida antes do requerimento do benefício.
 
-### 4.9 Contribuição do Empregado Doméstico
+### 4.9 Contribuição do empregado doméstico
 
 #### 4.9.1 Regime especial do empregado doméstico
 
@@ -573,7 +573,7 @@ O INSS resiste ao reconhecimento de vínculo doméstico sem contribuições form
 **Atenção:** A ausência de CTPS assinada não impede o reconhecimento. O vínculo empregatício doméstico configura-se pelos requisitos do art. 1º da LC 150/2015: prestação de serviços de forma contínua, subordinada, onerosa e pessoal, por mais de 2 dias por semana, a pessoa ou família no âmbito residencial.
 :::
 
-### 4.10 Contribuição do Segurado Especial
+### 4.10 Contribuição do segurado especial
 
 #### 4.10.1 Regime diferenciado de custeio
 
@@ -613,7 +613,7 @@ O segurado especial que deseja aposentadoria por tempo de contribuição, ou que
 
 Essa contribuição é cumulativa com a incidência sobre a comercialização (1,3% de contribuição básica + 0,1% de SAT/GILRAT = 1,4% total, na forma do art. 25, I e II, da Lei 8.212/91), pois têm naturezas e finalidades distintas. A contribuição sobre a comercialização custeia o sistema; a contribuição facultativa amplia a cobertura individual do segurado.
 
-### 4.11 Contribuição do Produtor Rural Pessoa Física e Pessoa Jurídica
+### 4.11 Contribuição do produtor rural pessoa física e pessoa jurídica
 
 #### 4.11.1 Produtor rural pessoa física (empregador rural)
 
@@ -682,11 +682,11 @@ A agroindústria (pessoa jurídica cuja atividade econômica é a industrializa�
 
 A exceção são as agroindústrias de piscicultura, carcinicultura, suinocultura e avicultura, que contribuem pelo regime geral (20% sobre folha + RAT), por expressa disposição do art. 22-A, § 4º, da Lei 8.212/91.
 
-### 4.12 Salário de Contribuição: Conceito, Limites e Parcelas
+### 4.12 Salário de contribuição: conceito, limites e parcelas
 
 #### 4.12.1 Definição legal
 
-O salário de contribuição é a base de cálculo sobre a qual incide a contribuição previdenciária do segurado (AMADO, 2025; CASTRO; LAZZARI, 2025). Está definido no art. 28 da Lei 8.212/91 para cada categoria:
+O salário de contribuição é a base de cálculo sobre a qual incide a contribuição previdenciária do segurado (Amado, 2025; Castro; Lazzari, 2025). Está definido no art. 28 da Lei 8.212/91 para cada categoria:
 
 - **Empregado e avulso:** Remuneração auferida em uma ou mais empresas, assim entendida a totalidade dos rendimentos pagos, devidos ou creditados a qualquer título, durante o mês, destinados a retribuir o trabalho
 - **Empregado doméstico:** Remuneração registrada na CTPS ou no eSocial
@@ -820,7 +820,7 @@ Tese fixada: "A remuneração decorrente do contrato de aprendizagem (art. 428 d
 **Impacto prático:** Esses repetitivos interessam sobretudo às ações tributárias do empregador (em regra fora dos JEFs, por ultrapassarem o teto de 60 SM). Para o segurado, o reflexo é indireto, mas relevante na retificação de CNIS: como o adicional de insalubridade e a remuneração do aprendiz têm natureza remuneratória, integram o salário de contribuição e devem compor a média do PBC. Já as parcelas afastadas pelo Tema 1.174 (descontos do próprio empregado) jamais foram acréscimo à remuneração — sua exclusão da base patronal não reduz o salário de contribuição do segurado, que continua calculado sobre a remuneração bruta a ele devida.
 :::
 
-#### 4.12.7 O terço constitucional de férias e o Tema 985/STF
+#### 4.12.7 O terço constitucional de férias e o tema 985/STF
 
 A incidência de contribuição previdenciária sobre o terço constitucional de férias foi uma das questões previdenciárias mais litigadas no Brasil durante duas décadas. O STJ manteve, durante anos, jurisprudência pacificada no sentido de que o terço de férias tinha natureza indenizatória e, portanto, não integrava o salário de contribuição.
 
@@ -884,7 +884,7 @@ O 13º salário integra o salário de contribuição, mas com peculiaridade: sua
 A razão para a incidência separada é evitar distorções no enquadramento por faixas. Cabe destacar que o 13º salário gera contribuição previdenciária autônoma (art. 28, § 7º, Lei 8.212/91), mas NÃO gera competência adicional para fins de cálculo do benefício. O art. 29, § 3º, da Lei 8.213/91 exclui o 13º do período básico de cálculo (PBC): os salários de contribuição referentes ao 13º não integram a média aritmética utilizada para apuração do salário de benefício. Assim, o 13º não eleva o número de "competências" nem aumenta a média do PBC.
 
 
-### 4.13 Contribuições em Atraso e Indenização
+### 4.13 Contribuições em atraso e indenização
 
 #### 4.13.1 Distinção fundamental: atraso com filiação vs. indenização sem filiação
 
@@ -956,7 +956,7 @@ a) **Pedido de cômputo de tempo:** O segurado comprova atividade de CI, o INSS 
 
 b) **Reafirmação da DER com contribuições em atraso:** O segurado ajuíza ação e, durante o processo, recolhe contribuições em atraso para completar o tempo necessário. O STJ (Tema 995) admite a reafirmação da DER, mas o cômputo de contribuições recolhidas após o ajuizamento para fins de carência permanece controverso nas Turmas Recursais. Já os acréscimos moratórios da indenização seguem a tese do Tema 1.103/STJ (sem juros/multa para períodos anteriores a outubro/1996).
 
-### 4.14 Complementação de Contribuições
+### 4.14 Complementação de contribuições
 
 #### 4.14.1 Conceito e finalidade
 
@@ -1025,7 +1025,7 @@ Benefício estimado: aposentadoria com RMI de ~2 SM (R$ 3.242,00/mês).
 Retorno do investimento: pouco mais de 1 mês de benefício.
 :::
 
-### 4.15 Contribuição em Atraso: Casos Especiais e Estratégias
+### 4.15 Contribuição em atraso: casos especiais e estratégias
 
 #### 4.15.1 O CI que nunca se inscreveu
 
@@ -1086,7 +1086,7 @@ A jurisprudência consolidou que o segurado pode indenizar contribuições em at
 Na prática: um segurado pode indenizar período de 1985-1990 em 2026, mesmo que a RFB não pudesse mais cobrar essas contribuições. São institutos distintos (faculdade vs. cobrança).
 :::
 
-### 4.16 Contribuição durante Gozo de Benefício e Situações Especiais
+### 4.16 Contribuição durante gozo de benefício e situações especiais
 
 #### 4.16.1 Segurado em gozo de benefício por incapacidade
 
@@ -1139,7 +1139,7 @@ Opção 2: Aguardar nova colocação e contar o período de emprego futuro.
 **Recomendação:** Para segurados próximos de completar carência ou tempo de contribuição, a contribuição como facultativo durante o desemprego é investimento de retorno garantido.
 :::
 
-### 4.17 Compensação Previdenciária entre Regimes
+### 4.17 Compensação previdenciária entre regimes
 
 #### 4.17.1 Fundamento legal e finalidade
 
@@ -1179,7 +1179,7 @@ b) **Impacto indireto:** A compensação não afeta diretamente o valor do benef
 **Atenção:** O segurado não é parte na relação de compensação entre regimes. Se o INSS condicionar a concessão de benefício ao acerto financeiro com o RPPS, trata-se de conduta ilegal. O benefício deve ser concedido independentemente da compensação (art. 10, Lei 9.796/99). Havendo resistência, cabe mandado de segurança ou ação ordinária no JEF.
 :::
 
-### 4.18 Fiscalização, Decadência e Prescrição Tributária Previdenciária
+### 4.18 Fiscalização, decadência e prescrição tributária previdenciária
 
 #### 4.18.1 Competência fiscalizatória
 
@@ -1187,7 +1187,7 @@ Desde a Lei 11.457/2007, a fiscalização e a arrecadação das contribuições 
 
 Na prática, o segurado que busca regularizar contribuições em atraso deve lidar com dois órgãos distintos: o INSS (para reconhecimento de atividade e cálculo da indenização) e a RFB (para emissão da guia e processamento do pagamento). A falta de integração entre os sistemas do INSS e da RFB é fonte frequente de problemas: o INSS reconhece a atividade, o segurado paga a indenização, mas o CNIS demora meses para refletir o pagamento — gerando necessidade de ação de retificação no JEF.
 
-#### 4.18.2 Decadência do direito de lançar (art. 45, Lei 8.212/91)
+#### 4.18.2 Decadência do direito de lançar (art. 45, lei 8.212/91)
 
 O art. 45 da Lei 8.212/91 fixa o prazo decadencial de 5 anos para que a RFB constitua o crédito tributário previdenciário. A contagem inicia-se no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado (regra geral do art. 173, I, do CTN, aplicável às contribuições previdenciárias após a unificação promovida pela Lei 11.457/2007).
 
@@ -1201,13 +1201,13 @@ O fato de a RFB não poder mais cobrar as contribuições de determinado períod
 Exemplo prático: contribuições de competência 01/2015. A RFB teria até 01/2021 para lançar (5 anos). Em 2026, a cobrança estaria decaída. Mas o segurado pode, em 2026, voluntariamente indenizar janeiro/2015 para cômputo de tempo, mediante pagamento via GPS.
 :::
 
-#### 4.18.3 Prescrição da ação de cobrança (art. 46, Lei 8.212/91)
+#### 4.18.3 Prescrição da ação de cobrança (art. 46, lei 8.212/91)
 
 Constituído o crédito pelo lançamento, a RFB tem 5 anos para ajuizar a execução fiscal (prescrição da pretensão executória). O prazo prescricional corre da data da constituição definitiva do crédito (inscrição em dívida ativa).
 
 Para o segurado, a prescrição da cobrança tem impacto direto: contribuições devidas e não cobradas dentro do prazo prescricional não podem mais ser exigidas. O segurado não é executado, mas também não tem o período computado como tempo de contribuição (salvo se voluntariamente indenizar).
 
-#### 4.18.4 Prazo decadencial para revisão de benefício (art. 103, Lei 8.213/91)
+#### 4.18.4 Prazo decadencial para revisão de benefício (art. 103, lei 8.213/91)
 
 A decadência previdenciária (art. 103, Lei 8.213/91 — prazo de 10 anos para revisão do ato de concessão) não se confunde com a decadência tributária que rege as contribuições. Se o INSS concedeu benefício sem computar corretamente as contribuições, o segurado tem 10 anos para pleitear a revisão. O regime completo da decadência e da prescrição previdenciária é tratado no Capítulo 21.
 
@@ -1247,7 +1247,7 @@ d) **Comunicação de Acidente de Trabalho (CAT):** A empresa deve comunicar o a
 A fiscalização das obrigações do eSocial tem se intensificado desde 2023. Empregadores domésticos são os mais afetados: a multa por não registrar o empregado no eSocial doméstico pode chegar a R$ 3.000,00. Para o advogado previdenciarista, o impacto é indireto, empregadores que não registram corretamente prejudicam o CNIS do empregado, gerando lacunas contributivas que só serão sanadas judicialmente. A multa por omissão de informações no eSocial pode, ainda, servir como prova indireta da existência do vínculo quando o empregador é autuado por não registrar empregados.
 :::
 
-### 4.19 Imunidade e Isenção de Contribuições Previdenciárias
+### 4.19 Imunidade e isenção de contribuições previdenciárias
 
 #### 4.19.1 Imunidade das entidades beneficentes (art. 195, § 7º, CF/88)
 
@@ -1286,7 +1286,7 @@ A imunidade NÃO abrange a contribuição do segurado empregado (que é retida n
 **Repercussão na prática forense:** A discussão sobre a natureza formal da lei regulamentadora perdeu relevância prática após o Tema 32, os requisitos do art. 14 do CTN e da Lei 12.101/2009 são os parâmetros vigentes. A controvérsia residual é sobre requisitos adicionais impostos por normas infralegais (portarias, decretos) que eventualmente restringem a imunidade além do previsto na lei.
 :::
 
-#### 4.19.3 Santas Casas e hospitais filantrópicos
+#### 4.19.3 Santas casas e hospitais filantrópicos
 
 As Santas Casas de Misericórdia e hospitais filantrópicos são os beneficiários mais emblemáticos da imunidade previdenciária. Com certificação CEBAS na área de saúde, essas entidades ficam dispensadas da contribuição patronal sobre a folha — economia que pode ultrapassar R$ 1 milhão/ano em hospitais de grande porte.
 
@@ -1322,7 +1322,7 @@ Distinta da imunidade das entidades beneficentes, a isenção para organizaçõe
 
 Para o advogado previdenciarista, o ponto relevante é: os empregados dessas entidades são segurados obrigatórios do RGPS e têm os mesmos direitos que qualquer empregado. A isenção é do empregador, não do empregado. Se a entidade não recolhe a contribuição patronal, o segurado mantém seu direito ao benefício.
 
-### 4.20 Restituição e Compensação de Contribuições Indevidas
+### 4.20 Restituição e compensação de contribuições indevidas
 
 #### 4.20.1 Direito à restituição
 
@@ -1410,9 +1410,9 @@ O STF, no julgamento do RE 661.256 (Tema 503, j. 26/10/2016, julgado em conjunto
 
 Se o segurado obtém restituição de contribuições, o CNIS deve ser ajustado para refletir apenas as contribuições efetivamente devidas. Isso pode impactar o salário de benefício se a restituição alterar a base de cálculo (salário de contribuição) de alguma competência. Na prática, a restituição de excedente acima do teto não afeta o benefício, pois o cálculo já considera o teto como limite.
 
-### 4.21 GPS, DARF e eSocial: Instrumentos de Recolhimento
+### 4.21 GPS, DARF e esocial: instrumentos de recolhimento
 
-#### 4.21.1 GPS — Guia da Previdência Social
+#### 4.21.1 GPS — guia da previdência social
 
 A GPS é o instrumento de pagamento da contribuição previdenciária para contribuintes individuais, facultativos e empregadores domésticos (estes últimos quando não utilizam o eSocial/DAE). Os principais códigos são:
 
@@ -1443,7 +1443,7 @@ A GPS é o instrumento de pagamento da contribuição previdenciária para contr
 **Recolhimento trimestral:** CI e facultativo com contribuição sobre 1 SM podem recolher trimestralmente (vencimento: dia 15 do mês seguinte ao trimestre). Códigos específicos: 1104 (CI), 1457 (facultativo).
 :::
 
-#### 4.21.2 eSocial e DCTF-Web
+#### 4.21.2 Esocial e DCTF-Web
 
 O eSocial revolucionou a forma de prestação de informações previdenciárias pelas empresas. Desde sua implantação completa (2018-2023, em fases), substituiu a GFIP/SEFIP como instrumento de declaração do empregador. A partir de outubro de 2021, a DCTF-Web passou a ser o único instrumento declaratório para empresas já obrigadas ao eSocial, e o recolhimento patronal migrou da GPS para o DARF previdenciário. Em janeiro de 2025, a IN RFB 2.237/2024 consolidou a DCTF-Web como forma exclusiva de declaração de todas as obrigações previdenciárias federais dos empregadores.
 
@@ -1474,7 +1474,7 @@ e) **CPF como identificador universal:** A partir de 2026, o CPF substitui defin
 
 O CNIS funciona como espelho das contribuições, consolidando vínculos, remunerações e recolhimentos do segurado, e permitindo ao INSS e ao próprio segurado verificar a regularidade dos recolhimentos. Quando há divergência entre o CNIS e a realidade contributiva, o segurado pode requerer retificação administrativa (via Meu INSS) ou judicial (ação no JEF). Sobre a natureza jurídica do CNIS, sua força probatória (art. 29-A, Lei 8.213/91) e os mecanismos de retificação, v. Capítulo 5, seção 5.2.
 
-### 4.22 Aspectos Práticos nos Juizados Especiais Federais
+### 4.22 Aspectos práticos nos juizados especiais federais
 
 #### 4.22.1 Competência do JEF para questões de custeio
 
@@ -1625,7 +1625,7 @@ Nos JEFs, cooperados frequentemente buscam reconhecimento de vínculo empregatí
 Algumas empresas constituem cooperativas fictícias para reduzir o custo previdenciário, em vez de contratar empregados (contribuição patronal de 20% + RAT), contratam cooperativa (15% sobre NF). O vínculo de subordinação, habitualidade e pessoalidade descaracteriza a relação cooperativa e configura fraude trabalhista e previdenciária. Nos JEFs, o segurado pode comprovar a fraude e obter o reconhecimento do vínculo empregatício, com reflexos no cálculo do benefício (salário de contribuição mais elevado como empregado do que como cooperado/CI).
 :::
 
-### 4.23 Síntese e Quadro Comparativo
+### 4.23 Síntese e quadro comparativo
 
 ::: box-pratica
 **Quadro-resumo das contribuições previdenciárias (valores 2026):**
@@ -1671,7 +1671,7 @@ Algumas empresas constituem cooperativas fictícias para reduzir o custo previde
 
 ---
 
-### 4.24 Referências
+### Referências
 
 #### Doutrina
 
