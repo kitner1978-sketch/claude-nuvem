@@ -476,9 +476,9 @@ Impacto prático: segurados com múltiplos vínculos simultâneos aposentados ap
 
 ### 16.11 Revisão da vida toda — tema 1.102/STF
 
-A chamada "revisão da vida toda" (Ibrahim, 2025; Savaris, 2023) envolve a possibilidade de o segurado optar, para fins de cálculo do salário de benefício, pela regra permanente do art. 29, I e II, da Lei 8.213/91 (que considera os salários de contribuição de todo o período contributivo, inclusive anteriores a julho de 1994), em vez da regra de transição do art. 3º da Lei 9.876/1999 (que limita o PBC aos salários de contribuição a partir de julho de 1994 e descarta os 20% menores). Para a análise detalhada da cronologia processual do Tema 1.102/STF — julgamento original de dezembro de 2022, reversão em embargos infringentes de novembro de 2025, modulação de efeitos e embargos pendentes de maio de 2026 —, v. Capítulo 17, seção 17.3.
+A chamada "revisão da vida toda" (Ibrahim, 2025; Savaris, 2023) envolve a possibilidade de o segurado optar, para fins de cálculo do salário de benefício, pela regra permanente do art. 29, I e II, da Lei 8.213/91 (que considera os salários de contribuição de todo o período contributivo, inclusive anteriores a julho de 1994), em vez da regra de transição do art. 3º da Lei 9.876/1999 (que limita o PBC aos salários de contribuição a partir de julho de 1994 e descarta os 20% menores). Para a análise detalhada da cronologia processual do Tema 1.102/STF — julgamento original de dezembro de 2022, reversão em embargos infringentes de novembro de 2025, modulação de efeitos e rejeição, em maio de 2026, da proposta de ampliação da modulação —, v. Capítulo 17, seção 17.3.
 
-**Situação vigente e impacto no cálculo.** A tese firmada em 26/11/2025 é de que a revisão da vida toda é indevida, após a declaração de constitucionalidade e cogência do art. 3º da Lei 9.876/1999 nas ADIs 2.110 e 2.111 (j. 21/03/2024). A modulação protege beneficiários com decisão judicial proferida até 5 de abril de 2024 (irrepetibilidade dos valores pagos e inexigibilidade de sucumbência). A ampliação dessa modulação está pendente de julgamento em plenário físico (destaque em 11/05/2026).
+**Situação vigente e impacto no cálculo.** A tese firmada em 26/11/2025 é de que a revisão da vida toda é indevida, após a declaração de constitucionalidade e cogência do art. 3º da Lei 9.876/1999 nas ADIs 2.110 e 2.111 (j. 21/03/2024). A modulação protege beneficiários com decisão judicial proferida até 5 de abril de 2024 (irrepetibilidade dos valores pagos e inexigibilidade de sucumbência). A proposta de ampliar essa modulação para além de 05/04/2024 foi rejeitada pelo Plenário em 15/05/2026, de modo que a modulação permanece limitada às decisões proferidas até 05/04/2024.
 
 ::: box-jurisprudencia
 **Tema 1.102/STF — Revisão da Vida Toda: tese revertida**
@@ -505,7 +505,7 @@ A revisão da vida toda foi declarada **indevida** pelo STF em 26/11/2025. Novos
 
 (c) Ações com decisão favorável transitada em julgado após 05/04/2024: não alcançadas pela modulação — o STF rejeitou, em 15/05/2026, a proposta de ampliá-la para além de 05/04/2024.
 
-(d) Ações ajuizadas entre 16/12/2019 e 05/04/2024 ainda sem decisão transitada: podem ser beneficiadas se a ampliação da modulação for aprovada em plenário físico. Recomenda-se ao magistrado aguardar o desfecho dos embargos antes de extinguir essas ações.
+(d) Ações ajuizadas entre 16/12/2019 e 05/04/2024 ainda sem decisão transitada em julgado: não são alcançadas pela modulação — que se limita às decisões transitadas até 05/04/2024 —, uma vez que o STF rejeitou, em 15/05/2026, a proposta de ampliá-la. Devem ser julgadas improcedentes quanto ao mérito da revisão.
 
 O tema será revisitado no Capítulo 17 sob o prisma processual (ação rescisória, modulação e coisa julgada).
 :::

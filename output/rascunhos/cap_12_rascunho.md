@@ -483,7 +483,7 @@ O art. 7º da LC 142 contempla também a hipótese de alteração do grau de def
 
 **TC total convertido:** 12 + 20 = 32 anos
 
-**Resultado:** Ana tem 32 anos convertidos, superando em 8 anos o TC mínimo de 24 anos (moderada, mulher). Tem direito à aposentadoria desde os 42 anos de idade (quando completou 24 anos de TC convertidos).
+**Resultado:** Ana tem 32 anos convertidos, superando em 8 anos o TC mínimo de 24 anos (moderada, mulher). Tem direito à aposentadoria desde os 40 anos de idade (quando completou 24 anos de TC convertidos: 12 anos convertidos ao final do período grave, aos 28 anos, mais 12 anos no período moderado, contados 1:1).
 
 **Observação:** Se o grau preponderante fosse grave, o TC mínimo seria 20 anos e o período moderado seria convertido: 20 × 0,83 = 16,60 + 10 (grave) = 26,60 anos. Mas o grau preponderante é definido pelo maior tempo antes da conversão (moderada = 20 anos), não pelo que seria mais favorável ao segurado.
 :::

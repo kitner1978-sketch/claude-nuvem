@@ -183,7 +183,7 @@ Os sessenta dias adicionais do Programa Empresa Cidadã não constituem salário
 
 A Lei 14.457/2022 (Programa Emprega + Mulheres) trouxe inovação adicional: a possibilidade de substituir os sessenta dias adicionais da Empresa Cidadã por cento e vinte dias de trabalho em meia jornada, com pagamento de salário integral. Essa alternativa atende à demanda de seguradas que preferem retorno gradual ao trabalho.
 
-**Internação prolongada do recém-nascido.** O STF firmou entendimento de que, quando a internação do recém-nascido exceder duas semanas, o início da licença-maternidade (e do salário-maternidade) deve ser contado a partir da alta hospitalar da mãe ou do recém-nascido, o que ocorrer por último. O fundamento é a proteção ao convívio mãe-filho: se a criança permanece internada, o propósito do benefício, permitir os cuidados iniciais, fica frustrado.
+**Internação prolongada da segurada ou do recém-nascido.** A Lei 15.222/2025 acrescentou o § 3º ao art. 71 da Lei 8.213/91: quando a internação hospitalar da segurada ou do recém-nascido superar duas semanas, em decorrência de complicações médicas relacionadas ao parto, o salário-maternidade é devido durante todo o período de internação e por mais cento e vinte dias após a alta hospitalar (da mãe ou do recém-nascido, o que ocorrer por último), descontado o tempo de benefício eventualmente recebido antes do parto. A norma positivou, ampliando-o, o entendimento que o STF já vinha firmando quanto à contagem do benefício a partir da alta, em proteção ao convívio mãe-filho — pois, se a criança permanece internada, o propósito do benefício, permitir os cuidados iniciais, fica frustrado.
 
 | Situação | Duração | Fundamento |
 |----------|---------|------------|
@@ -192,7 +192,7 @@ A Lei 14.457/2022 (Programa Emprega + Mulheres) trouxe inovação adicional: a p
 | Aborto não criminoso | 14 dias | Art. 93, §5º, Dec. 3.048 |
 | Prorrogação excepcional | +14 dias (antes e/ou depois) | Art. 93, §3º, Dec. 3.048 |
 | Empresa Cidadã | +60 dias (total 180) | Lei 11.770/2008 |
-| Internação RN > 2 semanas | Início na alta hospitalar | STF |
+| Internação da segurada ou do RN > 2 semanas (complicações do parto) | Benefício durante a internação + 120 dias após a alta | Art. 71, § 3º, Lei 8.213 (Lei 15.222/2025) |
 
 ### 13.6 Valor do benefício e cálculo
 
@@ -827,7 +827,7 @@ Esta seção consolida as informações essenciais do capítulo em instrumentos 
 
 Três mudanças estão em curso no salário-maternidade: (a) a universalização plena, já concretizada com as ADIs 2.110/2.111, que eliminaram qualquer distinção de carência entre categorias de seguradas; (b) a extensão a todas as formas de parentalidade, incluindo gestação por substituição e famílias multiparentais; e (c) a ampliação da duração para cento e oitenta dias como regra geral, não apenas para empresas do Empresa Cidadã.
 
-No plano legislativo, tramitam projetos que propõem: (a) a extensão do salário-maternidade a cento e oitenta dias como regra geral para todas as seguradas (não apenas para empregadas do Empresa Cidadã); (b) a criação de um "salário-parentalidade" de trinta dias para o pai biológico ou adotante, cumulável com a licença-paternidade; (c) a regulamentação expressa do salário-maternidade em casos de gestação por substituição; e (d) a prorrogação automática do benefício em caso de internação prolongada do recém-nascido.
+No plano legislativo, tramitam projetos que propõem: (a) a extensão do salário-maternidade a cento e oitenta dias como regra geral para todas as seguradas (não apenas para empregadas do Empresa Cidadã); (b) a criação de um "salário-parentalidade" de trinta dias para o pai biológico ou adotante, cumulável com a licença-paternidade; (c) a regulamentação expressa do salário-maternidade em casos de gestação por substituição. A prorrogação do benefício em caso de internação prolongada da segurada ou do recém-nascido, antes objeto de projeto, já foi positivada pela Lei 15.222/2025 (art. 71, § 3º, da Lei 8.213/91).
 
 No plano judicial, a judicialização massiva do salário-maternidade, especialmente da segurada especial rural, demanda dos JEFs mecanismos de processamento eficiente. A padronização de procedimentos (mutirões de SM rural, designação de audiências concentradas, utilização de teleperícia) pode contribuir para a redução do tempo de tramitação, que é particularmente prejudicial nessa espécie de benefício temporário.
 
