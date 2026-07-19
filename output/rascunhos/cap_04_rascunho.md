@@ -579,7 +579,7 @@ O INSS resiste ao reconhecimento de vínculo doméstico sem contribuições form
 
 O segurado especial, pequeno produtor rural, pescador artesanal, extrativista, possui regime de custeio singular no RGPS. Diferentemente de todos os demais segurados, sua contribuição não incide sobre salário ou remuneração, mas sobre a receita bruta da comercialização da produção rural (art. 25, Lei 8.212/91):
 
-- Alíquota: 1,3% da receita bruta de comercialização (contribuição básica, art. 25, I, Lei 8.212/91) + 0,1% (SAT/GILRAT, art. 25, II, Lei 8.212/91) = **1,4% total**
+- Alíquota: 1,2% da receita bruta de comercialização (contribuição básica, art. 25, I, Lei 8.212/91) + 0,1% (SAT/GILRAT, art. 25, II, Lei 8.212/91) = **1,3% total**
 - Responsável pelo recolhimento: adquirente da produção (empresa, cooperativa, intermediário)
 - Sub-rogação: o adquirente retém e recolhe a contribuição do segurado especial
 
@@ -611,7 +611,7 @@ O segurado especial que deseja aposentadoria por tempo de contribuição, ou que
 - Alíquota: 20%
 - Valor (2026): R$ 324,20/mês
 
-Essa contribuição é cumulativa com a incidência sobre a comercialização (1,3% de contribuição básica + 0,1% de SAT/GILRAT = 1,4% total, na forma do art. 25, I e II, da Lei 8.212/91), pois têm naturezas e finalidades distintas. A contribuição sobre a comercialização custeia o sistema; a contribuição facultativa amplia a cobertura individual do segurado.
+Essa contribuição é cumulativa com a incidência sobre a comercialização (1,2% de contribuição básica + 0,1% de SAT/GILRAT = 1,3% total, na forma do art. 25, I e II, da Lei 8.212/91), pois têm naturezas e finalidades distintas. A contribuição sobre a comercialização custeia o sistema; a contribuição facultativa amplia a cobertura individual do segurado.
 
 ### 4.11 Contribuição do produtor rural pessoa física e pessoa jurídica
 
@@ -1648,7 +1648,7 @@ Algumas empresas constituem cooperativas fictícias para reduzir o custo previde
 | RAT | 1% a 3% | Folha total | Variável | — |
 | Prod. rural PF | 1,5% | Receita bruta | Variável | — |
 | Prod. rural PJ | 2,05% | Receita bruta | Variável | — |
-| Segurado especial | 1,3% + 0,1% (SAT) = 1,4% | Comercialização | Variável | — |
+| Segurado especial | 1,2% + 0,1% (SAT) = 1,3% | Comercialização | Variável | — |
 
 *MEI caminhoneiro: 12% não dá direito a TC. Complementando 8%, totaliza 20% e passa a contar.
 
