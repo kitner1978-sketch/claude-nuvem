@@ -413,7 +413,7 @@ def add_dedication_page(doc):
 
 
 def add_apresentacao_page(doc):
-    """Página de Apresentação/Prefácio. CONTEÚDO A SER FORNECIDO PELOS AUTORES."""
+    """Página de Apresentação. Texto em terceira pessoa / impessoal (norma Thoth)."""
     p_title = doc.add_paragraph()
     p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_title, before=16, after=8, line_spacing=1.0)
@@ -424,15 +424,60 @@ def add_apresentacao_page(doc):
     set_paragraph_spacing(p_orn, before=0, after=14, line_spacing=1.0)
     add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name=FONT_SERIF,
                       size=Pt(9), color="B78B37")
-    p = doc.add_paragraph()
-    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-    set_paragraph_spacing(p, before=0, after=4, line_spacing=1.15)
-    add_run_with_style(p, "[O texto da apresentação será inserido pelos autores.]",
-                      font_name=FONT_SERIF, size=SIZE_BODY, italic=True, color="6B6256")
+
+    paragrafos = [
+        "O contencioso previdenciário brasileiro tem, hoje, um endereço predominante: os Juizados Especiais Federais. É neles que se decide, todos os dias e em escala de massa, o destino concreto de aposentadorias, auxílios, pensões e benefícios assistenciais — muitas vezes a única fonte de subsistência de quem litiga. Essa centralidade impõe ao advogado e ao magistrado um desafio particular: dominar, ao mesmo tempo, a densa teoria do Direito Previdenciário e a dinâmica processual, probatória e prática que caracteriza o rito dos Juizados.",
+        "Esta obra nasce da percepção de que teoria e prática, nesse campo, não podem caminhar separadas. De um lado, a Emenda Constitucional 103/2019 reescreveu a arquitetura do Regime Geral de Previdência Social, e as reformas que a sucederam, somadas a um fluxo constante de teses firmadas pelo STF, pelo STJ e pela TNU, tornaram o terreno normativo instável e exigente. De outro, o cotidiano dos Juizados Especiais Federais é feito de perícias, cálculos, provas de tempo de contribuição e requisitos que só se compreendem quando a norma é lida à luz de sua aplicação real.",
+        "Para responder a esse duplo desafio, a exposição de cada tema conjuga o tratamento doutrinário com orientações operacionais. Ao lado da fundamentação teórica, o leitor encontrará boxes de jurisprudência, quadros sinóticos, alertas práticos e roteiros de atuação voltados à realidade das varas federais. A preocupação constante foi a de oferecer não apenas o que a lei diz, mas como o direito efetivamente se resolve no requerimento administrativo, na petição inicial, na instrução e na sentença.",
+        "A obra está organizada em seis partes e vinte e três capítulos. A Parte I trata dos fundamentos do Regime Geral de Previdência Social — evolução histórica, princípios constitucionais, segurados e dependentes, carência e qualidade de segurado, custeio e reconhecimento de tempo de contribuição. A Parte II examina os benefícios por incapacidade; a Parte III, as aposentadorias programadas, especiais, rurais e da pessoa com deficiência; a Parte IV, as pensões, os auxílios e o benefício assistencial; a Parte V, os temas transversais de cálculo, revisão, decadência e prescrição; e a Parte VI, o processo previdenciário nos Juizados Especiais Federais — processo administrativo, competência e procedimento. Do fundamento constitucional à sentença, o percurso acompanha a lógica com que os litígios efetivamente se apresentam e se resolvem.",
+        "Toda a legislação e a jurisprudência citadas foram conferidas contra as fontes oficiais e refletem o estado do Direito Previdenciário até junho de 2026, com registro das principais controvérsias ainda pendentes de pacificação. O propósito não é encerrar o debate, mas municiar o operador do direito com um instrumento confiável, atualizado e diretamente aplicável.",
+        "Que esta obra seja útil a quem, na advocacia e na magistratura, dedica seu trabalho a dar efetividade à proteção social — razão de ser de todo o sistema previdenciário.",
+    ]
+    for txt in paragrafos:
+        p = doc.add_paragraph()
+        p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        set_paragraph_spacing(p, before=0, after=6, line_spacing=1.15)
+        add_run_with_style(p, txt, font_name=FONT_SERIF, size=SIZE_BODY, color="201B16")
+
+    p_sig = doc.add_paragraph()
+    p_sig.alignment = WD_ALIGN_PARAGRAPH.RIGHT
+    set_paragraph_spacing(p_sig, before=8, after=4, line_spacing=1.0)
+    add_run_with_style(p_sig, "Os autores", font_name=FONT_SERIF,
+                      size=SIZE_BODY, italic=True, color="3A3128")
 
 
 def add_sobre_autores_page(doc):
-    """Página pós-textual 'Sobre os Autores'. BIOGRAFIAS A SEREM FORNECIDAS."""
+    """Página pós-textual 'Sobre os Autores'.
+
+    Biografias redigidas a partir de dados públicos das páginas institucionais
+    da Justiça Federal de Pernambuco (Espaço Memória — Galeria de Juízes), que
+    transcrevem a formação acadêmica do Currículo Lattes de cada magistrado.
+    E-mail de contato pendente de confirmação dos autores (regra 4 da Thoth).
+    """
+    autores_bio = [
+        (
+            "Claudio Kitner",
+            "Bacharel em Direito pela Faculdade de Direito do Recife — Universidade "
+            "Federal de Pernambuco (2000), especialista em Direito Tributário pela "
+            "Fundação Getúlio Vargas (2002) e mestre em Direito pela Faculdade Damas "
+            "(2022). Foi procurador federal da Advocacia-Geral da União e procurador do "
+            "Município do Recife. Ingressou na magistratura federal em 2007 (XIII "
+            "Concurso da 3ª Região) e é juiz federal titular na 5ª Região, integrando a "
+            "3ª Turma Recursal dos Juizados Especiais Federais de Pernambuco desde 2014. "
+            "Tem trabalhos publicados na área previdenciária.",
+        ),
+        (
+            "Luiz Bispo da Silva Neto",
+            "Bacharel em Direito pela Faculdade de Direito do Recife — Universidade "
+            "Federal de Pernambuco (2005). Foi técnico e analista judiciário do Tribunal "
+            "Regional Eleitoral de Pernambuco, procurador federal e advogado da União na "
+            "Advocacia-Geral da União. Ingressou na magistratura federal em 2011 (XIII "
+            "Concurso da 1ª Região) e é juiz federal titular na 5ª Região, com atuação em "
+            "varas e Juizados Especiais Federais de diversas seções judiciárias (Mato "
+            "Grosso, Maranhão, Bahia, Ceará e Pernambuco).",
+        ),
+    ]
+
     p_title = doc.add_paragraph()
     p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_title, before=16, after=8, line_spacing=1.0)
@@ -442,17 +487,21 @@ def add_sobre_autores_page(doc):
     p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn, before=0, after=14, line_spacing=1.0)
     add_run_with_style(p_orn, "◆", font_name=FONT_SERIF, size=Pt(9), color="B78B37")
-    for autor in AUTHORS:
+    for nome, bio in autores_bio:
         p_nome = doc.add_paragraph()
         p_nome.alignment = WD_ALIGN_PARAGRAPH.LEFT
         set_paragraph_spacing(p_nome, before=10, after=2, line_spacing=1.0)
-        add_run_with_style(p_nome, autor, font_name=FONT_SERIF, size=Pt(11),
+        add_run_with_style(p_nome, nome, font_name=FONT_SERIF, size=Pt(11),
                           bold=True, color="3A3128")
         p_bio = doc.add_paragraph()
         p_bio.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
-        set_paragraph_spacing(p_bio, before=0, after=4, line_spacing=1.15)
-        add_run_with_style(p_bio, f"[Biografia de {autor} a ser inserida pelos autores.]",
-                          font_name=FONT_SERIF, size=Pt(10), italic=True, color="6B6256")
+        set_paragraph_spacing(p_bio, before=0, after=3, line_spacing=1.15)
+        add_run_with_style(p_bio, bio, font_name=FONT_SERIF, size=Pt(10), color="201B16")
+        p_mail = doc.add_paragraph()
+        p_mail.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        set_paragraph_spacing(p_mail, before=0, after=4, line_spacing=1.0)
+        add_run_with_style(p_mail, "E-mail: [a confirmar]", font_name=FONT_SERIF,
+                          size=Pt(9.5), italic=True, color="6B6256")
 
 
 def add_abbreviations_page(doc):
