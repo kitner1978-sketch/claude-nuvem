@@ -352,7 +352,7 @@ def add_copyright_page(doc):
     p = doc.add_paragraph()
     set_paragraph_spacing(p, before=0, after=4, line_spacing=1.0)
     # Data de fechamento da edição (ajustar conforme a revisão final dos autores)
-    _add_line("Esta edição reflete a legislação e a jurisprudência até maio de 2026.",
+    _add_line("Esta edição reflete a legislação e a jurisprudência até junho de 2026.",
               size=Pt(7.5), italic=True)
 
 
