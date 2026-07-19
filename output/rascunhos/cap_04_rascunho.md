@@ -70,7 +70,7 @@ Antes da Reforma da Previdência, vigoravam três faixas com alíquotas de 8%, 9
 
 Esse modelo vigorou por décadas e gerava o chamado "efeito degrau": um aumento salarial nominal podia resultar em redução do salário líquido quando o segurado mudava de faixa. A EC 103/2019 corrigiu essa distorção adotando a progressividade por faixas.
 
-#### 4.2.2 O modelo progressivo pós-ec 103/2019
+#### 4.2.2 O modelo progressivo pós-EC 103/2019
 
 A EC 103/2019 introduziu a progressividade por faixas, inspirada na sistemática do Imposto de Renda. Registre-se que o art. 28 da EC 103/2019 disciplina primariamente as alíquotas progressivas do RPPS (servidores públicos federais). Para o RGPS, as alíquotas progressivas foram inseridas no art. 28, § 1º, da Lei 8.212/91, com redação dada pela própria EC 103/2019. A contribuição incide de forma escalonada: cada parcela da remuneração é tributada pela alíquota correspondente à sua faixa. As alíquotas são:
 

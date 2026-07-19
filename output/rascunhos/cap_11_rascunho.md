@@ -797,7 +797,7 @@ Conclui-se que a primeira regra disponível para Paulo é o art. 15, em **2029**
 
 A conversão transformou um segurado sem qualquer regra de transição disponível em um segurado com aposentadoria viável, ainda que em horizonte futuro.
 
-#### 11.13.4 A vedação pós-ec 103 e suas consequências
+#### 11.13.4 A vedação pós-EC 103 e suas consequências
 
 O art. 25, § 2º, da EC 103/2019, veda a conversão de tempo especial em comum para períodos de atividade especial exercidos após 13/11/2019. Na prática, isso significa:
 

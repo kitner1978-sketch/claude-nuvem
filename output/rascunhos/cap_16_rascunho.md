@@ -53,7 +53,7 @@ Essa progressão revela uma tendência clara de ampliação do período de cálc
 
 O período básico de cálculo é o intervalo temporal do qual se extraem os salários de contribuição utilizados na apuração do salário de benefício. A definição do PBC determina quais meses de contribuição são considerados, e, por consequência, quais são descartados, para fins de cálculo da média. As regras que disciplinam o PBC determinam a correta apuração do benefício, especialmente nos casos em que o segurado transita entre o regime anterior e o regime posterior à EC 103/2019.
 
-#### 16.3.1 Regra pré-ec 103: os 80% maiores desde julho de 1994
+#### 16.3.1 Regra pré-EC 103: os 80% maiores desde julho de 1994
 
 Para os benefícios com fato gerador anterior a 13 de novembro de 2019, e para os segurados que exercem direito adquirido à regra anterior, o PBC é composto pela totalidade dos salários de contribuição desde a competência julho de 1994 até o mês anterior ao do requerimento. Sobre esse universo, aplica-se o filtro de descarte: eliminam-se os 20% menores salários de contribuição, e a média aritmética é calculada sobre os 80% restantes.
 
@@ -63,7 +63,7 @@ O descarte dos 20% menores salários de contribuição representava mecanismo de
 
 A lógica protetiva do descarte dos 20% menores tinha fundamento no princípio da preservação do valor real dos benefícios (art. 201, § 4º, CF): se o objetivo da previdência é assegurar renda compatível com o padrão de vida do segurado durante a atividade, faz sentido eliminar do cálculo os meses atípicos de contribuição reduzida.
 
-#### 16.3.2 Regra pós-ec 103: a média de 100% desde julho de 1994
+#### 16.3.2 Regra pós-EC 103: a média de 100% desde julho de 1994
 
 A EC 103/2019 eliminou o descarte dos 20% menores, determinando que o salário de benefício corresponda à média aritmética simples de todos os salários de contribuição desde julho de 1994 (art. 26, caput). A mudança é significativa: os meses de contribuição mais baixa, antes excluídos, passam a integrar o cálculo, reduzindo a média para a maioria dos segurados com histórico contributivo irregular.
 
@@ -174,7 +174,7 @@ A insatisfação dos segurados com os efeitos redutores do fator previdenciário
 
 A regra 85/95 foi tratada em detalhe na seção 11.9, com o exemplo da segurada Sônia e a tabela de progressão de pontos, a que remetemos o leitor. A regra 85/95 perdeu aplicabilidade prática após a EC 103/2019, subsistindo apenas para os segurados com direito adquirido — aqueles que atingiram a pontuação mínima até 12 de novembro de 2019. Para os demais, a regra foi absorvida pela nova sistemática das regras de transição (arts. 15 a 20 da EC 103).
 
-#### 16.4.5 Aplicabilidade do fator previdenciário pós-ec 103/2019
+#### 16.4.5 Aplicabilidade do fator previdenciário pós-EC 103/2019
 
 A EC 103/2019, ao substituir a fórmula de cálculo dos benefícios pelo coeficiente de 60% + 2%, não revogou expressamente o fator previdenciário. A questão que se coloca é: em quais hipóteses o fator previdenciário ainda se aplica após a reforma?
 
@@ -528,7 +528,7 @@ A quarta etapa envolve a aplicação do fator previdenciário (quando cabível) 
 
 A quinta etapa é o cálculo das parcelas vencidas (diferenças mensais entre o valor devido e o valor efetivamente pago pelo INSS, mês a mês, desde a DIB fixada na sentença até a data do cálculo ou da implantação do benefício correto). A sexta etapa aplica a correção monetária e os juros sobre cada parcela vencida, observada a regra vigente para o respectivo período (SELIC a partir da EC 113/2021; regras do Tema 905/STJ para períodos anteriores, conforme Capítulo 23). A sétima etapa deduz eventuais descontos (valores já pagos, tutela antecipada cumprida, contribuições previdenciárias e imposto de renda retido na fonte, honorários), produzindo o valor líquido da RPV.
 
-#### 16.12.2 Simulação 1: aposentadoria programada pós-ec 103
+#### 16.12.2 Simulação 1: aposentadoria programada pós-EC 103
 
 Apresentamos o cálculo completo para um caso hipotético que sintetiza as regras vigentes.
 

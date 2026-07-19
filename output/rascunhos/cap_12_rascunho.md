@@ -293,7 +293,7 @@ A tabela revela que a aposentadoria por TC da PcD supera todas as regras de tran
 
 Para o segurado com deficiência que tem direito adquirido a alguma regra de transição (porque atingiu os requisitos antes do reconhecimento da deficiência, por exemplo), a análise comparativa deve ser feita caso a caso, considerando o valor efetivo da RMI em cada cenário.
 
-#### 12.5.3 Controvérsia sobre o cálculo pós-ec 103/2019
+#### 12.5.3 Controvérsia sobre o cálculo pós-EC 103/2019
 
 A principal controvérsia relativa à aposentadoria da PcD após a Reforma diz respeito à aplicação do art. 26 da EC 103/2019. O INSS, em leitura literal, chegou a adotar a regra geral do art. 26 (média de 100% dos SC com coeficiente de 60% + 2% por ano excedente) para o cálculo da aposentadoria por TC da PcD, desconsiderando o coeficiente de 100% previsto no art. 8º, I, da LC 142/2013.
 
