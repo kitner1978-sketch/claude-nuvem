@@ -465,6 +465,7 @@ def add_sobre_autores_page(doc):
             "Concurso da 3ª Região) e é juiz federal titular na 5ª Região, integrando a "
             "3ª Turma Recursal dos Juizados Especiais Federais de Pernambuco desde 2014. "
             "Tem trabalhos publicados na área previdenciária.",
+            "claudiokitner@hotmail.com",
         ),
         (
             "Luiz Bispo da Silva Neto",
@@ -475,6 +476,7 @@ def add_sobre_autores_page(doc):
             "Concurso da 1ª Região) e é juiz federal titular na 5ª Região, com atuação em "
             "varas e Juizados Especiais Federais de diversas seções judiciárias (Mato "
             "Grosso, Maranhão, Bahia, Ceará e Pernambuco).",
+            "luizbsn@gmail.com",
         ),
     ]
 
@@ -487,7 +489,7 @@ def add_sobre_autores_page(doc):
     p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_paragraph_spacing(p_orn, before=0, after=14, line_spacing=1.0)
     add_run_with_style(p_orn, "◆", font_name=FONT_SERIF, size=Pt(9), color="B78B37")
-    for nome, bio in autores_bio:
+    for nome, bio, email in autores_bio:
         p_nome = doc.add_paragraph()
         p_nome.alignment = WD_ALIGN_PARAGRAPH.LEFT
         set_paragraph_spacing(p_nome, before=10, after=2, line_spacing=1.0)
@@ -500,7 +502,7 @@ def add_sobre_autores_page(doc):
         p_mail = doc.add_paragraph()
         p_mail.alignment = WD_ALIGN_PARAGRAPH.LEFT
         set_paragraph_spacing(p_mail, before=0, after=4, line_spacing=1.0)
-        add_run_with_style(p_mail, "E-mail: [a confirmar]", font_name=FONT_SERIF,
+        add_run_with_style(p_mail, f"E-mail: {email}", font_name=FONT_SERIF,
                           size=Pt(9.5), italic=True, color="6B6256")
 
 

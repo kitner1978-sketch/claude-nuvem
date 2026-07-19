@@ -31,13 +31,13 @@ Que esta obra seja útil a quem, na advocacia e na magistratura, dedica seu trab
 
 Bacharel em Direito pela Faculdade de Direito do Recife — Universidade Federal de Pernambuco (2000), especialista em Direito Tributário pela Fundação Getúlio Vargas (2002) e mestre em Direito pela Faculdade Damas (2022). Foi procurador federal da Advocacia-Geral da União e procurador do Município do Recife. Ingressou na magistratura federal em 2007 (XIII Concurso da 3ª Região) e é juiz federal titular na 5ª Região, integrando a 3ª Turma Recursal dos Juizados Especiais Federais de Pernambuco desde 2014. Tem trabalhos publicados na área previdenciária.
 
-**E-mail:** «confirmar e-mail de contato»
+**E-mail:** claudiokitner@hotmail.com
 
 ### Luiz Bispo da Silva Neto
 
 Bacharel em Direito pela Faculdade de Direito do Recife — Universidade Federal de Pernambuco (2005). Foi técnico e analista judiciário do Tribunal Regional Eleitoral de Pernambuco, procurador federal e advogado da União na Advocacia-Geral da União. Ingressou na magistratura federal em 2011 (XIII Concurso da 1ª Região) e é juiz federal titular na 5ª Região, com atuação em varas e Juizados Especiais Federais de diversas seções judiciárias (Mato Grosso, Maranhão, Bahia, Ceará e Pernambuco).
 
-**E-mail:** «confirmar e-mail de contato»
+**E-mail:** luizbsn@gmail.com
 
 > **Pontos a confirmar/ajustar:**
 > - **Claudio:** título/tema da dissertação de mestrado (Faculdade Damas) e principais publicações a citar; confirmar se ainda integra a 3ª Turma Recursal.
