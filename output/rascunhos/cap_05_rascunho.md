@@ -431,7 +431,7 @@ A compensação financeira opera entre os regimes para evitar enriquecimento sem
 
 #### 5.7.3 Vedações legais
 
-O art. 96 da Lei 8.213/91 estabelece vedações expressas à contagem recíproca. O dispositivo contém cinco incisos (I a V), que devem ser distinguidos com precisão:
+O art. 96 da Lei 8.213/91 estabelece vedações expressas à contagem recíproca. Após as alterações da Lei 13.846/2019 (conversão da MP 871/2019), o dispositivo contém nove incisos (I a IX). Os principais, para a atuação nos JEFs, devem ser distinguidos com precisão:
 
 - **Contagem simultânea (inciso I):** O mesmo tempo não pode ser computado em mais de um regime simultaneamente. Se o segurado contribuiu para RGPS e RPPS no mesmo período (por exemplo, era servidor municipal e mantinha atividade privada paralela), somente pode usar o período em um dos regimes.
 
@@ -439,12 +439,12 @@ O art. 96 da Lei 8.213/91 estabelece vedações expressas à contagem recíproca
 
 - **Exigência de CTC:** A contagem recíproca exige emissão formal de Certidão de Tempo de Contribuição pelo regime de origem. Essa exigência decorre do sistema da contagem recíproca (arts. 94 a 99 da Lei 8.213/91), sendo operacionalizada pelo art. 130 e seguintes do Decreto 3.048/99.
 
-- **Vedação de desaverbação de tempo que gerou vantagens (art. 99 da Lei 8.213/91):** Proibida a desaverbação (retirada) de tempo que tenha sido utilizado para obtenção de vantagens remuneratórias ao servidor em atividade (como anuênios, quinquênios, progressão funcional). Essa vedação consta do art. 99 da Lei 8.213/91, não dos incisos do art. 96.
+- **Vedação de desaverbação de tempo que gerou vantagens (art. 96, VIII, da Lei 8.213/91):** Proibida a desaverbação (retirada) de tempo que tenha sido utilizado para obtenção de vantagens remuneratórias ao servidor em atividade (como anuênios, quinquênios, progressão funcional). Essa vedação foi inserida no inciso VIII do art. 96 da Lei 8.213/91 pela Lei 13.846/2019.
 
 ::: box-atencao
 **Vedação de desaverbação — armadilha para o segurado**
 
-O servidor público que utilizou tempo de serviço para obter progressão funcional ou anuênios não pode desaverbar esse tempo para levá-lo ao RGPS (ou a outro RPPS). A vedação do art. 99 da Lei 8.213/91 é expressa. O advogado deve verificar, antes de requerer CTC, se o tempo pretendido foi utilizado para qualquer vantagem no cargo público. Se foi, o tempo está "comprometido" e não pode ser certificado. Exceção reconhecida pela jurisprudência: tempo excedente, que não impactou a composição de qualquer vantagem, pode ser certificado.
+O servidor público que utilizou tempo de serviço para obter progressão funcional ou anuênios não pode desaverbar esse tempo para levá-lo ao RGPS (ou a outro RPPS). A vedação do art. 96, VIII, da Lei 8.213/91 é expressa. O advogado deve verificar, antes de requerer CTC, se o tempo pretendido foi utilizado para qualquer vantagem no cargo público. Se foi, o tempo está "comprometido" e não pode ser certificado. Exceção reconhecida pela jurisprudência: tempo excedente, que não impactou a composição de qualquer vantagem, pode ser certificado.
 :::
 
 #### 5.7.4 Situações práticas nos JEFs
@@ -475,7 +475,7 @@ A jurisprudência é firme: o segurado não pode ser prejudicado pela ausência 
 
 #### 5.7.6 Contagem recíproca e a EC 103/2019
 
-A EC 103/2019 não alterou o direito à contagem recíproca (que permanece assegurado pelo art. 201, § 9º, CF), mas trouxe impacto indireto relevante. O art. 201, § 9º-A, incluído pela EC 103, reitera a obrigatoriedade de compensação e remete à lei a disciplina dos critérios de cálculo. A vedação ao tempo fictício (art. 25, § 2º) tem reflexos na contagem recíproca: períodos de "tempo fictício" reconhecidos por legislações estaduais anteriores à EC 20/1998 não podem ser objeto de CTC para averbação no RGPS (salvo direito adquirido — período anterior a 16/12/1998).
+A EC 103/2019 não alterou o direito à contagem recíproca (que permanece assegurado pelo art. 201, § 9º, CF), mas trouxe impacto indireto relevante. O art. 201, § 9º-A, incluído pela EC 103, reitera a obrigatoriedade de compensação e remete à lei a disciplina dos critérios de cálculo. A vedação ao tempo fictício (art. 201, § 14, da CF, com redação da EC 103) tem reflexos na contagem recíproca: períodos de "tempo fictício" reconhecidos por legislações estaduais anteriores à EC 20/1998 não podem ser objeto de CTC para averbação no RGPS (salvo direito adquirido — período anterior a 16/12/1998).
 
 Outro impacto relevante: o STF, no Tema 942 (RE 1.014.286, Rel. Min. Edson Fachin), reconheceu o direito do **servidor público** à conversão, em tempo comum, do período prestado sob condições especiais que prejudiquem a saúde ou a integridade física (hipótese do então vigente art. 40, § 4º, III, da CF), aplicando-se as normas do Regime Geral de Previdência Social relativas à aposentadoria especial (Lei 8.213/91), até a edição da EC 103/2019. Em termos práticos, esse entendimento alcança o segurado que exerceu atividade especial e a leva, via contagem recíproca, para o regime próprio: o tempo especial pode ser convertido (com o acréscimo do fator de 1,40/1,20) e averbado no RPPS por meio de CTC. Esse direito limita-se a períodos anteriores à EC 103/2019, em razão da vedação à conversão para períodos posteriores.
 
@@ -629,7 +629,7 @@ A vedação ao tempo fictício passou por três marcos normativos:
 
 **2. EC 20/1998, art. 40, § 10, CF:** Constitucionalizou a vedação: "A lei não poderá estabelecer qualquer forma de contagem de tempo de contribuição fictício." A vedação operava como proibição dirigida ao legislador infraconstitucional, impedindo a criação de novos tempos fictícios. Tempos fictícios já adquiridos antes da EC 20/1998 foram preservados como direito adquirido.
 
-**3. EC 103/2019, art. 25, § 2º:** Reafirmou e ampliou a vedação: "É vedada a contagem de tempo fictício no cômputo do tempo de contribuição." A novidade é que parte da doutrina associa a essa previsão também a vedação de conversão de tempo especial em comum (na medida em que a conversão acrescenta tempo sem efetivo exercício do período adicional), embora essa interpretação seja controversa.
+**3. EC 103/2019 — constitucionalização da vedação (art. 201, § 14, da CF):** A reforma elevou a vedação ao patamar constitucional, dando a seguinte redação ao art. 201, § 14, da Constituição: "É vedada a contagem de tempo de contribuição fictício para efeito de concessão dos benefícios previdenciários e de contagem recíproca." O art. 25, § 2º, da própria EC 103, por sua vez, cuida de tema distinto — a conversão de tempo especial em comum —, examinado na seção 5.11.3.
 
 #### 5.10.3 Exceções mantidas: períodos legalmente equiparados
 

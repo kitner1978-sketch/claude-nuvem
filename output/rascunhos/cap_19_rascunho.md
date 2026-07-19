@@ -444,7 +444,7 @@ A pensão por morte pode ter natureza previdenciária comum (espécie B21) ou ac
 
 A pensão por morte acidentária (B93) é devida quando o óbito decorre de acidente do trabalho, doença ocupacional ou acidente de qualquer natureza equiparado ao acidente do trabalho nos termos do art. 21 da Lei n. 8.213/91. A caracterização do nexo causal entre o óbito e o trabalho ou entre o óbito e o acidente é feita pelo INSS na esfera administrativa e pode ser questionada judicialmente.
 
-A competência para a pensão por morte acidentária (B93) é da Justiça Estadual, por força da ressalva do art. 109, I, da Constituição Federal, que exclui as causas de acidente do trabalho da competência da Justiça Federal, no que é reforçada pela Súmula 235 do STJ (v. Cap. 23, § 23.2). A pensão por morte previdenciária (B21) é de competência da Justiça Federal (ou dos JEFs).
+A competência para a pensão por morte acidentária (B93) é da Justiça Estadual, por força da ressalva do art. 109, I, da Constituição Federal, que exclui as causas de acidente do trabalho da competência da Justiça Federal, no que é reforçada pela Súmula 15 do STJ (v. Cap. 23, § 23.2). A pensão por morte previdenciária (B21) é de competência da Justiça Federal (ou dos JEFs).
 
 O valor e a duração da pensão por morte acidentária são os mesmos da pensão previdenciária comum. A diferença reside na inexigibilidade de carência (que, de todo modo, já é dispensada para a pensão por morte em geral) e na possibilidade de cumulação com indenização civil do empregador, quando comprovada culpa ou dolo patronal.
 
@@ -651,7 +651,7 @@ A pensão por morte, em síntese, é benefício que traduz a dimensão mais huma
 #### Jurisprudência
 
 - STF: Tema 529 (RE 1.045.273 — uniões estáveis simultâneas e rateio de pensão); Tema 1.271 (RE 1.442.021 — exclusão do menor sob guarda do rol de dependentes); Tema 350 (RE 631.240 — prévio requerimento administrativo); ADI 4.277/ADPF 132 (reconhecimento da união homoafetiva); ADI 7.051 (constitucionalidade do regime de cotas da EC 103/2019); ADIs 4.878 e 5.083 (constitucionalidade da exclusão do menor sob guarda — controle abstrato).
-- STJ: Súmula 336 (direito do ex-cônjuge que renunciou a alimentos); Súmula 149 (insuficiência de prova exclusivamente testemunhal para atividade rurícola); Súmula 235 (a competência para conhecer das ações acidentárias é da Justiça Estadual); Tema 732 (direito do menor sob guarda à pensão por morte, com prevalência do art. 33, § 3º, do ECA, para óbitos regidos pela legislação anterior à EC 103/2019); Tema 1057 (REsp 1.856.967, rel. Min. Regina Helena Costa — legitimidade de pensionistas e sucessores para ação revisional do benefício do instituidor).
+- STJ: Súmula 336 (direito do ex-cônjuge que renunciou a alimentos); Súmula 149 (insuficiência de prova exclusivamente testemunhal para atividade rurícola); Súmula 15 (a competência para conhecer das ações decorrentes de acidente do trabalho é da Justiça Estadual); Tema 732 (direito do menor sob guarda à pensão por morte, com prevalência do art. 33, § 3º, do ECA, para óbitos regidos pela legislação anterior à EC 103/2019); Tema 1057 (REsp 1.856.967, rel. Min. Regina Helena Costa — legitimidade de pensionistas e sucessores para ação revisional do benefício do instituidor).
 - TNU: Súmula 63 (comprovação de união estável prescinde de início de prova material para óbitos anteriores à MP 871/2019).
 
 #### Doutrina

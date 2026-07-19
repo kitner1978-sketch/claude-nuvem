@@ -249,7 +249,7 @@ Na prática do eSocial e da DCTFWeb, a compensação é operacionalizada automat
 
 **Pagamento direto pelo INSS.** Para todas as demais categorias, empregada doméstica, trabalhadora avulsa, contribuinte individual, segurada facultativa, segurada especial e MEI, o salário-maternidade é pago diretamente pelo INSS. O requerimento é feito pelo Meu INSS (portal ou aplicativo) ou presencialmente na Agência da Previdência Social. O INSS efetua o pagamento em parcela mensal, depositando o valor na conta bancária indicada pela segurada. O primeiro pagamento costuma ocorrer no mês seguinte ao deferimento do requerimento, com pagamento retroativo à data do fato gerador quando houver atraso no processamento.
 
-A demora no processamento administrativo é um dos principais motivos de judicialização: o prazo legal de trinta dias para análise (art. 41-A, §5º, Lei 8.213/91) é frequentemente descumprido pelo INSS, e a natureza transitória do benefício (apenas quatro meses) torna qualquer atraso proporcionalmente grave. Uma demora de dois meses para concessão compromete metade do período do benefício.
+A demora no processamento administrativo é um dos principais motivos de judicialização: o prazo legal de quarenta e cinco dias para o primeiro pagamento do benefício, contado da apresentação da documentação necessária à concessão (art. 41-A, §5º, Lei 8.213/91), é frequentemente descumprido pelo INSS, e a natureza transitória do benefício (apenas quatro meses) torna qualquer atraso proporcionalmente grave. Uma demora de dois meses para concessão compromete metade do período do benefício.
 
 A empregada do MEI é exceção relevante: embora mantida como empregada, o salário-maternidade é pago diretamente pelo INSS (art. 72, §3º, Lei 8.213/91), e não pelo microempreendedor. A razão é prática: o MEI não tem estrutura administrativa para operacionalizar o pagamento e a compensação.
 
@@ -280,7 +280,7 @@ Até a LC 150/2015, o empregador doméstico era responsável pelo pagamento do s
 6. Para empregada doméstica: informar dados do empregador no eSocial;
 7. Para segurada especial: anexar documentos de prova rural (DAP, notas fiscais, declaração do sindicato);
 8. Acompanhe o andamento pelo mesmo portal;
-9. Prazo de análise pelo INSS: 30 dias (art. 41-A, §5º, Lei 8.213);
+9. Prazo legal para o primeiro pagamento pelo INSS: 45 dias após a apresentação da documentação necessária (art. 41-A, §5º, Lei 8.213);
 10. Se indeferido: apresentar recurso à Junta de Recursos ou ajuizar ação no JEF.
 
 **Importante:** A empregada CLT não requer pelo Meu INSS, o benefício é pago pela empresa diretamente em folha.
@@ -617,7 +617,7 @@ Na prática, muitas gestantes de alto risco recebem auxílio por incapacidade te
 
 A internação prolongada do recém-nascido (por prematuridade extrema, complicações neonatais, cirurgias) frustra o propósito do salário-maternidade, pois a mãe não pode exercer os cuidados que o benefício visa proporcionar. O STF firmou entendimento de que, nessas situações, o início da licença-maternidade e do salário-maternidade deve ser contado a partir da alta hospitalar do recém-nascido (ou da mãe, o que ocorrer por último), quando a internação exceder duas semanas.
 
-A Lei 14.457/2022 (Programa Emprega + Mulheres) reforçou essa proteção, e tramita no Congresso o PL 386/2023, que pretende positivar expressamente a prorrogação do salário-maternidade pelo período de internação do recém-nascido, acrescido de cento e vinte dias após a alta, com limite total a ser definido.
+A Lei 14.457/2022 (Programa Emprega + Mulheres) reforçou essa proteção, e a Lei 15.222, de 29 de setembro de 2025, positivou expressamente a matéria ao acrescentar o § 3º ao art. 71 da Lei 8.213/91: quando a internação hospitalar da segurada ou do recém-nascido superar duas semanas, em decorrência de complicações médicas relacionadas ao parto, o salário-maternidade é devido durante todo o período de internação e por mais cento e vinte dias após a alta hospitalar (da mãe ou do recém-nascido, o que ocorrer por último), descontado o tempo de benefício eventualmente recebido antes do parto.
 
 #### 13.17.3 Parto de natimorto
 
