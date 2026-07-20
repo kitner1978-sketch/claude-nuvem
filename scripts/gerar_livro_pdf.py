@@ -680,6 +680,132 @@ def add_part_page(doc, part_num, part_title):
                       size=Pt(9), color="B78B37")
 
 
+# ── Item 4: desnumerar Introdução/Conclusão/Referências ──
+def _maybe_unnumber(text):
+    """Remove o prefixo numérico (X.Y) de headings de Introdução/Conclusão/Referências.
+    Norma da editora: essas seções não são numeradas."""
+    m = re.match(r'^\d+(?:\.\d+)*\s+(.*)$', text)
+    if m and re.match(r'(Introdução|Conclusão|Referências)\b', m.group(1), re.I):
+        return m.group(1)
+    return text
+
+
+# ── Item 3: consolidar referências numa lista única ao final ──
+def _classify_ref(entry):
+    e = re.sub(r'\*+', '', entry).strip()
+    if re.match(r'(BRASIL|Lei|Decreto|Emenda|Constitui|Medida Provis|Portaria|'
+                r'Instru[çc][ãa]o Normativa|Resolu[çc][ãa]o|LC\b|Conven[çc][ãa]o)', e, re.I):
+        return 'Legislação'
+    if (re.match(r'(STF|STJ|TNU|TRF|TRU|S[úu]mula|Supremo|Superior Tribunal|Tribunal|Turma)', e)
+            or re.search(r'\b(RE|REsp|AREsp|ADI|ADC|ADPF|Tema|PEDILEF|IAC|IRDR)\b', e)):
+        return 'Jurisprudência'
+    return 'Doutrina'
+
+
+def _collect_and_strip_refs(text, refs):
+    """Remove a seção de Referências do capítulo e coleta as entradas em `refs`
+    (dict com listas por categoria). Retorna o corpo sem as referências."""
+    m = re.search(r'(?m)^#{2,4}\s+(?:[0-9.]+\s+)?Refer[êe]ncias.*$', text)
+    if not m:
+        return text
+    body = text[:m.start()]
+    bloco = text[m.end():]
+    categoria = None
+    for line in bloco.split('\n'):
+        s = line.strip()
+        if not s:
+            continue
+        h = re.match(r'^#{2,6}\s+(?:[0-9.]+\s+)?(.*)$', s)
+        if h:
+            low = h.group(1).lower()
+            if 'legisla' in low:
+                categoria = 'Legislação'
+            elif 'jurisprud' in low:
+                categoria = 'Jurisprudência'
+            elif 'doutrina' in low:
+                categoria = 'Doutrina'
+            else:
+                categoria = None
+            continue
+        cat = categoria or _classify_ref(s)
+        refs.setdefault(cat, []).append(s)
+    return body
+
+
+def add_consolidated_references(doc, refs):
+    """Renderiza uma lista única de Referências ao final da obra (item 3 Thoth)."""
+    from docx.enum.text import WD_BREAK
+    p_break = doc.add_paragraph()
+    p_break.add_run().add_break(WD_BREAK.PAGE)
+
+    p = doc.add_paragraph()
+    p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+    p.style = doc.styles['Heading 1']
+    for run in p.runs:
+        run.clear()
+    set_paragraph_spacing(p, before=16, after=10, line_spacing=1.0)
+    add_run_with_style(p, "REFERÊNCIAS", font_name=FONT_SERIF,
+                       size=Pt(16), bold=True, color="2F2923", all_caps=True)
+
+    def _key(s):
+        return re.sub(r'\s+', ' ', re.sub(r'\*+', '', s)).strip().lower()
+
+    def _diploma_nome(e):
+        # nome do diploma = trecho antes do 1º parêntese/travessão, sem marcadores
+        e = re.sub(r'\*+', '', e).strip().lstrip('-').strip()
+        return re.split(r'\s*[\(—–]', e)[0].strip().rstrip('.,;: ')
+
+    def _diploma_key(e):
+        k = _diploma_nome(e).lower()
+        if 'constitui' in k and '1988' in k:
+            return 'constituicao federal 1988'
+        k = re.sub(r'n[ºo.]\s*', '', k)
+        k = re.sub(r',?\s*de\s+\d.*$', '', k)   # remove ", de 24 de julho de 1991"
+        k = re.sub(r'[.,/º°]', ' ', k)
+        return re.sub(r'\s+', ' ', k).strip()
+
+    def _colapsa_legislacao(entradas):
+        # uma entrada por diploma; renderiza o nome do diploma (sem artigos)
+        grupos = {}
+        for e in entradas:
+            k = _diploma_key(e)
+            nome = _diploma_nome(e)
+            if k == 'constituicao federal 1988':
+                nome = 'Constituição da República Federativa do Brasil de 1988'
+            # mantém o nome de diploma mais completo do grupo
+            if k not in grupos or len(nome) > len(grupos[k]):
+                grupos[k] = nome
+        return sorted((n + '.' for n in grupos.values()), key=str.lower)
+
+    for cat in ['Legislação', 'Jurisprudência', 'Doutrina']:
+        entradas = refs.get(cat, [])
+        if cat == 'Legislação':
+            uniq = _colapsa_legislacao(entradas)
+        else:
+            seen = {}
+            for e in entradas:
+                k = _key(e)
+                if k and k not in seen:
+                    seen[k] = e.strip()
+            uniq = sorted(seen.values(), key=_key)
+        if not uniq:
+            continue
+        ps = doc.add_paragraph()
+        ps.alignment = WD_ALIGN_PARAGRAPH.LEFT
+        set_paragraph_spacing(ps, before=10, after=5, line_spacing=1.0)
+        add_run_with_style(ps, cat, font_name=FONT_SERIF, size=Pt(11.5),
+                           bold=True, color="3A3128")
+        keep_with_next(ps)
+        for e in uniq:
+            pe = add_paragraph_with_bold(doc, e, size=Pt(9.4), color="201B16",
+                                         alignment=WD_ALIGN_PARAGRAPH.LEFT,
+                                         first_indent=0, space_before=0,
+                                         space_after=2.4, line_spacing=1.0)
+            pf = pe.paragraph_format
+            pf.left_indent = Cm(0.48)
+            pf.first_line_indent = Cm(-0.48)
+
+
 def add_chapter_to_doc(doc, blocks, cap_num_str):
     """Adiciona um capítulo ao documento unificado."""
     cap_num = cap_num_str
@@ -730,7 +856,7 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.LEFT
             set_paragraph_spacing(p, before=18, after=7, line_spacing=1.0)
-            add_run_with_style(p, block['text'], font_name=FONT_SERIF,
+            add_run_with_style(p, _maybe_unnumber(block['text']), font_name=FONT_SERIF,
                              size=SIZE_SECTION, bold=True, color="3A3128")
             add_section_border(p)
             keep_with_next(p)
@@ -740,7 +866,7 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
             p = doc.add_paragraph()
             p.alignment = WD_ALIGN_PARAGRAPH.LEFT
             set_paragraph_spacing(p, before=13, after=4, line_spacing=1.0)
-            add_run_with_style(p, block['text'], font_name=FONT_SERIF,
+            add_run_with_style(p, _maybe_unnumber(block['text']), font_name=FONT_SERIF,
                              size=SIZE_SUBSECTION, bold=True, color="3A3128")
             # Subtítulos (####) deliberadamente SEM keep_with_next: deixá-los
             # fluir reduz o vão branco no rodapé quando o bloco seguinte não
@@ -1032,6 +1158,7 @@ def create_unified_docx(output_path):
     base_dir = Path(__file__).parent.parent / "output" / "rascunhos"
 
     is_first_part = True
+    referencias_consolidadas = {}  # item 3: refs de todos os capítulos
 
     for part in PARTS:
         # Página divisória da Parte (sempre em página ímpar)
@@ -1060,6 +1187,7 @@ def create_unified_docx(output_path):
 
             # Ler e processar
             text = md_path.read_text(encoding='utf-8')
+            text = _collect_and_strip_refs(text, referencias_consolidadas)  # item 3
             text = strip_citations(text)
             blocks = parse_markdown(text)
 
@@ -1084,6 +1212,16 @@ def create_unified_docx(output_path):
 
             # Adicionar conteúdo
             cap_num, cap_title = add_chapter_to_doc(doc, blocks, cap_id)
+
+    # ── REFERÊNCIAS CONSOLIDADAS (item 3: lista única ao final) ──
+    print("  Montando referencias consolidadas...")
+    tot_refs = sum(len(v) for v in referencias_consolidadas.values())
+    if tot_refs:
+        sec_ref = add_new_section(doc, start_type='ODD_PAGE')
+        setup_header_footer(sec_ref, header_text="Referências",
+                          first_page_no_header=True)
+        add_consolidated_references(doc, referencias_consolidadas)
+        print(f"    {tot_refs} entradas coletadas (antes da deduplicacao)")
 
     # ── ÍNDICE REMISSIVO ──
     print("  Gerando indice remissivo...")
