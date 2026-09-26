@@ -60,7 +60,7 @@ O princípio da equidade na forma de participação no custeio (art. 194, parág
 
 Além da equidade, dois outros princípios constitucionais norteiam o custeio previdenciário. O princípio da preexistência do custeio (art. 195, § 5º, CF/88), segundo o qual nenhum benefício pode ser criado, majorado ou estendido sem a correspondente fonte de custeio total, funciona como freio à expansão irresponsável da cobertura. E o princípio da diversidade da base de financiamento (art. 194, parágrafo único, VI, CF/88) distribui os encargos entre diversas fontes, reduzindo a vulnerabilidade do sistema a oscilações em uma única base tributária.
 
-Essas regras de custeio ganham vida concreta quando se percebe que uma contribuição não recolhida pode impedir a aposentadoria de um trabalhador com 35 anos de labor, ou que uma complementação de R$ 3.000 pode viabilizar economicamente um benefício vitalício. Na prática dos JEFs, verificamos que boa parte das demandas previdenciárias tem, em seu núcleo, uma questão de custeio mal resolvida na via administrativa. O capítulo organiza-se em blocos temáticos. Primeiro, examinamos as contribuições por categoria de segurado (empregado, contribuinte individual, MEI, facultativo, doméstico, segurado especial) e a contribuição patronal. Em seguida, tratamos do salário de contribuição como base de cálculo e dos mecanismos de regularização (contribuição em atraso, complementação, retenção). Por fim, abordamos temas transversais, fiscalização, imunidades, restituição e os aspectos práticos nos JEFs.
+Essas regras de custeio ganham vida concreta quando se percebe que uma contribuição não recolhida pode impedir a aposentadoria de um trabalhador com 35 anos de labor, ou que uma complementação de R$ 3.000 pode viabilizar economicamente um benefício vitalício. Na prática dos JEFs, verificamos que boa parte das demandas previdenciárias tem, em seu núcleo, uma questão de custeio mal resolvida na via administrativa. O capítulo organiza-se em blocos temáticos. Primeiro, examinamos as contribuições por categoria de segurado (empregado, contribuinte individual, MEI, facultativo, doméstico, segurado especial) e a contribuição patronal. Em seguida, tratamos do salário de contribuição como base de cálculo e dos mecanismos de regularização (contribuição em atraso, complementação, retenção). Por fim, abordamos temas transversais (fiscalização, imunidades, restituição) e os aspectos práticos nos JEFs.
 
 ### 4.2 Alíquotas progressivas do segurado empregado
 
@@ -139,7 +139,7 @@ As alíquotas de contribuição do segurado empregado sofreram alterações suce
 
 Nos primórdios do sistema, a contribuição do empregado era fixada pelas legislações dos Institutos de Aposentadoria e Pensão (IAPs) e, posteriormente, pela LOPS (Lei 3.807/60). Embora o Decreto-Lei 5.452/43 (CLT) tenha consolidado a legislação trabalhista, as contribuições previdenciárias eram regidas por normas específicas de cada instituto, geralmente em torno de 8% sobre o salário, sem progressividade. A Lei 8.212/91 manteve alíquotas proporcionais (não progressivas) de 8%, 9% e 11%, distribuídas em três faixas salariais. Essa estrutura permaneceu por quase 30 anos, com atualização periódica dos valores-limites das faixas por portaria ministerial.
 
-A EC 103/2019 rompeu com esse modelo ao adotar a progressividade por faixas, aproximando a contribuição previdenciária da sistemática do Imposto de Renda. A mudança dá concretude ao princípio da equidade na forma de participação no custeio (art. 194, V, CF/88): quem ganha mais, contribui proporcionalmente mais. A progressividade beneficia os segurados de baixa e média renda, que passaram a contribuir com alíquotas efetivas menores do que as anteriores.
+A EC 103/2019 rompeu com esse modelo ao adotar a progressividade por faixas, aproximando a contribuição previdenciária da sistemática do Imposto de Renda. A mudança dá concretude ao princípio da equidade na forma de participação no custeio (art. 194, parágrafo único, V, CF/88): quem ganha mais, contribui proporcionalmente mais. A progressividade beneficia os segurados de baixa e média renda, que passaram a contribuir com alíquotas efetivas menores do que as anteriores.
 
 Para o cálculo judicial de benefícios, o advogado deve atentar que o modelo de alíquotas não afeta o salário de contribuição (que é a remuneração, limitada ao teto), mas sim o valor efetivamente descontado do trabalhador. Ações que discutem o valor do benefício baseiam-se nos salários de contribuição registrados no CNIS, não nas alíquotas aplicadas em cada período.
 
@@ -178,7 +178,7 @@ A contribuição patronal (20%) incide sobre a folha de pagamento da empresa, se
 
 #### 4.3.2 RAT: graus de risco e enquadramento
 
-O Riscos Ambientais do Trabalho (RAT), que substituiu a antiga denominação SAT (Seguro de Acidente do Trabalho), classifica as atividades econômicas em três graus de risco:
+O RAT (Riscos Ambientais do Trabalho), que substituiu a antiga denominação SAT (Seguro de Acidente do Trabalho), classifica as atividades econômicas em três graus de risco:
 
 | Grau de risco | Alíquota RAT | Exemplos |
 |--------------|-------------|----------|
@@ -446,7 +446,7 @@ Total efetivo: 20% x R$ 1.621,00 = R$ 324,20
 
 **Atenção:** A complementação é calculada sobre o SM vigente na competência original, não no SM atual. Se o MEI deseja complementar competências de 2022 (SM = R$ 1.212,00), paga 15% x R$ 1.212,00 = R$ 181,80 por mês de 2022.
 
-Não incide juros nem multa sobre a complementação, desde que recolhida dentro do prazo de decadência (5 anos). Para competências anteriores, aplica-se atualização monetária.
+Não incidem juros nem multa sobre a complementação, desde que recolhida dentro do prazo de decadência (5 anos). Para competências anteriores, aplica-se atualização monetária.
 :::
 
 #### 4.7.5 MEI caminhoneiro
@@ -600,7 +600,7 @@ Para obter benefício em valor superior a 1 SM, o segurado especial deve contrib
 ::: box-atencao
 **Atenção — Interface custeio x prova de atividade rural:**
 
-Nos JEFs, o INSS frequentemente nega benefícios rurais alegando ausência de comprovação da comercialização (e, consequentemente, da contribuição). Contudo, a jurisprudência consolidou que a contribuição do segurado especial NÃO é requisito para a concessão do benefício, basta a comprovação da atividade rural pelo período de carência. A contribuição sobre a comercialização é obrigação tributária do adquirente (sub-rogação), não do segurado. O tema é aprofundado no Capítulo 9 (Aposentadoria do Segurado Rural).
+Nos JEFs, o INSS frequentemente nega benefícios rurais alegando ausência de comprovação da comercialização (e, consequentemente, da contribuição). Contudo, a jurisprudência consolidou que a contribuição do segurado especial NÃO é requisito para a concessão do benefício: basta a comprovação da atividade rural pelo período de carência. A contribuição sobre a comercialização é obrigação tributária do adquirente (sub-rogação), não do segurado. O tema é aprofundado no Capítulo 9 (Aposentadoria do Segurado Rural).
 :::
 
 #### 4.10.3 Contribuição facultativa do segurado especial
@@ -623,7 +623,7 @@ O produtor rural pessoa física que emprega trabalhadores rurais possui regime d
 - Base: receita bruta proveniente da comercialização da produção rural
 - Responsável: o próprio produtor ou o adquirente (por sub-rogação)
 
-A contribuição sobre a receita bruta substitui integralmente a contribuição patronal de 20% sobre a folha. Essa substituição é a razão pela qual o custeio do setor rural é frequentemente apontado como deficitário, as alíquotas sobre a receita são muito inferiores ao que seria devido sobre a folha.
+A contribuição sobre a receita bruta substitui integralmente a contribuição patronal de 20% sobre a folha. Essa substituição é a razão pela qual o custeio do setor rural é frequentemente apontado como deficitário: as alíquotas sobre a receita são muito inferiores ao que seria devido sobre a folha.
 
 ::: box-jurisprudencia
 **STF — RE 718.874 (Tema 669, j. 30/03/2017)**
@@ -743,7 +743,7 @@ O art. 28, § 9º, da Lei 8.212/91 lista exaustivamente as parcelas excluídas d
 
 a) **Benefícios da Previdência Social** (aposentadoria, pensão), exceto quando o aposentado retorna ao trabalho, caso em que a remuneração do novo emprego integra o SC.
 
-b) **Ajuda de custo e diárias para viagem**, não integram desde que compatíveis com a necessidade (a Lei 13.467/2017 eliminou o antigo limite de 50% da remuneração, mas a RFB mantém o critério de razoabilidade na fiscalização).
+b) **Ajuda de custo e diárias para viagem** não integram desde que compatíveis com a necessidade (a Lei 13.467/2017 eliminou o antigo limite de 50% da remuneração, mas a RFB mantém o critério de razoabilidade na fiscalização).
 
 c) **Vale-transporte** — independentemente da forma de pagamento (vales, cartão ou dinheiro), conforme posição consolidada pelo STF (RE 478.410, Plenário, j. 14/05/2010).
 
@@ -842,7 +842,7 @@ O limite máximo do salário de contribuição (teto) sofreu diversas alteraçõ
 
 | Período | Teto |
 |---------|------|
-| Até 11/1994 | Variável conforme legislação |
+| Até 11/1998 | Variável conforme legislação |
 | 12/1998 (EC 20) | R$ 1.200,00 |
 | 01/2004 (EC 41/2003) | R$ 2.400,00 |
 | 02/2009 | R$ 3.038,99 |
@@ -1000,7 +1000,7 @@ A complementação é feita mediante GPS com código específico:
 
 **Nota:** O Tema 1.070/STJ (REsp 1.870.793/RS) não trata de complementação de contribuições, mas sim do cálculo de benefícios com atividades concomitantes (art. 32 da Lei 8.213/91, com redação dada pela Lei 13.846/2019). A base legal para a complementação é diretamente o art. 21, § 3º, da Lei 8.212/91.
 
-**Impacto prático:** A complementação pode ser feita a qualquer tempo, sem decadência, e retroage à competência original. Não há necessidade de requerimento prévio ao INSS para complementar, o segurado paga a GPS e o CNIS deve ser atualizado automaticamente.
+**Impacto prático:** A complementação pode ser feita a qualquer tempo, sem decadência, e retroage à competência original. Não há necessidade de requerimento prévio ao INSS para complementar: o segurado paga a GPS e o CNIS deve ser atualizado automaticamente.
 :::
 
 #### 4.14.4 Complementação parcial: estratégia
@@ -1214,7 +1214,7 @@ A decadência previdenciária (art. 103, Lei 8.213/91 — prazo de 10 anos para 
 ::: box-pratica
 **Quadro-resumo dos prazos:**
 
-| Prazo | Objeto | Fundamento | Prazo |
+| Instituto | Objeto | Fundamento | Prazo |
 |-------|--------|-----------|-------|
 | Decadência tributária | Lançamento pela RFB | Art. 45, Lei 8.212/91 | 5 anos |
 | Prescrição tributária | Cobrança (execução fiscal) | Art. 46, Lei 8.212/91 | 5 anos |
@@ -1225,7 +1225,7 @@ A decadência previdenciária (art. 103, Lei 8.213/91 — prazo de 10 anos para 
 
 #### 4.18.5 Auto de infração e procedimento fiscal
 
-Quando a RFB constata irregularidades no recolhimento de contribuições (omissão, subregistro de remuneração, classificação indevida de parcelas como indenizatórias), lavra auto de infração com a constituição do crédito tributário. O empregador pode impugnar administrativamente (Delegacia de Julgamento da RFB — DRJ, com recurso ao CARF) ou judicialmente (ação anulatória).
+Quando a RFB constata irregularidades no recolhimento de contribuições (omissão, sub-registro de remuneração, classificação indevida de parcelas como indenizatórias), lavra auto de infração com a constituição do crédito tributário. O empregador pode impugnar administrativamente (Delegacia de Julgamento da RFB — DRJ, com recurso ao CARF) ou judicialmente (ação anulatória).
 
 Para o segurado, o resultado do procedimento fiscal pode ter impacto positivo: se a RFB obriga o empregador a recolher diferenças de contribuição, o CNIS será retificado para refletir a remuneração correta — elevando o salário de contribuição e, potencialmente, o valor do benefício. Nos JEFs, o segurado pode invocar os autos de infração lavrados contra o empregador como prova da remuneração efetiva em ações de retificação de CNIS.
 
@@ -1239,12 +1239,12 @@ b) **GFIP/SEFIP (obrigação residual):** Empresas que ainda não migraram integ
 
 c) **PPP — Perfil Profissiográfico Previdenciário:** A empresa deve manter e disponibilizar o PPP atualizado de cada empregado exposto a agentes nocivos. O PPP é documento essencial para a concessão de aposentadoria especial, e sua ausência ou incorreção gera multa administrativa e pode prejudicar o segurado (embora a jurisprudência dos JEFs não permita que o segurado seja penalizado por falha da empresa).
 
-d) **Comunicação de Acidente de Trabalho (CAT):** A empresa deve comunicar o acidente de trabalho à Previdência Social até o primeiro dia útil seguinte ao da ocorrência (art. 22, Lei 8.213/91). A omissão na emissão da CAT constitui infração que sujeita a empresa a multa variável entre o limite mínimo e o limite máximo do salário de contribuição. Nos JEFs, a ausência de CAT não impede o reconhecimento do acidente de trabalho, o segurado pode comprovar por outros meios (laudo médico, boletim de ocorrência, testemunhos).
+d) **Comunicação de Acidente de Trabalho (CAT):** A empresa deve comunicar o acidente de trabalho à Previdência Social até o primeiro dia útil seguinte ao da ocorrência (art. 22, Lei 8.213/91). A omissão na emissão da CAT constitui infração que sujeita a empresa a multa variável entre o limite mínimo e o limite máximo do salário de contribuição. Nos JEFs, a ausência de CAT não impede o reconhecimento do acidente de trabalho: o segurado pode comprovar por outros meios (laudo médico, boletim de ocorrência, testemunhos).
 
 ::: box-atencao
 **Atenção — Multas do eSocial na prática:**
 
-A fiscalização das obrigações do eSocial tem se intensificado desde 2023. Empregadores domésticos são os mais afetados: a multa por não registrar o empregado no eSocial doméstico pode chegar a R$ 3.000,00. Para o advogado previdenciarista, o impacto é indireto, empregadores que não registram corretamente prejudicam o CNIS do empregado, gerando lacunas contributivas que só serão sanadas judicialmente. A multa por omissão de informações no eSocial pode, ainda, servir como prova indireta da existência do vínculo quando o empregador é autuado por não registrar empregados.
+A fiscalização das obrigações do eSocial tem se intensificado desde 2023. Empregadores domésticos são os mais afetados: a multa por não registrar o empregado no eSocial doméstico pode chegar a R$ 3.000,00. Para o advogado previdenciarista, o impacto é indireto: empregadores que não registram corretamente prejudicam o CNIS do empregado, gerando lacunas contributivas que só serão sanadas judicialmente. A multa por omissão de informações no eSocial pode, ainda, servir como prova indireta da existência do vínculo quando o empregador é autuado por não registrar empregados.
 :::
 
 ### 4.19 Imunidade e isenção de contribuições previdenciárias
@@ -1412,7 +1412,7 @@ Se o segurado obtém restituição de contribuições, o CNIS deve ser ajustado 
 
 ### 4.21 GPS, DARF e eSocial: instrumentos de recolhimento
 
-#### 4.21.1 GPS — Guia da previdência social
+#### 4.21.1 GPS — Guia da Previdência Social
 
 A GPS é o instrumento de pagamento da contribuição previdenciária para contribuintes individuais, facultativos e empregadores domésticos (estes últimos quando não utilizam o eSocial/DAE). Os principais códigos são:
 
@@ -1443,7 +1443,7 @@ A GPS é o instrumento de pagamento da contribuição previdenciária para contr
 **Recolhimento trimestral:** CI e facultativo com contribuição sobre 1 SM podem recolher trimestralmente (vencimento: dia 15 do mês seguinte ao trimestre). Códigos específicos: 1104 (CI), 1457 (facultativo).
 :::
 
-#### 4.21.2 ESocial e DCTF-Web
+#### 4.21.2 eSocial e DCTF-Web
 
 O eSocial revolucionou a forma de prestação de informações previdenciárias pelas empresas. Desde sua implantação completa (2018-2023, em fases), substituiu a GFIP/SEFIP como instrumento de declaração do empregador. A partir de outubro de 2021, a DCTF-Web passou a ser o único instrumento declaratório para empresas já obrigadas ao eSocial, e o recolhimento patronal migrou da GPS para o DARF previdenciário. Em janeiro de 2025, a IN RFB 2.237/2024 consolidou a DCTF-Web como forma exclusiva de declaração de todas as obrigações previdenciárias federais dos empregadores.
 
@@ -1553,7 +1553,7 @@ Com base na experiência forense, as demandas previdenciárias com maior interfa
 **a) Reconhecimento de tempo de contribuição como CI informal:**
 O segurado exerceu atividade autônoma sem registro (pedreiro, costureira, vendedor ambulante) e precisa desse tempo para aposentadoria. O INSS exige indenização. O juiz analisa: houve atividade? Há início de prova material? A indenização é condição ou consequência?
 
-**b) Retificação de CNIS por subregistro de remuneração:**
+**b) Retificação de CNIS por sub-registro de remuneração:**
 O empregador recolheu sobre valor inferior à remuneração efetiva. O segurado comprova (contracheques, IR, recibos) que recebia mais. O juiz determina a retificação, o que eleva o salário de benefício.
 
 **c) Invalidação de contribuições de baixa renda:**
@@ -1622,7 +1622,7 @@ Nos JEFs, cooperados frequentemente buscam reconhecimento de vínculo empregatí
 ::: box-atencao
 **Cooperativa "de fachada": a fraude que descaracteriza o vínculo**
 
-Algumas empresas constituem cooperativas fictícias para reduzir o custo previdenciário, em vez de contratar empregados (contribuição patronal de 20% + RAT e encargos trabalhistas), contratam a mão de obra por intermédio de cooperativa. O vínculo de subordinação, habitualidade e pessoalidade descaracteriza a relação cooperativa e configura fraude trabalhista e previdenciária. Nos JEFs, o segurado pode comprovar a fraude e obter o reconhecimento do vínculo empregatício, com reflexos no cálculo do benefício (salário de contribuição mais elevado como empregado do que como cooperado/CI).
+Algumas empresas constituem cooperativas fictícias para reduzir o custo previdenciário: em vez de contratar empregados (contribuição patronal de 20% + RAT e encargos trabalhistas), contratam a mão de obra por intermédio de cooperativa. O vínculo de subordinação, habitualidade e pessoalidade descaracteriza a relação cooperativa e configura fraude trabalhista e previdenciária. Nos JEFs, o segurado pode comprovar a fraude e obter o reconhecimento do vínculo empregatício, com reflexos no cálculo do benefício (salário de contribuição mais elevado como empregado do que como cooperado/CI).
 :::
 
 ### 4.23 Síntese e quadro comparativo
@@ -1652,7 +1652,7 @@ Algumas empresas constituem cooperativas fictícias para reduzir o custo previde
 
 *MEI caminhoneiro: 12% não dá direito a TC. Complementando 8%, totaliza 20% e passa a contar.
 
-**Observação final:** Este quadro reflete os valores e alíquotas vigentes em 2026 (Portaria Interministerial MPS/MF n. 13, de 09/01/2026). Os limites das faixas e o teto do salário de contribuição são atualizados anualmente. O advogado previdenciarista deve verificar os valores vigentes na data do requerimento administrativo ou da distribuição da ação, pois alterações retroativas são raras, cada competência é regida pela legislação e pelos valores de seu próprio período.
+**Observação final:** Este quadro reflete os valores e alíquotas vigentes em 2026 (Portaria Interministerial MPS/MF n. 13, de 09/01/2026). Os limites das faixas e o teto do salário de contribuição são atualizados anualmente. O advogado previdenciarista deve verificar os valores vigentes na data do requerimento administrativo ou da distribuição da ação, pois alterações retroativas são raras: cada competência é regida pela legislação e pelos valores de seu próprio período.
 :::
 
 ::: box-pratica

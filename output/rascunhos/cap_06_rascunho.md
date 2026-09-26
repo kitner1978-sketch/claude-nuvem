@@ -78,7 +78,7 @@ Segurado de 58 anos, analfabeto, residente em município do interior do Nordeste
 
 #### 6.2.4 Insusceptibilidade de reabilitação
 
-O quarto requisito, a insusceptibilidade de reabilitação profissional, é corolário lógico da exigência de incapacidade total. Se o segurado pode ser reabilitado para outra atividade que lhe garanta a subsistência, a hipótese é de auxílio por incapacidade temporária com encaminhamento ao Programa de Reabilitação Profissional (arts. 89 a 93 da Lei 8.213/91), e não de aposentadoria. A aposentadoria por incapacidade permanente é, no desenho legislativo, benefício de última ratio, somente concedida quando esgotadas as possibilidades de reabilitação (Castro; Lazzari, 2025; Horvath Júnior, 2025).
+O quarto requisito, a insusceptibilidade de reabilitação profissional, é corolário lógico da exigência de incapacidade total. Se o segurado pode ser reabilitado para outra atividade que lhe garanta a subsistência, a hipótese é de auxílio por incapacidade temporária com encaminhamento ao Programa de Reabilitação Profissional (arts. 89 a 93 da Lei 8.213/91), e não de aposentadoria. A aposentadoria por incapacidade permanente é, no desenho legislativo, benefício de ultima ratio, somente concedida quando esgotadas as possibilidades de reabilitação (Castro; Lazzari, 2025; Horvath Júnior, 2025).
 
 Na prática, a reabilitação profissional do INSS apresenta limitações estruturais. O Programa frequentemente não dispõe de recursos adequados para oferecer capacitação efetiva, sobretudo em municípios do interior. A jurisprudência tem reconhecido que a mera possibilidade teórica de reabilitação, sem a existência concreta de programa acessível ao segurado, não impede a concessão da aposentadoria. A TNU, em diversos precedentes, tem entendido que cabe ao INSS demonstrar a viabilidade da reabilitação, e não ao segurado provar a inviabilidade.
 
@@ -123,7 +123,7 @@ A operacionalização dessa regra exige a fixação precisa de duas datas: a Dat
 
 A Súmula 53 da TNU sintetiza: "Não há direito a auxílio por incapacidade temporária ou a aposentadoria por incapacidade permanente quando a incapacidade para o trabalho é preexistente ao reingresso do segurado no Regime Geral de Previdência Social". Essa súmula deve ser lida em conjunto com o § 2º do art. 42: a vedação se aplica quando a incapacidade, e não apenas a doença, é preexistente. Se houve progressão real da doença que gerou nova incapacidade ou agravamento da incapacidade preexistente, o segurado faz jus ao benefício, desde que cumpridos os demais requisitos.
 
-#### 6.3.5 O modelo biopsicossocial e a Classificação Internacional de funcionalidade (CIF)
+#### 6.3.5 O modelo biopsicossocial e a Classificação Internacional de Funcionalidade (CIF)
 
 A avaliação da incapacidade para o trabalho no direito previdenciário brasileiro tem sido progressivamente influenciada pelo modelo biopsicossocial, cujo marco normativo internacional é a Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF), adotada pela Organização Mundial da Saúde em 2001.
 
@@ -225,7 +225,7 @@ O art. 62 da Lei 8.213/91 prevê que "o segurado em gozo de auxílio-doença, in
 
 #### 6.6.2 Prévio requerimento administrativo (Tema 350/STF)
 
-O Supremo Tribunal Federal, no julgamento do RE 631.240 (Tema 350, rel. Min. Roberto Barroso, j. 03/09/2014), fixou a tese de que "a concessão de benefícios previdenciários depende de requerimento do interessado, não se caracterizando ameaça ou lesão a direito antes de sua apreciação e indeferimento pelo INSS, ou se excedido o prazo legal para sua análise". O prévio requerimento administrativo é, em regra, condição para o interesse de agir nas ações previdenciárias.
+O Supremo Tribunal Federal, no julgamento do RE 631.240 (Tema 350, Rel. Min. Roberto Barroso, j. 03/09/2014), fixou a tese de que "a concessão de benefícios previdenciários depende de requerimento do interessado, não se caracterizando ameaça ou lesão a direito antes de sua apreciação e indeferimento pelo INSS, ou se excedido o prazo legal para sua análise". O prévio requerimento administrativo é, em regra, condição para o interesse de agir nas ações previdenciárias.
 
 A tese comporta exceções importantes: (i) quando a posição do INSS seja notoriamente contrária ao direito postulado — por exemplo, quando o INSS adota interpretação normativa consolidada contra a pretensão do segurado; (ii) nos pedidos de revisão de benefícios em manutenção, quando a controvérsia é exclusivamente de direito; e (iii) quando o segurado comprova ter comparecido ao INSS e não ter conseguido protocolar o requerimento por razões imputáveis à autarquia.
 
@@ -233,7 +233,7 @@ A tese comporta exceções importantes: (i) quando a posição do INSS seja noto
 
 A fixação do termo inicial dos efeitos financeiros quando o benefício é concedido judicialmente envolve regras distintas conforme tenha havido ou não requerimento administrativo. O STJ, no Tema 626 (REsp 1.369.165/SP, j. 26/02/2014), estabeleceu que, quando ausente postulação administrativa prévia, o termo inicial da aposentadoria por incapacidade permanente concedida judicialmente é a data da citação válida do INSS. Quando houve requerimento administrativo seguido de indeferimento, a DIB retroage à data do requerimento, desde que a incapacidade já existisse naquela data.
 
-O STJ aprofundou a matéria no julgamento do Tema 1.124 (REsp 1.913.152, rel. Min. Herman Benjamin, j. 08/10/2025), em que duas questões devem ser tratadas separadamente.
+O STJ aprofundou a matéria no julgamento do Tema 1.124 (REsp 1.913.152, Rel. Min. Herman Benjamin, j. 08/10/2025), em que duas questões devem ser tratadas separadamente.
 
 A primeira diz respeito ao **interesse de agir**. O Tribunal exigiu requerimento administrativo apto, instruído com documentação minimamente suficiente, e afastou a configuração do interesse de agir na hipótese de "indeferimento forçado" — aquele provocado por requerimento deliberadamente desacompanhado da prova essencial, com o único propósito de abrir a via judicial.
 
@@ -268,17 +268,17 @@ As regras gerais de cálculo do salário de benefício e da renda mensal inicial
 
 No regime anterior à EC 103/2019, a renda mensal correspondia a 100% do salário de benefício, sem fator previdenciário (art. 44, I, Lei 8.213/91). Após a EC 103/2019, aplica-se o coeficiente geral de 60% da média de todos os salários de contribuição, acrescido de 2% por ano que exceder 20 (homem) ou 15 (mulher) — conforme o art. 26, § 2º, da EC 103/2019, cuja sistemática escalonada se desdobra nos respectivos incisos (v. Cap. 16, seção 16.5, para a fórmula detalhada e exemplos numéricos, e seção 6.7.3, infra, para a aplicação dessa regra geral às doenças graves após o Tema 1.300/STF).
 
-A exceção ocorre quando a incapacidade decorrer de acidente de trabalho, doença profissional ou doença do trabalho, mantém-se a integralidade de 100% (art. 26, § 3º, II, da EC 103/2019). Portadores de doenças graves, que no regime anterior também faziam jus à integralidade, passaram a se sujeitar à regra geral de 60% + 2%/ano — questão cuja constitucionalidade foi enfrentada no Tema 1.300/STF (v. seção 6.7.3, infra).
+A exceção ocorre quando a incapacidade decorre de acidente de trabalho, doença profissional ou doença do trabalho: nesse caso, mantém-se a integralidade de 100% (art. 26, § 3º, II, da EC 103/2019). Portadores de doenças graves, que no regime anterior também faziam jus à integralidade, passaram a se sujeitar à regra geral de 60% + 2%/ano — questão cuja constitucionalidade foi enfrentada no Tema 1.300/STF (v. seção 6.7.3, infra).
 
 #### 6.7.2 Direito intertemporal: a DII como marco temporal
 
-O marco temporal para a definição do regime de cálculo aplicável é a DII — Data de Início da Incapacidade, e não a DER. Se a DII é anterior a 13/11/2019 (exclusive), aplica-se integralmente o regime anterior (100% do SB, calculado sobre a média dos 80% maiores salários de contribuição). Se a DII é em 13/11/2019 (inclusive) ou posterior, aplica-se o novo regime, pois a EC 103/2019 entrou em vigor na data de sua publicação (art. 36 da EC 103/2019). A distinção tem gerado contencioso expressivo nos JEFs.
+O marco temporal para a definição do regime de cálculo aplicável é a DII — Data de Início da Incapacidade, e não a DER. Se a DII é anterior a 13/11/2019 (exclusive), aplica-se integralmente o regime anterior (100% do salário de benefício, calculado sobre a média dos 80% maiores salários de contribuição). Se a DII é em 13/11/2019 (inclusive) ou posterior, aplica-se o novo regime, pois a EC 103/2019 entrou em vigor na data de sua publicação (art. 36 da EC 103/2019). A distinção tem gerado contencioso expressivo nos JEFs.
 
-A precisão da perícia médica na fixação da DII torna-se, assim, determinante não apenas para a aferição da qualidade de segurado, mas para a definição do regime de cálculo — com impacto financeiro potencialmente expressivo ao longo de toda a vida do benefício. O magistrado e o advogado devem estar atentos à necessidade de quesitos específicos sobre a data precisa de início da incapacidade, especialmente quando a DII situa-se em período próximo a 13/11/2019.
+A precisão da perícia médica na fixação da DII torna-se, assim, determinante não apenas para a aferição da qualidade de segurado, mas para a definição do regime de cálculo — com impacto financeiro potencialmente expressivo ao longo de toda a vida do benefício. O magistrado e o advogado devem estar atentos à necessidade de quesitos específicos sobre a data precisa de início da incapacidade, especialmente quando a DII se situa em período próximo a 13/11/2019.
 
 #### 6.7.3 Doenças graves e o Tema 1.300 do STF
 
-A constitucionalidade da nova regra de cálculo para portadores de doenças graves foi questionada perante o STF. O Tema 1.300 (RE 1.469.150, rel. Min. Luís Roberto Barroso) submeteu à repercussão geral a seguinte questão: saber se, após a edição da EC 103/2019, o pagamento da aposentadoria por incapacidade permanente decorrente de doença grave deve ser feito de forma integral ou pela regra geral de 60% + 2%.
+A constitucionalidade da nova regra de cálculo para portadores de doenças graves foi questionada perante o STF. O Tema 1.300 (RE 1.469.150, Rel. Min. Luís Roberto Barroso) submeteu à repercussão geral a seguinte questão: saber se, após a edição da EC 103/2019, o pagamento da aposentadoria por incapacidade permanente decorrente de doença grave deve ser feito de forma integral ou pela regra geral de 60% + 2%.
 
 O STF, em decisão concluída em 18/12/2025, declarou constitucional a regra geral de cálculo do art. 26, § 2º, da EC 103/2019, fixando a tese: "É constitucional o pagamento do benefício de aposentadoria por incapacidade permanente nos termos fixados pelo art. 26, § 2º, III, da EC n. 103/2019 para os casos em que a incapacidade para o trabalho seja constatada posteriormente à Reforma da Previdência". O inciso III do § 2º a que a tese se refere é precisamente a regra geral de 60% + 2%/ano detalhada na seção 6.7.1, supra. Não há, portanto, regime de cálculo diverso para as doenças graves: a EC 103/2019 simplesmente as submeteu à regra geral, suprimindo a integralidade que o regime anterior lhes assegurava. A decisão encerrou a controvérsia, mas gerou críticas doutrinárias relevantes, pois a redução do valor do benefício para portadores de doenças graves compromete o caráter protetivo do sistema previdenciário.
 
@@ -316,7 +316,7 @@ O chamado "limbo previdenciário" — situação em que o INSS cessa o auxílio 
 
 O art. 101 da Lei 8.213/91, cuja redação vigente resulta da Lei 13.457/2017 (que converteu a MP 767/2017 e consolidou as alterações supervenientes ao texto originário), impõe ao aposentado por incapacidade permanente a obrigação de submeter-se a exame médico-pericial periódico, sob pena de suspensão do benefício. A finalidade é verificar se persiste a condição de incapacidade que motivou a concessão. A chamada operação "pente-fino" do INSS, programa de revisão em massa de benefícios por incapacidade, fundamenta-se nesse dispositivo.
 
-A Lei 13.457/2017 introduziu, no § 1º do art. 101, hipóteses de isenção do exame periódico. Estão dispensados da revisão: (I) o aposentado que tiver completado 55 anos de idade ou mais, quando decorridos quinze anos da data da concessão da aposentadoria por incapacidade permanente ou do auxílio por incapacidade temporária que a precedeu; e (II) o aposentado que tiver completado 60 anos de idade. As isenções não se aplicam, contudo, quando o exame visar: (a) verificar a necessidade de assistência permanente de outra pessoa para fins do acréscimo de 25%; (b) verificar a recuperação da capacidade de trabalho, quando solicitada pelo próprio aposentado; ou (c) subsidiar autoridade judiciária na concessão de curatela.
+A Lei 13.457/2017 introduziu, no § 1º do art. 101, hipóteses de isenção do exame periódico. Estão dispensados da revisão: (I) o aposentado que tiver completado 55 anos de idade ou mais, quando decorridos 15 anos da data da concessão da aposentadoria por incapacidade permanente ou do auxílio por incapacidade temporária que a precedeu; e (II) o aposentado que tiver completado 60 anos de idade. As isenções não se aplicam, contudo, quando o exame visar: (a) verificar a necessidade de assistência permanente de outra pessoa para fins do acréscimo de 25%; (b) verificar a recuperação da capacidade de trabalho, quando solicitada pelo próprio aposentado; ou (c) subsidiar autoridade judiciária na concessão de curatela.
 
 Se a perícia médica concluir que a incapacidade permanente é irreversível ou irrecuperável, o aposentado ficará isento de exames periódicos. Essa disposição tem aplicação relevante nos casos de doenças degenerativas, amputações, cegueira irreversível e outras condições médicas cuja reversão é cientificamente impossível.
 
@@ -376,7 +376,7 @@ A fungibilidade, contudo, encontra limites processuais que o julgador não pode 
 
 A distinção prática é relevante: a aposentadoria é contributiva, gera pensão por morte e admite adicional de 25%; o BPC é assistencial, de um salário-mínimo, intransferível. O conceito amplo de deficiência adotado pela Lei 13.146/2015 (modelo biopsicossocial — v. seção 6.3.5, supra) e a avaliação multiprofissional para fins de BPC são tratados no Capítulo 18.
 
-#### 6.10.3 Reabilitação profissional e o benefício de última ratio
+#### 6.10.3 Reabilitação profissional e o benefício de ultima ratio
 
 A aposentadoria por incapacidade permanente é, no desenho legislativo, benefício de última ratio — somente concedida quando esgotadas as possibilidades de reabilitação profissional. O Programa de Reabilitação Profissional do INSS (arts. 89 a 93 da Lei 8.213/91) tem por finalidade proporcionar ao segurado incapaz para o trabalho habitual meios para a readaptação profissional.
 

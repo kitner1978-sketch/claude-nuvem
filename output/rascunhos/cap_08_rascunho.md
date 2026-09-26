@@ -70,7 +70,7 @@ A regra geral é o tempo de 25 anos, sendo os períodos de 15 e 20 anos reservad
 
 No regime anterior, a RMI correspondia a 100% do salário de benefício, sem aplicação do fator previdenciário (art. 57, § 1º, c/c art. 29, II, da Lei n. 8.213/91). O detalhamento do cálculo é examinado na seção 8.10.1.
 
-### 8.4 Requisitos Pós-EC 103/2019
+### 8.4 Requisitos pós-EC 103/2019
 
 A EC 103/2019 criou dois regimes distintos para a aposentadoria especial: a regra de transição (art. 21), aplicável aos segurados que já eram filiados antes de 13/11/2019 e ainda não haviam completado os requisitos, e a regra permanente (art. 19, § 1º), aplicável residualmente — tanto aos novos filiados quanto a quem, já filiado, optar por ela em vez da regra de transição.
 
@@ -82,14 +82,14 @@ O art. 19, § 1º, incisos I, II e III, da EC 103/2019 estabelece que a aposenta
 — 58 anos de idade para atividades com exposição de 20 anos;
 — 60 anos de idade para atividades com exposição de 25 anos.
 
-A introdução do requisito etário representou ruptura fundamental com o regime anterior, no qual a aposentadoria especial era concedida exclusivamente com base no tempo de exposição, sem qualquer exigência de idade mínima. A medida foi justificada pelo legislador reformador como necessária para compatibilizar o benefício com o equilíbrio financeiro e atuarial do sistema, mas é criticada pela doutrina por contrariar a própria finalidade do benefício, proteger o trabalhador contra os efeitos da exposição prolongada a agentes nocivos (Horvath Júnior, 2025; Savaris, 2023).
+A introdução do requisito etário representou ruptura fundamental com o regime anterior, no qual a aposentadoria especial era concedida exclusivamente com base no tempo de exposição, sem qualquer exigência de idade mínima. A medida foi justificada pelo legislador reformador como necessária para compatibilizar o benefício com o equilíbrio financeiro e atuarial do sistema, mas é criticada pela doutrina por contrariar a própria finalidade do benefício, que é proteger o trabalhador contra os efeitos da exposição prolongada a agentes nocivos (Horvath Júnior, 2025; Savaris, 2023).
 
 ::: box-jurisprudencia
 A constitucionalidade da exigência de idade mínima para a aposentadoria especial foi objeto da ADI 6.309, ajuizada pela Confederação Nacional dos Trabalhadores na Indústria (CNTI). A ação questionava: (a) a inconstitucionalidade do requisito etário (art. 19, § 1º, I, EC 103/2019); (b) a inconstitucionalidade da restrição à conversão de tempo especial em comum (art. 25, § 2º); e (c) a inconstitucionalidade da redução do valor do benefício (art. 26, § 2º, IV). No julgamento de 03/06/2026 (ADI 6.309, Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça), o Tribunal Pleno do STF, por 6 votos a 5, julgou o pedido parcialmente procedente: declarou inconstitucional a exigência de idade mínima, mas manteve a constitucionalidade da nova forma de cálculo (item "c") e da vedação à conversão (item "b"). O Min. Barroso, relator originário, votava pela constitucionalidade de todos os dispositivos, ficando vencido quanto à idade mínima. A redação do acórdão coube ao Min. André Mendonça. Até o fechamento desta edição, o acórdão não havia sido publicado, de modo que eventual modulação de efeitos deve ser conferida no inteiro teor.
 :::
 
 ::: box-atencao
-**Estado atual após a ADI 6.309 (j. 03/06/2026):** em razão da declaração de inconstitucionalidade da idade mínima, **a aposentadoria especial não exige, atualmente, idade mínima** — o segurado faz jus ao benefício mediante o tempo de efetiva exposição a agentes nocivos (15, 20 ou 25 anos), independentemente da idade. O texto desta seção registra a exigência etária introduzida pela EC 103/2019 por seu valor histórico e porque permanece relevante para situações anteriores ao julgado, mas a tabela de idade mínima (55/58/60 anos) deixou de ser aplicável. Permanecem válidos, contudo, a nova forma de cálculo (60% da média + 2% por ano que exceder 15 anos — mulher — ou 20 anos — homem) e a vedação à conversão de tempo especial em comum para períodos posteriores a 13/11/2019. Até o fechamento desta edição, o acórdão não havia sido publicado, de modo que eventual modulação de efeitos deve ser conferida no inteiro teor.
+**Estado atual após a ADI 6.309 (j. 03/06/2026):** em razão da declaração de inconstitucionalidade da idade mínima, **a aposentadoria especial não exige, atualmente, idade mínima** — o segurado faz jus ao benefício mediante o tempo de efetiva exposição a agentes nocivos (15, 20 ou 25 anos), independentemente da idade. O texto desta seção registra a exigência etária introduzida pela EC 103/2019 por seu valor histórico e porque permanece relevante para situações anteriores ao julgado, mas a tabela de idade mínima (55/58/60 anos) deixou de ser aplicável. Permanecem válidas, contudo, a nova forma de cálculo (60% da média + 2% por ano que exceder 15 anos — mulher — ou 20 anos — homem) e a vedação à conversão de tempo especial em comum para períodos posteriores a 13/11/2019. Até o fechamento desta edição, o acórdão não havia sido publicado, de modo que eventual modulação de efeitos deve ser conferida no inteiro teor.
 :::
 
 #### 8.4.2 Regra de transição (art. 21)
@@ -110,7 +110,7 @@ Na apuração da pontuação prevista no art. 21 da EC 103/2019, o tempo de cont
 
 O art. 3º da EC 103/2019 assegura o direito adquirido ao segurado que tenha preenchido os requisitos para obtenção da aposentadoria especial antes da data de promulgação da Emenda (13/11/2019). Aplica-se, nesse caso, o regime anterior integral: sem idade mínima, sem pontuação, e com cálculo de 100% da média dos 80% maiores salários de contribuição.
 
-A prova do direito adquirido exige a demonstração de que, na data de 13/11/2019, o segurado já contava com o tempo mínimo de exposição (15, 20 ou 25 anos) e a carência de 180 contribuições. A documentação probatória, PPP, Laudo Técnico de Condições Ambientais do Trabalho (LTCAT), formulários anteriores, deve abranger integralmente o período necessário. Nos Juizados Especiais Federais (JEFs), a prova do direito adquirido é frequentemente controversa, especialmente quando envolve períodos de atividade especial reconhecidos judicialmente e não computados administrativamente.
+A prova do direito adquirido exige a demonstração de que, na data de 13/11/2019, o segurado já contava com o tempo mínimo de exposição (15, 20 ou 25 anos) e a carência de 180 contribuições. A documentação probatória (PPP, Laudo Técnico de Condições Ambientais do Trabalho (LTCAT), formulários anteriores) deve abranger integralmente o período necessário. Nos Juizados Especiais Federais (JEFs), a prova do direito adquirido é frequentemente controversa, especialmente quando envolve períodos de atividade especial reconhecidos judicialmente e não computados administrativamente.
 
 ### 8.5 Agentes nocivos e enquadramento
 
@@ -142,19 +142,19 @@ Essa tese tem grande repercussão prática, pois permite o reconhecimento de ati
 
 Os agentes físicos relacionados no Anexo IV do Decreto n. 3.048/1999 compreendem:
 
-(a) Ruído, o agente mais litigado nos JEFs em matéria de aposentadoria especial. A exposição ocupacional ao ruído causa danos ao sistema auditivo (perda auditiva induzida por ruído — PAIR) e efeitos extraauditivos comprovados pela literatura médica (hipertensão arterial, distúrbios do sono, alterações cardiovasculares, estresse crônico). O regime jurídico do ruído será examinado em detalhe na seção 8.6;
+(a) Ruído: o agente mais litigado nos JEFs em matéria de aposentadoria especial. A exposição ocupacional ao ruído causa danos ao sistema auditivo (perda auditiva induzida por ruído — PAIR) e efeitos extra-auditivos comprovados pela literatura médica (hipertensão arterial, distúrbios do sono, alterações cardiovasculares, estresse crônico). O regime jurídico do ruído será examinado em detalhe na seção 8.6;
 
 (b) Vibrações — classificadas em vibrações localizadas (transmitidas ao sistema mão-braço por ferramentas vibratórias como marteletes, furadeiras e lixadeiras) e vibrações de corpo inteiro (transmitidas por veículos pesados, máquinas industriais e plataformas vibratórias). As vibrações localizadas podem causar a Síndrome de Vibração Mão-Braço (SVMB), enquanto as de corpo inteiro estão associadas a lombalgias crônicas e distúrbios vasculares. A avaliação é quantitativa, conforme limites da ISO 2631 e ISO 5349, referendados pela NHO-09 e NHO-10 da Fundacentro;
 
-(c) Frio e calor, a exposição a temperaturas anormais constitui agente nocivo quando ultrapassa os limites de tolerância estabelecidos pela NR-15 (Anexos 3 e 9). O calor é aferido pelo Índice de Bulbo Úmido e Termômetro de Globo (IBUTG), com limites variáveis conforme o tipo de atividade (leve, moderada, pesada). O frio artificial (câmaras frigoríficas, ambientes refrigerados) é agente frequentemente reconhecido na jurisprudência para trabalhadores da indústria alimentícia e frigorífica;
+(c) Frio e calor: a exposição a temperaturas anormais constitui agente nocivo quando ultrapassa os limites de tolerância estabelecidos pela NR-15 (Anexos 3 e 9). O calor é aferido pelo Índice de Bulbo Úmido e Termômetro de Globo (IBUTG), com limites variáveis conforme o tipo de atividade (leve, moderada, pesada). O frio artificial (câmaras frigoríficas, ambientes refrigerados) é agente frequentemente reconhecido na jurisprudência para trabalhadores da indústria alimentícia e frigorífica;
 
-(d) Umidade, a exposição habitual a ambientes alagados ou encharcados, em operações ou atividades com contato permanente com água, pode ser considerada atividade especial. A avaliação é qualitativa, basta a comprovação da exposição habitual;
+(d) Umidade: a exposição habitual a ambientes alagados ou encharcados, em operações ou atividades com contato permanente com água, pode ser considerada atividade especial. A avaliação é qualitativa: basta a comprovação da exposição habitual;
 
-(e) Pressões atmosféricas anormais, trabalho em condições hiperbáricas (mergulho profissional, trabalho em caixões pneumáticos, túneis pressurizados) ou hipobáricas (aviação). O trabalho sob ar comprimido, com exposição a pressões acima de 1 atmosfera, é reconhecido como atividade especial de 15 ou 25 anos conforme a profundidade e o tempo de exposição;
+(e) Pressões atmosféricas anormais: trabalho em condições hiperbáricas (mergulho profissional, trabalho em caixões pneumáticos, túneis pressurizados) ou hipobáricas (aviação). O trabalho sob ar comprimido, com exposição a pressões acima de 1 atmosfera, é reconhecido como atividade especial de 15 ou 25 anos conforme a profundidade e o tempo de exposição;
 
-(f) Radiações ionizantes, trabalhadores em radiologia médica e industrial, medicina nuclear, radioterapia, gamagrafia, indústria nuclear e pesquisa com fontes radioativas. A exposição a radiações ionizantes é considerada qualitativamente especial, basta a comprovação da exposição, independentemente de dosimetria. A jurisprudência é consolidada no reconhecimento da especialidade para técnicos e tecnólogos em radiologia, médicos radiologistas e profissionais que operam equipamentos de raios-X;
+(f) Radiações ionizantes: trabalhadores em radiologia médica e industrial, medicina nuclear, radioterapia, gamagrafia, indústria nuclear e pesquisa com fontes radioativas. A exposição a radiações ionizantes é considerada qualitativamente especial: basta a comprovação da exposição, independentemente de dosimetria. A jurisprudência é consolidada no reconhecimento da especialidade para técnicos e tecnólogos em radiologia, médicos radiologistas e profissionais que operam equipamentos de raios-X;
 
-(g) Radiações não ionizantes, campo eletromagnético, micro-ondas, ultravioleta e laser. O enquadramento é controverso: embora previsto no Decreto n. 53.831/1964 (código 1.1.6), as radiações não ionizantes foram excluídas dos regulamentos posteriores. A jurisprudência, com fundamento no Tema 534/STJ (caráter exemplificativo), tem reconhecido a especialidade em casos específicos, em especial para soldadores expostos a radiação ultravioleta e operadores de equipamentos de micro-ondas industriais.
+(g) Radiações não ionizantes: campo eletromagnético, micro-ondas, ultravioleta e laser. O enquadramento é controverso: embora previsto no Decreto n. 53.831/1964 (código 1.1.6), as radiações não ionizantes foram excluídas dos regulamentos posteriores. A jurisprudência, com fundamento no Tema 534/STJ (caráter exemplificativo), tem reconhecido a especialidade em casos específicos, em especial para soldadores expostos a radiação ultravioleta e operadores de equipamentos de micro-ondas industriais.
 
 #### 8.5.5 Agentes químicos
 
@@ -164,11 +164,11 @@ A distinção entre avaliação qualitativa e quantitativa tem relevância proce
 
 Os agentes cancerígenos têm regime próprio. Substâncias como benzeno, asbesto (amianto), formaldeído, sílica livre cristalizada e compostos de cromo hexavalente são reconhecidos pela Agência Internacional de Pesquisa em Câncer (IARC) como carcinogênicos para humanos (Grupo 1). Para esses agentes, a exposição a qualquer concentração é potencialmente danosa — não existe nível seguro de exposição. A jurisprudência tem reconhecido que, para agentes cancerígenos, o enquadramento como atividade especial independe de superação de limites de tolerância e de uso de EPI, dado o caráter irreversível e cumulativo dos efeitos sobre a saúde.
 
-A hidrocarbonetos aromáticos (benzeno, tolueno, xileno — conhecidos como BTX), por exemplo, são agentes frequentes em postos de combustíveis, refinarias e indústrias petroquímicas. A exposição habitual de frentistas a esses agentes tem sido reconhecida pela jurisprudência para fins de aposentadoria especial, com fundamento na avaliação qualitativa e no caráter cancerígeno do benzeno.
+Os hidrocarbonetos aromáticos (benzeno, tolueno, xileno — conhecidos como BTX), por exemplo, são agentes frequentes em postos de combustíveis, refinarias e indústrias petroquímicas. A exposição habitual de frentistas a esses agentes tem sido reconhecida pela jurisprudência para fins de aposentadoria especial, com fundamento na avaliação qualitativa e no caráter cancerígeno do benzeno.
 
 #### 8.5.6 Agentes biológicos
 
-Os agentes biológicos compreendem micro-organismos e parasitas infecciosos vivos e suas toxinas. O enquadramento por agente biológico é predominantemente qualitativo, basta a exposição, independentemente de quantificação, o que facilita a comprovação.
+Os agentes biológicos compreendem micro-organismos e parasitas infecciosos vivos e suas toxinas. O enquadramento por agente biológico é predominantemente qualitativo (basta a exposição, independentemente de quantificação), o que facilita a comprovação.
 
 As atividades típicas envolvem trabalho em hospitais, ambulatórios, laboratórios de análises clínicas, serviços de tratamento de esgoto, limpeza em banheiros e coleta de lixo hospitalar. A jurisprudência reconhece amplamente o enquadramento de profissionais de saúde (médicos, enfermeiros, técnicos de enfermagem, dentistas, biomédicos, fisioterapeutas) que mantêm contato habitual com pacientes e materiais biológicos potencialmente contaminados.
 
@@ -232,7 +232,7 @@ O STF fixou duas teses no Tema 555:
 
 **Segunda tese (exceção para ruído):** Na hipótese de exposição do trabalhador a ruído acima dos limites legais de tolerância, a declaração do empregador, no âmbito do Perfil Profissiográfico Previdenciário (PPP), da eficácia do Equipamento de Proteção Individual (EPI), não descaracteriza o tempo de serviço especial para aposentadoria.
 
-A segunda tese, que constitui exceção à regra geral, fundamenta-se no reconhecimento de que, em relação ao ruído, os EPIs (protetores auriculares) são incapazes de neutralizar integralmente os efeitos nocivos sobre o organismo. A exposição ao ruído causa danos não apenas ao sistema auditivo, mas também ao sistema cardiovascular, neurológico e psicológico, e esses efeitos extraauditivos não são eliminados pelo uso de protetor auricular.
+A segunda tese, que constitui exceção à regra geral, fundamenta-se no reconhecimento de que, em relação ao ruído, os EPIs (protetores auriculares) são incapazes de neutralizar integralmente os efeitos nocivos sobre o organismo. A exposição ao ruído causa danos não apenas ao sistema auditivo, mas também ao sistema cardiovascular, neurológico e psicológico, e esses efeitos extra-auditivos não são eliminados pelo uso de protetor auricular.
 
 #### 8.7.2 Ônus da prova da eficácia do EPI
 
@@ -260,7 +260,7 @@ A questão da neutralização do agente nocivo pelo EPI deve ser analisada caso 
 
 Para os agentes cancerígenos, a jurisprudência tende a reconhecer a atividade especial independentemente do uso de EPI, dado que não existe nível seguro de exposição. O mesmo raciocínio aplica-se aos agentes biológicos em ambiente hospitalar, onde o risco de contaminação acidental persiste mesmo com o uso adequado de equipamentos de proteção.
 
-### 8.8 Perfil profissiográfico previdenciário (PPP)
+### 8.8 Perfil Profissiográfico Previdenciário (PPP)
 
 O PPP é o documento central na comprovação de atividade especial para períodos a partir de 01/01/2004, quando substituiu os formulários anteriores (SB-40, DISES-BE 5235, DSS-8030 e DIRBEN 8030).
 
@@ -272,7 +272,7 @@ O PPP deve ser elaborado com base no Laudo Técnico de Condições Ambientais do
 
 #### 8.8.2 PPP eletrônico via eSocial
 
-A partir de 01 de janeiro de 2023, o PPP passou a ser emitido exclusivamente em meio eletrônico, por intermédio do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial), mediante o evento S-2240 (Condições Ambientais do Trabalho — Agentes Nocivos). O trabalhador pode acessar seu PPP eletrônico diretamente pelo portal Meu INSS, sem necessidade de solicitação ao empregador.
+A partir de 1º de janeiro de 2023, o PPP passou a ser emitido exclusivamente em meio eletrônico, por intermédio do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial), mediante o evento S-2240 (Condições Ambientais do Trabalho — Agentes Nocivos). O trabalhador pode acessar seu PPP eletrônico diretamente pelo portal Meu INSS, sem necessidade de solicitação ao empregador.
 
 A transição para o formato eletrônico trouxe benefícios significativos: (a) padronização das informações, com campos predefinidos que reduzem erros de preenchimento; (b) rastreabilidade, com registro de alterações e responsáveis; (c) acessibilidade, com consulta direta pelo segurado; e (d) integração com o sistema do INSS, facilitando a análise administrativa para concessão de benefícios.
 
@@ -282,7 +282,7 @@ Contudo, para períodos anteriores a 01/01/2023, o PPP continua sendo emitido em
 
 A obtenção do PPP quando a empresa foi extinta é problema frequente nos JEFs. Nesses casos, o segurado pode: (a) buscar o PPP junto à empresa sucessora, se houver; (b) requerer ao sindicato da categoria a emissão de documento equivalente, com base em registros disponíveis; (c) solicitar ao INSS a obtenção do documento por meio de diligência junto à Receita Federal ou à Junta Comercial; (d) requerer ao juízo a designação de perícia indireta, com base em documentos análogos (laudos de outros empregados da mesma empresa e função, perícias de processos trabalhistas, autos de infração do MTE). A impossibilidade de obtenção do PPP por extinção da empresa não pode, por si só, prejudicar o direito do segurado ao reconhecimento da atividade especial — a prova pode ser suprida por outros meios, conforme pacífico na jurisprudência.
 
-O PPP emitido pela empresa na forma legal, com indicação do responsável técnico e referência ao LTCAT, goza de presunção relativa de veracidade. O INSS não pode indeferir o reconhecimento de atividade especial com base em mera divergência genérica em relação às informações do PPP, a impugnação deve ser fundamentada em elementos concretos que demonstrem a inveracidade das informações.
+O PPP emitido pela empresa na forma legal, com indicação do responsável técnico e referência ao LTCAT, goza de presunção relativa de veracidade. O INSS não pode indeferir o reconhecimento de atividade especial com base em mera divergência genérica em relação às informações do PPP: a impugnação deve ser fundamentada em elementos concretos que demonstrem a inveracidade das informações.
 
 Na prática, a contestação do PPP pode se dar por diversas vias: (a) o INSS pode questionar a ausência de LTCAT contemporâneo; (b) a empresa pode alterar o PPP retrospectivamente, excluindo a referência a agentes nocivos; (c) o segurado pode alegar que o PPP não reflete fielmente as condições de trabalho. Em qualquer hipótese, a controvérsia sobre o conteúdo do PPP deve ser resolvida por perícia judicial ambiental, que verificará in loco (ou por elementos técnicos equivalentes) as condições de trabalho no ambiente questionado.
 
@@ -332,7 +332,7 @@ O cálculo da aposentadoria especial sofreu alteração substancial com a EC 103
 
 No regime anterior, a RMI da aposentadoria especial correspondia a 100% do salário de benefício (art. 57, § 1º, c/c art. 29, II, da Lei n. 8.213/91). O salário de benefício era calculado pela média dos 80% maiores salários de contribuição, conforme as regras gerais examinadas no Cap. 16. A especificidade da aposentadoria especial reside na inaplicabilidade do fator previdenciário, que a jurisprudência reconheceu como incompatível com a finalidade protetiva do benefício: o fator incentiva a postergação da aposentadoria, ao passo que a aposentadoria especial visa à cessação precoce da exposição a agentes nocivos (Santos; Calejon, 2025).
 
-#### 8.10.2 Regime Pós-EC 103/2019
+#### 8.10.2 Regime pós-EC 103/2019
 
 Para os segurados que se aposentam pela regra permanente (art. 19) ou pela regra de transição (art. 21) da EC 103/2019, o cálculo do benefício observa as regras do art. 26, § 2º, inciso IV, da EC 103/2019:
 
@@ -352,7 +352,7 @@ A redução do valor da aposentadoria especial foi um dos pontos centrais da ADI
 
 ### 8.11 Vedação ao trabalho em condições especiais: STF Tema 709
 
-O art. 57, § 8º, da Lei n. 8.213/91 estabelece que aplica-se ao aposentado especial o disposto no art. 46, que trata da suspensão do benefício quando o segurado retorna à atividade. A interpretação desse dispositivo gerou intensa controvérsia judicial, definitivamente resolvida pelo STF no julgamento do RE 791.961 (Tema 709 da Repercussão Geral).
+O art. 57, § 8º, da Lei n. 8.213/91 estabelece que se aplica ao aposentado especial o disposto no art. 46, que trata da suspensão do benefício quando o segurado retorna à atividade. A interpretação desse dispositivo gerou intensa controvérsia judicial, definitivamente resolvida pelo STF no julgamento do RE 791.961 (Tema 709 da Repercussão Geral).
 
 #### 8.11.1 Tese fixada pelo STF
 
@@ -457,7 +457,7 @@ Em matéria de aposentadoria especial, a prescrição quinquenal incide sobre as
 
 Quanto à decadência, o art. 103 da Lei n. 8.213/91 prevê prazo decadencial de 10 anos para revisão do ato de concessão. Esse prazo aplica-se quando o segurado pretende revisar os termos de aposentadoria especial já concedida (por exemplo, para alterar a DIB ou o salário de benefício), mas não incide sobre pedido de concessão originária.
 
-O reconhecimento de tempo especial é pretensão declaratória, e como tal, imprescritível. A prescrição quinquenal incide apenas sobre as parcelas do benefício eventualmente devido, não sobre o reconhecimento do tempo especial em si. Assim, o segurado pode, a qualquer tempo, pleitear judicialmente o reconhecimento de período de atividade especial exercido há décadas — a prescrição limita apenas os efeitos financeiros retroativos.
+O reconhecimento de tempo especial é pretensão declaratória e, como tal, imprescritível. A prescrição quinquenal incide apenas sobre as parcelas do benefício eventualmente devido, não sobre o reconhecimento do tempo especial em si. Assim, o segurado pode, a qualquer tempo, pleitear judicialmente o reconhecimento de período de atividade especial exercido há décadas — a prescrição limita apenas os efeitos financeiros retroativos.
 
 #### 8.13.7 Honorários e custas
 
@@ -499,13 +499,13 @@ O segurado que acumulou períodos de atividade especial sob diferentes regimes l
 
 ### 8.16 Atividades concomitantes e tempo especial
 
-O segurado que exerce simultaneamente atividades em condições especiais e em condições comuns tem o tempo especial computado proporcionalmente à exposição efetiva. A regra geral é que o tempo de exposição a agentes nocivos seja contado integralmente como especial, e o tempo de atividade comum seja contado como tempo comum, a conversão é feita apenas sobre o período de atividade efetivamente exercida em condições especiais.
+O segurado que exerce simultaneamente atividades em condições especiais e em condições comuns tem o tempo especial computado proporcionalmente à exposição efetiva. A regra geral é que o tempo de exposição a agentes nocivos seja contado integralmente como especial, e o tempo de atividade comum seja contado como tempo comum: a conversão é feita apenas sobre o período de atividade efetivamente exercida em condições especiais.
 
 Quando o segurado exerce atividade especial em dois empregos simultâneos, o tempo especial é contado uma única vez — não há duplicação do cômputo pelo exercício concomitante de duas atividades especiais.
 
 Sobre a soma integral dos salários de contribuição em atividades concomitantes, v. STJ, Tema 1.070 (REsp 1.870.793/RS), que consolidou o entendimento de que, após o advento da Lei n. 9.876/99, todos os salários de contribuição são somados, independentemente de serem provenientes de atividades simultâneas (conforme examinado no Capítulo 5).
 
-A questão da atividade concomitante ganha complexidade com a EC 103/2019, que vedou a conversão de tempo especial em comum a partir de sua promulgação. O segurado que exerce, após 13/11/2019, atividade especial em um emprego e atividade comum em outro só pode aproveitar o tempo especial para fins de aposentadoria especial, não pode convertê-lo para somar ao tempo de contribuição comum.
+A questão da atividade concomitante ganha complexidade com a EC 103/2019, que vedou a conversão de tempo especial em comum a partir de sua promulgação. O segurado que exerce, após 13/11/2019, atividade especial em um emprego e atividade comum em outro só pode aproveitar o tempo especial para fins de aposentadoria especial e não pode convertê-lo para somar ao tempo de contribuição comum.
 
 O cálculo do salário de contribuição nas atividades concomitantes sofreu alteração relevante. A Lei n. 13.846/2019 alterou o art. 32 da Lei n. 8.213/91, estabelecendo que, no caso de exercício de atividades concomitantes, o salário de contribuição consiste na soma dos salários de contribuição das atividades exercidas, observado o limite máximo do salário de contribuição. Essa alteração superou a antiga regra que segregava os salários de contribuição das atividades concomitantes, calculando a renda mensal com base em atividade principal e secundária — sistemática que frequentemente resultava em benefício inferior ao que seria obtido com a soma simples das remunerações.
 
@@ -564,12 +564,12 @@ O INSS analisa a documentação e verifica se os períodos de atividade especial
 
 O segurado que tiver seu requerimento indeferido pode: (a) interpor recurso administrativo ao CRPS (Conselho de Recursos da Previdência Social) no prazo de 30 dias; (b) formular novo requerimento com documentação complementar; ou (c) ajuizar ação nos JEFs (para causas até 60 salários-mínimos) ou na Justiça Federal.
 
-Na via administrativa, a análise do CNIS é o primeiro passo. O CNIS registra todos os vínculos empregatícios e contribuições do segurado, mas não indica automaticamente quais períodos são especiais. O reconhecimento administrativo de tempo especial depende da apresentação do PPP pelo segurado e da análise documental pelo servidor do INSS. O GEX (Gerência Executiva) do INSS pode, de ofício, reconhecer períodos especiais quando o sistema identifica códigos de atividade associados a agentes nocivos no eSocial — funcionalidade gradualmente implementada com a consolidação do PPP eletrônico.
+Na via administrativa, a análise do CNIS é o primeiro passo. O CNIS registra todos os vínculos empregatícios e contribuições do segurado, mas não indica automaticamente quais períodos são especiais. O reconhecimento administrativo de tempo especial depende da apresentação do PPP pelo segurado e da análise documental pelo servidor do INSS. A GEX (Gerência Executiva) do INSS pode, de ofício, reconhecer períodos especiais quando o sistema identifica códigos de atividade associados a agentes nocivos no eSocial — funcionalidade gradualmente implementada com a consolidação do PPP eletrônico.
 
 A simulação de tempo de contribuição no portal Meu INSS também exige cautela. O segurado pode, pelo portal Meu INSS, solicitar simulação que indique quanto tempo falta para a aposentadoria. Contudo, a simulação não computa automaticamente períodos de atividade especial não reconhecidos pelo INSS, o que pode levar o segurado a crer que ainda falta tempo quando, na realidade, o reconhecimento dos períodos especiais (por conversão ou contagem direta) já completaria os requisitos. O advogado deve calcular autonomamente o tempo do segurado, computando os períodos especiais com os devidos fatores de conversão.
 
 ::: box-atencao
-O advogado, antes de ajuizar ação de aposentadoria especial no JEF, deve verificar detalhadamente o Cadastro Nacional de Informações Sociais (CNIS) do segurado e a carta de indeferimento do INSS. A carta identifica quais períodos foram reconhecidos como especiais e quais foram indeferidos, com a respectiva fundamentação. A petição inicial deve concentrar o pedido nos períodos efetivamente controvertidos, não cabe ao Judiciário realizar a totalidade da análise administrativa, mas apenas resolver as controvérsias específicas sobre os períodos não reconhecidos pelo INSS. A juntada de todos os PPPs, formulários e CTPS é indispensável para a instrução do processo.
+O advogado, antes de ajuizar ação de aposentadoria especial no JEF, deve verificar detalhadamente o Cadastro Nacional de Informações Sociais (CNIS) do segurado e a carta de indeferimento do INSS. A carta identifica quais períodos foram reconhecidos como especiais e quais foram indeferidos, com a respectiva fundamentação. A petição inicial deve concentrar o pedido nos períodos efetivamente controvertidos: não cabe ao Judiciário realizar a totalidade da análise administrativa, mas apenas resolver as controvérsias específicas sobre os períodos não reconhecidos pelo INSS. A juntada de todos os PPPs, formulários e CTPS é indispensável para a instrução do processo.
 :::
 
 ### 8.20 Questões especiais: eletricidade e periculosidade

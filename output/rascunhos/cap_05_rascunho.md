@@ -384,13 +384,13 @@ O período típico abrangido situa-se entre as décadas de 1950 e 1990, quando a
 
 A TNU, no Tema 216 (PEDILEF 0525048-76.2017.4.05.8100/CE, julgado em 14/02/2020), fixou critérios mais rigorosos para o cômputo do tempo de aluno-aprendiz, alterando a Súmula 18 da TNU. Os requisitos são cumulativos:
 
-1. **Retribuição consistente em pagamento pecuniário ou assistência material**, o aluno deve ter recebido alguma forma de contraprestação (dinheiro, alimentação, fardamento, material escolar, parcela de renda);
+1. **Retribuição consistente em pagamento pecuniário ou assistência material**: o aluno deve ter recebido alguma forma de contraprestação (dinheiro, alimentação, fardamento, material escolar, parcela de renda);
 
-2. **À conta do Orçamento**, a retribuição deve provir de verba orçamentária pública, não de recursos privados;
+2. **À conta do Orçamento**: a retribuição deve provir de verba orçamentária pública, não de recursos privados;
 
 3. **Como contraprestação por labor** — não se trata de mera bolsa de estudo ou assistência estudantil, mas de remuneração por trabalho efetivamente prestado;
 
-4. **Na execução de bens e serviços destinados a terceiros**, o trabalho deve ter natureza produtiva, com destinação a terceiros (oficinas que produziam peças, serrarias que beneficiavam madeira para clientes, oficinas mecânicas que atendiam o público externo, etc.).
+4. **Na execução de bens e serviços destinados a terceiros**: o trabalho deve ter natureza produtiva, com destinação a terceiros (oficinas que produziam peças, serrarias que beneficiavam madeira para clientes, oficinas mecânicas que atendiam o público externo, etc.).
 
 ::: box-atencao
 **Requisitos cumulativos do TNU Tema 216**
@@ -587,7 +587,7 @@ Quanto menor o número de contribuições na atividade secundária em relação 
 ::: box-pratica
 **Cálculo da prescrição e decadência na revisão por concomitância**
 
-Para ações de revisão pelo Tema 1.070: (a) Decadência do direito de revisão: 10 anos contados do primeiro dia do mês seguinte ao recebimento da primeira prestação (art. 103, Lei 8.213/91); (b) Prescrição das parcelas: 5 anos retroativos contados do ajuizamento da ação. Assim, para um benefício concedido em março de 2015, o prazo decadencial expira em abril de 2025, ação ajuizada após essa data será extinta com mérito (decadência). Para benefício de 2016 em diante, o prazo ainda está aberto em 2026.
+Para ações de revisão pelo Tema 1.070: (a) Decadência do direito de revisão: 10 anos contados do primeiro dia do mês seguinte ao recebimento da primeira prestação (art. 103, Lei 8.213/91); (b) Prescrição das parcelas: 5 anos retroativos contados do ajuizamento da ação. Assim, para um benefício concedido em março de 2015, o prazo decadencial expira em abril de 2025. Ação ajuizada após essa data será extinta com mérito (decadência). Para benefício de 2016 em diante, o prazo ainda está aberto em 2026.
 :::
 
 #### 5.9.5 Aspectos práticos da concomitância nos JEFs
@@ -752,7 +752,7 @@ Roberto, 58 anos em 2026, tem 32 anos de tempo comum urbano. Se reconhecidos 5 a
 - Com conversão: 5 anos × 1,40 = 7 anos convertidos. TC total = 32 - 5 + 7 = 34 anos. Pontos = 34 + 58 = 92 — ainda insuficiente em 2026, mas faltam apenas 11. O efeito da conversão é um acréscimo único de 2 pontos de TC (de 90 para 92), e não uma alteração na velocidade de acumulação: tanto com quanto sem conversão, cada ano de trabalho adiante soma 2 pontos (1 de idade e 1 de tempo de contribuição). O ganho está em antecipar o requisito — Roberto parte de um patamar mais alto e, mantendo-se em atividade, cumpre os pontos exigidos um ano antes do que cumpriria sem a conversão.
 
 ::: box-pratica
-**Tabela de referência rápida, ganho de tempo pela conversão**
+**Tabela de referência rápida: ganho de tempo pela conversão**
 
 | Tempo especial (25 anos) | Conversão Homem (×1,40) | Ganho | Conversão Mulher (×1,20) | Ganho |
 |---|---|---|---|---|
