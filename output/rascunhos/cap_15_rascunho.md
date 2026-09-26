@@ -71,7 +71,7 @@ A Emenda Constitucional n. 103, de 12 de novembro de 2019, não alterou diretame
 
 ### 15.3 Natureza jurídica: benefício indenizatório
 
-A distinção entre benefícios substitutivos e benefícios indenizatórios constitui o eixo de compreensão do auxílio-acidente e de suas regras peculiares. Os benefícios substitutivos, aposentadorias, auxílio por incapacidade temporária, salário-maternidade, destinam-se a substituir a renda do segurado em situações que o privam, total ou parcialmente, de sua capacidade de auferir rendimentos pelo trabalho. O auxílio-acidente, ao contrário, não substitui a renda: indeniza o segurado pela redução permanente de sua capacidade laborativa, permitindo-lhe continuar trabalhando e recebendo remuneração.
+A distinção entre benefícios substitutivos e benefícios indenizatórios constitui o eixo de compreensão do auxílio-acidente e de suas regras peculiares. Os benefícios substitutivos (aposentadorias, auxílio por incapacidade temporária, salário-maternidade) destinam-se a substituir a renda do segurado em situações que o privam, total ou parcialmente, de sua capacidade de auferir rendimentos pelo trabalho. O auxílio-acidente, ao contrário, não substitui a renda: indeniza o segurado pela redução permanente de sua capacidade laborativa, permitindo-lhe continuar trabalhando e recebendo remuneração.
 
 Essa natureza indenizatória explica várias características que distinguem o auxílio-acidente dos demais benefícios previdenciários. A mais visível é a compatibilidade com o exercício de atividade remunerada — o art. 86, §2º, da Lei n. 8.213/91 é expresso ao dispor que o benefício será devido "independentemente de qualquer remuneração ou rendimento auferido pelo acidentado". O próprio percentual de 50% do salário-de-benefício reflete essa finalidade compensatória: não se pretende substituir integralmente a renda, mas compensar a perda funcional. Soma-se a isso o fato de o valor do auxílio-acidente integrar o salário de contribuição para o cálculo dos benefícios futuros (art. 31 da Lei n. 8.213/91), de modo que o período de seu recebimento não prejudica — antes, costuma favorecer — o cálculo da aposentadoria vindoura.
 
@@ -89,7 +89,7 @@ A tese do Tema 269 é restritiva: exclui do conceito de "acidente de qualquer na
 
 **Consolidação das lesões.** A consolidação é o momento em que as lesões atingem estabilidade clínica — não há mais evolução esperada, seja para melhora, seja para piora. A consolidação distingue-se da cura: o segurado pode ter lesões consolidadas (estáveis) que resultam em sequelas permanentes. Na prática, o momento da consolidação é aferido pela perícia médica e corresponde, na maior parte dos casos, à cessação do auxílio por incapacidade temporária — momento em que o INSS ou o juiz reconhece que o segurado recuperou a capacidade para o trabalho, ainda que com sequelas.
 
-**Redução da capacidade para o trabalho habitual.** O elemento central é a redução, não a perda total, da capacidade para o trabalho que o segurado habitualmente exercia. A lei exige: (i) que haja redução efetiva (não meramente potencial); (ii) que essa redução se refira à atividade habitual do segurado; e (iii) que a redução seja permanente (consolidada). Não se exige que o segurado esteja impedido de trabalhar, ao contrário, o auxílio-acidente pressupõe que ele pode e deve continuar trabalhando, mas com capacidade diminuída.
+**Redução da capacidade para o trabalho habitual.** O elemento central é a redução, não a perda total, da capacidade para o trabalho que o segurado habitualmente exercia. A lei exige: (i) que haja redução efetiva (não meramente potencial); (ii) que essa redução se refira à atividade habitual do segurado; e (iii) que a redução seja permanente (consolidada). Não se exige que o segurado esteja impedido de trabalhar. Ao contrário, o auxílio-acidente pressupõe que ele pode e deve continuar trabalhando, mas com capacidade diminuída.
 
 ::: box-atencao
 **Atenção**
@@ -106,7 +106,7 @@ O art. 18, §1º, da Lei n. 8.213/91 restringe o auxílio-acidente a determinada
 
 **c) Trabalhador avulso** (art. 11, VI): segurado que presta serviço sem vínculo empregatício a diversas empresas, com intermediação obrigatória do órgão gestor de mão de obra (OGMO) ou sindicato.
 
-**d) Segurado especial** (art. 11, VII): o trabalhador rural em regime de economia familiar, o pescador artesanal, o indígena e demais categorias do inciso VII. O segurado especial faz jus ao auxílio-acidente independentemente de contribuições facultativas — direito que o TNU reafirmou no Tema 322 ao determinar a inclusão dos valores de auxílio-acidente no cálculo da aposentadoria por idade rural. Registre-se, desde logo, que a dispensa de contribuição facultativa não significa que esta seja relevante para o valor do benefício: na ausência de recolhimento facultativo, o auxílio-acidente do segurado especial é calculado sobre um salário-mínimo, resultando em prestação equivalente a meio salário-mínimo (a sistemática é detalhada na seção 15.14).
+**d) Segurado especial** (art. 11, VII): o trabalhador rural em regime de economia familiar, o pescador artesanal, o indígena e demais categorias do inciso VII. O segurado especial faz jus ao auxílio-acidente independentemente de contribuições facultativas — direito que a TNU reafirmou no Tema 322 ao determinar a inclusão dos valores de auxílio-acidente no cálculo da aposentadoria por idade rural. Registre-se, desde logo, que a dispensa de contribuição facultativa não significa que esta seja relevante para o valor do benefício: na ausência de recolhimento facultativo, o auxílio-acidente do segurado especial é calculado sobre um salário-mínimo, resultando em prestação equivalente a meio salário-mínimo (a sistemática é detalhada na seção 15.14).
 
 **Segurados excluídos:** O contribuinte individual (art. 11, V) e o segurado facultativo (art. 13) não têm direito ao auxílio-acidente. A exclusão decorre da literalidade do art. 18, §1º, que limita o rol de beneficiários. A razão frequentemente invocada é que essas categorias não mantêm relação de subordinação que justifique a proteção acidentária, argumento que a doutrina minoritária contesta, sustentando violação ao princípio da universalidade de cobertura (art. 194, parágrafo único, I, CF). Horvath Júnior (2022) critica a exclusão, assinalando que o princípio da universalidade deveria alcançar todas as categorias de segurados, independentemente da natureza do vínculo. Reconhecemos a força do argumento de *lege ferenda*, mas, no direito posto, a restrição é inequívoca: enquanto não sobrevier alteração legislativa ou pronunciamento vinculante dos tribunais superiores, o contribuinte individual e o facultativo permanecem fora do alcance do benefício, cabendo ao magistrado dos JEFs aplicar a vedação legal.
 
@@ -132,7 +132,7 @@ A correta classificação do evento que origina o auxílio-acidente é decisiva 
 
 ::: box-atencao
 **Atenção — Competência Jurisdicional**
-A definição da competência depende da causa de pedir e do pedido: se o segurado alega acidente do trabalho ou doença ocupacional (arts. 19-21), a competência é da Justiça Estadual, ainda que a ação seja contra o INSS. Se alega acidente de qualquer outra natureza (art. 86), a competência é da Justiça Federal/JEF. O juiz deve analisar a petição inicial para definir a competência, não pode alterar a qualificação jurídica do acidente para fins de remessa. Na prática dos JEFs, é frequente o recebimento de ações em que o segurado alega "acidente de qualquer natureza”, mas os fatos narrados configuram acidente do trabalho, hipótese em que o juiz deve declinar da competência para a Justiça Estadual.
+A definição da competência depende da causa de pedir e do pedido: se o segurado alega acidente do trabalho ou doença ocupacional (arts. 19-21), a competência é da Justiça Estadual, ainda que a ação seja contra o INSS. Se alega acidente de qualquer outra natureza (art. 86), a competência é da Justiça Federal/JEF. O juiz deve analisar a petição inicial para definir a competência e não pode alterar a qualificação jurídica do acidente para fins de remessa. Na prática dos JEFs, é frequente o recebimento de ações em que o segurado alega "acidente de qualquer natureza", mas os fatos narrados configuram acidente do trabalho, hipótese em que o juiz deve declinar da competência para a Justiça Estadual.
 :::
 
 ### 15.8 Redução da capacidade laborativa: critérios e controvérsias
@@ -147,7 +147,7 @@ Não existe, na legislação brasileira, uma tabela que gradue percentuais de re
 
 **Grau mínimo de redução.** A questão de se haveria um grau mínimo de redução necessário para a concessão foi enfrentada pela TNU. O entendimento consolidado é que o auxílio-acidente é devido ainda que a redução seja mínima, desde que efetiva e permanente — posição que se harmoniza com a Súmula 44/STJ (que afasta critérios regulamentares rígidos de grau mínimo) e com a finalidade indenizatória do benefício.
 
-**Condições pessoais do segurado.** A jurisprudência dos JEFs tem valorizado, com acerto, a análise das condições pessoais do segurado, idade, grau de escolaridade, histórico laboral, possibilidade de reabilitação, na aferição da redução da capacidade. Segurado idoso, com baixa escolaridade e histórico exclusivo de trabalho braçal, que sofre sequela em membro superior, terá sua capacidade mais gravemente reduzida do que segurado jovem, qualificado, com possibilidade de adaptação funcional.
+**Condições pessoais do segurado.** A jurisprudência dos JEFs tem valorizado, com acerto, a análise das condições pessoais do segurado (idade, grau de escolaridade, histórico laboral, possibilidade de reabilitação) na aferição da redução da capacidade. Segurado idoso, com baixa escolaridade e histórico exclusivo de trabalho braçal, que sofre sequela em membro superior, terá sua capacidade mais gravemente reduzida do que segurado jovem, qualificado, com possibilidade de adaptação funcional.
 
 ::: box-pratica
 **Na Prática**
@@ -162,7 +162,7 @@ O valor do auxílio-acidente corresponde a 50% do salário-de-benefício, confor
 
 **Cálculo antes da EC 103/2019 (até 12/11/2019).** O salário-de-benefício correspondia à média aritmética simples dos 80% maiores salários de contribuição desde julho de 1994 até a data do acidente (ou da cessação do auxílio por incapacidade temporária, conforme o caso). O auxílio-acidente era, então, 50% dessa média.
 
-**Cálculo após a EC 103/2019 (a partir de 13/11/2019).** O salário-de-benefício passou a corresponder à média aritmética simples de todos os salários de contribuição desde julho de 1994. A inclusão dos menores salários de contribuição tende a reduzir a média e, consequentemente, o valor do auxílio-acidente. O impacto é especialmente relevante para segurados com trajetória contributiva irregular, períodos de contribuição pelo piso alternados com períodos de contribuição sobre valores maiores.
+**Cálculo após a EC 103/2019 (a partir de 13/11/2019).** O salário-de-benefício passou a corresponder à média aritmética simples de todos os salários de contribuição desde julho de 1994. A inclusão dos menores salários de contribuição tende a reduzir a média e, consequentemente, o valor do auxílio-acidente. O impacto é especialmente relevante para segurados com trajetória contributiva irregular (períodos de contribuição pelo piso alternados com períodos de contribuição sobre valores maiores).
 
 ::: box-atencao
 **Atenção — Valor mínimo**
@@ -197,15 +197,15 @@ O auxílio-acidente é benefício de duração determinada, embora potencialment
 
 **b) Óbito do segurado:** O auxílio-acidente cessa com a morte do segurado. Não se converte em pensão por morte — os dependentes terão direito à pensão por morte se preenchidos os requisitos próprios desse benefício, mas o auxílio-acidente em si não é transferível.
 
-**c) Recuperação da capacidade:** Hipótese teórica, se o segurado recuperar integralmente a capacidade que havia sido reduzida, o auxílio-acidente poderia ser cessado. Na prática, é situação raríssima, porque o auxílio-acidente pressupõe sequelas consolidadas (permanentes).
+**c) Recuperação da capacidade:** Hipótese teórica: se o segurado recuperar integralmente a capacidade que havia sido reduzida, o auxílio-acidente poderia ser cessado. Na prática, é situação raríssima, porque o auxílio-acidente pressupõe sequelas consolidadas (permanentes).
 
 ### 15.12 Incorporação ao salário de contribuição
 
-O art. 31 da Lei n. 8.213/91 determina que o valor mensal do auxílio-acidente integra o salário de contribuição para fins de cálculo do salário-de-benefício de qualquer aposentadoria. Essa regra tem importância prática significativa: assegura que o período de recebimento do auxílio-acidente não prejudique, e, ao contrário, beneficie, o cálculo da aposentadoria futura.
+O art. 31 da Lei n. 8.213/91 determina que o valor mensal do auxílio-acidente integra o salário de contribuição para fins de cálculo do salário-de-benefício de qualquer aposentadoria. Essa regra tem importância prática significativa: assegura que o período de recebimento do auxílio-acidente não prejudique e, ao contrário, beneficie o cálculo da aposentadoria futura.
 
 Na prática, a incorporação funciona assim: durante o período em que o segurado recebe auxílio-acidente e trabalha simultaneamente, o salário de contribuição corresponde à soma da remuneração do trabalho com o valor do auxílio-acidente. Essa soma mais elevada de salários de contribuição tende a majorar a média que servirá de base para o cálculo da aposentadoria. Santos (2025) destaca que a incorporação constitui mecanismo de compensação: o segurado que suporta redução permanente de sua capacidade laboral tem assegurada, ao menos, a elevação da base de cálculo de sua futura aposentadoria.
 
-A regra tem especial relevância para o segurado especial, como reconhecido pelo TNU no Tema 322: os valores percebidos a título de auxílio-acidente devem ser computados no período básico de cálculo da aposentadoria por idade rural, para fins de incremento da renda mensal inicial, independentemente do recolhimento de contribuições facultativas.
+A regra tem especial relevância para o segurado especial, como reconhecido pela TNU no Tema 322: os valores percebidos a título de auxílio-acidente devem ser computados no período básico de cálculo da aposentadoria por idade rural, para fins de incremento da renda mensal inicial, independentemente do recolhimento de contribuições facultativas.
 
 ::: box-atencao
 **Atenção**
@@ -226,7 +226,7 @@ Para as doenças ocupacionais, a fixação dessa data exige recorrer ao art. 23 
 
 **b) Mais de um auxílio-acidente.** O art. 124, V, da Lei n. 8.213/91 veda a acumulação de mais de um auxílio-acidente. Contudo, o STJ, na edição 198 da Jurisprudência em Teses, fixou que, na hipótese de novo infortúnio, admite-se o recálculo do benefício já existente, o que permite a majoração do valor sem a concessão de segundo benefício.
 
-**c) Auxílio-acidente e auxílio por incapacidade temporária pela mesma lesão.** A inacumulabilidade decorre de impossibilidade lógico-temporal — não de vedação expressa no art. 124: o auxílio-acidente pressupõe a consolidação das lesões e a cessação do auxílio por incapacidade temporária, de modo que ambos não podem coexistir no tempo quando referentes à mesma lesão. A inacumulabilidade é específica à mesma lesão, se o auxílio-acidente decorre de lesão anterior e o auxílio por incapacidade temporária refere-se a patologia distinta, a acumulação é possível, como analisado no Capítulo 7 deste livro.
+**c) Auxílio-acidente e auxílio por incapacidade temporária pela mesma lesão.** A inacumulabilidade decorre de impossibilidade lógico-temporal — não de vedação expressa no art. 124: o auxílio-acidente pressupõe a consolidação das lesões e a cessação do auxílio por incapacidade temporária, de modo que ambos não podem coexistir no tempo quando referentes à mesma lesão. A inacumulabilidade é específica à mesma lesão: se o auxílio-acidente decorre de lesão anterior e o auxílio por incapacidade temporária refere-se a patologia distinta, a acumulação é possível, como analisado no Capítulo 7 deste livro.
 
 **Permissões:**
 
@@ -234,7 +234,7 @@ Para as doenças ocupacionais, a fixação dessa data exige recorrer ao art. 23 
 
 **b) Auxílio-acidente e pensão por morte.** A acumulação é possível e integral, pois são benefícios de naturezas distintas (indenizatório e substitutivo), o art. 124 da Lei 8.213/91 não a veda e o escalonamento do art. 24, § 2º, da EC 103/2019 alcança apenas as hipóteses taxativas do § 1º (pensão com pensão de regime diverso, pensão com aposentadoria e pensão militar com aposentadoria), entre as quais o auxílio-acidente não figura. O mecanismo do art. 24 da Emenda — bem como a comparação com a progressividade do imposto de renda, que ajuda a compreendê-lo — está detalhado na seção 15.19, *infra*, para onde se remete o leitor.
 
-**c) Auxílio-acidente e salário-família ou salário-maternidade.** Não há vedação legal expressa, a acumulação é possível.
+**c) Auxílio-acidente e salário-família ou salário-maternidade.** Não há vedação legal expressa: a acumulação é possível.
 
 **d) Auxílio-acidente e auxílio por incapacidade temporária por lesão diversa.** Possível, como visto acima.
 
@@ -248,7 +248,7 @@ Mais relevante para a prática forense é a tese do Tema 322 (PEDILEF 5014634-54
 
 Não se pode perder de vista, por fim, a alta exposição dessa categoria a acidentes de qualquer natureza — quedas, acidentes com máquinas agrícolas, picadas de animais, intoxicação por agrotóxicos —, o que faz do auxílio-acidente benefício de incidência frequente entre os trabalhadores rurais.
 
-### 15.15 Competência jurisdicional: justiça federal versus justiça estadual
+### 15.15 Competência jurisdicional: Justiça Federal versus Justiça Estadual
 
 A definição de competência é questão preliminar que se impõe em toda ação de auxílio-acidente e cuja solução depende da causa de pedir: a natureza do acidente.
 
@@ -280,11 +280,11 @@ Na atuação forense dos JEFs, a questão da competência nas ações de auxíli
 
 ### 15.17 Lesões ortopédicas e sequelas funcionais
 
-As sequelas ortopédicas, limitação de movimento articular, encurtamento de membro, deformidade óssea consolidada, perda de força em membro, constituem a causa mais frequente de auxílio-acidente nos JEFs, quando decorrentes de acidentes de qualquer natureza (quedas domésticas, acidentes de trânsito, acidentes esportivos).
+As sequelas ortopédicas (limitação de movimento articular, encurtamento de membro, deformidade óssea consolidada, perda de força em membro) constituem a causa mais frequente de auxílio-acidente nos JEFs, quando decorrentes de acidentes de qualquer natureza (quedas domésticas, acidentes de trânsito, acidentes esportivos).
 
 **Fratura consolidada com sequela.** Situação típica: o segurado sofre fratura de fêmur em acidente doméstico, é submetido a tratamento cirúrgico (osteossíntese), recebe auxílio por incapacidade temporária durante a recuperação e, após a alta, permanece com limitação de movimento e dor residual. Se a perícia constata redução da capacidade para o trabalho habitual, o auxílio-acidente é devido — com DIB no dia seguinte à cessação do auxílio por incapacidade temporária (Tema 862/STJ).
 
-**Lesões de coluna.** Hérnias de disco, protrusões discais e estenose do canal vertebral são frequentemente alegadas como fundamento para auxílio-acidente. A questão crítica é: trata-se de sequela de acidente (trauma) ou de doença degenerativa? Pelo Tema 269/TNU, apenas as lesões de coluna de origem traumática (queda, acidente de trânsito) configuram "acidente de qualquer natureza". Lesões degenerativas, hérnias de disco por desgaste progressivo, não configuram acidente, salvo se vinculadas ao trabalho (doença ocupacional, competência estadual).
+**Lesões de coluna.** Hérnias de disco, protrusões discais e estenose do canal vertebral são frequentemente alegadas como fundamento para auxílio-acidente. A questão crítica é: trata-se de sequela de acidente (trauma) ou de doença degenerativa? Pelo Tema 269/TNU, apenas as lesões de coluna de origem traumática (queda, acidente de trânsito) configuram "acidente de qualquer natureza". Lesões degenerativas (hérnias de disco por desgaste progressivo) não configuram acidente, salvo se vinculadas ao trabalho (doença ocupacional, competência estadual).
 
 **Amputações e perdas funcionais.** Perda de dedos, mãos ou pés por acidente gera auxílio-acidente quando há capacidade residual para o trabalho. Se a perda gera incapacidade total e permanente, o benefício devido é a aposentadoria por incapacidade permanente, não o auxílio-acidente.
 
@@ -296,7 +296,7 @@ Conforme analisado no Capítulo 7 deste livro (seção 7.13), a relação entre 
 
 **Fungibilidade.** A jurisprudência dos JEFs admite a fungibilidade entre benefícios por incapacidade e o auxílio-acidente: quando o segurado pleiteia auxílio por incapacidade temporária, mas a perícia conclui que há capacidade para o trabalho com sequela redutora, o juiz pode conceder o auxílio-acidente — e vice-versa. A fungibilidade decorre da identidade de causa de pedir (lesão/doença) e do dever de adequar a tutela à situação fática. Como ensina Savaris (2023), a fungibilidade entre benefícios por incapacidade e o auxílio-acidente é expressão do princípio da primazia da realidade no processo previdenciário, segundo o qual o juiz deve conferir ao segurado a proteção adequada à situação fática comprovada, independentemente da qualificação jurídica atribuída ao pedido na inicial.
 
-Na prática processual, a conversão é frequentemente determinada de ofício pelo magistrado após a perícia judicial, quando o laudo constata sequela permanente com redução parcial da capacidade. A decisão deve observar o contraditório, o INSS deve ter oportunidade de se manifestar sobre a conversão, mas não se exige novo requerimento administrativo específico de auxílio-acidente.
+Na prática processual, a conversão é frequentemente determinada de ofício pelo magistrado após a perícia judicial, quando o laudo constata sequela permanente com redução parcial da capacidade. A decisão deve observar o contraditório (o INSS deve ter oportunidade de se manifestar sobre a conversão), mas não se exige novo requerimento administrativo específico de auxílio-acidente.
 
 ::: box-pratica
 **No cotidiano dos JEFs**
@@ -347,7 +347,7 @@ O juiz do JEF pode conceder auxílio-acidente quando o segurado pleiteou auxíli
 
 #### 15.20.7 Honorários e custas
 
-Aplicam-se as regras gerais dos JEFs: sem condenação em honorários quando a sentença é favorável ao segurado (art. 55, Lei 9.099/95 c/c art. 1º, Lei 10.259/2001). Honorários periciais pagos pela Justiça Federal quando o autor é beneficiário da gratuidade.
+Aplicam-se as regras gerais dos JEFs: sem condenação em honorários quando a sentença é favorável ao segurado (art. 55, Lei 9.099/95 c/c art. 1º, Lei 10.259/2001). Os honorários periciais são pagos pela Justiça Federal quando o autor é beneficiário da gratuidade.
 
 ### 15.21 Questões especiais e controvérsias emergentes
 
@@ -377,7 +377,7 @@ O segurado que recebe auxílio-acidente pode ser encaminhado para reabilitação
 
 #### 15.21.6 Irrepetibilidade dos valores recebidos de boa-fé
 
-O STJ, na edição 198 da Jurisprudência em Teses, firmou que "é indevida a devolução ao INSS do auxílio-acidente recebido de boa-fé pelos segurados a título de aplicação retroativa da majoração estabelecida pela Lei 9.032, de 1995." Embora a tese tenha escopo específico, a majoração retroativa dos percentuais do auxílio-acidente, ela se insere no princípio mais amplo da irrepetibilidade dos benefícios previdenciários recebidos de boa-fé, consolidado pelo STJ em diversas outras matérias previdenciárias e extensamente aplicado nos JEFs. A vedação de devolução protege o segurado contra cobranças retroativas do INSS quando o benefício é posteriormente cessado ou revisado.
+O STJ, na edição 198 da Jurisprudência em Teses, firmou que "é indevida a devolução ao INSS do auxílio-acidente recebido de boa-fé pelos segurados a título de aplicação retroativa da majoração estabelecida pela Lei 9.032, de 1995." Embora a tese tenha escopo específico (a majoração retroativa dos percentuais do auxílio-acidente), ela se insere no princípio mais amplo da irrepetibilidade dos benefícios previdenciários recebidos de boa-fé, consolidado pelo STJ em diversas outras matérias previdenciárias e extensamente aplicado nos JEFs. A vedação de devolução protege o segurado contra cobranças retroativas do INSS quando o benefício é posteriormente cessado ou revisado.
 
 ### 15.22 Síntese e quadros práticos
 
