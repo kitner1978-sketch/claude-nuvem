@@ -17,7 +17,7 @@ O fundamento constitucional do auxílio-reclusão encontra-se no art. 201, incis
 
 Na redação conferida pela EC 103/2019, o art. 201, IV, da CF passou a dispor que a previdência social atenderá "auxílio-reclusão para os dependentes das pessoas de baixa renda". O § 5º do mesmo artigo, também incluído pela EC 103, estabeleceu que "é vedada a concessão, por lei, de auxílio-reclusão quando o recluso estiver em regime aberto" e fixou o valor do benefício em um salário-mínimo.
 
-O auxílio-reclusão não é benefício destinado ao preso. Trata-se de prestação previdenciária paga aos **dependentes** do segurado recolhido à prisão, com o objetivo de garantir a subsistência da família que perde sua fonte de renda em razão do encarceramento. O segurado é o elemento de conexão, é sua qualidade de segurado e sua filiação ao RGPS que geram o direito, mas os titulares do benefício são exclusivamente os dependentes. Essa distinção, aparentemente singela, tem consequências jurídicas profundas: decorre da própria estrutura do art. 201, IV, c/c o art. 226 da CF, e foi reafirmada como premissa pelo Supremo Tribunal Federal no julgamento do RE 587.365 (Tema 89) — observando-se que a tese vinculante ali fixada versa especificamente sobre o parâmetro de renda a ser aferido (a do segurado, e não a dos dependentes), e não sobre a titularidade do benefício, que repousa diretamente no texto constitucional.
+O auxílio-reclusão não é benefício destinado ao preso. Trata-se de prestação previdenciária paga aos **dependentes** do segurado recolhido à prisão, com o objetivo de garantir a subsistência da família que perde sua fonte de renda em razão do encarceramento. O segurado é o elemento de conexão: é sua qualidade de segurado e sua filiação ao RGPS que geram o direito, mas os titulares do benefício são exclusivamente os dependentes. Essa distinção, aparentemente singela, tem consequências jurídicas profundas: decorre da própria estrutura do art. 201, IV, c/c o art. 226 da CF, e foi reafirmada como premissa pelo Supremo Tribunal Federal no julgamento do RE 587.365 (Tema 89) — observando-se que a tese vinculante ali fixada versa especificamente sobre o parâmetro de renda a ser aferido (a do segurado, e não a dos dependentes), e não sobre a titularidade do benefício, que repousa diretamente no texto constitucional.
 
 ::: box-atencao
 **A EC 103/2019 transformou radicalmente o auxílio-reclusão**
@@ -32,7 +32,7 @@ O advogado previdenciarista deve ter especial atenção ao regime jurídico apli
 
 **Regime novo (fato gerador a partir de 18/01/2019):**
 - Carência de 24 contribuições mensais (desde 18/01/2019 — MP 871/2019, consolidada pela Lei 13.846/2019)
-- Apenas regime fechado (art. 80, Lei 8.213), semiaberto: controvérsia
+- Apenas regime fechado (art. 80, Lei 8.213). Semiaberto: controvérsia
 - Valor fixo de 1 salário-mínimo (R$ 1.621,00 em 2026), a partir de 13/11/2019 (EC 103)
 - Limite de baixa renda: média dos 12 últimos salários ≤ limite anual da Portaria Interministerial MPS/MF (R$ 1.906,04 — limite do exercício de 2025; v. referência única abaixo)
 
@@ -163,7 +163,7 @@ A qualidade de segurado do preso tem peculiaridades que merecem análise detida:
 
 **Passo 4:** Se o segurado contribuiu como facultativo durante a reclusão:
 - Essas contribuições contam para benefícios futuros e para eventual novo fato gerador, **não** para a carência do AR já deflagrado
-- Se atingiu 24 contribuições durante a reclusão, cumprirá a carência retroativamente? **Controvérsia**, posição majoritária: a carência deve estar cumprida na data do recolhimento (contribuições posteriores não retroagem)
+- Se atingiu 24 contribuições durante a reclusão, cumprirá a carência retroativamente? **Controvérsia**. Posição majoritária: a carência deve estar cumprida na data do recolhimento (contribuições posteriores não retroagem)
 
 **Passo 5:** Período de graça pós-soltura:
 - 12 meses a partir da soltura (regra geral)
@@ -172,11 +172,11 @@ A qualidade de segurado do preso tem peculiaridades que merecem análise detida:
 - Relevante para: novo recolhimento à prisão dentro do período de graça
 :::
 
-### 14.6 Critério de baixa renda — regime Pré-EC 103
+### 14.6 Critério de baixa renda — regime pré-EC 103
 
 O critério de baixa renda é, historicamente, o aspecto mais litigioso do auxílio-reclusão. Desde a EC 20/1998, o benefício é restrito aos dependentes dos segurados de "baixa renda", mas a Constituição não definiu o conceito, delegando-o à legislação infraconstitucional. O resultado foi décadas de controvérsias judiciais sobre dois pontos centrais: (i) quem deve ser o sujeito da aferição de renda, o segurado ou os dependentes; e (ii) qual o parâmetro numérico que define "baixa renda".
 
-**O sujeito da aferição: segurado vs. dependentes.** O STF, no julgamento do RE 587.365 (Tema 89), pacificou definitivamente a questão: a renda a ser aferida para fins de enquadramento como "baixa renda" é a **do segurado**, não a dos dependentes. O fundamento é textual, o art. 201, IV, refere-se a "segurados de baixa renda", e teleológico: se a renda dos dependentes fosse o critério, o benefício só seria devido quando os dependentes já estivessem em situação de miserabilidade, subvertendo a lógica protetiva de substituição de renda.
+**O sujeito da aferição: segurado vs. dependentes.** O STF, no julgamento do RE 587.365 (Tema 89), pacificou definitivamente a questão: a renda a ser aferida para fins de enquadramento como "baixa renda" é a **do segurado**, não a dos dependentes. O fundamento é textual (o art. 201, IV, refere-se a "segurados de baixa renda") e teleológico: se a renda dos dependentes fosse o critério, o benefício só seria devido quando os dependentes já estivessem em situação de miserabilidade, subvertendo a lógica protetiva de substituição de renda.
 
 Essa definição tem consequência prática importante: se o segurado recebia remuneração dentro do limite de baixa renda, o benefício é devido mesmo que os dependentes tenham outras fontes de renda. Inversamente, se o segurado recebia acima do limite, o benefício é indevido mesmo que os dependentes se encontrem em situação de extrema vulnerabilidade.
 
@@ -217,7 +217,7 @@ Apesar da tese cristalina do STF (Tema 89), o INSS ainda indeferiu milhares de r
 **Todas essas situações são ilegais.** A renda relevante é exclusivamente a do segurado recolhido à prisão. Se necessário, judicialize com fundamento no Tema 89/STF.
 :::
 
-### 14.7 Critério de baixa renda — regime Pós-EC 103
+### 14.7 Critério de baixa renda — regime pós-EC 103
 
 Com a EC 103/2019, o conceito de "baixa renda" ganhou nova conformação. O art. 27, § 1º, da EC 103 estabeleceu que, até que lei discipline o acesso ao auxílio-reclusão, serão utilizados como critérios de renda os vigentes na data de entrada em vigor da emenda, reajustados pelos mesmos índices aplicados aos benefícios do RGPS. Essa regra de transição manteve a sistemática de fixação do limite por portaria interministerial.
 
@@ -286,7 +286,7 @@ A exigência de 24 contribuições atinge frontalmente o perfil típico do segur
 2. Requerer retificação do CNIS para inclusão de vínculos omitidos
 3. Computar período de atividade rural anterior (se aplicável)
 4. Avaliar a tese de inconstitucionalidade da carência (especialmente em JEFs com posicionamento favorável)
-5. Aplicar a regra da metade do art. 27-A da Lei 8.213/91 (12 contribuições) quando preenchidos os requisitos, ver Cap. 3, seção 3.2
+5. Aplicar a regra da metade do art. 27-A da Lei 8.213/91 (12 contribuições) quando preenchidos os requisitos (ver Cap. 3, seção 3.8)
 :::
 
 A regra da metade da carência (art. 27-A da Lei 8.213/91, com a redação da Lei 13.846/2019) tem aplicação relevante ao auxílio-reclusão. Quando o segurado que já havia contribuído perde a qualidade e volta a se filiar ao RGPS, a carência exigida a partir da nova filiação é de 12 contribuições (metade de 24), cumpridas as quais as contribuições anteriores voltam a ser computadas. A regra, analisada em detalhe no Capítulo 3 (seção 3.8), não é norma de transição nem se aplica à primeira filiação, e representa importante válvula de escape para segurados com histórico contributivo interrompido.
@@ -304,7 +304,7 @@ A interação entre a carência do auxílio-reclusão e a qualidade de segurado 
 
 A questão da constitucionalidade da carência de 24 contribuições para o auxílio-reclusão ainda não foi definitivamente enfrentada pelo STF em sede de controle concentrado. Decisões monocráticas e turmas recursais têm apresentado posições divergentes:
 
-**Posição 1 — Constitucional:** A fixação de carência é competência legislativa, e 24 contribuições não é prazo irrazoável. Precedentes em turmas recursais do TRF1 e TRF5.
+**Posição 1 — Constitucional:** A fixação de carência é competência legislativa, e a exigência de 24 contribuições não é irrazoável. Precedentes em turmas recursais do TRF1 e TRF5.
 
 **Posição 2 — Inconstitucional:** Carência desproporcional que viola a universalidade da cobertura (art. 194, I, CF), produz discriminação indireta contra a população de baixa renda e configura retrocesso social. Decisões em turmas recursais do TRF3 e TRF4.
 
@@ -339,7 +339,7 @@ Na prática administrativa, o INSS aplica o art. 80 e concede o AR apenas para r
 
 Tomamos posição nessa controvérsia. Parece-nos que a leitura que melhor harmoniza lei e Constituição é a ampliativa: ao vedar a concessão apenas no regime aberto, o art. 201, § 5º, da CF traçou o limite do que o legislador poderia excluir, e a exclusão legal do semiaberto avança sobre espaço que o constituinte derivado, podendo restringi-lo, optou por preservar. Não se trata de exigir do legislador que conceda o benefício em todo regime não vedado, mas de reconhecer que a supressão do semiaberto, por via ordinária, esvazia parcialmente a garantia constitucional sem amparo em distinção material relevante — afinal, no semiaberto o segurado permanece impedido de prover livremente o sustento da família, que é precisamente o risco que o auxílio-reclusão cobre. Reconhecemos, porém, que a jurisprudência ainda não pacificou o tema e que a tese restritiva conta com respaldo relevante; daí por que a arguição deve ser sempre acompanhada da demonstração concreta do regime fixado pelo juízo da execução.
 
-**Progressão de regime.** Quando o segurado progride do regime fechado para o semiaberto, o INSS cessa automaticamente o AR (com base no art. 80 — "regime fechado"). Se o dependente discordar, pode judicializar alegando que a CF permite o semiaberto. Se o segurado progride para o regime aberto, a cessação é incontroversa, vedação constitucional expressa.
+**Progressão de regime.** Quando o segurado progride do regime fechado para o semiaberto, o INSS cessa automaticamente o AR (com base no art. 80 — "regime fechado"). Se o dependente discordar, pode judicializar alegando que a CF permite o semiaberto. Se o segurado progride para o regime aberto, a cessação é incontroversa, por vedação constitucional expressa.
 
 **Regressão de regime.** Quando o segurado regride para o regime fechado (falta grave, nova condenação), o AR pode ser restabelecido, desde que os demais requisitos permaneçam preenchidos. O dependente deve formular novo requerimento.
 
@@ -366,7 +366,7 @@ Tomamos posição nessa controvérsia. Parece-nos que a leitura que melhor harmo
 
 A prisão provisória, em qualquer de suas modalidades (flagrante, preventiva, temporária), constitui fato gerador do auxílio-reclusão. Essa afirmação, hoje pacífica na jurisprudência, foi objeto de intensa controvérsia durante décadas, com o INSS sistematicamente negando o benefício a dependentes de presos provisórios sob o argumento de que a presunção de inocência impediria o reconhecimento da condição de "recolhido à prisão" para fins previdenciários.
 
-O argumento do INSS sempre foi falacioso: a presunção de inocência protege o acusado contra antecipação de sanções penais, não contra a produção de efeitos previdenciários. O recolhimento à prisão é fato objetivo, o segurado está privado de sua liberdade e impossibilitado de prover o sustento de seus dependentes, independentemente da natureza jurídica da prisão (definitiva ou provisória) e do desfecho processual.
+O argumento do INSS sempre foi falacioso: a presunção de inocência protege o acusado contra antecipação de sanções penais, não contra a produção de efeitos previdenciários. O recolhimento à prisão é fato objetivo: o segurado está privado de sua liberdade e impossibilitado de prover o sustento de seus dependentes, independentemente da natureza jurídica da prisão (definitiva ou provisória) e do desfecho processual.
 
 A jurisprudência consolidou-se firmemente no sentido de reconhecer o direito:
 
@@ -386,11 +386,11 @@ A prisão provisória gera, contudo, questões específicas quanto à manutenç�
 
 **Prisão provisória e valor do benefício.** No regime pós-EC 103, o valor do AR é fixo em 1 SM (R$ 1.621,00 em 2026), independentemente de a prisão ser provisória ou definitiva. No regime antigo, o valor era calculado com base no salário de benefício, variando conforme a contribuição do segurado.
 
-**Duração do AR na prisão provisória.** O benefício é devido enquanto perdurar a prisão provisória. Se o segurado é solto (alvará de soltura, revogação da preventiva, relaxamento do flagrante, habeas corpus, liberdade provisória), o AR cessa imediatamente. A concessão de medida cautelar diversa da prisão (art. 319, CPP), como comparecimento periódico, proibição de ausentar-se da comarca, ou monitoração eletrônica, implica a cessação do AR, pois o segurado deixa de estar recolhido à prisão.
+**Duração do AR na prisão provisória.** O benefício é devido enquanto perdurar a prisão provisória. Se o segurado é solto (alvará de soltura, revogação da preventiva, relaxamento do flagrante, habeas corpus, liberdade provisória), o AR cessa imediatamente. A concessão de medida cautelar diversa da prisão (art. 319, CPP), como comparecimento periódico, proibição de ausentar-se da comarca ou monitoração eletrônica, implica a cessação do AR, pois o segurado deixa de estar recolhido à prisão.
 
 **Peculiaridade da prisão temporária.** A prisão temporária (Lei 7.960/89) tem prazo determinado (5 dias, prorrogáveis por igual período; 30 dias + 30 em crimes hediondos). O AR concedido durante a prisão temporária cessa automaticamente com o decurso do prazo, se não houver conversão em preventiva. O advogado dos dependentes deve estar atento a essa peculiaridade e orientar sobre a necessidade de novo requerimento se houver conversão.
 
-**Múltiplas prisões provisórias.** Se o segurado é preso, solto e novamente preso (diversas vezes), cada novo recolhimento configura novo fato gerador. A verificação dos requisitos (qualidade de segurado, carência, baixa renda, regime) deve ser feita em cada evento. No regime pós-MP 871/2019, isso significa que o segurado pode ter cumprido a carência na primeira prisão mas não na segunda (se houve perda e reaquisição da qualidade com contribuições insuficientes no intervalo).
+**Múltiplas prisões provisórias.** Se o segurado é preso, solto e novamente preso (diversas vezes), cada novo recolhimento configura novo fato gerador. A verificação dos requisitos (qualidade de segurado, carência, baixa renda, regime) deve ser feita em cada evento. No regime pós-MP 871/2019, isso significa que o segurado pode ter cumprido a carência na primeira prisão, mas não na segunda (se houve perda e reaquisição da qualidade com contribuições insuficientes no intervalo).
 
 ::: box-jurisprudencia
 **Prisão provisória: direito consolidado ao auxílio-reclusão**
@@ -545,11 +545,11 @@ Situação comum nos JEFs: o segurado preso é casado formalmente com uma pessoa
 **No cotidiano dos JEFs:**
 1. Se há separação de fato comprovada + nova união estável: a companheira tem preferência
 2. Se não há separação de fato documentada: rateio entre cônjuge e companheira
-3. O INSS frequentemente rejeita a companheira quando há cônjuge, impugne judicialmente
+3. O INSS frequentemente rejeita a companheira quando há cônjuge: impugne judicialmente
 4. O ônus de provar a separação de fato é da companheira que alega a nova união
 5. A existência de filhos em comum com a companheira é indício forte de união estável
 
-**Ponto crítico:** Filhos de ambas as relações são dependentes independentes, o rateio entre as mulheres não afeta a cota dos filhos menores.
+**Ponto crítico:** Filhos de ambas as relações são dependentes independentes: o rateio entre as mulheres não afeta a cota dos filhos menores.
 :::
 
 ### 14.13 Valor do benefício: regime antigo e atual
@@ -593,7 +593,7 @@ A data de início do benefício segue regras específicas que combinam a data do
 **Para dependentes menores ou incapazes.** A regra geral de retroação do auxílio-reclusão segue, por analogia, o art. 74 da Lei 8.213/91 (com a redação dada pela Lei 13.846/2019): a DIB retroage à data do fato gerador quando o requerimento é formulado no prazo de **90 dias**; após esse prazo, a DIB fixa-se na data do requerimento (DER). Para o **dependente absolutamente incapaz** — em especial o menor de 16 anos —, esse prazo não corre em seu desfavor: contra ele não fluem prazos de prescrição e decadência (art. 198, I, do Código Civil, c/c art. 79 da Lei 8.213/91, que afasta a prescrição em favor do incapaz). A consequência prática é que, requerido o benefício enquanto perdura a menoridade (ou a incapacidade), a DIB retroage à data do recolhimento mesmo que ultrapassado o prazo de 90 dias, preservando-se as parcelas pretéritas dentro do quinquênio anterior ao requerimento. Não se trata, portanto, de retroação irrestrita "sempre", mas da suspensão, em favor do incapaz, do prazo que de outro modo limitaria a retroação. A solução é coerente com o princípio do melhor interesse da criança (art. 227, CF) e reconhece que o menor não pode ser penalizado pela inércia do representante legal.
 
 ::: box-atencao
-**DIB retroativa: 90 dias é contado da prisão, não da condenação**
+**DIB retroativa: os 90 dias são contados da prisão, não da condenação**
 
 O prazo de 90 dias para retroação da DIB é contado da **data do efetivo recolhimento à prisão**, não da data da sentença condenatória ou do trânsito em julgado.
 
@@ -703,7 +703,7 @@ A TRU da 4ª Região, em julgamento de 28/04/2023, fixou tese de que a fuga é c
 
 O livramento condicional (arts. 83-90, CP; arts. 131-146, LEP) libera o preso sob condições. A questão: o livramento condicional cessa o AR?
 
-**Posição majoritária (STJ, TRFs):** SIM. O livramento condicional equivale à soltura para fins de auxílio-reclusão. O segurado em livramento condicional não está recolhido à prisão, está em liberdade, embora condicionada. O AR cessa na data do livramento.
+**Posição majoritária (STJ, TRFs):** SIM. O livramento condicional equivale à soltura para fins de auxílio-reclusão. O segurado em livramento condicional não está recolhido à prisão: está em liberdade, embora condicionada. O AR cessa na data do livramento.
 
 **Posição minoritária:** NÃO. O liberado condicionalmente permanece cumprindo pena, sujeito a condições e possível revogação. O livramento seria apenas modalidade de cumprimento, não soltura definitiva.
 
@@ -720,7 +720,7 @@ Questão de crescente relevância prática, examinada por Ibrahim (2025), é a s
 
 Contudo, a EC 103/2019 alterou essa dinâmica com o art. 27, § 2º: "O segurado que já for titular de outro benefício do RGPS, ao ser recolhido à prisão, terá a opção de requerer a transferência daquele para seus dependentes." Essa previsão permite que o aposentado preso transfira a aposentadoria para seus dependentes, que a receberão como se auxílio-reclusão fosse, durante o período de encarceramento.
 
-Na prática, surgem três cenários:
+Na prática, surgem cinco cenários:
 
 **Cenário 1 — Aposentado preso, regime antigo.** Se a prisão é anterior a 13/11/2019, aplica-se o art. 80 da Lei 8.213/91 na redação original. A doutrina majoritária e a jurisprudência dos TRFs entendiam que o aposentado preso não gerava auxílio-reclusão (pela vedação expressa do art. 80), mas a aposentadoria continuava sendo paga normalmente, pois não há previsão legal de suspensão de aposentadoria por encarceramento.
 
@@ -730,7 +730,7 @@ Na prática, surgem três cenários:
 
 **Cenário 4 — Segurado em gozo de pensão por morte que é preso.** A redação do art. 80 (pós-Lei 13.846/2019) também veda o AR quando o segurado está em gozo de pensão por morte. Essa situação é menos intuitiva: o segurado que recebe pensão por morte (como dependente de outro segurado) é preso. Seus próprios dependentes não terão direito ao AR, pois a pensão por morte do segurado continua sendo paga. Na experiência dos juizados, a pensão pode ser administrada por procuração a favor dos dependentes.
 
-**Cenário 5 — Segurado que recebe salário-maternidade.** A segurada que está recebendo salário-maternidade e é recolhida à prisão: o art. 80 também veda o AR nessa hipótese. O SM continua sendo pago normalmente durante o período restante. Após o término do SM, se a segurada permanecer presa, poderá ser concedido o AR (verificados os demais requisitos).
+**Cenário 5 — Segurado que recebe salário-maternidade.** A segurada que está recebendo salário-maternidade e é recolhida à prisão: o art. 80 também veda o AR nessa hipótese. O salário-maternidade continua sendo pago normalmente durante o período restante. Após o término do salário-maternidade, se a segurada permanecer presa, poderá ser concedido o AR (verificados os demais requisitos).
 
 ::: box-jurisprudencia
 **Aposentado preso: evolução jurisprudencial**
@@ -744,7 +744,7 @@ Na prática, surgem três cenários:
 
 **Acumulação do auxílio-reclusão com outros benefícios.** A acumulação segue as regras gerais analisadas no Capítulo 20, com as seguintes particularidades:
 
-- **AR + pensão por morte:** Em princípio, possível, pois são benefícios de natureza diversa (AR substitui renda do segurado preso; PM substitui renda do segurado falecido). A incidência do escalonamento do art. 24 da EC 103/2019 sobre essa acumulação é, contudo, **questão controvertida**: o dispositivo refere-se literalmente à acumulação de "pensão por morte" com "aposentadoria" (e entre pensões de regimes distintos), não mencionando expressamente o auxílio-reclusão. Há quem sustente a aplicação analógica do redutor — por ser o AR, no regime atual, calculado e estruturado à semelhança da pensão por morte —, e há quem a rejeite, por se tratar de norma restritiva de direito, insuscetível de interpretação ampliativa. Não há, na base consultada, repetitivo que pacifique a questão; recomendamos, por cautela, sinalizar a controvérsia na petição e subsidiariamente impugnar a aplicação automática do redutor pelo INSS. A matéria é tratada em profundidade no Cap. 20.
+- **AR + pensão por morte:** Em princípio, possível, pois são benefícios de natureza diversa (AR substitui renda do segurado preso; PM substitui renda do segurado falecido). A incidência do escalonamento do art. 24 da EC 103/2019 sobre essa acumulação é, contudo, **questão controvertida**: o dispositivo refere-se literalmente à acumulação de "pensão por morte" com "aposentadoria" (e entre pensões de regimes distintos), não mencionando expressamente o auxílio-reclusão. Há quem sustente a aplicação analógica do redutor — por ser o AR, no regime atual, calculado e estruturado à semelhança da pensão por morte —, e há quem a rejeite, por se tratar de norma restritiva de direito, insuscetível de interpretação ampliativa. Não há, até o momento, repetitivo que pacifique a questão; recomendamos, por cautela, sinalizar a controvérsia na petição e subsidiariamente impugnar a aplicação automática do redutor pelo INSS. A matéria é tratada em profundidade no Cap. 20.
 - **AR + BPC/LOAS:** Não se trata, a rigor, de vedação legal automática de acumulação, mas de **descaracterização do requisito de miserabilidade por composição de renda**. O valor do auxílio-reclusão integra a renda do grupo familiar para fins de aferição do BPC (Lei 8.742/93, art. 20); a depender da composição familiar e do critério de renda per capita aplicável, esse acréscimo **pode** — não necessariamente — afastar a condição de miserabilidade que o BPC exige. Assim, a incompatibilidade é casuística e econômica, e não uma proibição abstrata de cumulação. Remete-se ao Cap. 18 para o exame detido do critério de miserabilidade e das hipóteses de exclusão de rendas do cálculo.
 - **AR + salário-maternidade:** Possível, pois são benefícios com fatos geradores e finalidades distintos.
 - **AR + Bolsa Família/Auxílio Brasil/benefícios assistenciais:** O valor do AR é computado como renda familiar para fins de programas assistenciais, podendo afetar o enquadramento.
@@ -763,7 +763,7 @@ A concessão de tutela antecipada inaudita altera parte é comum e recomendável
 
 **Prescrição e decadência.** A prescrição quinquenal do art. 103, parágrafo único, da Lei 8.213/91 aplica-se ao auxílio-reclusão: prescrevem as parcelas vencidas há mais de 5 anos da data do ajuizamento. O fundo de direito (direito ao benefício em si) não prescreve enquanto perdurar a condição de preso, por se tratar de relação de trato sucessivo (Súmula 85/STJ). A decadência decenal do art. 103, caput, aplica-se à revisão do valor do AR concedido, não à concessão originária — tema relevante para dependentes que descobrem tardiamente o direito.
 
-**Execução de sentença e RPV.** As sentenças que concedem auxílio-reclusão nos JEFs são executadas mediante Requisição de Pequeno Valor (RPV), uma vez que os valores acumulados raramente excedem 60 SM. O cálculo dos atrasados deve considerar: (i) parcelas da DIB até a efetiva implantação; (ii) correção monetária pelo IPCA-E (até EC 113/2021) ou pela SELIC (após EC 113); (iii) juros de mora na forma da lei. A tutela antecipada deferida no curso do processo gera compensação com os valores da condenação definitiva, os meses em que o dependente já recebeu por tutela são excluídos do cálculo dos atrasados.
+**Execução de sentença e RPV.** As sentenças que concedem auxílio-reclusão nos JEFs são executadas mediante Requisição de Pequeno Valor (RPV), uma vez que os valores acumulados raramente excedem 60 SM. O cálculo dos atrasados deve considerar: (i) parcelas da DIB até a efetiva implantação; (ii) correção monetária pelo IPCA-E (até EC 113/2021) ou pela SELIC (após EC 113); (iii) juros de mora na forma da lei. A tutela antecipada deferida no curso do processo gera compensação com os valores da condenação definitiva: os meses em que o dependente já recebeu por tutela são excluídos do cálculo dos atrasados.
 
 **Instrução probatória.** A produção de prova no auxílio-reclusão apresenta particularidades:
 
@@ -785,7 +785,7 @@ A concessão de tutela antecipada inaudita altera parte é comum e recomendável
 | Questões penais (regime, progressão, fuga) | Vara de Execuções Penais (Justiça Estadual ou Federal) |
 | Mandado de segurança contra ato do INSS | Vara Federal (não JEF) |
 
-**Atenção:** O JEF NÃO pode interferir em questões penais (regime prisional, progressão). Se a discussão envolver o regime prisional, o JEF deve utilizar como prova a decisão do juízo da execução penal, não pode, por si, determinar o regime.
+**Atenção:** O JEF NÃO pode interferir em questões penais (regime prisional, progressão). Se a discussão envolver o regime prisional, o JEF deve utilizar como prova a decisão do juízo da execução penal e não pode, por si, determinar o regime.
 
 **Valor da causa no AR:**
 - Prestações vencidas (da DIB até o ajuizamento) + 12 prestações vincendas
@@ -828,7 +828,7 @@ O auxílio-reclusão suscita diversas questões que transcendem a aplicação or
 
 **Dependente menor sob guarda ou tutela.** O menor sob guarda ou tutela do segurado preso é dependente para fins de auxílio-reclusão, aplicando-se as mesmas regras da pensão por morte (Cap. 19). A prova de guarda ou tutela exige decisão judicial. Menores em acolhimento institucional que dependiam economicamente do segurado antes da prisão: situação não prevista expressamente, mas passível de enquadramento por interpretação extensiva.
 
-**Prescrição do auxílio-reclusão.** V. §14.18, subseção "Prescrição e decadência", supra.
+**Prescrição do auxílio-reclusão.** V. seção 14.18, subseção "Prescrição e decadência", supra.
 
 **Auxílio-reclusão e execução penal por acordo de não persecução penal (ANPP).** O ANPP (art. 28-A, CPP, incluído pela Lei 13.964/2019) não implica recolhimento à prisão, pois é celebrado antes do oferecimento da denúncia e não envolve privação de liberdade. Logo, não gera auxílio-reclusão. Situação diversa é a transação penal (art. 76, Lei 9.099/95), que igualmente não envolve prisão.
 
@@ -921,7 +921,7 @@ O auxílio-reclusão, a despeito de seu baixo impacto orçamentário, é benefí
  - NÃO → Sem direito ao AR (avaliar tese de inconstitucionalidade)
  - SIM → Passo 5
 
-5. A média dos 12 últimos salários do segurado era ≤ ao limite do exercício (R$ 1.906,04 em 2025)?
+5. A média dos 12 últimos salários do segurado era igual ou inferior ao limite do exercício (R$ 1.906,04 em 2025)?
  - NÃO → Sem direito ao AR
  - SIM → Passo 6
 
@@ -956,7 +956,7 @@ O auxílio-reclusão, a despeito de seu baixo impacto orçamentário, é benefí
 
 **Referências cruzadas neste livro:**
 - Dependentes: Cap. 2
-- Carência e regra da metade: Cap. 3, seção 3.2
+- Carência e regra da metade: Cap. 3, seção 3.8
 - Contribuições (MEI, CI, facultativo): Cap. 4
 - Tempo de contribuição e CNIS: Cap. 5
 - BPC como alternativa: Cap. 18
