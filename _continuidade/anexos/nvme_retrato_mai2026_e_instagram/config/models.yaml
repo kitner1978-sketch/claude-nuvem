@@ -1,0 +1,62 @@
+# ═══════════════════════════════════════════════════════
+# Roteamento de Modelos por Agente
+# ═══════════════════════════════════════════════════════
+
+modelos_disponiveis:
+  opus:
+    identificador: "opus-4.6"
+    uso: "Tarefas que exigem raciocínio profundo, contexto longo, prosa sofisticada"
+    custo: "alto"
+
+  sonnet:
+    identificador: "sonnet"
+    uso: "Raciocínio médio-alto, análise estruturada, queries de pesquisa"
+    custo: "médio"
+
+  haiku:
+    identificador: "haiku"
+    uso: "Tarefas mecânicas, verificação binária, classificação simples"
+    custo: "baixo"
+
+# ═══════════════════════════════════════════════════════
+# Mapa de agentes → modelos
+# ═══════════════════════════════════════════════════════
+
+agentes:
+  coordenador:
+    modelo: "sonnet"
+    justificativa: "Decisões de roteamento e gerência do fluxo"
+
+  pesquisador:
+    modelo: "sonnet"
+    justificativa: "Formulação de queries inteligentes e interpretação de resultados"
+    tokens_estimados_por_execucao: 11000
+
+  redator:
+    modelo: "opus-4.6"
+    justificativa: "Prosa doutrinária longa, estilo, coerência argumentativa"
+    tokens_estimados_por_execucao: 21000
+    temperatura: 0.3
+
+  advogado_diabo:
+    modelo: "sonnet"
+    justificativa: "Raciocínio adversarial sobre texto delimitado"
+    tokens_estimados_por_execucao: 12000
+    temperatura: 0.1
+
+  auditor:
+    modelo: "haiku"
+    justificativa: "Verificação binária de citações — tarefa mecânica"
+    tokens_estimados_por_execucao: 9500
+    temperatura: 0.0
+
+  formatador:
+    modelo: "nenhum"
+    justificativa: "Script Python determinístico"
+    tokens: 0
+
+  consistencia:
+    modelo: "opus-4.6"
+    justificativa: "Contexto longo, múltiplos capítulos, raciocínio sutil"
+    tokens_estimados_por_execucao: 27000
+    frequencia: "caps 1-2 individual, depois a cada 3"

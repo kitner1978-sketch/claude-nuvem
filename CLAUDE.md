@@ -1,3 +1,13 @@
+# ⚠️ RETOMADA — leia antes de qualquer outra coisa
+
+Este repositório foi copiado do Mac do autor em 24/09/2026 para continuar em outro computador. O projeto está em **pré-publicação** (revisão final antes do envio à Editora Thoth), com trabalho de 21–22/09/2026 **ainda não commitado**. O estado, as pendências por módulo, as regras de trabalho e as armadilhas conhecidas estão no arquivo abaixo, carregado automaticamente:
+
+@_continuidade/LEIA_PRIMEIRO.md
+
+O restante deste CLAUDE.md descreve o **pipeline de agentes usado para redigir os capítulos em maio/2026**. É histórico: os caminhos `D:\Projeto Livro`, a tabela de modelos e o fluxo "Pesquisador → Redator → …" não regem mais o trabalho. A fonte do texto é `output/rascunhos/cap_XX_rascunho.md` e o livro é gerado por `scripts/gerar_livro_pdf.py`.
+
+---
+
 # Projeto: Livro de Direito Previdenciário — Pipeline de Agentes + Obsidian Vault
 
 ## Identidade da Obra

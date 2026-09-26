@@ -1,0 +1,248 @@
+{
+  "reel_cards": [
+    1,
+    2,
+    3,
+    5,
+    7,
+    9
+  ],
+  "cards": [
+    {
+      "tipo": "capa",
+      "dur": 6.5,
+      "header": "TEMPO ESPECIAL · SÉRIE 1 DE 3",
+      "kicker": "PPP · CAMPO \"EPI EFICAZ\"",
+      "titulo": [
+        "O PPP diz que o EPI",
+        "é eficaz. Isso encerra",
+        "a questão?"
+      ],
+      "badge": "TNU · TEMA 213",
+      "sub": [
+        "Depende de onde o segurado impugnou.",
+        "E de como."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "header": "O PROBLEMA",
+      "titulo": "Um formulário sem contraditório",
+      "blocos": [
+        [
+          "sans",
+          [
+            "O campo \"EPI eficaz: S\" é preenchido",
+            "pelo empregador. Na via administrativa,",
+            "não há meio prático de impugná-lo."
+          ]
+        ],
+        [
+          "barra",
+          [
+            "A TNU partiu daí: a solução",
+            "ótima cede à melhor solução",
+            "possível — levar a impugnação",
+            "ao processo judicial."
+          ]
+        ]
+      ],
+      "ref": "TNU · RECLAMAÇÃO 5000024-57.2024.4.90.0000"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "A HIPÓTESE",
+      "titulo": "O mesmo caso, duas iniciais",
+      "blocos": [
+        [
+          "sans",
+          [
+            "Um soldador. O PPP informa exposição",
+            "a fumos metálicos e registra:",
+            "\"EPI eficaz: S\"."
+          ]
+        ],
+        [
+          "sans",
+          [
+            "Inicial que silencia sobre o EPI:",
+            "o formulário prevalece. Improcedência."
+          ]
+        ],
+        [
+          "barra",
+          [
+            "Inicial que impugna — treinamento",
+            "não comprovado, higienização sem",
+            "registro: instrução aberta, e a",
+            "dúvida corre para o segurado."
+          ]
+        ]
+      ],
+      "ref": "APLICAÇÃO DO TEMA 213 · HIPÓTESE DIDÁTICA"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "A BASE CONSTITUCIONAL",
+      "titulo": "ARE 664.335: a eficácia real decide",
+      "blocos": [
+        [
+          "sans",
+          [
+            "Se o EPI for realmente capaz de",
+            "neutralizar a nocividade, não há",
+            "respaldo constitucional à",
+            "aposentadoria especial."
+          ]
+        ],
+        [
+          "painel",
+          {
+            "kicker": "A PREMISSA DO STF",
+            "linhas": [
+              "Na divergência ou dúvida sobre a",
+              "real eficácia, a premissa é o",
+              "reconhecimento do direito."
+            ]
+          }
+        ]
+      ],
+      "ref": "STF · ARE 664.335 · TEMA 555 · REL. MIN. LUIZ FUX · PLENÁRIO · 04/12/2014"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "A TESE · ITEM I",
+      "titulo": "Impugnação na causa de pedir",
+      "blocos": [
+        [
+          "sans",
+          [
+            "A informação do PPP pode ser",
+            "fundamentadamente desafiada em juízo,",
+            "desde que a causa de pedir traga",
+            "impugnação específica do formulário,",
+            "com alegação motivada."
+          ]
+        ],
+        [
+          "barra",
+          [
+            "Impugnação genérica, ou trazida",
+            "apenas no recurso, não abre",
+            "a instrução."
+          ]
+        ]
+      ],
+      "ref": "TNU · TEMA 213 · PUIL 0004439-44.2010.4.03.6318/SP"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "AS CINCO HIPÓTESES",
+      "titulo": "O que se pode alegar",
+      "blocos": [
+        [
+          "lista",
+          [
+            "inadequação do EPI ao risco",
+            "~da atividade",
+            "certificado de conformidade",
+            "~inexistente ou irregular",
+            "descumprimento das normas de",
+            "~manutenção, substituição e higienização",
+            "falta ou insuficiência de orientação",
+            "~e treinamento sobre o uso",
+            "qualquer outro motivo capaz de",
+            "~indicar a ineficácia"
+          ]
+        ]
+      ],
+      "ref": "TNU · TEMA 213 · ROL DO ITEM I DA TESE"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "A TESE · ITEM II",
+      "titulo": "A dúvida razoável favorece o segurado",
+      "tsize": 56,
+      "blocos": [
+        [
+          "painel",
+          {
+            "kicker": "TEXTO DA TESE",
+            "linhas": [
+              "\"Havendo divergência real ou dúvida",
+              "razoável sobre a sua real eficácia,",
+              "provocadas por impugnação",
+              "fundamentada e consistente do",
+              "segurado, o período deverá ser",
+              "reconhecido como especial.\""
+            ]
+          }
+        ],
+        [
+          "sans",
+          [
+            "Instalada a controvérsia,",
+            "o desempate não é neutro."
+          ]
+        ]
+      ],
+      "ref": "TNU · TEMA 213 · PUIL 0004439-44.2010.4.03.6318/SP"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "OS LIMITES",
+      "titulo": "Onde o Tema 213 não alcança",
+      "blocos": [
+        [
+          "lista",
+          [
+            "Ruído: o EPI eficaz nunca",
+            "~descaracteriza — Súmula 9 da TNU",
+            "Marco: a informação sobre EPI só é",
+            "~considerada a partir de 03/12/1998",
+            "~(MP 1.729/98, convertida na Lei 9.732/98)",
+            "Contribuinte individual: exige",
+            "~fundamentação técnica específica",
+            "~da ineficácia — Tema 188 da TNU"
+          ]
+        ]
+      ],
+      "ref": "TNU · SÚMULA 9 · TEMA 188 · PEDILEF 0000896-82.2018.4.01.3804"
+    },
+    {
+      "tipo": "fecho",
+      "header": "SÍNTESE",
+      "titulo": "O que decide o caso",
+      "blocos": [
+        [
+          "serif",
+          [
+            "A palavra decisiva está na",
+            "causa de pedir, não no formulário.",
+            "Sem impugnação específica, o campo",
+            "do PPP prevalece. Com ela, a dúvida",
+            "razoável decide pelo segurado."
+          ]
+        ],
+        [
+          "sans",
+          [
+            "Parte 2, sexta-feira: a exceção",
+            "do ruído — Súmula 9 da TNU."
+          ]
+        ],
+        [
+          "prec",
+          [
+            "TNU · Tema 213 · PUIL 0004439-44.2010.4.03.6318/SP",
+            "STF · ARE 664.335 (Tema 555) · Plenário · 04/12/2014",
+            "TNU · Súmula 9 · TNU · Tema 188",
+            "TNU · Reclamação 5000024-57.2024.4.90.0000"
+          ]
+        ]
+      ],
+      "hashtags": "#direitoprevidenciário #tempoespecial #TNU #EscolaREJUFE"
+    }
+  ],
+  "slug": "post02_epi"
+}

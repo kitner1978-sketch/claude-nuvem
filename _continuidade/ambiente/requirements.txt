@@ -1,0 +1,4 @@
+python-docx==1.2.0
+lxml
+PyYAML
+openpyxl==3.1.5

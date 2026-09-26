@@ -1,0 +1,108 @@
+======================================================================
+VERIFICAÇÃO DE COMPLETUDE: CITAÇÕES × REFERÊNCIAS
+======================================================================
+
+Capítulos analisados: 23
+Total de autores citados (únicos por cap): 32
+Total de entradas em Referências/Doutrina: 0
+
+======================================================================
+  Cap   Citações   Refs  Sem Ref  Fantasma
+---------------------------------------------
+  01          1      0        1         0 ←
+  02          2      0        2         0 ←
+  03          1      0        1         0 ←
+  04          4      0        4         0 ←
+  05          1      0        1         0 ←
+  06          3      0        3         0 ←
+  07          2      0        2         0 ←
+  08          0      0        0         0
+  09          3      0        3         0 ←
+  10          1      0        1         0 ←
+  11          0      0        0         0
+  12          1      0        1         0 ←
+  13          0      0        0         0
+  14          0      0        0         0
+  15          3      0        3         0 ←
+  16          0      0        0         0
+  17          0      0        0         0
+  18          0      0        0         0
+  19          3      0        3         0 ←
+  20          1      0        1         0 ←
+  21          1      0        1         0 ←
+  22          3      0        3         0 ←
+  23          2      0        2         0 ←
+
+======================================================================
+CITAÇÕES SEM ENTRADA NAS REFERÊNCIAS (32)
+======================================================================
+
+  Cap. 01:
+    Martinez (2023) — AUSENTE nas Referências
+
+  Cap. 02:
+    Lazzari (2025) — AUSENTE nas Referências
+    Savaris (2023) — AUSENTE nas Referências
+
+  Cap. 03:
+    Porto (2024) — AUSENTE nas Referências
+
+  Cap. 04:
+    Goes (2025) — AUSENTE nas Referências
+    Ibrahim (2025) — AUSENTE nas Referências
+    Kertzman (2025) — AUSENTE nas Referências
+    Porto (2024) — AUSENTE nas Referências
+
+  Cap. 05:
+    Ibrahim (2025) — AUSENTE nas Referências
+
+  Cap. 06:
+    Ibrahim (2025) — AUSENTE nas Referências
+    Kertzman (2025) — AUSENTE nas Referências
+    Savaris (2023) — AUSENTE nas Referências
+
+  Cap. 07:
+    Júnior (2022) — AUSENTE nas Referências
+    Kertzman (2025) — AUSENTE nas Referências
+
+  Cap. 09:
+    Júnior (2024) — AUSENTE nas Referências
+    Porto (2024) — AUSENTE nas Referências
+    Savaris (2023) — AUSENTE nas Referências
+
+  Cap. 10:
+    Ibrahim (2025) — AUSENTE nas Referências
+
+  Cap. 12:
+    Amado (2025) — AUSENTE nas Referências
+
+  Cap. 15:
+    Ibrahim (2025) — AUSENTE nas Referências
+    Kertzman (2025) — AUSENTE nas Referências
+    Savaris (2023) — AUSENTE nas Referências
+
+  Cap. 19:
+    Kertzman (2025) — AUSENTE nas Referências
+    Santos (2025) — AUSENTE nas Referências
+    Savaris (2023) — AUSENTE nas Referências
+
+  Cap. 20:
+    Ibrahim (2025) — AUSENTE nas Referências
+
+  Cap. 21:
+    Ibrahim (2025) — AUSENTE nas Referências
+
+  Cap. 22:
+    Amado (2025) — AUSENTE nas Referências
+    Ibrahim (2025) — AUSENTE nas Referências
+    Savaris (2023) — AUSENTE nas Referências
+
+  Cap. 23:
+    Ibrahim (2025) — AUSENTE nas Referências
+    Savaris (2023) — AUSENTE nas Referências
+
+======================================================================
+RESULTADO: 32 citações sem referência, 0 referências fantasma
+======================================================================
+
+Relatório salvo em: /Volumes/2tb/Projeto Livro/output/relatorio_citacoes.txt

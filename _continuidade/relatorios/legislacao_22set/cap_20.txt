@@ -1,0 +1,29 @@
+L19 [N] A segunda fase teve início com a Medida Provisória n. 1.596-14, de 10 de novembro de 1997, convertida na Lei n. 9.528, de 10 de dezembro de 1997.
+L19 [N] Essa norma introduziu a vedação de acumulação do auxílio-acidente com qualquer aposentadoria, a partir de 11 de novembro de 1997, ao dar nova redação ao § 2º do art. 86 da Lei 8.213/91, que passou a prever a cessação do auxílio-acidente na data de início de qualquer aposentadoria.
+L19 [N] O § 3º do mesmo artigo, também alterado, complementou o regime ao disciplinar a incorporação do valor do auxílio-acidente ao salário de contribuição para fins de cálculo da aposentadoria.
+L21 [N] A terceira fase foi inaugurada pela Emenda Constitucional n. 103, de 13 de novembro de 2019, que criou mecanismo inteiramente novo para disciplinar as acumulações permitidas.
+L29 [N] Trata-se de dispositivo que permanece em plena vigência após a EC 103/2019 e que disciplina as hipóteses em que a acumulação é absolutamente proibida, independentemente de qualquer redutor.
+L37 [N] O abono de permanência em serviço, que consistia em acréscimo de 25% ao valor da aposentadoria para o segurado que, reunindo os requisitos para aposentar-se, optasse por continuar trabalhando, foi extinto pela Lei n. 8.870, de 15 de abril de 1994.
+L45 [N] **Relação entre o art. 124 e o art. 24 da EC 103/2019.** A entrada em vigor da EC 103/2019 não revogou o art. 124 da Lei 8.213/91.
+L63 [N] A Emenda Constitucional n. 103/2019 introduziu, em seu art. 24, um regime de escalonamento aplicável às acumulações de benefícios que permanecem lícitas após a reforma (Ibrahim, 2025).
+L81 [N] A posição é coerente com a técnica legislativa adotada pela emenda: o próprio § 2º do art. 24 define as faixas, os percentuais e o parâmetro de referência (salário-mínimo), fornecendo todos os elementos necessários para o cálculo sem remissão a norma regulamentadora.
+L265 [N] Primeiro período: quando tanto o auxílio-acidente quanto a aposentadoria foram concedidos antes de 11 de novembro de 1997 (data de publicação da MP 1.596-14/1997, convertida na Lei 9.528/1997), a acumulação é integral, sem qualquer redutor.
+L267 [N] Segundo período: a partir de 11 de novembro de 1997, a acumulação é vedada pelos §§ 2º e 3º do art. 86 da Lei 8.213/91, com redação dada pela Lei 9.528/1997.
+L309 [N] O auxílio-reclusão é automaticamente convertido em pensão por morte, nos termos do art. 80 da Lei 8.213/91, cessando o auxílio-reclusão e iniciando-se a pensão.
+L333 [N] ¹ Vedada a partir de 11/11/1997 (Lei 9.528/97); acumulação integral se ambos concedidos antes dessa data (Súmula 507/STJ).
+L335 [N] ³ Auxílio-reclusão é convertido em pensão por morte se o segurado falece (art. 80, Lei 8.213/91).
+L375 [N] O advogado deve demonstrar que os cargos exercidos pelo segurado ou instituidor enquadram-se em uma das hipóteses do art. 37, XVI, da CF/88, mediante apresentação dos atos de nomeação, certidões funcionais e legislação que regulamenta cada cargo.
+L385 [NQ] O art. 24, §4º, dispõe que "as vedações previstas neste artigo não se aplicam quando o direito aos benefícios houver sido adquirido antes da data de entrada em vigor desta Emenda Constitucional".
+L393 [N] A circunstância de o requerimento administrativo ter sido apresentado já na vigência da EC 103 não retira o direito adquirido à acumulação integral.
+L419 [N] A regra do art. 24, §4º, é autoaplicável e não depende de regulamentação.
+L427 [N] A segunda fase inaugura-se com a Medida Provisória n. 1.596-14, de 10 de novembro de 1997, posteriormente convertida na Lei n. 9.528, de 10 de dezembro de 1997.
+L427 [N] Essa norma alterou o § 2º do art. 86 da Lei n. 8.213/91, estabelecendo que o auxílio-acidente cessa com a concessão de qualquer aposentadoria.
+L429 [N] A vedação de acumulação já existia desde 1997, e a Emenda Constitucional não a modificou nem a ampliou.
+L434 [Q] "A acumulação de auxílio-acidente com aposentadoria pressupõe que a lesão incapacitante e a concessão da aposentadoria sejam anteriores a 11/11/1997, observado o critério do art. 23 da Lei 8.213/1991 para definição do momento da lesão nos casos de doença profissional ou do trabalho."
+L459 [N] A Lei n. 14.176/2021 introduziu o auxílio-inclusão como mecanismo de transição entre o BPC e o mercado de trabalho.
+L547 [N] O contador judicial deve: apurar o valor de cada benefício em cada competência mensal; aplicar o escalonamento do art. 24, §2º, quando cabível; compensar os valores já pagos administrativamente pelo benefício substituído ou cessado; e apurar o saldo positivo devido ao beneficiário.
+L574 [N] As vedações do art. 124 não foram revogadas pela EC 103, permanecem vigentes como primeiro filtro de inacumulabilidade.
+L578 [N] **Posição 3 — Autoaplicabilidade do art. 24.** O art. 24 da EC n. 103/2019 é norma de eficácia plena e aplicação imediata, dispensando regulamentação infraconstitucional para produzir todos os seus efeitos.
+L582 [N] **Posição 5 — Marco temporal do auxílio-acidente.** A vedação de acumulação do auxílio-acidente com aposentadoria data de 11 de novembro de 1997 (MP n. 1.596-14/1997, convertida na Lei n. 9.528/1997).
+L594 [N] A matéria permanece em evolução, com as ADIs pendentes no STF, o amadurecimento da jurisprudência sobre o escalonamento nos tribunais regionais e a possível regulamentação infralegal de aspectos operacionais do art. 24.
+L594 [N] A acumulação de benefícios previdenciários, como tema transversal que perpassa todo o sistema de proteção social, permanecerá no centro das controvérsias dos JEFs enquanto o modelo de escalonamento introduzido pela EC 103 estiver vigente.

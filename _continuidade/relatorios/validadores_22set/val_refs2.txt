@@ -1,0 +1,48 @@
+======================================================================
+VALIDAÇÃO DE REFERÊNCIAS CRUZADAS INTERNAS
+======================================================================
+
+Capítulos encontrados: 23
+Seções mapeadas: 1200
+Referências cruzadas encontradas: 194
+
+======================================================================
+ERROS ENCONTRADOS: 1
+======================================================================
+
+--- SECAO_INEXISTENTE (1 ocorrências) ---
+
+  Cap. 20 (linha   67): examinado na seção 20.6.3
+    → Seção 20.6.3 não encontrada em nenhum capítulo
+
+======================================================================
+ESTATÍSTICAS DE REFERÊNCIAS CRUZADAS
+======================================================================
+
+  Cap   Faz refs  Recebe refs
+------------------------------
+  01          2            6
+  02          7           12
+  03          7           29
+  04          7            3
+  05          5           13
+  06         11            7
+  07         11            8
+  08          5            4
+  09         11            9
+  10         17            8
+  11          5            4
+  12         19            7
+  13          5            3
+  14          5            3
+  15         11            7
+  16         15           18
+  17         15           15
+  18          8            9
+  19          6            5
+  20          7            9
+  21          7            4
+  22          4            1
+  23          4           10
+
+Relatório salvo em: /Volumes/2tb/Projeto Livro/output/relatorio_refs_cruzadas.txt

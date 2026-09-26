@@ -1,0 +1,6 @@
+- [Três cópias do projeto](duas-copias-divergentes.md) — 2tb = Markdown mais recente (20/07); seagate defasado (10/06); NVMe = Instagram; DOCX da revisora de 18/09 fora do git
+- [Estado da pausa (22/09/2026)](estado-pausa-set2026.md) — projeto pausado no Módulo 1 da conferência de legislação; 4 módulos pendentes; trabalhar por módulos, sem agentes paralelos
+- [Revisão fina (21/09/2026)](revisao-dirigida-set2026.md) — correções aplicadas no 2tb (não commitadas), DOCX de 21/09 gerado; súmula inventada, teses parafraseadas; dois erros meus a não repetir
+- [Revisão da Ingrid (set/2026)](revisao-ingrid-set2026.md) — 390 edições pequenas sobre o DOCX de 19/07; expõe defeitos do gerador e do cap_10 sem acentos
+- [Ruído CRLF no git](ruido-crlf-git.md) — os ~51 arquivos "M" do seagate são só fim de linha; checar com --ignore-cr-at-eol
+- [Escrita anti-IA](escrita-anti-ia.md) — mínimo de travessões e ponto-e-vírgula; cuidado com parágrafos longos

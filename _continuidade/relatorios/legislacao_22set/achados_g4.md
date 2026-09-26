@@ -1,0 +1,83 @@
+# Achados — grupo 4 (caps. 09, 10, 11)
+
+Fonte de conferência: `mcp__legislacao__buscar_legislacao` (texto consolidado, normas.leg.br/Planalto). A base não contém a CF/88 nem o ADCT (nenhum resultado com `tipo=CON`), nem o texto consolidado do Decreto 3.048/1999 (só os decretos alteradores); afirmações que dependem só desses textos foram tratadas como "não localizado".
+
+---
+
+# Capítulo 09 — Aposentadoria rural e híbrida
+
+## Divergências
+
+### cap 09, L53 (e L470-474, seção 9.27) — gravidade MÉDIA
+**Livro:** "O art. 143 da Lei n. 8.213/91 previu regra de transição probatória para o segurado especial, sucessivamente prorrogada até 31/12/2025"
+**Fonte:** Lei 11.718/2008, art. 2º — "Para o trabalhador rural empregado, o prazo previsto no art. 143 da Lei nº 8.213, de 24 de julho de 1991, fica prorrogado até o dia 31 de dezembro de 2010. Parágrafo único. Aplica-se o disposto no caput deste artigo ao trabalhador rural enquadrado na categoria de segurado contribuinte individual que presta serviços de natureza rural, em caráter eventual, a 1 (uma) ou mais empresas, sem relação de emprego." Lei 11.718/2008, art. 3º — "Na concessão de aposentadoria por idade do empregado rural, em valor equivalente ao salário mínimo, serão contados para efeito de carência: I - até 31 de dezembro de 2010, a atividade comprovada na forma do art. 143 (...); II - de janeiro de 2011 a dezembro de 2015, cada mês comprovado de emprego, multiplicado por 3 (três) (...); III - de janeiro de 2016 a dezembro de 2020, cada mês comprovado de emprego, multiplicado por 2 (dois)".
+**Problema:** A prorrogação do art. 143 alcança o empregado rural e o contribuinte individual eventual, não o segurado especial (para este, desde a Lei 11.718/2008 a dispensa de contribuição é regra permanente: art. 39, I, e art. 48, § 2º). O texto apresenta a prorrogação como dirigida ao segurado especial.
+**Correção sugerida:** "O art. 143 (...) previu regra de transição para o trabalhador rural (empregado, eventual e segurado especial); a prorrogação da Lei n. 11.718/2008 (art. 2º) restringiu-se ao empregado rural e ao contribuinte individual que presta serviço rural eventual, pois para o segurado especial a comprovação de atividade em lugar de contribuições passou a ser regra permanente (arts. 39, I, e 48, § 2º)."
+
+### cap 09, L94 — gravidade BAIXA
+**Livro:** "O art. 11, § 7º, da Lei n. 8.213/91 (incluído pela Lei n. 11.718/2008) autoriza expressamente a contratação de empregados por prazo determinado em período de safra"
+**Fonte:** Lei 12.873/2013 (nova redação ao art. 11, § 7º, da Lei 8.213/91) — "§ 7º O grupo familiar poderá utilizar-se de empregados contratados por prazo determinado ou de trabalhador de que trata a alínea g do inciso V do caput, à razão de no máximo 120 (cento e vinte) pessoas por dia no ano civil, em períodos corridos ou intercalados ou, ainda, por tempo equivalente em horas de trabalho, não sendo computado nesse prazo o período de afastamento em decorrência da percepção de auxílio-doença."
+**Problema:** A redação vigente (Lei 12.873/2013) não restringe a contratação a "épocas de safra" (expressão da redação original de 2008) e acrescenta a ressalva do auxílio-doença; o livro descreve a redação de 2008 como se fosse a atual.
+**Correção sugerida:** "O art. 11, § 7º (incluído pela Lei n. 11.718/2008, com redação da Lei n. 12.873/2013) autoriza a utilização de empregados por prazo determinado ou de trabalhadores eventuais, à razão de no máximo 120 pessoas/dia no ano civil, corridos ou intercalados, não computado o período de auxílio-doença."
+
+### cap 09, L156 — gravidade MÉDIA
+**Livro:** "O art. 106 (...) prevê rol exemplificativo (...), cujo caráter não taxativo é reforçado pelo respectivo parágrafo único (incluído pela Lei n. 11.718/2008)"
+**Fonte:** Lei 8.213/91, art. 106, caput — "A comprovação do exercício de atividade rural será feita, complementarmente à autodeclaração de que trata o § 2º e ao cadastro de que trata o § 1º, ambos do art. 38-B desta Lei, por meio de, entre outros: (“Caput” do artigo com redação dada pela Lei nº 13.846, de 18/6/2019)". O artigo consolidado tem apenas incisos I a X; não há parágrafo único.
+**Problema:** O art. 106 não possui parágrafo único; o caráter exemplificativo decorre da expressão "entre outros" do caput, na redação da Lei 13.846/2019.
+**Correção sugerida:** "(...) cujo caráter não taxativo é explicitado pela expressão 'entre outros' do caput, na redação dada pela Lei n. 13.846/2019."
+
+### cap 09, L156 — gravidade MÉDIA
+**Livro:** "as anotações extemporâneas (...) gozam de presunção relativa de veracidade (art. 29, § 3º, da CLT, com redação da Lei n. 13.874/2019; Súmula 12/TST)"
+**Fonte:** CLT (Decreto-Lei 5.452/1943), art. 29, § 3º — "A falta de cumprimento pelo empregador do disposto neste artigo acarretará a lavratura do auto de infração, pelo Fiscal do Trabalho, que deverá, de ofício, comunicar a falta de anotação ao órgão competente, para o fim de instaurar o processo de anotação. (Parágrafo acrescido pelo Decreto-Lei nº 229, de 28/2/1967, com redação dada pela Lei nº 7.855, de 24/10/1989)". A Lei 13.874/2019 alterou apenas o caput e acresceu os §§ 6º a 8º.
+**Problema:** O § 3º trata de auto de infração, não de presunção de veracidade; e sua redação é da Lei 7.855/1989, não da Lei 13.874/2019. A presunção relativa de veracidade das anotações é construção jurisprudencial (Súmula 12/TST; Súmula 225/STF).
+**Correção sugerida:** Suprimir a remissão ao art. 29, § 3º, da CLT, mantendo apenas "Súmula 12/TST" (e, se desejado, "Súmula 225/STF").
+
+### cap 09, L158 (contexto do trecho de L156) — gravidade MÉDIA
+**Livro:** "Também integra o rol a declaração fundamentada do sindicato que represente o trabalhador rural (...) homologada pelo INSS"
+**Fonte:** Lei 8.213/91, art. 106, inciso III — "III - (Revogado pela Medida Provisória nº 871, de 18/1/2019, convertida na Lei nº 13.846, de 18/6/2019)".
+**Problema:** A declaração sindical deixou de integrar o rol legal do art. 106 desde a MP 871/2019 (Lei 13.846/2019); o texto a apresenta como integrante do rol vigente.
+**Correção sugerida:** "Integrava o rol, até a revogação do inciso III pela MP n. 871/2019 (Lei n. 13.846/2019), a declaração fundamentada do sindicato (...); a jurisprudência continua a admiti-la como início de prova material quando corroborada."
+
+### cap 09, L312 — gravidade MÉDIA
+**Livro:** "a parcela de 0,2% destinada ao SENAR (art. 25, § 1º, acrescentado pela Lei n. 10.256/2001)"
+**Fonte:** Lei 9.528/1997, art. 6º — "A contribuição do empregador rural pessoa física e a do segurado especial, referidos, respectivamente, na alínea a do inciso V e no inciso VII do art. 12 da Lei nº 8.212, de 24 de julho de 1991, para o Serviço Nacional de Aprendizagem Rural (SENAR), criado pela Lei nº 8.315, de 23 de dezembro de 1991, é de zero vírgula dois por cento, incidente sobre a receita bruta proveniente da comercialização de sua produção rural. (“Caput” do artigo com redação dada pela Lei nº 10.256, de 9/7/2001)". Lei 8.212/91, art. 25, § 1º — "O segurado especial de que trata este artigo, além da contribuição obrigatória referida no caput, poderá contribuir, facultativamente, na forma do art. 21 desta Lei. (Parágrafo com redação dada pela Lei nº 8.540, de 22/12/1992)".
+**Problema:** A contribuição ao SENAR do segurado especial está no art. 6º da Lei 9.528/97 (redação da Lei 10.256/2001), não no art. 25, § 1º, da Lei 8.212/91, que trata da contribuição facultativa.
+**Correção sugerida:** "a parcela de 0,2% destinada ao SENAR (art. 6º da Lei n. 9.528/1997, com redação da Lei n. 10.256/2001)".
+
+### cap 09, L340 — gravidade MÉDIA
+**Livro:** "O art. 38-B da Lei n. 8.213/91 (incluído pela Lei n. 13.846/2019) dispõe que o segurado especial informará ao INSS, anualmente, a comercialização de sua produção rural, por meio de Declaração do Segurado Especial (DSE)."
+**Fonte:** Lei 8.213/91, art. 38-B — "O INSS utilizará as informações constantes do cadastro de que trata o art. 38-A para fins de comprovação do exercício da atividade e da condição do segurado especial e do respectivo grupo familiar. (“Caput” do artigo acrescido pela Lei nº 13.134, de 16/6/2015) (...) § 2º Para o período anterior a 1º de janeiro de 2023, o segurado especial comprovará o tempo de exercício da atividade rural por meio de autodeclaração ratificada por entidades públicas credenciadas (...) (redação dada pela Lei nº 13.846, de 18/6/2019)". A atualização anual está no art. 38-A, § 1º ("preverá a manutenção e a atualização anual do cadastro") e § 4º ("será feita até 30 de junho do ano subsequente"), e a "declaração anual" no Decreto 10.410/2020 (RPS, art. 19-D, § 2º): "A manutenção e a atualização de que trata o § 1º ocorrerão por meio da apresentação, pelo segurado especial, de declaração anual ou de documento equivalente".
+**Problema:** O caput do art. 38-B foi incluído pela Lei 13.134/2015 (a Lei 13.846/2019 deu redação aos §§); o dispositivo não trata de declaração anual de comercialização, mas do uso do cadastro do art. 38-A e da autodeclaração ratificada. A declaração anual decorre do art. 38-A, §§ 1º e 4º, e do RPS, art. 19-D, § 2º.
+**Correção sugerida:** "O art. 38-A, §§ 1º e 4º, da Lei n. 8.213/91 (com redação da Lei n. 13.846/2019) prevê a atualização anual do cadastro do segurado especial, feita por declaração anual (RPS, art. 19-D, § 2º); o art. 38-B (caput incluído pela Lei n. 13.134/2015, §§ pela Lei n. 13.846/2019) determina o uso desse cadastro pelo INSS e, para o período anterior a 1º/1/2023, a comprovação por autodeclaração ratificada por entidades públicas credenciadas."
+
+### cap 09, L343 — gravidade BAIXA
+**Livro:** "O art. 38-A (...) prevê que o INSS utilizará as informações constantes do CNIS, do CAF e de outros cadastros para comprovar o exercício da atividade rural"
+**Fonte:** Lei 8.213/91, art. 38-A, caput — "O Ministério da Economia manterá sistema de cadastro dos segurados especiais no Cadastro Nacional de Informações Sociais (CNIS) (...) e poderá firmar acordo de cooperação com o Ministério da Agricultura, Pecuária e Abastecimento e com outros órgãos (...) para a manutenção e a gestão do sistema de cadastro."; § 3º — "O INSS, no ato de habilitação ou de concessão de benefício, deverá verificar a condição de segurado especial (...) considerando, dentre outros, o que consta do Cadastro Nacional de Informações Sociais (CNIS)".
+**Problema:** O art. 38-A cuida da manutenção do cadastro pelo Ministério; o "uso das informações do cadastro" pelo INSS é o art. 38-B, caput. O CAF não é mencionado na lei.
+**Correção sugerida:** "O art. 38-A (...) prevê a manutenção, pelo Ministério, de cadastro dos segurados especiais no CNIS, e o art. 38-B determina que o INSS utilize essas informações para comprovar a atividade rural (o CAF ingressa por via regulamentar e por acordo de cooperação)."
+
+### cap 09, L410 — gravidade MÉDIA
+**Livro:** "valor da causa, que corresponde à soma de 12 prestações vincendas acrescida das parcelas vencidas (art. 3º, § 3º, da Lei n. 10.259/2001, c/c art. 292, VI, do CPC/2015)"
+**Fonte:** Lei 10.259/2001, art. 3º — "§ 2º Quando a pretensão versar sobre obrigações vincendas, para fins de competência do Juizado Especial, a soma de doze parcelas não poderá exceder o valor referido no art. 3º, caput. § 3º No foro onde estiver instalada Vara do Juizado Especial, a sua competência é absoluta." CPC/2015, art. 292 — "VI - na ação em que há cumulação de pedidos, a quantia correspondente à soma dos valores de todos eles; (...) § 1º Quando se pedirem prestações vencidas e vincendas, considerar-se-á o valor de umas e outras. § 2º O valor das prestações vincendas será igual a uma prestação anual, se a obrigação for por tempo indeterminado ou por tempo superior a 1 (um) ano".
+**Problema:** O dispositivo da Lei 10.259 é o § 2º (o § 3º trata da competência absoluta) e, no CPC, a regra das vencidas + vincendas está nos §§ 1º e 2º do art. 292, não no inciso VI (cumulação de pedidos).
+**Correção sugerida:** "(art. 3º, § 2º, da Lei n. 10.259/2001, c/c art. 292, §§ 1º e 2º, do CPC/2015)".
+
+### cap 09, L470 — gravidade BAIXA
+**Livro:** "O art. 143 da Lei n. 8.213/91, em sua redação original, previu regra de transição (...) nos seguintes termos: o trabalhador rural, ora enquadrado como segurado obrigatório no RGPS, podia requerer aposentadoria por idade (...)"
+**Fonte:** Lei 8.213/91, art. 143 — "(...) em número de meses idêntico à carência do referido benefício. (Artigo com redação dada pela Lei n° 9.063, de 14/6/1995) (Vide art. 2º da Lei nº 11.718, de 20/6/2008)".
+**Problema:** O texto transcrito é o da redação dada pela Lei 9.063/1995, não a "redação original".
+**Correção sugerida:** "O art. 143 (...), na redação dada pela Lei n. 9.063/1995, previu (...)".
+
+### cap 09, L477 — gravidade BAIXA
+**Livro:** "A diferença reside na expressão 'período imediatamente anterior ao requerimento' (art. 143): a regra de transição exige contemporaneidade (...), enquanto a regra permanente do art. 48, § 2º, foi interpretada pelo STJ (Tema 642) como igualmente exigente"
+**Fonte:** Lei 8.213/91, art. 48, § 2º — "o trabalhador rural deve comprovar o efetivo exercício de atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, por tempo igual ao número de meses de contribuição correspondente à carência (...)".
+**Problema:** A expressão "período imediatamente anterior ao requerimento" consta literalmente também do art. 48, § 2º (e do art. 39, I); não há diferença textual entre os dispositivos nesse ponto (o próprio livro, em L126, atribui a expressão ao art. 48, § 2º).
+**Correção sugerida:** "Ambos os dispositivos empregam a expressão 'período imediatamente anterior ao requerimento'; a diferença é de âmbito subjetivo e temporal (o art. 143 tinha prazo de vigência e alcançava também o empregado rural e o eventual), não de exigência de contemporaneidade."
+
+## Não localizado (duvidoso)
+- cap 09, L46: "O ADCT, em seu art. 59, assegurou a manutenção dos benefícios concedidos pela legislação de amparo ao trabalhador rural" — a CF/ADCT não está na base. Pelo texto conhecido, o art. 59 do ADCT fixa prazo para apresentação dos projetos de lei da seguridade social e implantação progressiva dos planos em 18 meses; não trata de manutenção de benefícios rurais (o art. 58 cuida da revisão dos benefícios em salários-mínimos). Recomenda-se conferir e, provavelmente, reescrever a frase como inferência (a legislação anterior, LC 11/71, permaneceu aplicável até a Lei 8.213/91) sem atribuí-la ao art. 59.
+- cap 09, L474: cadeia de prorrogações "Lei n. 12.873/2013, até 31/12/2015; Lei n. 13.183/2015, até 31/12/2020; Lei n. 14.131/2021, até 31/12/2025" — a base não registra nenhuma alteração nos arts. 2º e 3º da Lei 11.718/2008 (texto recuperado com 31/12/2010 e sem anotação de redação posterior), e o Decreto 10.410/2020 (RPS, art. 183-A, § 2º) ainda se refere a "comprovação do tempo de contribuição até 31 de dezembro de 2010 do empregado rural". A Lei 14.131/2021 está indexada na base e nenhum artigo dela sobre o art. 143 foi recuperado. As datas e a autoria devem ser conferidas na fonte antes da publicação; se confirmadas, ajustar também o destinatário (empregado rural/eventual, ver divergência L53).
+- cap 09, L262: "Decreto n. 3.048/1999, art. 9º, com a redação do Decreto n. 10.410/2020, que explicita poder o segurado especial exercer atividade remunerada em período de entressafra ou de defeso" — a expressão "em período de entressafra ou do defeso" consta da redação do Decreto 6.722/2008 (art. 9º, § 8º, III, do RPS); a Lei 12.873/2013 retirou-a do art. 11, § 9º, III, da Lei 8.213 ("exercício de atividade remunerada em período não superior a 120 dias, corridos ou intercalados, no ano civil"). Não foi possível recuperar a redação do RPS dada pelo Decreto 10.410/2020 para confirmar se manteve a expressão.
+
+## Conferido sem divergência
+Cerca de 30 dispositivos conferidos, entre eles: Lei 8.213/91, arts. 39, I (redação Lei 13.846/2019), 48, §§ 1º a 4º (§ 1º Lei 9.876/99; §§ 2º a 4º Lei 11.718/2008 — idades 60/55 e 65/60 na híbrida), 108 (justificação), 143 (texto e remissão ao art. 2º da Lei 11.718), 11, VII e § 1º (Lei 11.718/2008), 11, § 9º, III (120 dias, Lei 12.873/2013), 38-A (Lei 11.718/2008, redação Lei 13.846/2019); Lei 8.212/91, art. 25, I (1,2%, Lei 13.606/2018) e II (0,1%); Lei 11.718/2008, arts. 2º, 3º e 48; EC 103/2019, art. 26, caput e §§ 2º e 5º (60% + 2 p.p. acima de 20/15 anos; média de 100% desde 07/1994); Lei 10.259/2001, art. 3º, caput; CPC, art. 292; RPS (Dec. 10.410/2020), arts. 56, 142 e 19-D; Decreto 9.064/2017 (CAF) não conferido, mas sem indício de erro.

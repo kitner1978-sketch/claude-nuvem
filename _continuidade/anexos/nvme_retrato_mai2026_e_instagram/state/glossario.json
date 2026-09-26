@@ -1,0 +1,946 @@
+{
+  "versao": "1.0",
+  "termos": [
+    {
+      "termo": "RGPS",
+      "definicao": "Regime Geral de Previdência Social — regime previdenciário de caráter contributivo e filiação obrigatória para trabalhadores da iniciativa privada, previsto no art. 201 da CF/88",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "RPPS",
+      "definicao": "Regime Próprio de Previdência Social — regime previdenciário dos servidores públicos titulares de cargos efetivos, previsto no art. 40 da CF/88",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "Seguridade social",
+      "definicao": "Conjunto integrado de ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os direitos relativos à saúde, à previdência e à assistência social (art. 194, CF/88)",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "CAPs",
+      "definicao": "Caixas de Aposentadorias e Pensões — organizações previdenciárias por empresa, criadas a partir da Lei Eloy Chaves (1923)",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "IAPs",
+      "definicao": "Institutos de Aposentadorias e Pensões — organizações previdenciárias por categoria profissional, criados a partir de 1933",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "INPS",
+      "definicao": "Instituto Nacional de Previdência Social — autarquia que unificou os IAPs em 1966 (Decreto-Lei 72/1966)",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "SINPAS",
+      "definicao": "Sistema Nacional de Previdência e Assistência Social — sistema integrado criado pela Lei 6.439/1977",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "BPC/LOAS",
+      "definicao": "Benefício de Prestação Continuada da Lei Orgânica da Assistência Social — benefício assistencial de um salário mínimo ao idoso e à pessoa com deficiência que comprovem não possuir meios de prover a própria manutenção (art. 203, V, CF/88)",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "Princípio da solidariedade",
+      "definicao": "Princípio estruturante do sistema previdenciário, pelo qual as contribuições dos trabalhadores ativos financiam os benefícios dos inativos (pacto de gerações / repartição simples)",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "Desaposentação",
+      "definicao": "Tese jurídica (vedada pelo STF no Tema 503) que pretendia permitir ao aposentado renunciar à aposentadoria para obter nova aposentadoria mais vantajosa com base em contribuições posteriores",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "Fator previdenciário",
+      "definicao": "Mecanismo de cálculo do salário de benefício instituído pela Lei 9.876/1999, que leva em conta idade, tempo de contribuição e expectativa de vida — declarado constitucional pelo STF nas ADIs 2.110 e 2.111",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "Reafirmação da DER",
+      "definicao": "Possibilidade de computar requisitos implementados após o requerimento administrativo ou ajuizamento da ação, admitida pelo STJ no Tema 995",
+      "capitulo_origem": "cap_01"
+    },
+    {
+      "termo": "Segurado obrigatório",
+      "definicao": "Pessoa física filiada automaticamente ao RGPS pelo exercício de atividade remunerada, compreendendo cinco categorias: empregado, empregado doméstico, contribuinte individual, trabalhador avulso e segurado especial (art. 11, Lei 8.213/91)",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Segurado facultativo",
+      "definicao": "Maior de 14 anos que se filia voluntariamente ao RGPS mediante contribuição, desde que não incluído nas categorias de segurado obrigatório (art. 13, Lei 8.213/91)",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Segurado especial",
+      "definicao": "Pessoa física em atividade agropecuária, pesqueira ou extrativista em regime de economia familiar, em área de até 4 módulos fiscais (art. 11, VII, Lei 8.213/91, com redação da Lei 11.718/2008)",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Contribuinte individual",
+      "definicao": "Segurado obrigatório que exerce atividade remunerada por conta própria ou sem relação de emprego, incluindo empresário individual, autônomo e MEI (art. 11, V, Lei 8.213/91)",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Filiação",
+      "definicao": "Vínculo jurídico entre o segurado e a Previdência Social, automático para segurados obrigatórios e dependente de inscrição + recolhimento para o facultativo",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Inscrição",
+      "definicao": "Ato formal de cadastramento do segurado no sistema previdenciário — declaratório para o obrigatório, constitutivo para o facultativo",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Dependentes",
+      "definicao": "Beneficiários indiretos do RGPS organizados em três classes hierarquizadas (art. 16, Lei 8.213/91): I — cônjuge/companheiro/filhos; II — pais; III — irmãos. Classe superior exclui a inferior",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Período de graça",
+      "definicao": "Lapso temporal de manutenção da qualidade de segurado sem contribuição (art. 15, Lei 8.213/91) — 12 meses básicos, prorrogáveis para 24 (>120 contribuições) e +12 (desemprego involuntário), totalizando até 36 meses",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Economia familiar",
+      "definicao": "Regime de trabalho em que a atividade dos membros da família é indispensável à subsistência do núcleo, exercida em mútua dependência e colaboração, sem empregados permanentes (art. 11, § 7º, Lei 8.213/91)",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "MEI",
+      "definicao": "Microempreendedor Individual — modalidade especial de contribuinte individual com alíquota reduzida de 5% sobre o salário mínimo, sem direito à aposentadoria por tempo de contribuição (LC 123/2006 c/c Lei 12.470/2011)",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Simples Doméstico",
+      "definicao": "Sistema de arrecadação unificada para empregador doméstico via eSocial, com alíquota patronal de 8% INSS + 0,8% SAT + 8% FGTS (LC 150/2015)",
+      "capitulo_origem": "cap_02"
+    },
+    {
+      "termo": "Carência",
+      "definicao": "Número mínimo de contribuições mensais indispensáveis para que o beneficiário faça jus ao benefício (art. 24, Lei 8.213/91). Contada em competências, não se confunde com tempo de contribuição (TNU Tema 358)",
+      "capitulo_origem": "cap_03"
+    },
+    {
+      "termo": "Qualidade de segurado",
+      "definicao": "Condição jurídica de vinculação ao RGPS que habilita o segurado e seus dependentes ao recebimento de benefícios. Mantida durante o período de graça (art. 15, Lei 8.213/91) e perdida com a caducidade (art. 102)",
+      "capitulo_origem": "cap_03"
+    },
+    {
+      "termo": "Regra da metade (art. 27-A)",
+      "definicao": "Regra de reaquisição de carência após perda da qualidade de segurado: para benefícios por incapacidade, salário-maternidade e auxílio-reclusão, exige-se metade do período de carência em novas contribuições (Lei 13.846/2019)",
+      "capitulo_origem": "cap_03"
+    },
+    {
+      "termo": "DID / DII",
+      "definicao": "Data de Início da Doença (DID) e Data de Início da Incapacidade (DII) — distinção fundamental na perícia previdenciária: o benefício exige que a incapacidade (DII), não a doença (DID), seja posterior à filiação",
+      "capitulo_origem": "cap_03"
+    },
+    {
+      "termo": "Limbo previdenciário",
+      "definicao": "Situação em que o INSS cessa benefício por incapacidade (considera o segurado apto) mas o empregador recusa o retorno (considera-o inapto). TNU Tema 300: qualidade mantida até a rescisão contratual",
+      "capitulo_origem": "cap_03"
+    },
+    {
+      "termo": "Caducidade",
+      "definicao": "Efeito principal da perda da qualidade de segurado (art. 102, Lei 8.213/91): extinção dos direitos previdenciários inerentes à condição de segurado, salvo direito adquirido à aposentadoria (§ 1º) e exceção da Lei 10.666/2003",
+      "capitulo_origem": "cap_03"
+    },
+    {
+      "termo": "Aposentadoria por incapacidade permanente",
+      "definicao": "Benefício previdenciário não programado devido ao segurado incapaz e insusceptível de reabilitação para atividade que lhe garanta a subsistência (art. 42, Lei 8.213/91). Denominação dada pela EC 103/2019 à antiga aposentadoria por invalidez",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "Incapacidade omniprofissional",
+      "definicao": "Impossibilidade de exercer qualquer atividade laborativa remunerada que assegure o sustento — exigência da aposentadoria por incapacidade permanente, mitigada pela Súmula 47/TNU (análise das condições pessoais e sociais)",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "Grande invalidez (adicional de 25%)",
+      "definicao": "Acréscimo de 25% ao valor da aposentadoria por incapacidade permanente quando o segurado necessita de assistência permanente de outra pessoa (art. 45, Lei 8.213/91). Restrito a essa modalidade de aposentadoria (STF Tema 1.095)",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "NTEP",
+      "definicao": "Nexo Técnico Epidemiológico Previdenciário — instrumento de presunção relativa do nexo causal entre doença e trabalho, baseado na correlação estatística CID-10 × CNAE (Lei 11.430/2006, Decreto 6.042/2007)",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "Alta programada / COPES",
+      "definicao": "Sistema pelo qual o INSS fixa antecipadamente a data de cessação do auxílio por incapacidade temporária sem nova perícia (Cobertura Previdenciária Estimada — Lei 13.457/2017)",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "Pente-fino",
+      "definicao": "Programa de revisão em massa de benefícios por incapacidade pelo INSS, com base no art. 101 da Lei 8.213/91 (redação da Lei 13.457/2017). Isenções: 55 anos + 15 anos de benefício; 60 anos; incapacidade irreversível",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "DIB",
+      "definicao": "Data de Início do Benefício — marco temporal a partir do qual o segurado faz jus ao pagamento. Fixada conforme art. 43, Lei 8.213/91; Tema 626/STJ (citação válida se sem DER prévia); Tema 995/STJ (reafirmação da DER)",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "Doenças estigmatizantes (Tema 274/TNU)",
+      "definicao": "Enfermidades que impactam significativa e negativamente na funcionalidade social do segurado (HIV, hanseníase, transtornos mentais graves etc.), podendo justificar aposentadoria por incapacidade permanente mesmo com incapacidade parcial",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "Fungibilidade BPC / aposentadoria por incapacidade",
+      "definicao": "Possibilidade de o juiz conceder BPC quando indeferida a aposentadoria por incapacidade (ou vice-versa), se preenchidos os requisitos do benefício alternativo — admitida pela jurisprudência dos JEFs",
+      "capitulo_origem": "cap_06"
+    },
+    {
+      "termo": "Auxílio por incapacidade temporária",
+      "definicao": "Benefício previdenciário substitutivo da renda do trabalho, devido ao segurado incapacitado para sua atividade habitual por mais de 15 dias consecutivos (art. 59, Lei 8.213/91). Denominação dada pela EC 103/2019 ao antigo auxílio-doença",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "B31 / B91",
+      "definicao": "Espécies do auxílio por incapacidade temporária: B31 (previdenciário — doença/acidente comum, carência 12 contribuições, Justiça Federal) e B91 (acidentário — acidente do trabalho/doença ocupacional, carência dispensada, Justiça Estadual, estabilidade 12 meses)",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "COPES / Alta programada",
+      "definicao": "Cobertura Previdenciária Estimada — sistema pelo qual o INSS fixa antecipadamente a DCB do auxílio por incapacidade temporária sem nova perícia (art. 60, §§ 8º-9º, Lei 8.213/91, incluídos pela Lei 13.457/2017). Constitucionalidade declarada pelo STF no Tema 1.196 (set/2025)",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "Atestmed",
+      "definicao": "Sistema de análise documental remota do INSS para concessão de auxílio por incapacidade temporária sem perícia presencial. Portaria MPS/INSS 13/2026: até 90 dias por análise, 180 dias acumulados",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "DCB",
+      "definicao": "Data de Cessação do Benefício — marco temporal fixado administrativamente (na alta programada/COPES) ou judicialmente para a cessação do auxílio por incapacidade temporária",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "Reabilitação profissional",
+      "definicao": "Serviço previdenciário obrigatório disciplinado nos arts. 89 a 93 da Lei 8.213/91, que proporciona ao segurado incapacitado os meios para participar do mercado de trabalho. O auxílio não cessa até a conclusão do programa (art. 62)",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "Certificado de reabilitação (art. 92)",
+      "definicao": "Documento individual emitido pela Previdência Social indicando as atividades que podem ser exercidas pelo segurado reabilitado. Pressuposto para cessação do auxílio, mas não suficiente sem efetiva inserção no mercado",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "Cotas para PCD/reabilitados (art. 93)",
+      "definicao": "Obrigação de empresas com 100+ empregados de preencher 2% a 5% dos cargos com reabilitados ou PCD habilitadas (Lei 8.213/91, art. 93). Percentuais progressivos: até 200 = 2%; 201-500 = 3%; 501-1.000 = 4%; 1.001+ = 5%",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "Súmula 72/TNU",
+      "definicao": "Permite recebimento de benefício por incapacidade durante período de exercício de atividade remunerada, quando comprovada a incapacidade para as atividades habituais na época do trabalho",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "Auxílio-acidente (art. 86)",
+      "definicao": "Benefício indenizatório concedido ao segurado após consolidação de lesões com sequelas que reduzam a capacidade para o trabalho habitual. Natureza complementar, não substitutiva. DIB: dia seguinte à cessação do auxílio por incapacidade temporária (Tema 862/STJ)",
+      "capitulo_origem": "cap_07"
+    },
+    {
+      "termo": "Aposentadoria especial",
+      "definicao": "Benefício previdenciário de natureza programada-preventiva, devido ao segurado exposto a agentes nocivos durante 15, 20 ou 25 anos (arts. 57-58, Lei 8.213/91). Pós-EC 103/2019: exige também idade mínima (55/58/60 anos) ou pontuação (66/76/86 pontos na transição)",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "PPP (Perfil Profissiográfico Previdenciário)",
+      "definicao": "Documento emitido pela empresa com base no LTCAT, contendo informações sobre atividades, agentes nocivos, intensidade e EPI. Obrigatório para períodos a partir de 01/01/2004; eletrônico via eSocial (evento S-2240) desde 01/01/2023",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "LTCAT",
+      "definicao": "Laudo Técnico de Condições Ambientais do Trabalho — documento técnico elaborado por médico do trabalho ou engenheiro de segurança que embasa o PPP com avaliação qualitativa e quantitativa dos agentes nocivos",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "Tema 555/STF (ARE 664.335)",
+      "definicao": "Duas teses: (1) EPI eficaz neutraliza nocividade → sem direito à aposentadoria especial; (2) Exceção: para ruído, declaração de EPI eficaz no PPP é irrelevante — atividade especial reconhecida independentemente",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "Tema 709/STF (RE 791.961)",
+      "definicao": "Vedação ao trabalho em condições especiais pelo aposentado especial. Se continua ou retorna a atividade especial, benefício é cessado. Atividade comum é permitida",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "ADI 6.309",
+      "definicao": "Ação Direta de Inconstitucionalidade ajuizada pela CNTI contra a EC 103/2019: questiona idade mínima, vedação à conversão e redução do cálculo da aposentadoria especial. Julgamento pendente (dez/2025: 3×2, vista André Mendonça)",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "Tema 534/STJ",
+      "definicao": "Caráter exemplificativo das normas regulamentadoras de agentes nocivos — permite reconhecimento de atividade especial mesmo para agentes não listados no Anexo IV do Decreto 3.048/99 (ex.: eletricidade)",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "Conversão de tempo especial (fatores)",
+      "definicao": "Transformação de tempo especial em comum com acréscimo: 25 anos → fator 1,40 (H) / 1,20 (M); 20 anos → 1,75 / 1,50; 15 anos → 2,33 / 2,00. Vedada para períodos pós-13/11/2019 (art. 25, §2º, EC 103/2019)",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "Enquadramento por categoria profissional",
+      "definicao": "Reconhecimento de atividade especial pelo simples exercício de profissão listada nos Decretos 53.831/1964 e 83.080/1979, sem necessidade de prova de exposição. Admitido apenas até 28/04/1995 (véspera da Lei 9.032/1995)",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "IF-BrA",
+      "definicao": "Índice de Funcionalidade Brasileiro aplicado para fins de Aposentadoria — instrumento de avaliação biopsicossocial da deficiência baseado na CIF/OMS, com 7 domínios, utilizado para classificar o grau de deficiência (leve/moderada/grave) na LC 142/2013",
+      "capitulo_origem": "cap_08"
+    },
+    {
+      "termo": "Aposentadoria por idade rural",
+      "definicao": "Benefício previdenciário devido ao trabalhador rural que completar 60 anos (homem) ou 55 anos (mulher), com comprovação de 180 meses de atividade rural. Art. 48, §§ 1º-2º, Lei 8.213/91, c/c art. 201, § 7º, II, CF/88 (EC 103/2019)",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Aposentadoria por idade híbrida",
+      "definicao": "Modalidade de aposentadoria por idade (art. 48, § 3º, Lei 8.213/91, incluído pela Lei 11.718/2008) que permite a soma de períodos rurais e urbanos para atingir a carência de 180 contribuições. Idade: 65 (H) / 60 (M). STJ Temas 1.007 e 1.032",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Início de prova material",
+      "definicao": "Documento idôneo que evidencia a atividade rural, exigido como suporte mínimo para a prova testemunhal (Súmula 149/STJ). Não precisa cobrir todo o período de carência (Súmula 14/TNU). Deve ser contemporâneo à época dos fatos (Súmula 34/TNU)",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "DAP (Declaração de Aptidão ao Pronaf)",
+      "definicao": "Documento emitido por entidades credenciadas que qualifica o agricultor familiar e dá acesso ao Pronaf. Constitui robusto início de prova material da condição de segurado especial. Sendo substituída pelo CAF (Cadastro Nacional da Agricultura Familiar)",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Tema 642/STJ",
+      "definicao": "REsp 1.354.908/SP: o segurado especial deve estar laborando no campo quando completar a idade mínima para aposentadoria rural, ressalvado o direito adquirido de quem implementou ambos os requisitos enquanto exercia atividade rural",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Tema 1.007/STJ",
+      "definicao": "REsp 1.788.404/SP: tempo rural remoto e descontínuo, anterior à Lei 8.213/91, pode ser computado para aposentadoria híbrida sem recolhimento de contribuições, independentemente da predominância do labor misto ou do tipo de trabalho no implemento etário",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Tema 1.115/STJ",
+      "definicao": "REsp 1.864.285/SP: propriedade com área superior a 4 módulos fiscais não descaracteriza, por si só, o regime de economia familiar do segurado especial — análise das circunstâncias do caso concreto",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Boia-fria / volante / safrista",
+      "definicao": "Trabalhador rural que presta serviço de natureza temporária a diferentes empregadores, sem vínculo permanente. Enquadramento como empregado rural (art. 11, I, 'a'). Prova material mitigada pela jurisprudência. Faz jus à redução etária de 5 anos (art. 48, § 1º)",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Art. 143, Lei 8.213/91",
+      "definicao": "Regra de transição para comprovação de atividade rural: dispensa contribuições, bastando prova de exercício rural no período imediatamente anterior ao requerimento. Prorrogada sucessivamente até 31/12/2023 (Lei 14.131/2021)",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Módulo fiscal",
+      "definicao": "Unidade de medida instituída pela Lei 6.746/1979, variável por município, usada para definir o limite de área para segurado especial (4 módulos fiscais). Varia de 5 a 110 hectares conforme a região e o tipo de exploração predominante",
+      "capitulo_origem": "cap_09"
+    },
+    {
+      "termo": "Miserabilidade (BPC)",
+      "definicao": "Requisito objetivo do BPC consistente na hipossuficiência econômica — renda per capita familiar inferior a 1/4 do salário mínimo (presunção absoluta, art. 20, § 3º, LOAS) ou demonstrada por outros meios quando a renda supera esse patamar (STF Tema 27, STJ Tema 185)",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Modelo biopsicossocial",
+      "definicao": "Paradigma de avaliação da deficiência que analisa a limitação funcional do indivíduo em interação com barreiras ambientais e sociais, fundamentado na CIF/OMS e consagrado pela CDPD (Decreto 6.949/2009), Lei 13.146/2015 e art. 20, § 6º, LOAS",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Impedimento de longo prazo",
+      "definicao": "Requisito temporal da deficiência para fins do BPC — impedimento que produza efeitos pelo prazo mínimo de 2 anos (art. 20, § 10, LOAS, incluído pela Lei 12.470/2011). Aferido pela prognose médica, não pela duração já decorrida",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "CIF/OMS",
+      "definicao": "Classificação Internacional de Funcionalidade, Incapacidade e Saúde — instrumento da OMS que organiza a avaliação da deficiência em cinco dimensões: funções do corpo, estruturas do corpo, atividades e participação, fatores ambientais e fatores pessoais",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "CDPD (Convenção sobre Direitos das Pessoas com Deficiência)",
+      "definicao": "Convenção internacional aprovada pelo Decreto Legislativo 186/2008 e promulgada pelo Decreto 6.949/2009 com status de emenda constitucional (art. 5º, § 3º, CF/88). Define pessoa com deficiência pelo modelo social/biopsicossocial",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Auxílio-inclusão",
+      "definicao": "Benefício assistencial de 1/2 salário mínimo destinado à pessoa com deficiência que, tendo sido beneficiária do BPC, passe a exercer atividade remunerada como segurada obrigatória do RGPS (art. 26, LOAS, com redação da Lei 14.176/2021; regulamentado pelo Decreto 11.898/2024)",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Tema 27/STF (RE 567.985)",
+      "definicao": "Declaração de inconstitucionalidade sem pronúncia de nulidade do art. 20, § 3º, LOAS — o critério de 1/4 do salário mínimo não é mais parâmetro exclusivo de miserabilidade, admitindo-se outros meios de prova (DJe 03/10/2013)",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Tema 185/STJ (REsp 1.112.557)",
+      "definicao": "O critério de 1/4 do salário mínimo constitui presunção objetiva e relativa de miserabilidade — não é a única forma de comprovar a necessidade, admitindo prova em contrário (DJe 20/11/2009)",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Tema 217/TNU (fungibilidade BPC)",
+      "definicao": "Na hipótese de não ser demonstrado o preenchimento dos requisitos de benefício previdenciário por incapacidade, deve o julgador analisar se estão presentes os pressupostos para concessão de BPC-LOAS, e vice-versa",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Tema 173/STF (RE 587.970)",
+      "definicao": "Os estrangeiros residentes no País são beneficiários da assistência social prevista no art. 203, V, da CF/88, uma vez preenchidos os requisitos constitucionais e legais (DJe 22/09/2017)",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Avaliação biopsicossocial unificada",
+      "definicao": "Instrumento padronizado de avaliação da deficiência baseado na CIF/OMS, previsto no art. 2º-A da Lei 13.146/2015 e na Lei 14.176/2021, com implementação obrigatória a partir de março de 2026. Visa substituir os múltiplos critérios existentes por sistema único",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "RMV (Renda Mensal Vitalícia)",
+      "definicao": "Benefício anterior ao BPC, instituído pela Lei 6.179/1974, que assegurava meio salário mínimo a maiores de 70 anos ou inválidos que tivessem exercido atividade abrangida pelo RGPS. Substituído pelo BPC a partir de 1996",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "RE 580.963/STF",
+      "definicao": "Declaração de inconstitucionalidade sem pronúncia de nulidade do parágrafo único do art. 34 do Estatuto do Idoso, por violação da isonomia ao excluir do cálculo da renda per capita apenas o BPC de idoso, discriminando PCD (DJe 14/11/2013). Superado pela Lei 14.176/2021",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "CadÚnico",
+      "definicao": "Cadastro Único para Programas Sociais do Governo Federal — registro obrigatório para concessão administrativa do BPC (art. 20, § 13, LOAS, incluído pela Lei 14.176/2021), mas cuja ausência não impede concessão judicial",
+      "capitulo_origem": "cap_18"
+    },
+    {
+      "termo": "Pensão por morte",
+      "definicao": "Benefício previdenciário derivado, devido aos dependentes do segurado falecido, que visa substituir a renda perdida com o óbito (art. 201, V, CF/88; arts. 74-79, Lei 8.213/91)",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Sistema de cotas (pensão por morte)",
+      "definicao": "Regime de cálculo da pensão por morte introduzido pelo art. 23 da EC 103/2019: cota familiar de 50% + 10% por dependente, até 100%. Cotas individuais não são reversíveis aos demais dependentes",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Dependentes — Classes I, II e III",
+      "definicao": "Organização hierárquica dos dependentes do segurado (art. 16, Lei 8.213/91): Classe I (cônjuge, companheiro, filhos); Classe II (pais); Classe III (irmãos). Classe superior exclui inferior",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Tempus regit actum",
+      "definicao": "Princípio pelo qual a pensão por morte é regida pela lei vigente na data do óbito do segurado, independentemente da data do requerimento ou da decisão judicial",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Morte presumida (previdenciária)",
+      "definicao": "Hipótese de concessão provisória de pensão por morte quando o segurado desapareceu em circunstâncias de risco ou foi declarado ausente judicialmente (art. 78, Lei 8.213/91)",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Não reversibilidade das cotas",
+      "definicao": "Regra da EC 103/2019 (art. 23, § 1º) pela qual a cota de dependente que perde essa qualidade é extinta, sem redistribuição aos demais dependentes",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Escalonamento na acumulação",
+      "definicao": "Sistema de redução progressiva do benefício menos vantajoso na acumulação de pensão por morte com aposentadoria (art. 24, § 2º, EC 103/2019): faixas de 60%, 40%, 20% e 10% sobre valores excedentes a cada SM",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Pensão por morte acidentária (B93)",
+      "definicao": "Pensão por morte decorrente de acidente do trabalho ou doença ocupacional, de competência da Justiça Estadual (Súmula 501/STF), cumulável com indenização civil",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Habilitação tardia",
+      "definicao": "Inclusão de novo dependente na pensão por morte após o benefício já estar em pagamento a outros dependentes (art. 76, Lei 8.213/91), com rateio a partir da data do novo requerimento",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Temporariedade da pensão (cônjuge)",
+      "definicao": "Regime introduzido pela Lei 13.135/2015 que vincula a duração da pensão por morte do cônjuge à idade do beneficiário na data do óbito (tabela de 3 a 20 anos, vitalícia a partir de 45 anos)",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Concausa (acidente do trabalho)",
+      "definicao": "Situação em que a atividade laboral não é causa exclusiva do óbito, mas contribuiu para o evento, gerando direito à pensão acidentária (art. 21, I, Lei 8.213/91)",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Tema 529/STF",
+      "definicao": "RE 1.045.273 — STF vedou o reconhecimento de uniões estáveis simultâneas para fins de rateio de pensão por morte, afirmando o princípio da monogamia",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "Tema 1.271/STF",
+      "definicao": "RE 1.442.021 — PENDENTE DE JULGAMENTO — definirá se o menor sob guarda judicial tem direito à pensão por morte do guardião segurado, considerando a EC 103/2019",
+      "capitulo_origem": "cap_19"
+    },
+    {
+      "termo": "JEF (Juizado Especial Federal)",
+      "definicao": "Órgão da Justiça Federal criado pela Lei 10.259/2001 para processar causas de até 60 salários mínimos. Rito sumaríssimo, dispensa de advogado em 1º grau, gratuidade processual. Competência absoluta por valor (Tema 1.277/STF)",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "Tema 1.277/STF (RE 1.426.083)",
+      "definicao": "Tese fixada em 25/08/2025 (rel. Min. Alexandre de Moraes): a competência absoluta dos JEFs restringe-se ao valor da causa; a escolha territorial é faculdade do demandante (art. 109, § 2º, CF/88)",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "Renúncia ao excedente (JEF)",
+      "definicao": "Faculdade processual do autor de renunciar ao valor que excede 60 SM para ajuizar no JEF. Deve ser expressa na inicial, é irrevogável e refere-se ao valor da causa (não da condenação)",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "Jus postulandi (JEF)",
+      "definicao": "Faculdade de postular em juízo sem advogado nos JEFs, em 1º grau de jurisdição (art. 10, Lei 10.259/2001). Em sede recursal, a representação por advogado é obrigatória (art. 41, § 2º, Lei 9.099/95)",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "RPV (Requisição de Pequeno Valor)",
+      "definicao": "Mecanismo de pagamento de condenações contra a Fazenda Pública de até 60 SM por beneficiário (art. 17, § 1º, Lei 10.259/2001 c/c art. 100, § 3º, CF/88). Prazo de 60 dias para pagamento",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "Superpreferência (RPV)",
+      "definicao": "Pagamento preferencial por RPV de até 180 SM (triplo do limite normal) para idosos (65+), pessoas com deficiência ou portadores de doença grave (art. 100, § 2º, CF/88). Excedente pago por precatório",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "Recurso inominado",
+      "definicao": "Recurso cabível contra sentenças dos JEFs, previsto nos arts. 41-46 da Lei 9.099/95. Prazo de 10 dias, fundamentação livre, efeito apenas devolutivo. Julgado pela Turma Recursal (3 juízes federais de 1º grau)",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "TNU (Turma Nacional de Uniformização)",
+      "definicao": "Órgão colegiado que uniformiza a jurisprudência dos JEFs em matéria de direito material (art. 14, Lei 10.259/2001). Composta por juízes presidentes de Turmas Recursais, funciona junto ao CJF. Suas Súmulas vinculam as Turmas Recursais",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "Competência delegada (art. 109, § 3º, CF)",
+      "definicao": "Delegação de competência federal à Justiça Estadual para ações previdenciárias em comarcas a mais de 70 km de vara federal (Lei 13.876/2019). Recurso ao TRF, não ao TJ. Faculdade do segurado (Tema 820/STF)",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "Querela nullitatis",
+      "definicao": "Ação declaratória de inexistência de relação processual, admitida nos JEFs como sucedâneo da ação rescisória (incabível nos juizados — FONAJEF Enunciado 26) para vícios transrescisórios (citação nula, sentença inexistente)",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "HISCRE",
+      "definicao": "Histórico de Créditos — documento do INSS que registra todos os pagamentos de benefícios ao segurado, utilizado na liquidação de sentença para apurar compensações e calcular diferenças",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "FONAJEF",
+      "definicao": "Fórum Nacional dos Juizados Especiais Federais — órgão consultivo que edita Enunciados interpretativos sobre a Lei 10.259/2001 e a prática dos JEFs. Sem força vinculante, mas orientam a aplicação prática",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "EC 113/2021 (SELIC unificada)",
+      "definicao": "Emenda Constitucional que unificou correção monetária e juros de mora nas condenações contra a Fazenda Pública pela taxa SELIC, a partir de 09/12/2021 (art. 3º). Antes: INPC (correção) + juros variáveis",
+      "capitulo_origem": "cap_23"
+    },
+    {
+      "termo": "Salário de contribuição",
+      "definicao": "Base de cálculo sobre a qual incide a contribuição previdenciária do segurado, limitada entre o piso (SM) e o teto (limite máximo), conforme art. 28 da Lei 8.212/91",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "Alíquota progressiva",
+      "definicao": "Sistemática de incidência por faixas salariais (7,5% a 14%) introduzida pelo art. 28 da EC 103/2019 para empregados, domésticos e avulsos, aplicada como no IR (por faixa, não sobre o total)",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "Plano simplificado",
+      "definicao": "Opção contributiva de 11% sobre o SM para CI e facultativo (art. 21, § 2º, Lei 8.212/91), que não dá direito à aposentadoria por tempo de contribuição",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "DAS-MEI",
+      "definicao": "Documento de Arrecadação do Simples Nacional do MEI, que inclui a contribuição previdenciária de 5% sobre o SM (LC 123/2006, art. 18-A)",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "Indenização previdenciária (art. 45-A)",
+      "definicao": "Pagamento retroativo ao INSS, na forma do art. 45-A da Lei 8.212/91, para cômputo como tempo de contribuição de período em que o CI exerceu atividade sem recolher contribuições",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "GPS",
+      "definicao": "Guia da Previdência Social — instrumento de pagamento da contribuição previdenciária por CI, facultativos e empregadores domésticos, com códigos específicos por categoria e plano",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "DCTF-Web",
+      "definicao": "Declaração de Débitos e Créditos Tributários Federais Previdenciários e de Outras Entidades e Fundos, que substituiu a GFIP para empresas obrigadas ao eSocial (desde outubro/2021)",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "COMPREV",
+      "definicao": "Sistema informatizado de Compensação Previdenciária entre regimes (RGPS e RPPSs), operacionalizado pela Secretaria de Previdência conforme Lei 9.796/99 e Decreto 10.188/2019",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "Complementação de contribuição",
+      "definicao": "Pagamento da diferença entre a alíquota reduzida (5% ou 11%) e os 20% sobre o SM, para que o período passe a contar como tempo de contribuição (art. 21, § 3º, Lei 8.212/91)",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "Alíquota efetiva",
+      "definicao": "Percentual resultante da divisão da contribuição total pela remuneração total, sempre inferior à alíquota nominal da faixa mais alta em razão da progressividade por faixas",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "CNIS (Cadastro Nacional de Informações Sociais)",
+      "definicao": "Repositório eletrônico que concentra dados de vínculos, remunerações e contribuições dos segurados do RGPS. Fonte primária de informações para cálculo e concessão de benefícios (art. 29-A, Lei 8.213/91). Presunção relativa de veracidade (art. 19-B, Decreto 3.048/99)",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "Contagem recíproca",
+      "definicao": "Possibilidade constitucional de somar tempo de contribuição entre RGPS e RPPSs para aposentadoria, instrumentalizada pela CTC e com compensação financeira obrigatória (art. 201, § 9º, CF/88; arts. 94-99, Lei 8.213/91)",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "CTC (Certidão de Tempo de Contribuição)",
+      "definicao": "Documento formal que instrumentaliza a contagem recíproca, emitido pelo regime de origem e averbado no regime instituidor. Irreversível após averbação (art. 130, § 14, Decreto 3.048/99). Disciplinada nos arts. 125-134 do Decreto 3.048/99",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "Atividades concomitantes",
+      "definicao": "Exercício simultâneo de mais de uma atividade vinculada ao RGPS. Após a Lei 13.846/2019 (art. 32, Lei 8.213/91): salários de contribuição são somados integralmente. STJ Tema 1.070 reconheceu a soma desde a Lei 9.876/99",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "Tempo fictício",
+      "definicao": "Período computado para aposentadoria sem efetiva prestação de serviço ou contribuição. Vedado pela EC 20/1998 (art. 40, § 10, CF) e reafirmado pela EC 103/2019 (art. 25, § 2º). Exemplos: licença-prêmio em dobro, férias não gozadas convertidas em tempo",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "Totalização internacional",
+      "definicao": "Mecanismo dos acordos internacionais previdenciários que permite somar períodos de contribuição cumpridos em diferentes países signatários para atingir requisitos de aposentadoria, com cálculo pro rata temporis",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "Extemporaneidade (CNIS)",
+      "definicao": "Inserção de informações no CNIS após 120 dias do fato gerador (art. 19-C, Decreto 3.048/99). Gera presunção relativa de irregularidade e indicador PEXT, mas não invalida automaticamente o vínculo — admite prova complementar",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "Aluno-aprendiz (Súmula 96/TCU)",
+      "definicao": "Período de trabalho em escola pública profissional computável como tempo de contribuição, desde que comprovada retribuição pecuniária (ou assistência material) à conta do orçamento, como contraprestação por labor na execução de bens/serviços para terceiros (TNU Tema 216)",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "Conversão de tempo especial em comum",
+      "definicao": "Transformação de período especial em tempo comum com fator multiplicador (25 anos: 1,40 H / 1,20 M). Vedada para períodos pós-13/11/2019 (art. 25, § 2º, EC 103). Fator aplicável é o vigente na data da concessão (STJ Tema 422)",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "COMPREV",
+      "definicao": "Sistema informatizado de Compensação Previdenciária que operacionaliza o acerto financeiro entre RGPS e RPPSs na contagem recíproca. Disciplinado pela Lei 9.796/99 e Decreto 10.188/2019",
+      "capitulo_origem": "cap_05"
+    },
+    {
+      "termo": "RAT",
+      "definicao": "Riscos Ambientais do Trabalho (antigo SAT) — contribuição adicional do empregador de 1%, 2% ou 3% sobre a folha, conforme grau de risco da atividade preponderante (art. 22, II, Lei 8.212/91). Financia aposentadorias especiais e benefícios acidentários",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "FAP",
+      "definicao": "Fator Acidentário de Prevenção — multiplicador de 0,5000 a 2,0000 que individualiza a alíquota do RAT para cada empresa, conforme histórico de acidentes do trabalho. Instituído pela Lei 10.666/2003",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "CPRB",
+      "definicao": "Contribuição Previdenciária sobre a Receita Bruta — substitui a contribuição patronal de 20% sobre a folha para setores específicos. Instituída pela Lei 12.546/2011 (desoneração da folha)",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "CEBAS",
+      "definicao": "Certificação de Entidade Beneficente de Assistência Social — certificação concedida pelo governo federal que garante imunidade de contribuições previdenciárias patronais (art. 195, § 7º, CF/88). Regulada pela Lei 12.101/2009",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "Sub-rogação",
+      "definicao": "Transferência da obrigação de reter e recolher a contribuição previdenciária do produtor rural para o adquirente da produção (art. 30, IV, Lei 8.212/91). O adquirente retém 1,5% do valor da NF",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "DCTF-Web",
+      "definicao": "Declaração de Débitos e Créditos Tributários Federais Previdenciários e de Outras Entidades e Fundos — instrumento declaratório exclusivo para empregadores desde 2021, substituindo a GFIP/SEFIP. Gera o DARF para recolhimento",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "PER/DCOMP",
+      "definicao": "Pedido Eletrônico de Restituição, Ressarcimento ou Reembolso e Declaração de Compensação — formulário da RFB para solicitar restituição de contribuições previdenciárias recolhidas indevidamente ou a maior",
+      "capitulo_origem": "cap_04"
+    },
+    {
+      "termo": "Aposentadoria programada",
+      "definicao": "Modalidade de aposentadoria instituída pela EC 103/2019 (art. 201, § 7º, I, CF), que unifica as antigas aposentadorias por idade e por tempo de contribuição em benefício único, exigindo 65 anos (homem) ou 62 anos (mulher) de idade e 20 anos (homem) ou 15 anos (mulher) de tempo de contribuição",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "Aposentadoria por idade urbana",
+      "definicao": "Modalidade de aposentadoria do RGPS prevista na Lei 8.213/91 (art. 48), exigindo 65 anos (homem) ou 60 anos (mulher) de idade e 180 contribuições de carência. Após EC 103/2019, segue em regra de transição (art. 18) com idade progressiva para mulheres (até 62 anos, atingido em 2023)",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "Aposentadoria compulsória (RGPS)",
+      "definicao": "Modalidade prevista no art. 51 da Lei 8.213/91, pela qual o empregador pode requerer a aposentadoria do empregado que atinja 70 anos (homem) ou 65 anos (mulher) de idade, desde que cumprida a carência",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "Coeficiente 60%+2%",
+      "definicao": "Fórmula de cálculo da renda mensal inicial instituída pela EC 103/2019 (art. 26, § 2º): 60% da média dos salários de contribuição, acrescidos de 2% por ano que exceder 20 anos de TC (homem) ou 15 anos (mulher)",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "Regra de transição art. 18 EC 103",
+      "definicao": "Regra de transição para aposentadoria por idade (art. 18, EC 103/2019): idade progressiva de 60 a 62 anos (mulher, atingido em 2023) e 65 anos (homem, sem progressão), com carência de 180 contribuições e 15 anos de TC",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "Exclusão de salários de contribuição (art. 26, § 6º, EC 103)",
+      "definicao": "Possibilidade de o segurado excluir do cálculo da média os salários de contribuição que reduzam o valor do benefício, desde que mantido o tempo de contribuição mínimo exigido",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "Revisão da vida toda",
+      "definicao": "Tese jurídica (STF Tema 1.102) segundo a qual o segurado pode optar pela regra definitiva do art. 29, I, da Lei 8.213/91 (todo o período contributivo) quando mais favorável que a regra de transição do art. 3º da Lei 9.876/99 (a partir de julho/1994). Status: pendente de definição final no STF (maio/2026)",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "Tabela de carência art. 142",
+      "definicao": "Tabela progressiva de carência prevista no art. 142 da Lei 8.213/91, aplicável a segurados filiados antes de 24/07/1991, que estabeleceu transição de 60 contribuições (1991) até 180 contribuições (2011)",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "RPV",
+      "definicao": "Requisição de Pequeno Valor — forma de pagamento de condenações judiciais contra a Fazenda Pública quando o valor não ultrapassa o teto dos JEFs (60 salários mínimos). Prazo de pagamento: 60 dias após a requisição (art. 17, § 1º, Lei 10.259/2001)",
+      "capitulo_origem": "cap_10"
+    },
+    {
+      "termo": "Astreintes",
+      "definicao": "Multa diária fixada pelo juiz para compelir o cumprimento de obrigação de fazer ou não fazer. Nos JEFs previdenciários, é utilizada para compelir o INSS a implantar benefícios concedidos judicialmente, geralmente entre R$ 100 e R$ 500 por dia de atraso",
+      "capitulo_origem": "cap_10"
+    }
+    ,
+    {
+      "termo": "Regra de transição por pontos (art. 15, EC 103)",
+      "definicao": "Regra de transição para aposentadoria por TC que combina idade + TC em pontuação progressiva. Requisitos: 30M/35H anos de TC + pontuação mínima (93M/103H em 2026, estabilizando em 100M/105H). Cálculo: 60%+2% sobre média de 100% dos SC",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "Regra de transição por idade progressiva (art. 16, EC 103)",
+      "definicao": "Regra de transição para aposentadoria por TC com idade mínima crescente (+6 meses/ano). Requisitos: 30M/35H anos de TC + idade mínima (59,5M/64,5H em 2026). Estabiliza em 62M/65H. Cálculo: idêntico ao art. 15",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "Pedágio 50% (art. 17, EC 103)",
+      "definicao": "Regra de transição restrita a quem faltava menos de 2 anos de TC em 13/11/2019. Exige cumprimento de 50% do tempo faltante como pedágio. Fator previdenciário obrigatório. Sem idade mínima. Cálculo: média 80% maiores SC × fator",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "Pedágio 100% (art. 20, EC 103)",
+      "definicao": "Regra de transição com idade mínima fixa (57M/60H) + TC mínimo (30M/35H) + pedágio de 100% do tempo faltante em 13/11/2019. Coeficiente de 100% da média (sem fator, sem escalonamento 60%+2%)",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "Regra 85/95 (Lei 13.183/2015)",
+      "definicao": "Alternativa ao fator previdenciário criada pelo art. 29-C da Lei 8.213/91: segurado que atingia pontuação 85M/95H (progressiva até 90/100) recebia 100% do SB sem fator. Aplicação residual pós-EC 103: apenas direito adquirido (pontos atingidos até 12/11/2019)",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "Fator previdenciário (fórmula)",
+      "definicao": "f = (Tc × a / Es) × [1 + (Id + Tc × a) / 100], onde Tc = tempo de contribuição, a = 0,31, Es = expectativa de sobrevida (IBGE), Id = idade. Bônus: mulher +5 Tc; professor +5 Tc e +5 Id. Obrigatório no pedágio 50% e direito adquirido TC sem 85/95",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "Aposentadoria proporcional (EC 20/1998)",
+      "definicao": "Regra de transição da EC 20/98 (art. 9º, revogado pela EC 103): idade 48M/53H + TC 25M/30H + pedágio 40% do faltante em 16/12/1998. Benefício: 70% + 5%/ano adicional. Direito adquirido preservado para quem implementou requisitos até 12/11/2019",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "Ponto de equilíbrio (break-even) previdenciário",
+      "definicao": "Momento em que o ganho acumulado pela regra mais vantajosa iguala o valor não recebido durante o período de espera. Fórmula: meses de espera × RMI inferior / (RMI superior - RMI inferior). Fundamental no planejamento previdenciário",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "Tema 503/STF (desaposentação)",
+      "definicao": "RE 661.256 (Plenário, 26/10/2016): vedação da desaposentação no RGPS. Tese: somente lei pode criar benefícios previdenciários; não há previsão legal de renúncia à aposentadoria para obtenção de nova mais vantajosa. Torna irreversível a escolha da regra de aposentadoria",
+      "capitulo_origem": "cap_11"
+    },
+    {
+      "termo": "LC 142/2013 (aposentadoria da PcD)",
+      "definicao": "Lei Complementar que regulamenta o art. 201, § 1º, CF, estabelecendo aposentadoria diferenciada para segurados com deficiência do RGPS: por TC (grave 25H/20M, moderada 29H/24M, leve 33H/28M) e por idade (60H/55M + 15 anos). Coeficiente: 100% SB (TC) ou 70%+1%/ano (idade). Fator previdenciário somente se vantajoso (art. 9º, I). Mantida pela EC 103/2019, art. 22",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "IF-BrA (Índice de Funcionalidade Brasileiro Aplicado à Aposentadoria)",
+      "definicao": "Instrumento oficial de avaliação biopsicossocial para classificação do grau de deficiência (grave, moderada, leve) na aposentadoria da PcD. Aprovado pela Portaria Interministerial AGU/MPS/MF/SEDH/MP 1/2014. Composto por 41 atividades em 7 domínios: sensorial, comunicação, mobilidade, cuidados pessoais, vida doméstica, educação/trabalho, socialização. Aplicado por perícia médica (50%) + avaliação social (50%)",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "Avaliação biopsicossocial",
+      "definicao": "Procedimento de avaliação da deficiência que combina perícia médica e avaliação funcional/social, aplicando o IF-BrA nos 7 domínios funcionais. Obrigatória para concessão da aposentadoria da PcD (art. 4º, LC 142; art. 2º, § 1º, Lei 13.146/2015). Realizada por médico perito + assistente social do INSS",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "Grau preponderante (deficiência)",
+      "definicao": "Grau de deficiência em que o segurado cumpriu maior tempo de contribuição antes da conversão (art. 70-A, Decreto 3.048/99, incluído pelo Decreto 8.145/2013). Define o TC mínimo exigido e os parâmetros para conversão proporcional quando há variação de grau ou deficiência superveniente",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "Deficiência superveniente (art. 7º, LC 142)",
+      "definicao": "Deficiência adquirida após a filiação ao RGPS. Os parâmetros de TC são proporcionalmente ajustados mediante conversão dos períodos sob cada condição (sem deficiência, leve, moderada, grave), utilizando fatores do art. 70-E do Decreto 3.048/99",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "EC 103/2019, art. 22 (manutenção LC 142)",
+      "definicao": "Dispositivo da Reforma da Previdência que determina a manutenção integral da LC 142/2013 para aposentadoria da PcD no RGPS, 'inclusive quanto aos critérios de cálculo', até que nova lei complementar discipline a matéria. Afasta a aplicação do art. 26 (60%+2%) segundo posição dominante dos TRFs",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "CDPD (Convenção sobre Direitos das Pessoas com Deficiência)",
+      "definicao": "Convenção internacional aprovada com quórum de emenda constitucional (art. 5º, § 3º, CF), promulgada pelo Decreto 6.949/2009. Consagra o modelo biopsicossocial de deficiência: impedimentos individuais + interação com barreiras = deficiência. Fundamento constitucional do conceito de PcD na LC 142 e na Lei 13.146/2015",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "Visão monocular (Lei 14.126/2021)",
+      "definicao": "Classificada como deficiência sensorial do tipo visual para todos os efeitos legais. Impacto na LC 142: permite acesso à aposentadoria da PcD. Grau não é automático — depende de avaliação biopsicossocial (posição TNU) ou presume deficiência leve (posição TRU/TRF4)",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "TNU Tema 217 (fungibilidade BPC × incapacidade)",
+      "definicao": "Tese que reconhece fungibilidade entre BPC/LOAS e benefícios por incapacidade, permitindo ao juiz conceder benefício diverso do requerido administrativamente, desde que preenchidos os requisitos e garantido o contraditório. Extensão analógica admitida para fungibilidade BPC × aposentadoria PcD",
+      "capitulo_origem": "cap_12"
+    },
+    {
+      "termo": "Salário-maternidade (arts. 71-73, Lei 8.213/91)",
+      "definicao": "Benefício previdenciário devido à segurada durante 120 dias por motivo de parto, adoção, guarda judicial para fins de adoção ou aborto não criminoso. Natureza jurídica híbrida: substitui remuneração (caráter previdenciário) mas decorre de proteção constitucional à maternidade (art. 7º, XVIII, CF). Devido a todas as categorias de seguradas, sem exigência de carência após ADIs 2.110/2.111 (STF, 2024)",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "ADIs 2.110 e 2.111 (STF, março/2024)",
+      "definicao": "Ações Diretas de Inconstitucionalidade julgadas pelo STF em março de 2024, declarando inconstitucional a exigência de carência (10 contribuições) para salário-maternidade de contribuintes individuais, facultativas e seguradas especiais. Efeito prático: TODAS as categorias de seguradas passaram a ter direito ao SM sem carência, equiparando-se às empregadas e trabalhadoras avulsas",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Tema 72/STF (RE 576.967)",
+      "definicao": "Tese de repercussão geral (RE 576.967, julgado em 2020) que declarou inconstitucional a incidência de contribuição previdenciária patronal sobre o salário-maternidade. Fundamento: SM tem natureza de benefício previdenciário, não de contraprestação por trabalho, portanto não constitui base de cálculo para contribuição do empregador. A contribuição da segurada sobre o SM permanece devida",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Arts. 71-A, 71-B e 71-C (Lei 8.213/91)",
+      "definicao": "Dispositivos incluídos pela Lei 12.873/2013. Art. 71-A: SM ao adotante ou detentor de guarda judicial, 120 dias independente da idade da criança, extensível ao segurado do sexo masculino. Art. 71-B: SM ao cônjuge/companheiro sobrevivente em caso de falecimento da segurada ou segurado titular, pelo período restante. Art. 71-C: vedação de pagamento de dois SM simultâneos pelo mesmo fato gerador",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Empresa Cidadã (Lei 11.770/2008)",
+      "definicao": "Programa que permite prorrogação da licença-maternidade por mais 60 dias (totalizando 180 dias) para empregadas de empresas que aderem ao programa, mediante incentivo fiscal (dedução do IRPJ). Vedada atividade remunerada e criança em creche durante a prorrogação. O benefício dos 60 dias adicionais é pago pela empresa e deduzido do imposto, não constitui SM propriamente dito",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Súmula 45/TNU (DIB do salário-maternidade)",
+      "definicao": "Súmula da Turma Nacional de Uniformização que fixa o marco inicial da correção monetária do salário-maternidade na data do nascimento da criança (ou adoção/guarda), e não da data do requerimento administrativo. Relevante nos JEFs para cálculo dos valores atrasados em caso de concessão judicial retroativa",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Tema 739/STJ (prova rural para SM)",
+      "definicao": "Tese do STJ que admite início de prova material complementado por testemunhos para comprovação da qualidade de segurada especial, inclusive para fins de salário-maternidade. Documentos em nome do cônjuge são admitidos por extensão. Particularmente relevante para trabalhadoras rurais (boias-frias), pescadoras artesanais e indígenas",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Tema 914/STJ (SM da segurada desempregada)",
+      "definicao": "Tese do STJ sobre salário-maternidade da segurada que mantém qualidade por período de graça (art. 15, Lei 8.213/91). Valor calculado conforme art. 73, III (1/12 da soma dos 12 últimos salários de contribuição). Aplica-se à empregada dispensada durante a gestação e à CI que cessou contribuições dentro do período de graça",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Gestação por substituição (barriga solidária)",
+      "definicao": "Situação em que uma mulher gesta criança para outra pessoa ou casal (mãe/pai socioafetivo). Controvérsia sobre titularidade do SM: corrente 1 (mãe gestante como segurada que deu à luz) vs. corrente 2 (mãe socioafetiva por analogia com adoção). Sem regulamentação legislativa específica no âmbito previdenciário. Tendência jurisprudencial: reconhecer direito a ambas em situações específicas",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Súmula 244/TST (estabilidade gestante)",
+      "definicao": "Súmula do TST que garante estabilidade provisória à gestante desde a confirmação da gravidez até 5 meses após o parto, inclusive no contrato por prazo determinado (item III). Interface com SM: a dispensa da gestante gera direito à reintegração ou indenização do período estabilitário, com reflexos no pagamento do SM. Competência: JT para estabilidade, JF para o benefício previdenciário",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "IN INSS 188/2025",
+      "definicao": "Instrução Normativa do INSS que consolida e atualiza os procedimentos administrativos para concessão de benefícios, incluindo salário-maternidade. Regulamenta a aplicação das ADIs 2.110/2.111 (dispensa de carência universal), prazos de requerimento, documentação exigida e procedimentos para situações especiais (adoção, guarda, aborto não criminoso, natimorto)",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Lei 14.457/2022 (internação do recém-nascido)",
+      "definicao": "Lei que prevê a prorrogação do salário-maternidade durante o período de internação do recém-nascido, descontando-se os dias em que mãe e filho estiveram internados simultaneamente. Garante que a mãe tenha o período integral de convívio com o filho após a alta hospitalar. Aplicável a internações prolongadas em UTI neonatal",
+      "capitulo_origem": "cap_13"
+    },
+    {
+      "termo": "Auxílio-reclusão (art. 80, Lei 8.213/91)",
+      "definicao": "Benefício previdenciário pago aos dependentes do segurado de baixa renda recolhido à prisão. Natureza híbrida: substitui renda do segurado (caráter previdenciário) mas protege a família vulnerável (caráter protetivo). Pós-EC 103/2019: valor fixo de 1 SM, carência de 24 contribuições, apenas regime fechado (art. 80) — regime aberto vedado pela CF (art. 201, § 5º)",
+      "capitulo_origem": "cap_14"
+    },
+    {
+      "termo": "STF Tema 89 (RE 587.365)",
+      "definicao": "Tese de repercussão geral que pacificou que a renda a ser aferida para fins de 'baixa renda' no auxílio-reclusão é a do segurado, não a dos dependentes. Fundamento textual (art. 201, IV, CF: 'segurados de baixa renda') e teleológico (benefício protege dependentes que perdem fonte de sustento). Julgado em 25/03/2009, Rel. Min. Ricardo Lewandowski",
+      "capitulo_origem": "cap_14"
+    },
+    {
+      "termo": "STJ Tema 896 (REsp 1.485.417/MS)",
+      "definicao": "Tese do STJ (1ª Seção, reafirmada jul/2021) sobre aferição de baixa renda do segurado desempregado preso: no regime anterior à MP 871/2019, ausência de renda = baixa renda (renda zero). Delimitação temporal: aplica-se apenas a prisões anteriores a 18/01/2019. A partir da MP 871, critério é a média dos 12 últimos salários de contribuição",
+      "capitulo_origem": "cap_14"
+    },
+    {
+      "termo": "STJ Tema 1162 (REsp 1.958.361)",
+      "definicao": "Tese fixada pela 1ª Seção do STJ em 12/11/2025 sobre flexibilização do critério de renda no auxílio-reclusão. Dois pontos: (i) pré-MP 871/2019: flexibilização possível se renda supera limite em percentual ínfimo; (ii) pós-MP 871/2019: vedada flexibilização do teto, exceto se Executivo deixar de corrigir anualmente o limite",
+      "capitulo_origem": "cap_14"
+    },
+    {
+      "termo": "TNU Tema 357 (monitoração eletrônica)",
+      "definicao": "Tese fixada pela TNU em 04/12/2024: o auxílio-reclusão concedido para fatos geradores anteriores a 18/01/2019 (MP 871) permanece mesmo com progressão para semiaberto inclusive com monitoramento eletrônico. Fundamento: tempus regit actum — alterações da MP 871 não retroagem para prejudicar direitos adquiridos",
+      "capitulo_origem": "cap_14"
+    },
+    {
+      "termo": "Art. 27, EC 103/2019 (regra de transição AR)",
+      "definicao": "Regra de transição do auxílio-reclusão: até que lei discipline o benefício, limite de baixa renda = R$ 1.364,43 corrigido anualmente; valor do AR calculado na forma da pensão por morte, limitado a 1 SM. O § 2º prevê opção de transferência de benefício para dependentes quando aposentado é preso",
+      "capitulo_origem": "cap_14"
+    },
+    {
+      "termo": "Lei 10.666/2003, art. 2º (qualidade do preso)",
+      "definicao": "Dispositivo que garante a manutenção da qualidade de segurado durante todo o período de reclusão, independentemente de contribuições. Complementa o art. 15, IV, da Lei 8.213/91. Essencial para operacionalização do auxílio-reclusão em condenações longas, evitando que a perda da qualidade inviabilize o benefício dos dependentes",
+      "capitulo_origem": "cap_14"
+    },
+    {
+      "termo": "TRU/4ª Região — fuga e cessação do AR (2023)",
+      "definicao": "Tese fixada pela TRU da 4ª Região em 28/04/2023: fuga é causa de cessação (não mera suspensão) do auxílio-reclusão. Na recaptura, necessária nova concessão conforme lei vigente na data da nova prisão. Diverge do Decreto 3.048/99 que trata fuga como suspensão. Impacto: preso do regime antigo que foge e é recapturado após 2019 pode perder o benefício definitivamente",
+      "capitulo_origem": "cap_14"
+    },
+    {
+      "termo": "STJ REsp 1.672.295/RS (prisão domiciliar e AR)",
+      "definicao": "Decisão da 1ª Turma do STJ (17/10/2017, Informativo 614) que reconhece o direito ao auxílio-reclusão mesmo quando a execução da pena ocorre em prisão domiciliar, desde que o regime prescrito seja fechado ou semiaberto. Critério determinante: impossibilidade de exercer atividade remunerada, não o local de cumprimento",
+      "capitulo_origem": "cap_14"
+    }
+  ],
+  "ultima_atualizacao": "2026-05-11T14:00:00",
+  "capitulos_processados": [
+    "cap_01",
+    "cap_02",
+    "cap_03",
+    "cap_04",
+    "cap_05",
+    "cap_06",
+    "cap_07",
+    "cap_08",
+    "cap_09",
+    "cap_10",
+    "cap_11",
+    "cap_12",
+    "cap_13",
+    "cap_14",
+    "cap_18",
+    "cap_19",
+    "cap_23"
+  ]
+}

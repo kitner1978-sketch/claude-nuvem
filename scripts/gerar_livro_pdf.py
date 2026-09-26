@@ -429,7 +429,7 @@ def add_apresentacao_page(doc):
         "O contencioso previdenciário brasileiro tem, hoje, um endereço predominante: os Juizados Especiais Federais. É neles que se decide, todos os dias e em escala de massa, o destino concreto de aposentadorias, auxílios, pensões e benefícios assistenciais — muitas vezes a única fonte de subsistência de quem litiga. Essa centralidade impõe ao advogado e ao magistrado um desafio particular: dominar, ao mesmo tempo, a densa teoria do Direito Previdenciário e a dinâmica processual, probatória e prática que caracteriza o rito dos Juizados.",
         "Esta obra nasce da percepção de que teoria e prática, nesse campo, não podem caminhar separadas. De um lado, a Emenda Constitucional 103/2019 reescreveu a arquitetura do Regime Geral de Previdência Social, e as reformas que a sucederam, somadas a um fluxo constante de teses firmadas pelo STF, pelo STJ e pela TNU, tornaram o terreno normativo instável e exigente. De outro, o cotidiano dos Juizados Especiais Federais é feito de perícias, cálculos, provas de tempo de contribuição e requisitos que só se compreendem quando a norma é lida à luz de sua aplicação real.",
         "Para responder a esse duplo desafio, a exposição de cada tema conjuga o tratamento doutrinário com orientações operacionais. Ao lado da fundamentação teórica, o leitor encontrará boxes de jurisprudência, quadros sinóticos, alertas práticos e roteiros de atuação voltados à realidade das varas federais. A preocupação constante foi a de oferecer não apenas o que a lei diz, mas como o direito efetivamente se resolve no requerimento administrativo, na petição inicial, na instrução e na sentença.",
-        "A obra está organizada em seis partes e vinte e três capítulos. A Parte I trata dos fundamentos do Regime Geral de Previdência Social — evolução histórica, princípios constitucionais, segurados e dependentes, carência e qualidade de segurado, custeio e reconhecimento de tempo de contribuição. A Parte II examina os benefícios por incapacidade; a Parte III, as aposentadorias programadas, especiais, rurais e da pessoa com deficiência; a Parte IV, as pensões, os auxílios e o benefício assistencial; a Parte V, os temas transversais de cálculo, revisão, decadência e prescrição; e a Parte VI, o processo previdenciário nos Juizados Especiais Federais — processo administrativo, competência e procedimento. Do fundamento constitucional à sentença, o percurso acompanha a lógica com que os litígios efetivamente se apresentam e se resolvem.",
+        "A obra está organizada em seis partes e vinte e três capítulos. A Parte I trata dos fundamentos do Regime Geral de Previdência Social — evolução histórica, princípios constitucionais, segurados e dependentes, carência e qualidade de segurado, custeio e reconhecimento de tempo de contribuição. A Parte II examina os benefícios por incapacidade; a Parte III, as aposentadorias programadas, especiais, rurais e da pessoa com deficiência; a Parte IV, as pensões, os auxílios, o cálculo e a revisão dos benefícios e o benefício assistencial; a Parte V, os temas transversais de acumulação de benefícios, decadência, prescrição e coisa julgada; e a Parte VI, o processo previdenciário nos Juizados Especiais Federais — processo administrativo, competência e procedimento. Do fundamento constitucional à sentença, o percurso acompanha a lógica com que os litígios efetivamente se apresentam e se resolvem.",
         "Toda a legislação e a jurisprudência citadas foram conferidas contra as fontes oficiais e refletem o estado do Direito Previdenciário até junho de 2026, com registro das principais controvérsias ainda pendentes de pacificação. O propósito não é encerrar o debate, mas municiar o operador do direito com um instrumento confiável, atualizado e diretamente aplicável.",
         "Que esta obra seja útil a quem, na advocacia e na magistratura, dedica seu trabalho a dar efetividade à proteção social — razão de ser de todo o sistema previdenciário.",
     ]
@@ -884,8 +884,12 @@ def add_chapter_to_doc(doc, blocks, cap_num_str):
         elif btype == 'list':
             items = block['items']
             ordered = block['ordered']
+            # o número vem do Markdown: itens separados por linha em branco
+            # chegam aqui como blocos de um item só (ver md_to_docx.parse_markdown)
+            numbers = block.get('numbers') or []
             for idx, item_text in enumerate(items, 1):
-                add_list_item(doc, item_text, ordered=ordered, number=idx)
+                num = numbers[idx - 1] if idx - 1 < len(numbers) else idx
+                add_list_item(doc, item_text, ordered=ordered, number=num)
             p_after = doc.add_paragraph()
             set_paragraph_spacing(p_after, before=0, after=3, line_spacing=1.0)
             is_first_paragraph = True
@@ -1160,6 +1164,7 @@ def create_unified_docx(output_path):
     is_first_part = True
     referencias_consolidadas = {}  # item 3: refs de todos os capítulos
 
+    epilogo_md = None
     for part in PARTS:
         # Página divisória da Parte (sempre em página ímpar)
         sec_part = add_new_section(doc, start_type='ODD_PAGE')
@@ -1187,6 +1192,14 @@ def create_unified_docx(output_path):
 
             # Ler e processar
             text = md_path.read_text(encoding='utf-8')
+            # Epílogo da obra: vem no fim do último capítulo, DEPOIS das Referências.
+            # Precisa sair antes da coleta de referências, que consome tudo o que
+            # vem após o título "Referências" (era assim que o epílogo ia parar na
+            # bibliografia consolidada).
+            m_epi = re.search(r'(?m)^##\s+Epílogo\b.*$', text)
+            if m_epi:
+                epilogo_md = text[m_epi.start():]
+                text = text[:m_epi.start()]
             text = _collect_and_strip_refs(text, referencias_consolidadas)  # item 3
             text = strip_citations(text)
             blocks = parse_markdown(text)
@@ -1212,6 +1225,36 @@ def create_unified_docx(output_path):
 
             # Adicionar conteúdo
             cap_num, cap_title = add_chapter_to_doc(doc, blocks, cap_id)
+
+    # ── EPÍLOGO (seção própria, não numerada, antes das referências) ──
+    if epilogo_md:
+        print("  Montando epilogo...")
+        linhas = epilogo_md.split('\n')
+        m_t = re.match(r'^##\s+Epílogo\s*[—–-]?\s*(.*)$', linhas[0].strip())
+        subtitulo = (m_t.group(1).strip() if m_t else '')
+        sec_epi = add_new_section(doc, start_type='ODD_PAGE')
+        setup_header_footer(sec_epi, header_text="Epílogo", first_page_no_header=True)
+        p_title = doc.add_paragraph()
+        p_title.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p_title.style = doc.styles['Heading 2']
+        set_paragraph_spacing(p_title, before=16, after=6, line_spacing=1.0)
+        add_run_with_style(p_title, "Epílogo", font_name=FONT_SERIF,
+                          size=Pt(20), bold=True, color="2F2923", all_caps=True)
+        keep_with_next(p_title)
+        if subtitulo:
+            p_sub = doc.add_paragraph()
+            p_sub.alignment = WD_ALIGN_PARAGRAPH.CENTER
+            set_paragraph_spacing(p_sub, before=0, after=8, line_spacing=1.1)
+            add_run_with_style(p_sub, subtitulo, font_name=FONT_SERIF,
+                              size=Pt(12), italic=True, color="3A3128")
+            keep_with_next(p_sub)
+        p_orn = doc.add_paragraph()
+        p_orn.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        set_paragraph_spacing(p_orn, before=0, after=12, line_spacing=1.0)
+        add_run_with_style(p_orn, "━━━━  ◆  ━━━━", font_name=FONT_SERIF,
+                          size=Pt(9), color="B78B37")
+        corpo = strip_citations('\n'.join(linhas[1:]))
+        add_chapter_to_doc(doc, parse_markdown(corpo), 'Epílogo')
 
     # ── REFERÊNCIAS CONSOLIDADAS (item 3: lista única ao final) ──
     print("  Montando referencias consolidadas...")

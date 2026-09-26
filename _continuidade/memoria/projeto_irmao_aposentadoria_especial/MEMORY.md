@@ -1,0 +1,3 @@
+- [Escrita anti-IA](escrita-anti-ia.md) — autor quer reduzir travessões e ponto-e-vírgula ao mínimo estritamente necessário
+- [Gerador DOCX / callouts](gerador-docx-callouts.md) — add_blockquote renderiza callouts Obsidian e tabelas internas (bug do marcador [!tipo] corrigido)
+- [ADI 6.309 / idade mínima](adi-6309-idade-minima.md) — STF derrubou a idade mínima da aposentadoria especial; atualizar o livro conservando o "antes e depois"

@@ -1,0 +1,235 @@
+======================================================================
+CONFERÊNCIA DE VALORES MONETÁRIOS E ÍNDICES
+======================================================================
+
+Valores de referência (2026):
+  Salário Mínimo: R$ 1.621,00
+  Teto do RGPS: R$ 8.475,55
+  Taxa SELIC (a.a.): 14,50%
+
+Valores R$ encontrados: 779
+Menções a índices (SM/Teto/SELIC): 65
+
+======================================================================
+CLASSIFICAÇÃO DOS VALORES R$
+======================================================================
+  Valor corrente (OK):          162
+  Contexto histórico:           103
+  Exemplo de cálculo:           137
+  Possivelmente desatualizado:  25
+  SM (R$ 1.621,00) encontrado em: 100 locais
+  Teto (R$ 8.475,55) encontrado em: 40 locais
+
+======================================================================
+VALORES POSSIVELMENTE DESATUALIZADOS
+======================================================================
+
+  cap_03_rascunho.md:181
+    Encontrado: R$ 1.700,00
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Convém ancorar esses mecanismos em valores concretos, tomando por base o salário-mínimo de 2026, fixado em R$ 1.621,00. 
+
+  cap_04_rascunho.md:117
+    Encontrado: R$ 1.451,43
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: | 3ª | R$ 1.451,43 (4.354,27 - 2.902,84) | 12,0% | R$ 174,17 |
+
+  cap_04_rascunho.md:334
+    Encontrado: R$ 1.695,11
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: | Normal | Remuneração (SM a teto) | 20% | R$ 324,20 a R$ 1.695,11 | Sim |
+
+  cap_04_rascunho.md:357
+    Encontrado: R$ 1.695,11
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Contribuição devida: 20% sobre o teto = R$ 1.695,11
+
+  cap_04_rascunho.md:492
+    Encontrado: R$ 1.695,11
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: | Normal | SM a teto | 20% | R$ 324,20 a R$ 1.695,11 | Sim |
+
+  cap_04_rascunho.md:1165
+    Encontrado: R$ 1.714,40
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: 42,86% x R$ 4.000,00 = R$ 1.714,40/mês (enquanto perdurar o benefício).
+
+  cap_04_rascunho.md:1356
+    Encontrado: R$ 1.451,43
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: | 3ª | R$ 1.451,43 | 12,0% | R$ 174,17 |
+
+  cap_04_rascunho.md:1365
+    Encontrado: R$ 1.451,43
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: | 3ª | R$ 1.451,43 | 12,0% | R$ 174,17 |
+
+  cap_04_rascunho.md:1370
+    Encontrado: R$ 9.500,00
+    Esperado (Teto do RGPS): R$ 8.475,55
+    Contexto: Soma das remunerações: R$ 9.500,00 (acima do teto de R$ 8.475,55)
+
+  cap_04_rascunho.md:1637
+    Encontrado: R$ 1.695,11
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: | CI normal | 20% | SM a teto | R$ 324,20 a R$ 1.695,11 | Sim |
+
+  cap_04_rascunho.md:1640
+    Encontrado: R$ 1.695,11
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: | Facultativo normal | 20% | SM a teto | R$ 324,20 a R$ 1.695,11 | Sim |
+
+  cap_05_rascunho.md:578
+    Encontrado: R$ 1.800,00
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: - Salário de benefício total: R$ 4.000,00 + R$ 1.800,00 = R$ 5.800,00
+
+  cap_13_rascunho.md:201
+    Encontrado: R$ 8.000,00
+    Esperado (Teto do RGPS): R$ 8.475,55
+    Contexto: **Empregada e trabalhadora avulsa: remuneração integral.** O art. 72 da Lei 8.213/91 determina que o salário-maternidade
+
+  cap_13_rascunho.md:201
+    Encontrado: R$ 8.000,00
+    Esperado (Teto do RGPS): R$ 8.475,55
+    Contexto: **Empregada e trabalhadora avulsa: remuneração integral.** O art. 72 da Lei 8.213/91 determina que o salário-maternidade
+
+  cap_14_rascunho.md:569
+    Encontrado: R$ 1.860,00
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Essa uniformização tem consequências ambivalentes. Por um lado, simplifica o cálculo e a administração do benefício. Por
+
+  cap_15_rascunho.md:634
+    Encontrado: R$ 1.512,00
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Segurado aposentado por idade, 66 anos, renda mensal de R$ 1.512,00, com neta de 8 anos sob tutela judicial. Requer salá
+
+  cap_15_rascunho.md:634
+    Encontrado: R$ 1.512,00
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Segurado aposentado por idade, 66 anos, renda mensal de R$ 1.512,00, com neta de 8 anos sob tutela judicial. Requer salá
+
+  cap_16_rascunho.md:323
+    Encontrado: R$ 1.500,00
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: A garantia do piso funciona como cláusula de proteção: se o cálculo do benefício pela fórmula legal resultar em valor in
+
+  cap_20_rascunho.md:77
+    Encontrado: R$ 1.379,00
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Aspecto fundamental, e que gera equívocos frequentes na atuação forense, é que as faixas são progressivas, à semelhança 
+
+  cap_20_rascunho.md:77
+    Encontrado: R$ 1.800,00
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Aspecto fundamental, e que gera equívocos frequentes na atuação forense, é que as faixas são progressivas, à semelhança 
+
+  cap_20_rascunho.md:174
+    Encontrado: R$ 1.403,20
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Comparação: sem o escalonamento, o segurado receberia R$ 7.000,00 + R$ 4.500,00 = R$ 11.500,00. A redução é de R$ 1.403,
+
+  cap_20_rascunho.md:188
+    Encontrado: R$ 1.848,40
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: Valor da pensão RGPS após o escalonamento: R$ 1.621,00 + R$ 227,40 = **R$ 1.848,40**
+
+  cap_20_rascunho.md:190
+    Encontrado: R$ 1.848,40
+    Esperado (Salário Mínimo): R$ 1.621,00
+    Contexto: **Total recebido pela beneficiária: R$ 5.500,00 + R$ 1.848,40 = R$ 7.348,40**
+
+  cap_20_rascunho.md:190
+    Encontrado: R$ 7.348,40
+    Esperado (Teto do RGPS): R$ 8.475,55
+    Contexto: **Total recebido pela beneficiária: R$ 5.500,00 + R$ 1.848,40 = R$ 7.348,40**
+
+  cap_20_rascunho.md:192
+    Encontrado: R$ 7.500,00
+    Esperado (Teto do RGPS): R$ 8.475,55
+    Contexto: Comparação: sem o escalonamento, a beneficiária receberia R$ 5.500,00 + R$ 2.000,00 = R$ 7.500,00. A redução é de R$ 151
+
+======================================================================
+ÍNDICES DIVERGENTES (SM/Teto/SELIC explícitos)
+======================================================================
+
+  cap_03_rascunho.md:317
+    Índice: SM
+    Encontrado: 81,05
+    Esperado: 1.621,00
+    Contexto: A conjugação dos Temas 286 e 349 da TNU oferece proteção significativa aos dependentes de segurados de baixa renda. O Te
+
+  cap_04_rascunho.md:357
+    Índice: TETO
+    Encontrado: 1.695,11
+    Esperado: 8.475,55
+    Contexto: Contribuição devida: 20% sobre o teto = R$ 1.695,11
+
+  cap_04_rascunho.md:447
+    Índice: SM
+    Encontrado: 1.212,00
+    Esperado: 1.621,00
+    Contexto: **Atenção:** A complementação é calculada sobre o SM vigente na competência original, não no SM atual. Se o MEI deseja c
+
+  cap_04_rascunho.md:1024
+    Índice: SM
+    Encontrado: 3.242,00
+    Esperado: 1.621,00
+    Contexto: Benefício estimado: aposentadoria com RMI de ~2 SM (R$ 3.242,00/mês).
+
+  cap_04_rascunho.md:1069
+    Índice: TETO
+    Encontrado: 524,45
+    Esperado: 8.475,55
+    Contexto: A contribuição como empregado é prioritária e consome a base até R$ 6.000,00. Como CI, José recolhe 20% apenas sobre a d
+
+  cap_04_rascunho.md:1343
+    Índice: SM
+    Encontrado: 97.260,00
+    Esperado: 1.621,00
+    Contexto: Se a RFB negar o pedido ou não se manifestar em prazo razoável, o segurado pode ajuizar ação no JEF, desde que o valor n
+
+  cap_13_rascunho.md:223
+    Índice: SM
+    Encontrado: 2.200,00
+    Esperado: 1.621,00
+    Contexto: SM = R$ 2.200,00/mês × 4 meses = R$ 8.800,00 no período.
+
+  cap_15_rascunho.md:514
+    Índice: TETO
+    Encontrado: 1.980,38
+    Esperado: 8.475,55
+    Contexto: **Segurado com mais de um vínculo.** Quando o mesmo segurado mantém dois ou mais vínculos empregatícios simultâneos, a b
+
+  cap_15_rascunho.md:634
+    Índice: TETO
+    Encontrado: 1.980,38
+    Esperado: 8.475,55
+    Contexto: Segurado aposentado por idade, 66 anos, renda mensal de R$ 1.512,00, com neta de 8 anos sob tutela judicial. Requer salá
+
+  cap_16_rascunho.md:547
+    Índice: SM
+    Encontrado: 97.260,00
+    Esperado: 1.621,00
+    Contexto: **Etapa 6 — Enquadramento na competência dos JEFs.** O valor bruto das parcelas vencidas (R$ 17.920,00 nominais, antes d
+
+  cap_17_rascunho.md:197
+    Índice: TETO
+    Encontrado: 2.400,00
+    Esperado: 8.475,55
+    Contexto: O STF, no RE 564.354 (Tema 76, Rel. Min. Cármen Lúcia, Plenário, 08/09/2010), reconheceu que os segurados cujo salário d
+
+  cap_17_rascunho.md:221
+    Índice: SM
+    Encontrado: 97.260,00
+    Esperado: 1.621,00
+    Contexto: A primeira é o ponto de partida: parte-se do salário de benefício apurado na concessão *sem* a limitação ao teto (fonte:
+
+  cap_22_rascunho.md:417
+    Índice: SM
+    Encontrado: 405,25
+    Esperado: 1.621,00
+    Contexto: O benefício de prestação continuada (BPC), previsto no art. 203, V, da Constituição Federal e regulamentado pela Lei 8.7
+
+Relatório completo salvo em: /Volumes/2tb/Projeto Livro/output/relatorio_valores.txt
+  (377 valores não classificados listados para revisão manual)

@@ -1,0 +1,202 @@
+{
+  "cards": [
+    {
+      "tipo": "capa",
+      "header": "TEMPO ESPECIAL · SÉRIE 2 DE 3",
+      "kicker": "APOSENTADORIA ESPECIAL · RUÍDO",
+      "titulo": [
+        "Há um agente nocivo",
+        "em que a eficácia do",
+        "EPI não importa."
+      ],
+      "badge": "TNU · SÚMULA 9",
+      "sub": [
+        "E é o mais frequente nos Juizados",
+        "Especiais Federais."
+      ]
+    },
+    {
+      "tipo": "conteudo",
+      "header": "A REGRA GERAL",
+      "titulo": "EPI realmente eficaz afasta o direito",
+      "tsize": 58,
+      "blocos": [
+        [
+          "sans",
+          [
+            "O STF fixou no Tema 555: se o EPI for",
+            "realmente capaz de neutralizar a",
+            "nocividade, não há respaldo",
+            "constitucional à aposentadoria especial."
+          ]
+        ],
+        [
+          "barra",
+          [
+            "A regra vale para os agentes",
+            "nocivos em geral."
+          ]
+        ]
+      ],
+      "ref": "STF · ARE 664.335 · TEMA 555 · REL. MIN. LUIZ FUX · PLENÁRIO · 04/12/2014"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "A EXCEÇÃO",
+      "titulo": "No ruído, a declaração não basta",
+      "blocos": [
+        [
+          "painel",
+          {
+            "kicker": "SEGUNDA TESE DO TEMA 555",
+            "linhas": [
+              "\"Na hipótese de exposição do trabalhador",
+              "a ruído acima dos limites legais de",
+              "tolerância, a declaração do empregador,",
+              "no âmbito do PPP, no sentido da eficácia",
+              "do EPI, não descaracteriza o tempo de",
+              "serviço especial para aposentadoria.\""
+            ]
+          }
+        ]
+      ],
+      "ref": "STF · ARE 664.335 · TEMA 555"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "A SÚMULA",
+      "titulo": "O enunciado da TNU",
+      "blocos": [
+        [
+          "painel",
+          {
+            "kicker": "SÚMULA 9 · TEXTO LITERAL",
+            "linhas": [
+              "\"O uso de Equipamento de Proteção",
+              "Individual (EPI), ainda que elimine",
+              "a insalubridade, no caso de exposição",
+              "a ruído, não descaracteriza o tempo",
+              "de serviço especial prestado.\""
+            ]
+          }
+        ]
+      ],
+      "ref": "TNU · SÚMULA 9"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "O FUNDAMENTO",
+      "titulo": "Por que o ruído é diferente",
+      "blocos": [
+        [
+          "sans",
+          [
+            "O protetor auricular reduz o dano à",
+            "audição. Mas a potência do som atinge",
+            "o organismo por vias que o equipamento",
+            "não controla."
+          ]
+        ],
+        [
+          "barra",
+          [
+            "Não se pode garantir eficácia",
+            "real na eliminação dos efeitos",
+            "do ruído com o simples uso",
+            "de EPI."
+          ]
+        ]
+      ],
+      "ref": "STF · ARE 664.335 · FUNDAMENTAÇÃO DO VOTO CONDUTOR"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "OS LIMITES DE TOLERÂNCIA",
+      "titulo": "O nível que caracteriza o especial",
+      "tsize": 58,
+      "blocos": [
+        [
+          "lista",
+          [
+            "acima de 80 dB — até 04/03/1997",
+            "~(Decreto 53.831/64)",
+            "acima de 90 dB — de 05/03/1997",
+            "~a 18/11/2003 (Decreto 2.172/97)",
+            "acima de 85 dB — a partir de",
+            "~19/11/2003 (Decreto 4.882/03)"
+          ]
+        ],
+        [
+          "sans",
+          [
+            "Abaixo do limite do período,",
+            "não há especialidade — com ou",
+            "sem EPI."
+          ]
+        ]
+      ],
+      "ref": "DECRETOS 53.831/64 · 2.172/97 · 4.882/03"
+    },
+    {
+      "tipo": "conteudo",
+      "header": "O DESLOCAMENTO",
+      "titulo": "A discussão que sobra no ruído",
+      "blocos": [
+        [
+          "sans",
+          [
+            "Afastada a discussão sobre o EPI,",
+            "o litígio se move para o nível de",
+            "exposição, o período e a metodologia",
+            "de medição."
+          ]
+        ],
+        [
+          "barra",
+          [
+            "A partir de 19/11/2003, valem as",
+            "técnicas da NHO-01 ou da NR-15.",
+            "A omissão da técnica no PPP",
+            "não é suprível."
+          ]
+        ]
+      ],
+      "ref": "TNU · TEMA 174 · PEDILEF 0505614-83.2017.4.01.8300"
+    },
+    {
+      "tipo": "fecho",
+      "header": "SÍNTESE",
+      "titulo": "O que decide o caso",
+      "blocos": [
+        [
+          "serif",
+          [
+            "Acima do limite de tolerância,",
+            "a eficácia declarada do EPI é",
+            "irrelevante. O caso se decide no",
+            "nível, no período e na técnica",
+            "de medição."
+          ]
+        ],
+        [
+          "sans",
+          [
+            "Parte 3, segunda-feira: a técnica",
+            "de medição do ruído — Tema 174."
+          ]
+        ],
+        [
+          "prec",
+          [
+            "STF · ARE 664.335 (Tema 555) · Plenário · 04/12/2014",
+            "TNU · Súmula 9",
+            "TNU · Tema 174 · PEDILEF 0505614-83.2017.4.01.8300",
+            "Decretos 53.831/64 · 2.172/97 · 4.882/03"
+          ]
+        ]
+      ],
+      "hashtags": "#direitoprevidenciário #tempoespecial #ruído #EscolaREJUFE"
+    }
+  ],
+  "slug": "post03_ruido"
+}

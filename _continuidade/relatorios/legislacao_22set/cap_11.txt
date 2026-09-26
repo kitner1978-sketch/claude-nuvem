@@ -1,0 +1,25 @@
+L48 [N] A EC 103/2019 extinguiu a aposentadoria por tempo de contribuição como espécie autônoma para quem se filiou ao RGPS a partir de 13/11/2019 — esses novos segurados só acessam a aposentadoria programada (Cap. 10).
+L71 [N] A Constituição de 1988, em sua redação original (art. 202), manteve a aposentadoria por tempo de serviço com os mesmos requisitos de 30/35 anos, igualmente sem idade mínima.
+L75 [N] A EC 20/1998 tentou introduzir idade mínima para a aposentadoria por tempo de contribuição, mas a resistência política impediu a medida (Castro;
+L77 [N] **Primeira:** A substituição do conceito de "tempo de serviço" por "tempo de contribuição" (art. 201, § 7º, nova redação), exigindo contribuição efetiva ao sistema, e não apenas exercício de atividade.
+L79 [N] Essa regra de transição, posteriormente revogada pelo art. 35 da EC 103/2019, ainda produz efeitos para segurados que implementaram seus requisitos antes de 13/11/2019 (direito adquirido).
+L83 [N] Sem a idade mínima, o governo recorreu a um mecanismo indireto: o fator previdenciário (Lei 9.876/1999, inserido no art. 29 da Lei 8.213/91).
+L89 [N] Em resposta à insatisfação generalizada com o fator, a Lei 13.183/2015 criou a regra 85/95 (art. 29-C da Lei 8.213/91): quem atingisse pontuação mínima (idade + TC) aposentava-se com 100% do SB, sem incidência do fator previdenciário.
+L91 [N] #### 11.2.5 A EC 103/2019: extinção e transição
+L93 [N] Para novos filiados, o inciso II do art. 201, § 7º, da CF/88, que previa a aposentadoria por tempo de contribuição, foi tacitamente superado pela nova redação do inciso I, que instituiu a aposentadoria programada com requisitos cumulativos de idade e tempo de contribuição.
+L104 [N] | 2019+ | EC 103/19 | Extinção da aposentadoria por TC para novos filiados; 4 regras de transição |
+L110 [N] O art. 3º da EC 103/2019 expressamente preserva o direito adquirido dos segurados que implementaram os requisitos para qualquer modalidade de aposentadoria prevista na legislação anterior até a data de entrada em vigor da Emenda (13/11/2019).
+L112 [N] Para a aposentadoria por tempo de contribuição, o direito adquirido se configura quando o segurado, até 12/11/2019 (último dia antes da EC 103), completou:
+L459 [N] A fórmula está prevista no Anexo da Lei 9.876/99 e regulamentada nos arts. 181-A a 181-F do Decreto 3.048/99.
+L511 [N] A regra 85/95 (art. 29-C da Lei 8.213/91, incluído pela Lei 13.183/2015) permitiu ao segurado excluir o fator previdenciário ao atingir soma de idade + TC igual ou superior a 85 (mulher) ou 95 (homem).
+L526 [N] A EC 103/2019 substituiu integralmente o regime anterior: a regra 85/95 não se aplica a aposentadorias requeridas a partir de 13/11/2019.
+L642 [N] O art. 201, § 9º-A, da CF (incluído pela EC 103/2019), determina que os regimes de previdência social se compensarão financeiramente quando o segurado utilizar tempo de contribuição de um regime para aposentadoria em outro.
+L692 [N] A vedação, embora inserida no art. 40 (servidores públicos), aplica-se também ao RGPS como princípio geral do sistema (Castro;
+L721 [N] O tempo de atividade rural exercido antes da vigência da Lei 8.213/91 (novembro de 1991) é computado como TC para aposentadoria por tempo de contribuição, sem exigência de contribuição previdenciária no período.
+L1093 [Q] O pedido alternativo é admitido nos JEFs por força do art. 2º da Lei 10.259/2001, que autoriza o julgador a "conceder a prestação jurisdicional mais adequada" ao caso, combinado com o princípio da informalidade do procedimento (art. 2º da Lei 9.099/95).
+L1148 [N] A correção monetária das condenações da Fazenda Pública seguia o IPCA-E (conforme o STF, Tema 810, RE 870.947) até 08/12/2021, e passou a seguir exclusivamente a taxa SELIC a partir de 09/12/2021 (EC 113/2021).
+L1297 [N] Embora revogada pela EC 103/2019 (art. 35), a regra de transição da EC 20/1998 (art. 9º) para aposentadoria proporcional permanece aplicável para segurados que implementaram seus requisitos até 12/11/2019.
+L1475 [N] As regras de transição da EC 103/2019 não possuem prazo de vigência expresso — permanecerão aplicáveis enquanto existirem segurados filiados ao RGPS antes de 13/11/2019.
+L1477 [N] A regra de pontos (art. 15) estabilizará em 105/100 pontos (homem/mulher) a partir de 2028/2033, respectivamente.
+L1477 [N] A regra de idade (art. 16) estabilizará em 65/62 anos (homem/mulher) a partir de 2027/2031.
+L1485 [N] A aposentadoria por tempo de contribuição caminha para a extinção gradual: nascida como "aposentadoria por tempo de serviço" na LOPS de 1960, transformada pela EC 20/1998, ela será integralmente absorvida pela aposentadoria programada quando o último segurado pré-EC 103 se aposentar — provavelmente na década de 2050.

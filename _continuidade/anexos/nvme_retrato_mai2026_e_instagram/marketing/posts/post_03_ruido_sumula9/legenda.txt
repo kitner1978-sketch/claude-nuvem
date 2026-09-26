@@ -1,0 +1,17 @@
+Há um agente nocivo em que a eficácia do EPI não importa. E é o mais frequente nos Juizados Especiais Federais.
+
+A regra geral vem do Tema 555 do STF: se o EPI for realmente capaz de neutralizar a nocividade, não há respaldo constitucional à aposentadoria especial. O direito pressupõe exposição efetiva ao agente nocivo.
+
+O ruído é a exceção, fixada no mesmo julgamento. Segunda tese do ARE 664.335: "na hipótese de exposição do trabalhador a ruído acima dos limites legais de tolerância, a declaração do empregador, no âmbito do PPP, no sentido da eficácia do EPI, não descaracteriza o tempo de serviço especial para aposentadoria".
+
+A TNU já dizia o mesmo, e o enunciado permanece: "o uso de Equipamento de Proteção Individual (EPI), ainda que elimine a insalubridade, no caso de exposição a ruído, não descaracteriza o tempo de serviço especial prestado" (Súmula 9).
+
+O fundamento é físico antes de ser jurídico. O protetor auricular reduz o dano à audição, mas a potência do som atinge o organismo por vias que o equipamento não controla. Não se pode garantir eficácia real na eliminação dos efeitos do ruído com o simples uso de EPI.
+
+O que caracteriza o especial, então, é o nível de exposição no período: acima de 80 dB até 04/03/1997 (Decreto 53.831/64); acima de 90 dB de 05/03/1997 a 18/11/2003 (Decreto 2.172/97); acima de 85 dB a partir de 19/11/2003 (Decreto 4.882/03). Abaixo do limite do período, não há especialidade, com ou sem EPI.
+
+Por isso a lide, no ruído, se desloca: afastada a discussão sobre o equipamento, sobram o nível, o período e a metodologia de medição. A partir de 19/11/2003 valem as técnicas da NHO-01 ou da NR-15, e a omissão da técnica no PPP não é suprível (Tema 174 da TNU).
+
+STF, ARE 664.335 (Tema 555), Rel. Min. Luiz Fux, Plenário, j. 04/12/2014; TNU, Súmula 9; TNU, Tema 174, PEDILEF 0505614-83.2017.4.01.8300; Decretos 53.831/64, 2.172/97 e 4.882/03.
+
+#direitoprevidenciário #tempoespecial #ruído #EscolaREJUFE

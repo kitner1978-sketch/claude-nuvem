@@ -1,0 +1,22 @@
+# Dependências e caches
+node_modules/
+__pycache__/
+*.pyc
+
+# PDFs de doutrina (direitos autorais — não versionar)
+pdf/*.pdf
+
+# Backups manuais antigos (substituídos pelo git)
+backup_renumeracao_*/
+
+# Artefatos temporários
+scripts/temp_*.py
+scripts/*_output.txt
+scripts/*_log.txt
+.DS_Store
+
+# Obsidian workspace (estado local de janelas)
+.obsidian/workspace*.json
+
+# Vídeos renderizados (regeneráveis via scripts/gerar_reel.py)
+marketing/posts/**/producao/**
