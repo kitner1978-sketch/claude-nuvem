@@ -93,6 +93,21 @@ Relatórios e memórias citam caminhos do Mac. Correspondência:
 
 ---
 
+## 4-A. Atualização de 26/09/2026 (leia antes da seção 4)
+
+Em 26/09 o trabalho passou por dois lugares. De manhã, no PC Windows (`C:\projeto_livro`), foi feita a **revisão fina** dos caps. 1 a 9 (protocolo e relatórios em `relatorios/revisao_fina_26set/`) e o projeto inteiro foi commitado e enviado ao GitHub (`kitner1978-sketch/claude-nuvem`, branch `main`, commit `4fb996f`). À tarde, numa sessão do Claude Code **na nuvem**, sem RAG e sem a base `jurisprudencia/`, na branch `claude/fervent-tesla-ul4qsw`:
+
+- **Módulo 1:** os patches mecânicos dos caps. 1 a 9 foram aplicados (119 de 122).
+- **Módulo 2:** súmulas entre aspas conferidas contra `_sumulas_oficiais_jurrag.json` (TNU 4, 29, 53, 63, 73; STJ 507, 577) e o box do Tema 1.102 no cap. 16 (RE 1.276.977/DF; tese em paráfrase sem aspas, porque o registro do Tema não pôde ser consultado).
+- **Módulo 3:** relatórios de revisão fina dos caps. 10 a 23, um revisor por capítulo, em sequência, e seus patches mecânicos aplicados (165). A única nota de rodapé Markdown do livro (cap. 19) saía como marcador literal no DOCX e virou parágrafo.
+- Conferência: 23 capítulos com o mesmo número de linhas do retrato `snapshots/rascunhos_pre_revisao_fina_26set/`, títulos intactos, 197 remissões válidas. DOCX e PDF de 26/09 em `output/`.
+
+**O que não foi feito, e por quê:** nenhum erro de direito foi corrigido. A regra 1 exige fonte primária e a nuvem não tem a RAG. Tudo está consolidado em **`relatorios/revisao_fina_26set/00_PENDENCIAS_AUTOR.md`**: padrões transversais (citações processuais de memória, Tema 692, contribuição sobre atrasados), erros por capítulo e pendências de fonte. É por ali que a próxima sessão deve começar, com `jur-rag` e `legislacao` disponíveis. Registro do que foi aplicado em cada rodada: `APLICADO_*.md` na mesma pasta.
+
+**Git em 26/09, fim do dia:** `origin/claude/fervent-tesla-ul4qsw` tem 25 commits à frente de `main`. Basta um merge (avanço rápido). A cópia do Mac (`/Volumes/2tb/Projeto Livro`) está **atrasada** em relação ao GitHub e tem trabalho de setembro sem commit: para trabalhar no Mac, clonar o repositório do GitHub em pasta nova e apontar `jurisprudencia/` para `/Volumes/2tb/...`, em vez de mesclar por cima da cópia antiga.
+
+---
+
 ## 4. Estado em 24/09/2026
 
 ### Git
