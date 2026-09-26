@@ -336,7 +336,7 @@ Essa combinação cria um paradoxo: a regra do pedágio 50% pode produzir tanto 
 O fator previdenciário inferior a 1,0 reduz o valor do benefício, às vezes drasticamente. O segurado jovem (com menos de 58-60 anos) que se aposenta pelo pedágio 50% frequentemente obtém benefício inferior ao que receberia por outras regras.
 
 **Exemplo devastador:**
-- **Marcos**, homem, 54 anos, 36 anos TC (tinha 33 anos em 2019, faltava 2 anos → pedágio = 1 ano → precisava de 36 anos total → completou).
+- **Marcos**, homem, 54 anos, 36 anos TC (tinha 33 anos em 2019, faltavam 2 anos → pedágio = 1 ano → precisava de 36 anos total → completou).
 - Fator previdenciário: Tc=36, Id=54, Es≈25,3 (tabela IBGE 2024) → f ≈ (36×0,31/25,3) × [1+(54+11,16)/100] = 0,441 × 1,6516 = **0,728**
 - Média 80% maiores: R$ 6.000,00
 - RMI pelo pedágio 50%: R$ 6.000 × 0,728 = **R$ 4.368,00**
@@ -345,7 +345,7 @@ O fator previdenciário inferior a 1,0 reduz o valor do benefício, às vezes dr
 - **Art. 15 (pontos):** em 2028 (56 anos, 38 TC) teria 94 pontos, abaixo dos 105 exigidos para o homem; a pontuação só seria alcançada em 2034, já com 62 anos (62 + 44 = 106 ≥ 105).
 - **Art. 20 (pedágio 100%):** exige 60 anos de idade — Marcos só os completa em 2032. Nessa data, com idade e TC suficientes, obteria coeficiente de 100% sobre a média de 100% dos SC, sem a incidência do fator redutor.
 
-Ou seja: aposentar-se já, pelo pedágio 50% com fator de 0,728, custa-lhe quase 27% do benefício; esperar significa adiar a aposentadoria por vários anos. É exatamente essa a armadilha — a regra está disponível, mas o fator a torna desvantajosa, e as alternativas só amadurecem no médio prazo.
+Ou seja: aposentar-se já, pelo pedágio 50% com fator de 0,728, custa-lhe cerca de 27% do benefício; esperar significa adiar a aposentadoria por vários anos. É exatamente essa a armadilha — a regra está disponível, mas o fator a torna desvantajosa, e as alternativas só amadurecem no médio prazo.
 
 **Conclusão:** O pedágio 50% é vantajoso quase exclusivamente para segurados com fator previdenciário ≥ 1,0, ou seja, com idade igual ou superior a aproximadamente 63-65 anos e TC de 35+ anos. Para segurados mais jovens, é uma armadilha.
 :::
@@ -354,7 +354,7 @@ Ou seja: aposentar-se já, pelo pedágio 50% com fator de 0,728, custa-lhe quase
 
 A regra do pedágio 50% pode ser a mais vantajosa quando:
 
-1. **O segurado tem fator previdenciário elevado (>= 1,0):** A combinação de idade avançada e muito tempo de contribuição pode resultar em fator superior a 1,0, ampliando o valor do benefício.
+1. **O segurado tem fator previdenciário elevado (≥ 1,0):** A combinação de idade avançada e muito tempo de contribuição pode resultar em fator superior a 1,0, ampliando o valor do benefício.
 
 2. **A média dos 80% maiores SC é significativamente superior à média de 100%:** Como o pedágio 50% usa a média dos 80% maiores (descartando os 20% piores), a base de cálculo tende a ser mais elevada do que nas regras dos arts. 15, 16 e 20, que utilizam média de 100%.
 
@@ -488,7 +488,7 @@ Esses bônus elevam significativamente o fator previdenciário, reduzindo o efei
 
 #### 11.8.4 Impacto prático e referência ao cap. 16
 
-A tabela completa de simulações, o guia de cálculo passo a passo e exemplos numéricos detalhados do fator previdenciário estão no Cap. 16, seção 16.4, à qual se remete o leitor. Como referência rápida para este capítulo: o fator é redutor (< 1,0) para segurados que se aposentam jovens (homem de 55 anos com 35 de TC obtém fator de aproximadamente 0,71, redução de ~29%); torna-se neutro ou majorador (>= 1,0) para segurados com idade e TC elevados (homem de 62 anos com 40 de TC obtém fator de aproximadamente 1,15, acréscimo de ~15%). O resultado é sempre limitado ao teto do RGPS (R$ 8.475,55 em 2026).
+A tabela completa de simulações, o guia de cálculo passo a passo e exemplos numéricos detalhados do fator previdenciário estão no Cap. 16, seção 16.4, à qual se remete o leitor. Como referência rápida para este capítulo: o fator é redutor (< 1,0) para segurados que se aposentam jovens (homem de 55 anos com 35 de TC obtém fator de aproximadamente 0,71, redução de ~29%); torna-se neutro ou majorador (≥ 1,0) para segurados com idade e TC elevados (homem de 62 anos com 40 de TC obtém fator de aproximadamente 1,15, acréscimo de ~15%). O resultado é sempre limitado ao teto do RGPS (R$ 8.475,55 em 2026).
 
 ::: box-atencao
 **Fator previdenciário × coeficiente 60%+2% — NÃO confundir**
@@ -590,7 +590,7 @@ Na nossa experiência, a regra de pontos (art. 15) é a mais litigada nos JEFs p
 
 | Regra | Elegível? | Cálculo | RMI |
 |-------|----------|---------|-----|
-| Direito adquirido TC + fator | Sim (33 TC < 35 em 2019) → **Não** | — | — |
+| Direito adquirido TC + fator | 33 TC < 35 em 2019 → **Não** | — | — |
 | Direito adquirido 85/95 | 56+33=89 < 96 → **Não** | — | — |
 | Art. 15 (pontos) | 63+40=103 ≥ 103 → **Sim** | R$ 5.400 × (60%+2%×20) = R$ 5.400 × 100% | **R$ 5.400** |
 | Art. 16 (idade) | 63 < 64,5 → **Não** (em 2026) | — | — |
@@ -602,7 +602,7 @@ Na nossa experiência, a regra de pontos (art. 15) é a mais litigada nos JEFs p
 - Art. 15 e Art. 20: R$ 5.400 cada
 - Art. 16: não elegível em 2026
 
-**Lição:** O pedágio 50%, quando o fator é favorável (> 1,0), pode superar todas as demais regras por combinar a base mais elevada (80% maiores) com um multiplicador que amplifica o benefício. Aqui, o fator de Carlos é apenas levemente superior a 1,0 (≈ 1,064, calculado com Es ≈ 20,4 anos aos 63 anos, conforme a tabela de sobrevida da seção 11.18.5), mas a vantagem decisiva vem da base de cálculo: a média dos 80% maiores SC (R$ 6.200) supera em quase R$ 800 a média de 100% (R$ 5.400) usada pelas demais regras. O resultado (R$ 6.597) supera os R$ 5.400 das regras dos arts. 15 e 20 em R$ 1.197 mensais. Note-se que basta um fator próximo de 1,0 — não é preciso um multiplicador elevado — para que a base mais favorável faça o pedágio 50% prevalecer.
+**Lição:** O pedágio 50%, quando o fator é favorável (> 1,0), pode superar todas as demais regras por combinar a base mais elevada (80% maiores) com um multiplicador que amplifica o benefício. Aqui, o fator de Carlos é apenas levemente superior a 1,0 (≈ 1,064, calculado com Es ≈ 20,4 anos aos 63 anos, conforme a tabela de sobrevida da seção 11.18.5), mas a vantagem decisiva vem da base de cálculo: a média dos 80% maiores SC (R$ 6.200) supera em R$ 800 a média de 100% (R$ 5.400) usada pelas demais regras. O resultado (R$ 6.597) supera os R$ 5.400 das regras dos arts. 15 e 20 em R$ 1.197 mensais. Note-se que basta um fator próximo de 1,0 — não é preciso um multiplicador elevado — para que a base mais favorável faça o pedágio 50% prevalecer.
 :::
 
 ::: box-atencao
@@ -610,7 +610,7 @@ Na nossa experiência, a regra de pontos (art. 15) é a mais litigada nos JEFs p
 
 A análise dos exemplos demonstra que cada regra pode ser a mais vantajosa dependendo do perfil do segurado:
 
-- **Regra 85/95 (direito adquirido):** Melhor para quem atingiu os pontos antes de 13/11/2019, combina média 80% maiores + 100% do SB + sem fator.
+- **Regra 85/95 (direito adquirido):** Melhor para quem atingiu os pontos antes de 13/11/2019: combina média 80% maiores + 100% do SB + sem fator.
 - **Pedágio 50%:** Melhor para quem tem fator > 1,0 e grande diferença entre média 80% e 100%.
 - **Pedágio 100%:** Melhor para quem não tem direito adquirido e precisa de coeficiente integral (100%).
 - **Art. 15/16:** Melhor quando o coeficiente (60%+2%) atinge 100%+ e não há regra com fator favorável.
@@ -752,7 +752,7 @@ Porém, há uma distinção crucial quanto à **carência**: o tempo rural pré-
 
 #### 11.13.1 Remissão ao cap. 8 e delimitação
 
-O Capítulo 8 deste livro tratou em profundidade da aposentadoria especial e da conversão de tempo especial em comum, incluindo os fatores de conversão, o enquadramento por agente nocivo, a vedação da conversão para períodos posteriores a 13/11/2019 (art. 25, § 2º, EC 103/2019) e a ADI 6.309, julgada pelo STF em 03/06/2026, no que a vedação à conversão foi mantida (afastada, no mesmo julgado, a idade mínima da aposentadoria especial). Remete-se o leitor à seção 8.9 para os fundamentos gerais.
+O Capítulo 8 deste livro tratou em profundidade da aposentadoria especial e da conversão de tempo especial em comum, incluindo os fatores de conversão, o enquadramento por agente nocivo, a vedação da conversão para períodos posteriores a 13/11/2019 (art. 25, § 2º, EC 103/2019) e a ADI 6.309, julgada pelo STF em 03/06/2026, na qual a vedação à conversão foi mantida (afastada, no mesmo julgado, a idade mínima da aposentadoria especial). Remete-se o leitor à seção 8.9 para os fundamentos gerais.
 
 Aqui interessa o impacto da conversão como estratégia para atingir os requisitos das regras de transição por TC.
 
@@ -788,7 +788,7 @@ A conversão pode ser decisiva para atingir os 35 anos de TC (homem) ou 30 anos 
 - Resultado: ATINGE 35 anos → habilita-se ao art. 15, art. 16 e art. 20
 
 **Verificação das regras (com 39 anos TC e 60 anos de idade):**
-- Art. 15 (pontos): 60 + 39 = 99 < 103 em 2026 → NÃO atinge em 2026 (atinge em 2028 com 101)
+- Art. 15 (pontos): 60 + 39 = 99 < 103 em 2026 → NÃO atinge em 2026
 - Art. 16 (idade progressiva): 60 < 64,5 → NÃO atinge em 2026
 - Art. 20 (pedágio 100%): 60 anos ✅, 35 TC ✅, em 13/11/2019 tinha 24 anos TC (convertido: 15×1,4=21 + 3=24), faltavam 11 anos → pedágio 11 anos → precisa de 46 TC total → NÃO atinge
 - Art. 15 (pontos) em anos seguintes: a pontuação exigida do homem sobe progressivamente até estabilizar em 105 a partir de 2028. Em 2028 Paulo teria 62 anos e 41 TC (103 pontos < 105) e em 2029, 63 anos e 42 TC, alcançando exatamente os **105 pontos exigidos** ✅.
@@ -808,7 +808,7 @@ Para o segurado que continua exercendo atividade especial, o impacto é signific
 
 Essa vedação cria uma situação paradoxal: o segurado que permanece exposto a agentes nocivos após 2019, e que portanto continua a sofrer desgaste diferenciado em sua saúde, é penalizado previdenciariamente, pois não pode converter o tempo posterior. O fundamento do legislador constituinte derivado foi que a aposentadoria especial tem regras próprias (art. 19 da EC 103/2019), e o segurado que permanece em atividade especial deve buscar a aposentadoria especial (se atingir os requisitos de 15, 20 ou 25 anos de atividade especial), e não a conversão para aposentadoria comum.
 
-Na atuação forense, contudo, muitos segurados possuem tempo especial insuficiente para a aposentadoria especial mas que, se convertido, viabilizaria a aposentadoria por TC. Nesses casos, a vedação gera lacuna de proteção que foi o fundamento material da ADI 6.309. No julgamento de 03/06/2026, porém, o STF **manteve a vedação à conversão** — o argumento da lacuna de proteção não prevaleceu nesse ponto. No mesmo julgamento, o Tribunal **afastou a exigência de idade mínima** da aposentadoria especial.
+Na atuação forense, contudo, muitos segurados possuem tempo especial insuficiente para a aposentadoria especial, mas que, se convertido, viabilizaria a aposentadoria por TC. Nesses casos, a vedação gera lacuna de proteção que foi o fundamento material da ADI 6.309. No julgamento de 03/06/2026, porém, o STF **manteve a vedação à conversão** — o argumento da lacuna de proteção não prevaleceu nesse ponto. No mesmo julgamento, o Tribunal **afastou a exigência de idade mínima** da aposentadoria especial.
 
 A ADI 6.309 (Rel. orig. Min. Luís Roberto Barroso, red. p/ acórdão Min. André Mendonça) foi julgada parcialmente procedente pelo Tribunal Pleno do STF em 03/06/2026, por 6 votos a 5. Quanto à conversão, o Tribunal **confirmou a constitucionalidade da vedação** para períodos posteriores a 13/11/2019 — de modo que a conversão desses períodos permanece vedada, mantendo-se íntegro o panorama de cálculo descrito nesta seção. Por outro lado, declarou inconstitucional a idade mínima da aposentadoria especial e manteve a nova forma de cálculo. Até o fechamento desta edição, o acórdão não havia sido publicado, de modo que eventual modulação de efeitos deve ser conferida no inteiro teor.
 
@@ -925,7 +925,7 @@ Onde:
 - TC: 33 ≥ 30 ✅
 - Pedágio: em 13/11/2019, Marta tinha 26 anos TC, faltavam 4 anos → pedágio = 4 anos
 - TC necessário: 30 + 4 = 34 anos
-- TC atual: 33 → faltam 1 ano
+- TC atual: 33 → falta 1 ano
 - **Viável em 2027** (com 34 TC e 59 anos)
 
 **Cálculo do break-even — Art. 15 (2028) vs. Art. 20 (2027):**
@@ -1072,7 +1072,7 @@ Na prática forense, o advogado deve formular pedido alternativo (art. 326, CPC)
 
 #### 11.16.1 Competência e valor da causa
 
-A aposentadoria por tempo de contribuição nos JEFs apresenta peculiaridades processuais próprias, sobretudo quanto ao valor da causa. Os aspectos processuais gerais foram examinados no Cap. 6; as peculiaridades da aposentadoria por idade, no Cap. 10, seção 10.14. Tratam-se aqui apenas dos aspectos específicos da aposentadoria por TC e das regras de transição.
+A aposentadoria por tempo de contribuição nos JEFs apresenta peculiaridades processuais próprias, sobretudo quanto ao valor da causa. Os aspectos processuais gerais foram examinados no Cap. 6; as peculiaridades da aposentadoria por idade, no Cap. 10, seção 10.14. Trata-se aqui apenas dos aspectos específicos da aposentadoria por TC e das regras de transição.
 
 O teto de competência dos JEFs é de 60 salários-mínimos (R$ 97.260,00 em 2026). O valor da causa nas ações de aposentadoria por TC corresponde à soma de 12 parcelas vincendas com as parcelas vencidas desde a DER (ou desde a data em que o segurado implementou os requisitos, em caso de reafirmação). Como o benefício por TC tende a ser de valor mais elevado (segurados com longa carreira contributiva frequentemente possuem salários de contribuição elevados) e as parcelas vencidas podem acumular valores significativos, é comum que o valor da causa supere o teto do JEF.
 
@@ -1248,7 +1248,7 @@ Além da docência propriamente dita (ministrar aulas), computam-se como tempo d
 - TC: 32 ≥ 30 ✅
 - Pedágio: em 13/11/2019 tinha 25 anos TC, faltavam 5 anos → pedágio = 5 anos
 - TC necessário: 30 + 5 = 35 anos
-- TC atual: 32 < 35 → falta 3 anos → **Viável em 2029** (35 TC e 60 anos)
+- TC atual: 32 < 35 → faltam 3 anos → **Viável em 2029** (35 TC e 60 anos)
 
 **Art. 17 (pedágio 50%), professor:**
 - Em 13/11/2019 faltavam 5 anos → > 2 anos → NÃO ELEGÍVEL
@@ -1303,7 +1303,7 @@ Embora revogada pela EC 103/2019 (art. 35), a regra de transição da EC 20/1998
 - Benefício proporcional: **70% do SB + 5% por ano adicional de TC** (até 100%)
 - Fator previdenciário: **obrigatório**
 
-**Quando é relevante em 2026:** Para segurado que completou os requisitos da aposentadoria proporcional antes de 13/11/2019 mas não requereu o benefício. Esse segurado mantém o direito adquirido e pode optar pela proporcional ou por qualquer regra de transição da EC 103 que atenda.
+**Quando é relevante em 2026:** Para segurado que completou os requisitos da aposentadoria proporcional antes de 13/11/2019, mas não requereu o benefício. Esse segurado mantém o direito adquirido e pode optar pela proporcional ou por qualquer regra de transição da EC 103 que atenda.
 
 Na prática, a aposentadoria proporcional raramente é a opção mais vantajosa, pois combina coeficiente reduzido (70-100%) com fator previdenciário obrigatório. Contudo, para segurados que implementaram os requisitos antes da EC 103 e que possuem fator previdenciário elevado (idade avançada), ela pode representar uma opção adicional a ser calculada.
 
@@ -1468,7 +1468,7 @@ Para facilitar a consulta, apresentam-se os valores de referência atualizados p
 | Idade art. 20 — Professor (fixa) | 55 anos |
 | Idade art. 20 — Professora (fixa) | 52 anos |
 
-> **Nota sobre a expectativa de sobrevida (Es).** Os valores de Es desta tabela de referência seguem a Tábua Completa de Mortalidade do IBGE de 2024 (~25,3 aos 55; ~22,6 aos 60; ~19,0 aos 65), aplicável às simulações com data-base 2026. Como o fator previdenciário usa a tábua **vigente na data do requerimento** (Lei 9.876/1999; art. 29, § 7º a 9º, Lei 8.213/91), os exemplos que projetam o fator em anos-base distintos adotam a tábua daquele ano — por isso o cálculo de Roberto em 2019 emprega Es ≈ 24,0 aos 57 anos (IBGE 2019), enquanto seus números de 2026 e os de Marcos usam a IBGE 2024. A divergência aparente entre as duas Es não é incoerência, mas reflexo da atualização anual da tábua.
+> **Nota sobre a expectativa de sobrevida (Es).** Os valores de Es desta tabela de referência seguem a Tábua Completa de Mortalidade do IBGE de 2024 (~25,3 aos 55; ~22,6 aos 60; ~19,0 aos 65), aplicável às simulações com data-base 2026. Como o fator previdenciário usa a tábua **vigente na data do requerimento** (Lei 9.876/1999; art. 29, §§ 7º a 9º, Lei 8.213/91), os exemplos que projetam o fator em anos-base distintos adotam a tábua daquele ano — por isso o cálculo de Roberto em 2019 emprega Es ≈ 24,0 aos 57 anos (IBGE 2019), enquanto seus números de 2026 e os de Marcos usam a IBGE 2024. A divergência aparente entre as duas Es não é incoerência, mas reflexo da atualização anual da tábua.
 
 #### 11.18.6 Perspectivas e prazo de vigência
 
@@ -1476,7 +1476,7 @@ As regras de transição da EC 103/2019 não possuem prazo de vigência expresso
 
 A regra de pontos (art. 15) estabilizará em 105/100 pontos (homem/mulher) a partir de 2028/2033, respectivamente. A regra de idade (art. 16) estabilizará em 65/62 anos (homem/mulher) a partir de 2027/2031. A partir da estabilização, essas regras de transição se tornarão equivalentes à regra permanente (art. 201, § 7º, CF). A diferença residirá apenas no cálculo do benefício (60%+2% vs. regra permanente, que é idêntica).
 
-O pedágio 50% (art. 17) é a regra de transição de aplicação mais restrita e efêmera: como exige que o segurado faltasse menos de 2 anos de TC em 2019, os beneficiários potenciais são segurados que, em 2019, já tinham pelo menos 33 anos TC (homem) ou 28 anos TC (mulher). Esses segurados, mesmo que não tenham requerido o benefício imediatamente, o farão nos próximos anos, esgotando progressivamente o universo de beneficiários.
+O pedágio 50% (art. 17) é a regra de transição de aplicação mais restrita e efêmera: como exige que faltassem ao segurado menos de 2 anos de TC em 2019, os beneficiários potenciais são segurados que, em 2019, já tinham pelo menos 33 anos TC (homem) ou 28 anos TC (mulher). Esses segurados, mesmo que não tenham requerido o benefício imediatamente, o farão nos próximos anos, esgotando progressivamente o universo de beneficiários.
 
 O pedágio 100% (art. 20), por sua vez, permanecerá atrativo por anos em razão do coeficiente integral de 100%, que pode ser significativamente superior ao coeficiente de 60%+2% calculado pelos arts. 15 e 16 para segurados com TC próximo ao mínimo.
 
