@@ -57,7 +57,7 @@ A história do salário-maternidade no Brasil atravessa quatro fases distintas, 
 | 2024 | STF ADIs 2.110/2.111 | Carência inconstitucional, dispensada para todas |
 | 2025 | IN INSS 188 | Regulamentação da dispensa de carência |
 
-A evolução legislativa do salário-maternidade revela um padrão consistente de ampliação progressiva. Cada reforma ampliou o universo de beneficiárias, a duração do benefício ou as situações cobertas. A tendência aponta para a universalização plena, qualquer pessoa com qualidade de segurada que assuma os cuidados de uma criança recém-nascida ou recém-adotada tende a ser contemplada pelo benefício, independentemente do sexo, da orientação sexual ou da forma de constituição familiar.
+A evolução legislativa do salário-maternidade revela um padrão consistente de ampliação progressiva. Cada reforma ampliou o universo de beneficiárias, a duração do benefício ou as situações cobertas. A tendência aponta para a universalização plena: qualquer pessoa com qualidade de segurada que assuma os cuidados de uma criança recém-nascida ou recém-adotada tende a ser contemplada pelo benefício, independentemente do sexo, da orientação sexual ou da forma de constituição familiar.
 
 ### 13.3 Fatos geradores
 
@@ -67,7 +67,7 @@ O salário-maternidade pode ser concedido em razão de cinco fatos geradores dis
 
 O parto constitui o fato gerador primário e mais frequente do salário-maternidade. Nos termos do art. 71 da Lei 8.213/91, o benefício é devido durante cento e vinte dias, com início no período entre vinte e oito dias antes do parto e a data de ocorrência deste. Na prática, a segurada pode requerer o benefício a partir do vigésimo oitavo dia anterior à data prevista do parto (mediante atestado médico) ou a partir da data do parto efetivo.
 
-A definição do momento inicial do benefício é relevante para o planejamento da segurada. A antecipação de vinte e oito dias permite que gestantes em situação de risco, com dificuldade de deslocamento ou em atividades incompatíveis com a gestação avançada, afastem-se antes do parto sem perda de remuneração. Na atuação forense, a maioria das empregadas celetistas opta por iniciar o benefício na data do parto (ou alguns dias antes, conforme orientação médica), enquanto contribuintes individuais e seguradas especiais, que não têm estabilidade empregatícia, tendem a requerer o benefício após o parto.
+A definição do momento inicial do benefício é relevante para o planejamento da segurada. A antecipação de vinte e oito dias permite que gestantes em situação de risco, com dificuldade de deslocamento ou em atividades incompatíveis com a gestação avançada, se afastem antes do parto sem perda de remuneração. Na atuação forense, a maioria das empregadas celetistas opta por iniciar o benefício na data do parto (ou alguns dias antes, conforme orientação médica), enquanto contribuintes individuais e seguradas especiais, que não têm estabilidade empregatícia, tendem a requerer o benefício após o parto.
 
 O conceito de parto para fins previdenciários é mais amplo que o conceito obstétrico. O art. 294, §3º, da Instrução Normativa INSS 77/2015 considera parto o evento ocorrente a partir da vigésima terceira semana de gestação (sexto mês), inclusive em caso de natimorto. Assim, a expulsão fetal a partir da vigésima terceira semana, mesmo sem sinais de vida, é juridicamente equiparada ao parto e gera direito ao salário-maternidade integral de cento e vinte dias.
 
@@ -204,7 +204,7 @@ A remuneração integral abrange o salário-base acrescido de todas as parcelas 
 
 Para a empregada de pessoa jurídica, a Lei 10.710/2003 restabeleceu o pagamento do salário-maternidade pela empresa, com compensação nas contribuições previdenciárias. O limite operacional da compensação é o teto do RGPS (R$ 8.475,55 em 2026). A empresa paga a remuneração integral à empregada e compensa o valor até o teto do RGPS; eventual diferença entre a remuneração e o teto é ônus da empresa, sem direito a compensação. Uma empregada que ganha R$ 12.000,00 receberá os R$ 12.000,00 integrais, mas a empresa só compensa R$ 8.475,55, os R$ 3.524,45 restantes ficam a cargo do empregador.
 
-**Incidência de imposto de renda.** O salário-maternidade é rendimento tributável para fins de Imposto de Renda da Pessoa Física. A Receita Federal e a jurisprudência são unísonas quanto a isso. O valor é tributado na fonte pela alíquota progressiva (7,5% a 27,5%), com as mesmas deduções aplicáveis à remuneração normal (dependentes, contribuição previdenciária, pensão alimentícia).
+**Incidência de imposto de renda.** O salário-maternidade é rendimento tributável para fins de Imposto de Renda da Pessoa Física. A Receita Federal e a jurisprudência são uníssonas quanto a isso. O valor é tributado na fonte pela alíquota progressiva (7,5% a 27,5%), com as mesmas deduções aplicáveis à remuneração normal (dependentes, contribuição previdenciária, pensão alimentícia).
 
 **Empregada doméstica: último salário de contribuição.** Desde a LC 150/2015, o salário-maternidade da empregada doméstica é pago diretamente pelo INSS, com base no último salário de contribuição. O valor corresponde ao último salário registrado no eSocial.
 
@@ -283,7 +283,7 @@ Até a LC 150/2015, o empregador doméstico era responsável pelo pagamento do s
 9. Prazo legal para o primeiro pagamento pelo INSS: 45 dias após a apresentação da documentação necessária (art. 41-A, §5º, Lei 8.213);
 10. Se indeferido: apresentar recurso à Junta de Recursos ou ajuizar ação no JEF.
 
-**Importante:** A empregada CLT não requer pelo Meu INSS, o benefício é pago pela empresa diretamente em folha.
+**Importante:** A empregada CLT não requer pelo Meu INSS: o benefício é pago pela empresa diretamente em folha.
 :::
 
 ### 13.8 Incidência de contribuição previdenciária sobre o salário-maternidade
@@ -303,7 +303,7 @@ O segundo argumento é de política pública: a incidência de contribuição pa
 
 **Tese fixada:** "É inconstitucional a incidência de contribuição previdenciária a cargo do empregador sobre o salário-maternidade."
 
-**Placar:** 7 × 4. Relator para o acórdão: Min. Luís Roberto Barroso. A composição nominativa dos votos vencidos deve ser conferida no inteiro teor do acórdão (consultar portal do STF).
+**Placar:** 7 × 4. Relator para o acórdão: Min. Luís Roberto Barroso.
 
 **Efeitos práticos:**
 - Empresas não recolhem contribuição patronal (20% + RAT + terceiros) sobre o SM desde agosto/2020;
@@ -337,7 +337,7 @@ A segurada que perde o emprego ou cessa suas contribuições mantém a qualidade
 ::: box-atencao
 **Cuidado: perda e reaquisição da qualidade de segurada**
 
-Após perder a qualidade de segurada (esgotamento do período de graça), a mulher que pretende ter direito ao salário-maternidade precisa readquirir a filiação ao RGPS. Após as ADIs 2.110/2.111 (STF, março/2024), não há mais exigência de carência, basta estar na qualidade de segurada na data do parto/adoção. Uma única contribuição mensal como CI ou facultativa, desde que anterior ao fato gerador, já restabelece o direito ao salário-maternidade.
+Após perder a qualidade de segurada (esgotamento do período de graça), a mulher que pretende ter direito ao salário-maternidade precisa readquirir a filiação ao RGPS. Após as ADIs 2.110/2.111 (STF, março/2024), não há mais exigência de carência: basta estar na qualidade de segurada na data do parto/adoção. Uma única contribuição mensal como CI ou facultativa, desde que anterior ao fato gerador, já restabelece o direito ao salário-maternidade.
 
 **Atenção:** A contribuição deve ser anterior ao fato gerador. Contribuição realizada após o parto não retroage para conferir direito ao SM pelo parto ocorrido quando a segurada não tinha qualidade de segurada.
 :::
@@ -417,7 +417,7 @@ A guarda judicial para fins de adoção deve ser expressamente designada como ta
 
 A Lei 12.873/2013 representou marco na evolução do salário-maternidade ao eliminar a distinção de gênero no benefício por adoção. O art. 71-A passou a referir-se a "segurado ou segurada" que adotar, reconhecendo que o cuidado da criança adotada pode ser exercido por homem ou mulher, independentemente da orientação sexual ou da configuração familiar.
 
-**Segurado homem adotante.** Desde 24 de outubro de 2013 (data de publicação da Lei 12.873), o segurado homem que adota ou obtém guarda judicial para fins de adoção tem direito ao salário-maternidade de cento e vinte dias, nas mesmas condições da segurada mulher. A extensão aplica-se a todas as categorias de segurados: empregado, contribuinte individual, facultativo, segurado especial e MEI. A denominação "salário-maternidade" torna-se, nesses casos, uma impropriedade terminológica, mais adequado seria "salário-parentalidade", mas a legislação manteve a nomenclatura original. O valor, a duração e as condições de concessão são idênticos aos da segurada mulher.
+**Segurado homem adotante.** Desde 24 de outubro de 2013 (data de publicação da Lei 12.873), o segurado homem que adota ou obtém guarda judicial para fins de adoção tem direito ao salário-maternidade de cento e vinte dias, nas mesmas condições da segurada mulher. A extensão aplica-se a todas as categorias de segurados: empregado, contribuinte individual, facultativo, segurado especial e MEI. A denominação "salário-maternidade" torna-se, nesses casos, uma impropriedade terminológica: mais adequado seria "salário-parentalidade", mas a legislação manteve a nomenclatura original. O valor, a duração e as condições de concessão são idênticos aos da segurada mulher.
 
 O pai biológico que não adota não tem direito ao salário-maternidade. Até 2026, dispõe apenas da licença-paternidade de cinco dias (art. 10, § 1º, ADCT) ou de vinte dias se a empresa aderir ao Programa Empresa Cidadã (Lei 11.770/2008). A Lei 15.371, de 31 de março de 2026, instituiu o salário-paternidade no âmbito da Previdência Social, com vigência a partir de 1º de janeiro de 2027: a licença e o benefício terão dez dias em 2027, quinze em 2028 e vinte a partir de 2029 (esta última etapa condicionada ao cumprimento da meta fiscal), observadas, no que couber, as regras do salário-maternidade. A extensão do salário-maternidade ao homem é restrita à adoção e à guarda judicial para fins de adoção, refletindo a opção legislativa de associar o benefício ampliado ao período de adaptação da criança ao novo lar, e não ao evento biológico do parto.
 
@@ -565,7 +565,7 @@ A perícia médica não é usual nas ações de salário-maternidade (ao contrá
 
 **Honorários advocatícios.** Nas ações de salário-maternidade julgadas procedentes nos JEFs, os honorários advocatícios sucumbenciais são fixados em 10% sobre o valor da condenação (art. 55, Lei 9.099/95, aplicável aos JEFs por força do art. 1º, Lei 10.259/2001). Como o valor da condenação costuma ser relativamente baixo (quatro meses de SM), os honorários também são modestos. Em ações de segurada especial com SM de R$ 1.621,00/mês, os honorários serão de aproximadamente R$ 648,40 (10% de R$ 6.484,00). O advogado deve considerar essa realidade na avaliação da viabilidade econômica da causa, especialmente em comarcas distantes que exigem deslocamento.
 
-**Sentença e recurso.** A sentença que concede o salário-maternidade deve fixar a DIB, o valor mensal do benefício, e condenar o INSS ao pagamento das parcelas vencidas com correção monetária (SELIC) desde cada vencimento. Se o benefício ainda estiver no prazo de cento e vinte dias, a sentença deve determinar a implantação imediata. O recurso inominado ao INSS não tem efeito suspensivo (art. 43, Lei 9.099/95), de modo que a sentença concessória pode ser executada provisoriamente.
+**Sentença e recurso.** A sentença que concede o salário-maternidade deve fixar a DIB, o valor mensal do benefício, e condenar o INSS ao pagamento das parcelas vencidas com correção monetária (SELIC) desde cada vencimento. Se o benefício ainda estiver no prazo de cento e vinte dias, a sentença deve determinar a implantação imediata. O recurso inominado do INSS não tem efeito suspensivo (art. 43, Lei 9.099/95), de modo que a sentença concessória pode ser executada provisoriamente.
 
 ::: box-pratica
 **Modelo de quesitos para prova, segurada especial rural**
