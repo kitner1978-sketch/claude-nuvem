@@ -419,7 +419,7 @@ A terceira fase corresponde à EC n. 103/2019, que não inovou em relação ao a
 A jurisprudência consolidou de forma definitiva o marco temporal de 11 de novembro de 1997 como divisor entre o regime de acumulação livre e o regime de vedação.
 
 ::: box-jurisprudencia
-**Súmula 507/STJ** (DJe 17/03/2014): "A acumulação de auxílio-acidente com aposentadoria pressupõe que a lesão incapacitante e a concessão da aposentadoria sejam anteriores a 11/11/1997, observado o critério do art. 23 da Lei 8.213/1991 para definição do momento da lesão nos casos de doença profissional ou do trabalho."
+**Súmula 507/STJ** (DJe 17/03/2014): "A acumulação de auxílio-acidente com aposentadoria pressupõe que a lesão incapacitante e a aposentadoria sejam anteriores a 11/11/1997, observado o critério do art. 23 da Lei n. 8.213/1991 para definição do momento da lesão nos casos de doença profissional ou do trabalho."
 
 O **Tema 555/STJ** (REsp 1.296.673/MG), julgado sob o rito dos recursos repetitivos, firmou idêntica tese. A Primeira Seção do STJ assentou que a acumulação de auxílio-acidente com aposentadoria exige dupla anterioridade: tanto a consolidação da lesão incapacitante quanto a concessão da aposentadoria devem ter ocorrido antes de 11 de novembro de 1997. A exigência de dupla anterioridade decorre da natureza do auxílio-acidente como benefício continuado: enquanto o segurado permanece em atividade, o auxílio compensa a redução da capacidade; ao se aposentar, essa compensação é incorporada ao cálculo da aposentadoria, tornando desnecessária a manutenção de dois benefícios simultâneos.
 

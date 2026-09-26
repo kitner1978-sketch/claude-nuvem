@@ -483,11 +483,11 @@ A chamada "revisão da vida toda" (Ibrahim, 2025; Savaris, 2023) envolve a possi
 ::: box-jurisprudencia
 **Tema 1.102/STF — Revisão da Vida Toda: tese revertida**
 
-Processo: RE 1.276.977/RS | Plenário | Rel. p/ acórdão Min. Alexandre de Moraes (julgamento original) e Min. Nunes Marques (embargos)
+Processo: RE 1.276.977/DF | Plenário | Rel. p/ acórdão Min. Alexandre de Moraes (julgamento original) e Min. Nunes Marques (embargos)
 
 Cronologia: (a) 01/12/2022, procedência por 6×5, após retificação de placar; (b) 26/11/2025, reversão em embargos com efeitos infringentes; (c) 15/05/2026 — novos embargos de declaração rejeitados em plenário virtual (retirado o destaque do Min. Fachin), com derrota da proposta de ampliação da modulação e manutenção da revogação.
 
-Tese vigente (nov/2025): "É indevida a aplicação da revisão da vida toda após a declaração de constitucionalidade do art. 3º da Lei 9.876/1999 pelo STF nas ADIs 2.110/DF e 2.111/DF, com eficácia vinculante e erga omnes."
+Tese vigente (nov/2025), em síntese: após a declaração de constitucionalidade do art. 3º da Lei 9.876/1999 nas ADIs 2.110/DF e 2.111/DF, de observância cogente, o segurado não pode optar pela regra definitiva do art. 29, I e II, da Lei 8.213/91, ainda que lhe seja mais favorável. A revisão da vida toda é, portanto, indevida.
 
 Modulação: (a) irrepetibilidade de valores pagos sob decisão judicial até 05/04/2024; (b) inexigibilidade de sucumbência para ações anteriores a 05/04/2024. A proposta de ampliar a modulação para além de 05/04/2024 foi rejeitada pelo Plenário em 15/05/2026.
 :::
@@ -727,7 +727,7 @@ BRASIL. Supremo Tribunal Federal. RE 937.595 (Tema 930). Rel. Min. Luís Roberto
 
 BRASIL. Supremo Tribunal Federal. RE 1.221.630 (Tema 1.091). Rel. Min. Presidente. Plenário (reafirmação de jurisprudência). Julgado em 5 jun. 2020. *Diário da Justiça Eletrônico*, Brasília, DF, 2020.
 
-BRASIL. Supremo Tribunal Federal. RE 1.276.977/RS (Tema 1.102). Rel. p/ acórdão Min. Alexandre de Moraes (julgamento original, dez. 2022); embargos com efeitos infringentes julgados em 26 nov. 2025 (tese revertida). Plenário. *Diário da Justiça Eletrônico*, Brasília, DF, 2025.
+BRASIL. Supremo Tribunal Federal. RE 1.276.977/DF (Tema 1.102). Rel. p/ acórdão Min. Alexandre de Moraes (julgamento original, dez. 2022); embargos com efeitos infringentes julgados em 26 nov. 2025 (tese revertida). Plenário. *Diário da Justiça Eletrônico*, Brasília, DF, 2025.
 
 BRASIL. Supremo Tribunal Federal. RE 1.469.150/SC (Tema 1.300). Rel. Min. Luís Roberto Barroso. Plenário. Julgado em 18 dez. 2025. *Diário da Justiça Eletrônico*, Brasília, DF, 2026.
 
