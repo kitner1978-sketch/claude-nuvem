@@ -40,7 +40,7 @@ referências:
 
 ### 10.1 Introdução: da aposentadoria por idade à aposentadoria programada
 
-A EC 103/2019 substituiu a aposentadoria por idade e a aposentadoria por tempo de contribuição por uma única espécie — a aposentadoria programada — com requisitos cumulativos de idade mínima e tempo de contribuição (Castro; Lazzari, 2025; Ibrahim, 2025). Onde antes existiam duas modalidades autônomas, desde a LOPS (Lei 3.807/60) passando pelas reformas da EC 20/1998 e da Lei 9.876/99, surgiu uma formula unificada que combina idade e tempo de contribuição em exigências simultâneas.
+A EC 103/2019 substituiu a aposentadoria por idade e a aposentadoria por tempo de contribuição por uma única espécie — a aposentadoria programada — com requisitos cumulativos de idade mínima e tempo de contribuição (Castro; Lazzari, 2025; Ibrahim, 2025). Onde antes existiam duas modalidades autônomas, desde a LOPS (Lei 3.807/60) passando pelas reformas da EC 20/1998 e da Lei 9.876/99, surgiu uma fórmula unificada que combina idade e tempo de contribuição em exigências simultâneas.
 
 Essa unificação não foi mera mudança de nomenclatura. Ela alterou a lógica estrutural do sistema, eliminando a possibilidade de aposentadoria exclusivamente por tempo de contribuição (sem idade mínima) e consolidando a exigência de requisitos cumulativos. O resultado prático é que, para os segurados filiados ao RGPS após 13 de novembro de 2019, existe uma única modalidade de aposentadoria voluntária por idade no regime geral: a aposentadoria programada do art. 201, § 7º, inciso I, da Constituição Federal.
 
@@ -56,7 +56,7 @@ O advogado previdenciário que atua nos Juizados Especiais Federais precisa domi
 
 #### 10.2.1 A aposentadoria por velhice na LOPS (1960-1991)
 
-A Lei 3.807/60 (Lei Orgânica da Previdência Social) instituiu a aposentadoria por velhice, denominação que revelava o paradigma da época. Os requisitos eram modestos para os padrões atuais: 65 anos de idade para homens e 60 para mulheres, sem exigência explícita de um número mínimo de contribuições, bastando a condição de segurado. A LOPS unificou diversos institutos de aposentadoria e pensões (IAPs) sob uma disciplina normativa comum, mas manteve a fragmentação institucional até a criação do INPS em 1966.
+A Lei 3.807/60 (Lei Orgânica da Previdência Social) instituiu a aposentadoria por velhice, denominação que revelava o paradigma da época. Os requisitos eram modestos para os padrões atuais: 65 anos de idade para homens e 60 para mulheres, sem exigência explícita de um número mínimo de contribuições, bastando a condição de segurado. A LOPS unificou diversos Institutos de Aposentadoria e Pensões (IAPs) sob uma disciplina normativa comum, mas manteve a fragmentação institucional até a criação do INPS em 1966.
 
 Nesse período, a aposentadoria por velhice funcionava como um piso de proteção para trabalhadores que alcançavam idade avançada sem ter acumulado tempo de serviço suficiente para a aposentadoria por tempo de serviço. A distinção entre as duas modalidades já estava presente: a aposentadoria por tempo de serviço era o benefício "completo" (valor integral), enquanto a aposentadoria por velhice representava uma alternativa reduzida para quem não atingia o tempo mínimo de serviço.
 
@@ -66,7 +66,7 @@ A Constituição de 1988 manteve a aposentadoria por idade (art. 201, I, redaç�
 
 A Lei 8.213/91, que regulamentou os benefícios previdenciários, disciplinou a aposentadoria por idade nos arts. 48 a 51, estabelecendo a exigência de carência de 180 contribuições mensais (art. 25, II), com a regra de transição do art. 142 para segurados filiados antes de 24/07/1991. Essa tabela progressiva previa um aumento gradual da carência, de 60 contribuições em 1991 até 180 em 2011.
 
-A aposentadoria por idade, nessa configuração, apresentava uma peculiaridade relevante: o fator previdenciário, instituído pela Lei 9.876/99, era aplicado ao cálculo do salário de benefício, mas somente quando resultasse em valor mais favorável ao segurado. Essa opcionalidade decorria da interpretação sistemática do art. 29, I, da Lei 8.213/91 (com redação da Lei 9.876/99) e do art. 7o da Lei 9.876/99, que estabelecia regra de transição para cálculo do salário de benefício. Na prática, o fator previdenciário era quase sempre desfavorável na aposentadoria por idade, porque os segurados que optavam por essa modalidade tipicamente tinham menos tempo de contribuição do que os que se aposentavam por tempo de serviço. Assim, a não aplicação obrigatória do fator significava, na maioria dos casos, que ele era desconsiderado no cálculo.
+A aposentadoria por idade, nessa configuração, apresentava uma peculiaridade relevante: o fator previdenciário, instituído pela Lei 9.876/99, era aplicado ao cálculo do salário de benefício, mas somente quando resultasse em valor mais favorável ao segurado. Essa opcionalidade decorria da interpretação sistemática do art. 29, I, da Lei 8.213/91 (com redação da Lei 9.876/99) e do art. 7º da Lei 9.876/99, que estabelecia regra de transição para cálculo do salário de benefício. Na prática, o fator previdenciário era quase sempre desfavorável na aposentadoria por idade, porque os segurados que optavam por essa modalidade tipicamente tinham menos tempo de contribuição do que os que se aposentavam por tempo de serviço. Assim, a não aplicação obrigatória do fator significava, na maioria dos casos, que ele era desconsiderado no cálculo.
 
 A renda mensal inicial da aposentadoria por idade, na regra pré-EC 103, era calculada como 70% do salário de benefício, mais 1% para cada grupo de 12 contribuições mensais, até o máximo de 100%. Essa fórmula premiava o segurado com longo histórico contributivo: quem tivesse 30 anos de contribuição (360 contribuições) receberia 70% + 30% = 100% do salário de benefício.
 
@@ -168,7 +168,7 @@ A aposentadoria programada não pode ser inferior ao salário-mínimo vigente (a
 
 O teto do benefício é o teto do RGPS, atualmente fixado em R$ 8.475,55 (Portaria Interministerial MPS/MF n. 13/2026). Isso significa que, mesmo que o segurado tenha contribuído sempre sobre o teto e acumulado tempo suficiente para coeficiente de 100%, a RMI não ultrapassará esse valor. A limitação ao teto aplica-se sobre o valor final, após a aplicação do coeficiente sobre a média.
 
-Cabe distinguir duas balizas frequentemente confundidas na prática. De um lado, a própria estrutura de cálculo do art. 26 da EC 103/2019 impede que o benefício supere a média dos salários de contribuição: como o coeficiente está limitado a 100% (art. 26, § 2º, da EC 103/2019, que fixa o coeficiente em 60% da média, com acréscimos limitados a 100%; a própria média, por sua vez, é limitada ao teto do salário de contribuição do RGPS pelo art. 26, § 1º, e o piso de um salário-mínimo decorre do art. 201, § 2º, da CF), a renda mensal jamais excede a média apurada. De outro lado, há a chamada limitação ao "último salário de contribuição", que não decorre da EC 103/2019, mas de regulamentação infralegal voltada a impedir a majoração artificial do benefício as vesperas do requerimento. Essa segunda limitação tem sido objeto de crítica doutrinária, por penalizar o segurado que sofreu redução salarial legitima nos últimos anos de atividade. Entendemos que tal restrição só se justifica diante de indício concreto de manipulação do salário de contribuição na iminencia da aposentadoria — e não como teto automático aplicável a todo segurado —, interpretação que, embora ainda não pacificada, melhor se ajusta ao caráter retributivo do regime e ao princípio do benefício mais vantajoso (art. 26, § 2º, da EC 103/2019).
+Cabe distinguir duas balizas frequentemente confundidas na prática. De um lado, a própria estrutura de cálculo do art. 26 da EC 103/2019 impede que o benefício supere a média dos salários de contribuição: como o coeficiente está limitado a 100% (art. 26, § 2º, da EC 103/2019, que fixa o coeficiente em 60% da média, com acréscimos limitados a 100%; a própria média, por sua vez, é limitada ao teto do salário de contribuição do RGPS pelo art. 26, § 1º, e o piso de um salário-mínimo decorre do art. 201, § 2º, da CF), a renda mensal jamais excede a média apurada. De outro lado, há a chamada limitação ao "último salário de contribuição", que não decorre da EC 103/2019, mas de regulamentação infralegal voltada a impedir a majoração artificial do benefício às vésperas do requerimento. Essa segunda limitação tem sido objeto de crítica doutrinária, por penalizar o segurado que sofreu redução salarial legítima nos últimos anos de atividade. Entendemos que tal restrição só se justifica diante de indício concreto de manipulação do salário de contribuição na iminência da aposentadoria — e não como teto automático aplicável a todo segurado —, interpretação que, embora ainda não pacificada, melhor se ajusta ao caráter retributivo do regime e ao princípio do benefício mais vantajoso (art. 26, § 2º, da EC 103/2019).
 
 ### 10.4 Regra de transição: aposentadoria por idade (art. 18, EC 103/2019)
 
@@ -278,7 +278,7 @@ A regra do pedágio de 100% (art. 20) é a única que garante coeficiente de 100
 **Conclusão:** Se Marcos puder aguardar mais 1 ano, a regra do pedágio 100% lhe garante R$ 240,00 a mais por mês (R$ 6.000 vs. R$ 5.760), ou R$ 2.880,00/ano. Pode valer a pena esperar. Trata-se, em última análise, de uma decisão do próprio segurado, que deve ser tomada à luz de uma comparação numérica transparente entre aposentar-se de imediato e diferir o requerimento.
 :::
 
-### 10.5 Direito adquirido à aposentadoria por idade Pré-EC 103/2019
+### 10.5 Direito adquirido à aposentadoria por idade pré-EC 103/2019
 
 #### 10.5.1 Fundamento constitucional
 
@@ -309,7 +309,7 @@ O cálculo do benefício pela regra pré-EC 103 era significativamente diferente
 ::: box-pratica
 **Exemplo — Direito adquirido (regra antiga)**
 
-**Dona Celia**, 68 anos em 2026 (nascida em 1958), completou 60 anos em 2018, antes da EC 103/2019, e, portanto, tem direito adquirido a regra antiga (60F + carência). Completou 65 anos em 2023. Possui 260 contribuições (21 anos e 8 meses de contribuição). Média dos 80% maiores salários: R$ 2.800,00.
+**Dona Célia**, 68 anos em 2026 (nascida em 1958), completou 60 anos em 2018, antes da EC 103/2019, e, portanto, tem direito adquirido à regra antiga (60F + carência). Completou 65 anos em 2023. Possui 260 contribuições (21 anos e 8 meses de contribuição). Média dos 80% maiores salários: R$ 2.800,00.
 
 **Pela regra antiga:**
 - Coeficiente: 70% + 1% × 21 = **91%**
@@ -320,14 +320,14 @@ O cálculo do benefício pela regra pré-EC 103 era significativamente diferente
 - Coeficiente: 60% + 2% × (21 - 15) = 60% + 12% = **72%**
 - RMI: R$ 2.500,00 × 72% = **R$ 1.800,00**
 
-**Diferença:** R$ 748,00/mês a favor da regra antiga. Dona Celia deve requerer a aposentadoria com base no direito adquirido.
+**Diferença:** R$ 748,00/mês a favor da regra antiga. Dona Célia deve requerer a aposentadoria com base no direito adquirido.
 
 O advogado que não verifica a possibilidade de direito adquirido à regra anterior causa prejuízo financeiro ao cliente.
 :::
 
 #### 10.5.4 Tabela de transição de carência (art. 142, Lei 8.213/91)
 
-Para segurados filiados antes de 24/07/1991 (data de publicação da Lei 8.213/91), a carência exigida era inferior a 180 contribuições, conforme a tabela progressiva do art. 142 da Lei 8.213/91 (reproduzida integralmente no Capitulo 3, seção 3.5, com análise detalhada de cada faixa). Essa tabela encerrou sua progressão em 2011, quando atingiu 180 contribuições. Para fins práticos em 2026, a tabela do art. 142 somente e relevante para segurados que implementaram os requisitos da aposentadoria por idade antes de 2011.
+Para segurados filiados antes de 24/07/1991 (data de publicação da Lei 8.213/91), a carência exigida era inferior a 180 contribuições, conforme a tabela progressiva do art. 142 da Lei 8.213/91 (reproduzida integralmente no Capítulo 3, seção 3.5, com análise detalhada de cada faixa). Essa tabela encerrou sua progressão em 2011, quando atingiu 180 contribuições. Para fins práticos em 2026, a tabela do art. 142 somente é relevante para segurados que implementaram os requisitos da aposentadoria por idade antes de 2011.
 
 Contudo, a aplicação da tabela do art. 142 ainda gera controvérsias nos JEFs, especialmente em relação ao marco temporal relevante para a fixação do número de contribuições exigido.
 
@@ -343,11 +343,11 @@ Essa súmula beneficia enormemente segurados com histórico contributivo intermi
 
 ### 10.6 Carência: contagem e controvérsias na aposentadoria por idade
 
-O tratamento geral da carência — conceito, histórico legislativo e regime jurídico — encontra-se no Capítulo 3 (seções 3.4 a 3.6). Nesta seção, examina-se a aplicação concreta do instituto a aposentadoria por idade.
+O tratamento geral da carência — conceito, histórico legislativo e regime jurídico — encontra-se no Capítulo 3 (seções 3.4 a 3.6). Nesta seção, examina-se a aplicação concreta do instituto à aposentadoria por idade.
 
-#### 10.6.1 Carência vs. tempo de contribuição: distinção pratica
+#### 10.6.1 Carência vs. tempo de contribuição: distinção prática
 
-Carência e o número mínimo de contribuições mensais indispensáveis para que o beneficiário faça jus ao benefício (art. 24 da Lei 8.213/91). Para a aposentadoria por idade e para a aposentadoria programada, a carência é de 180 contribuições mensais (art. 25, II). A distinção entre carência e tempo de contribuição e decisiva nesta modalidade de benefício: períodos computáveis como tempo de contribuição podem não gerar carência — o caso mais relevante sendo o tempo de serviço rural anterior a novembro de 1991, que conta como tempo de contribuição, mas não como carência na aposentadoria por idade urbana (v. seção 10.13 e Capítulo 9).
+Carência é o número mínimo de contribuições mensais indispensáveis para que o beneficiário faça jus ao benefício (art. 24 da Lei 8.213/91). Para a aposentadoria por idade e para a aposentadoria programada, a carência é de 180 contribuições mensais (art. 25, II). A distinção entre carência e tempo de contribuição é decisiva nesta modalidade de benefício: períodos computáveis como tempo de contribuição podem não gerar carência — o caso mais relevante sendo o tempo de serviço rural anterior a novembro de 1991, que conta como tempo de contribuição, mas não como carência na aposentadoria por idade urbana (v. seção 10.13 e Capítulo 9).
 
 #### 10.6.2 Início da contagem de carência
 
@@ -367,7 +367,7 @@ Exceção: contribuições em atraso para períodos em que o segurado exercia at
 
 #### 10.6.3 Perda e recuperação da qualidade de segurado
 
-A perda da qualidade de segurado não impede a concessão de aposentadoria por idade. A Lei 10.666/2003 (art. 3o, para. 1o) afastou a exigência de manutenção da qualidade de segurado para esse benefício, de modo que todas as contribuições efetuadas ao longo da vida laboral somam-se para fins de carência, independentemente de interrupções. A regra aplica-se a aposentadoria por idade antiga, a aposentadoria programada e as regras de transição. O tratamento aprofundado do período de graça e da perda da qualidade de segurado encontra-se no Capítulo 3 (seção 3.8).
+A perda da qualidade de segurado não impede a concessão de aposentadoria por idade. A Lei 10.666/2003 (art. 3º, § 1º) afastou a exigência de manutenção da qualidade de segurado para esse benefício, de modo que todas as contribuições efetuadas ao longo da vida laboral somam-se para fins de carência, independentemente de interrupções. A regra aplica-se à aposentadoria por idade antiga, à aposentadoria programada e às regras de transição. O tratamento aprofundado do período de graça e da perda da qualidade de segurado encontra-se no Capítulo 3 (seção 3.8).
 
 ::: box-pratica
 **Caso prático — Carência com interrupções (Lei 10.666/2003)**
@@ -395,7 +395,7 @@ A questão é controvertida. A jurisprudência predominante nos JEFs e na TNU te
 
 1. **Período intercalado (entre contribuições):** Conta como carência. Ex.: segurado contribuiu de 2010 a 2015, recebeu auxílio por incapacidade temporária de 2015 a 2017, e voltou a contribuir de 2017 em diante. O período 2015-2017 conta como carência.
 
-2. **Período terminal (sem retorno à atividade):** A contagem como carência é mais controvertida. Se o segurado nunca mais contribuiu após o benefício, há quem sustente que o período não pode ser computado como carência por falta de "intercalação." Entendemos, porém, que a exigência de intercalação não deve ser levada ao extremo de penalizar o segurado que, justamente por persistir a incapacidade, ficou impossibilitado de retornar ao trabalho: condicionar o cômputo a um retorno que a própria doença inviabilizou equivaleria a negar proteção a quem mais dela necessita. A tendência jurisprudencial, alinhada a essa compreensão, tem sido mais flexível.
+2. **Período terminal (sem retorno à atividade):** A contagem como carência é mais controvertida. Se o segurado nunca mais contribuiu após o benefício, há quem sustente que o período não pode ser computado como carência por falta de "intercalação". Entendemos, porém, que a exigência de intercalação não deve ser levada ao extremo de penalizar o segurado que, justamente por persistir a incapacidade, ficou impossibilitado de retornar ao trabalho: condicionar o cômputo a um retorno que a própria doença inviabilizou equivaleria a negar proteção a quem mais dela necessita. A tendência jurisprudencial, alinhada a essa compreensão, tem sido mais flexível.
 
 3. **Período de auxílio-acidente:** O auxílio-acidente não suspende a obrigação de contribuir (o segurado continua trabalhando). Portanto, as contribuições efetuadas durante o recebimento de auxílio-acidente contam normalmente como carência.
 :::
@@ -501,7 +501,7 @@ O juiz, aplicando o Tema 995/STJ, reafirmou a DER para março de 2025 e concedeu
 
 #### 10.8.3 Limites da reafirmação da DER
 
-A reafirmação da DER não é ilimitada. O Tema 995/STJ estabelece que ela é possível "nas instâncias ordinárias," o que exclui a possibilidade de reafirmação perante o STJ ou o STF. Nos JEFs, a reafirmação pode ocorrer até o julgamento pela Turma Recursal.
+A reafirmação da DER não é ilimitada. O Tema 995/STJ estabelece que ela é possível "nas instâncias ordinárias", o que exclui a possibilidade de reafirmação perante o STJ ou o STF. Nos JEFs, a reafirmação pode ocorrer até o julgamento pela Turma Recursal.
 
 Além disso, a reafirmação exige que os fatos supervenientes estejam dentro da "causa de pedir" da ação. Assim, se o segurado ajuizou ação pleiteando aposentadoria por incapacidade permanente e, durante o processo, implementou os requisitos da aposentadoria por idade, há controvérsia sobre a possibilidade de reafirmação, pois a causa de pedir originária não abrangia a aposentadoria por idade. A tendência jurisprudencial nos JEFs tem sido flexível, admitindo a reafirmação quando os requisitos são inequívocos e não há prejuízo ao INSS.
 
@@ -539,7 +539,7 @@ O STJ, no julgamento do Tema 1.070 (REsp 1.870.793/RS, Rel. Min. Sérgio Kukina,
 ::: box-atencao
 **Atividades concomitantes — cuidados práticos nos JEFs**
 
-1. **Verificar se o benefício foi calculado pela regra proporcional:** Benefícios apurados pelo cálculo proporcional do art. 32 (redação original) — inclusive os concedidos antes da Lei 13.846/2019 — comportam revisão pela soma integral dos salários de contribuição (Tema 1.070/STJ), observada a prescrição quinquenal das parcelas
+1. **Verificar se o benefício foi calculado pela regra proporcional:** Benefícios apurados pelo cálculo proporcional do art. 32 (redação original) — inclusive os concedidos antes da Lei 13.846/2019 — comportam revisão pela soma integral dos salários de contribuição (Tema 1.070/STJ), observada a prescrição quinquenal das parcelas.
 2. **Verificar o teto:** A soma dos salários de contribuição concomitantes está limitada ao teto do RGPS em cada competência. Se a soma excede o teto, o valor excedente é desconsiderado.
 3. **RPPS × RGPS:** Se uma das atividades é vinculada a regime próprio (servidor público), o tempo concomitante no RGPS não gera contribuições duplicadas — cada regime computa apenas a contribuição vertida para si. A compensação entre regimes é regida pelo art. 201, § 9º-A, CF/88 (Capítulo 5, seção 5.7.5).
 4. **MEI com atividade simultânea:** O MEI que exerce outra atividade como empregado ou CI tem as contribuições somadas normalmente. A contribuição do MEI (5% sobre o SM) soma-se à contribuição da outra atividade.
@@ -580,7 +580,7 @@ A concessão da aposentadoria compulsória suscita questões relevantes na inter
 ::: box-atencao
 **Aposentadoria compulsória — pontos de atenção**
 
-1. **Não confundir com a aposentadoria compulsória do servidor público** (art. 40, para. 1o, II, CF), que obedece a regras distintas — 75 anos (LC 152/2015, que elevou a idade anteriormente fixada em 70 anos) — e e de competência da Justiça comum ou Federal conforme o regime. A aposentadoria compulsória do RGPS e exclusiva do vínculo celetista.
+1. **Não confundir com a aposentadoria compulsória do servidor público** (art. 40, § 1º, II, CF), que obedece a regras distintas — 75 anos (LC 152/2015, que elevou a idade anteriormente fixada em 70 anos) — e é de competência da Justiça comum ou Federal conforme o regime. A aposentadoria compulsória do RGPS é exclusiva do vínculo celetista.
 
 2. **O segurado pode se recusar?** A jurisprudência é escassa, mas a interpretação predominante é de que, se o empregador requerer e o INSS conceder, o segurado não pode se opor à concessão do benefício, embora possa continuar trabalhando em outro emprego ou como contribuinte individual. O que se discute é se o empregador pode rescindir o contrato com base exclusivamente na concessão da aposentadoria compulsória.
 
@@ -593,7 +593,7 @@ A concessão da aposentadoria compulsória suscita questões relevantes na inter
 
 ### 10.11 Cálculo do benefício: aspectos específicos
 
-As regras gerais de cálculo do salário de benefício e da renda mensal inicial — média dos 80% maiores (pré-EC 103/2019) versus média de 100% (pós-EC 103/2019), coeficiente de 60% + 2%/ano, tabelas de coeficientes e comparativos entre regimes — são examinadas no Capitulo 16 (seções 16.3 a 16.8). Nesta seção, sintetizam-se apenas os aspectos peculiares a aposentadoria por idade.
+As regras gerais de cálculo do salário de benefício e da renda mensal inicial — média dos 80% maiores (pré-EC 103/2019) versus média de 100% (pós-EC 103/2019), coeficiente de 60% + 2%/ano, tabelas de coeficientes e comparativos entre regimes — são examinadas no Capítulo 16 (seções 16.3 a 16.8). Nesta seção, sintetizam-se apenas os aspectos peculiares à aposentadoria por idade.
 
 #### 10.11.1 Regime anterior
 
@@ -705,9 +705,9 @@ A Opção B é mais segura, porque garante que o juiz analisará todas as possib
 
 ### 10.13 Aposentadoria por idade e a interface com o segurado rural
 
-A aposentadoria por idade rural (55/60 anos + 180 meses de atividade rural) e a aposentadoria por idade hibrida (art. 48, para. 3o, Lei 8.213/91) são tratadas em profundidade no Capítulo 9. Nesta seção, examina-se apenas a interface pratica entre o trabalho rural e a aposentadoria por idade urbana — questão frequente nos JEFs, dada a quantidade de segurados com histórico laboral misto (períodos rurais na juventude seguidos de atividade urbana formal).
+A aposentadoria por idade rural (55/60 anos + 180 meses de atividade rural) e a aposentadoria por idade híbrida (art. 48, § 3º, Lei 8.213/91) são tratadas em profundidade no Capítulo 9. Nesta seção, examina-se apenas a interface prática entre o trabalho rural e a aposentadoria por idade urbana — questão frequente nos JEFs, dada a quantidade de segurados com histórico laboral misto (períodos rurais na juventude seguidos de atividade urbana formal).
 
-A regra-chave: o período de atividade rural anterior a novembro de 1991 pode ser computado como tempo de contribuição (art. 55, para. 2o, Lei 8.213/91), mas não como carência na aposentadoria por idade urbana comum (Tema 358/TNU, seção 10.6). A exceção e a aposentadoria hibrida (Tema 1007/STJ), que permite a soma de períodos rurais e urbanos para completar a carência — alternativa que o advogado deve considerar quando o segurado não alcança 180 contribuições urbanas.
+A regra-chave: o período de atividade rural anterior a novembro de 1991 pode ser computado como tempo de contribuição (art. 55, § 2º, Lei 8.213/91), mas não como carência na aposentadoria por idade urbana comum (Tema 358/TNU, seção 10.6). A exceção é a aposentadoria híbrida (Tema 1007/STJ), que permite a soma de períodos rurais e urbanos para completar a carência — alternativa que o advogado deve considerar quando o segurado não alcança 180 contribuições urbanas.
 
 ::: box-pratica
 **Situação prática — Segurado com período rural e urbano**
@@ -717,7 +717,7 @@ A regra-chave: o período de atividade rural anterior a novembro de 1991 pode se
 **Aposentadoria por idade urbana (art. 18, EC 103):**
 - Idade: 66 anos ✅ (> 65 anos)
 - Tempo de contribuição: 20 anos rurais + 24 anos urbanos = **44 anos** ✅ (> 15 anos)
-- Carência: **288 contribuições urbanas** ✅ (> 180 contribuições), o período rural anterior a nov/1991 não conta como carência na aposentadoria por idade urbana
+- Carência: **288 contribuições urbanas** ✅ (> 180 contribuições). O período rural anterior a nov/1991 não conta como carência na aposentadoria por idade urbana
 - Coeficiente: 60% + 2% × (44 - 20) = 60% + 48% = 108%, **limitado a 100%**
 - Resultado: Joaquim tem direito à aposentadoria por idade urbana com coeficiente de 100%.
 
@@ -781,7 +781,7 @@ A TNU e o STJ firmaram tese no sentido de que os valores alimentares recebidos p
 
 A tutela de evidência (art. 311, CPC) pode ser requerida quando o direito do segurado é líquido e certo, independentemente de demonstração de urgência. No contexto da aposentadoria por idade, a tutela de evidência é cabível quando o INSS indeferiu o benefício em contrariedade a entendimento consolidado (por exemplo, recusando a contagem de tempo de contribuição que o CNIS comprova de forma inequívoca).
 
-A tutela de evidência e menos frequente do que a de urgência nos JEFs, mas e ferramenta relevante para casos de indeferimento administrativo infundado. O art. 311, II, do CPC prevê a concessão de tutela de evidência quando as alegações de fato puderem ser comprovadas apenas documentalmente e houver tese firmada em julgamento de casos repetitivos ou em súmula vinculante. Essa hipótese é particularmente aplicável quando o segurado tem CNIS e CTPS que demonstram, sem margem de dúvida, o preenchimento dos requisitos da aposentadoria por idade, e o indeferimento administrativo se baseou em interpretação jurídica superada por tese vinculante do STJ ou da TNU.
+A tutela de evidência é menos frequente do que a de urgência nos JEFs, mas é ferramenta relevante para casos de indeferimento administrativo infundado. O art. 311, II, do CPC prevê a concessão de tutela de evidência quando as alegações de fato puderem ser comprovadas apenas documentalmente e houver tese firmada em julgamento de casos repetitivos ou em súmula vinculante. Essa hipótese é particularmente aplicável quando o segurado tem CNIS e CTPS que demonstram, sem margem de dúvida, o preenchimento dos requisitos da aposentadoria por idade, e o indeferimento administrativo se baseou em interpretação jurídica superada por tese vinculante do STJ ou da TNU.
 
 Outra hipótese relevante de tutela de evidência é a prevista no art. 311, IV, do CPC: quando a petição inicial é instruída com prova documental suficiente dos fatos constitutivos do direito do autor, a que o réu não oponha prova capaz de gerar dúvida razoável. Na aposentadoria por idade, essa situação ocorre quando o INSS contesta a ação sem impugnar especificamente os documentos apresentados — limitando-se a alegar genericamente que o segurado não preenche os requisitos, sem demonstrar qual documento é insuficiente ou qual período é controverso.
 
@@ -854,7 +854,7 @@ A sentença nos JEFs é irrecorrível por meio de apelação. O recurso cabível
 
 A sentença de procedência na ação de aposentadoria por idade deve especificar: (i) a regra pela qual a aposentadoria é concedida (direito adquirido, art. 18, regra permanente); (ii) a data de início do benefício (DIB); (iii) a data de início do pagamento (DIP); (iv) a renda mensal inicial (RMI) ou, alternativamente, a determinação de que o INSS calcule a RMI pela regra mais vantajosa; (v) a condenação em prestações vencidas, corrigidas monetariamente e acrescidas de juros de mora; (vi) os honorários advocatícios, fixados sobre as parcelas vencidas até a sentença (Súmula 111/STJ).
 
-Quanto a correção monetária e aos juros de mora, aplica-se o Manual de Cálculos da Justiça Federal (aprovado pela Resolução CJF n. 784/2022), que estabelece a utilização do IPCA-E como índice de correção monetária até novembro de 2021 e da taxa SELIC a partir de dezembro de 2021 (EC 113/2021, art. 3o), esta última englobando juros e correção em parcela única.
+Quanto à correção monetária e aos juros de mora, aplica-se o Manual de Cálculos da Justiça Federal (aprovado pela Resolução CJF n. 784/2022), que estabelece a utilização do IPCA-E como índice de correção monetária até novembro de 2021 e da taxa SELIC a partir de dezembro de 2021 (EC 113/2021, art. 3º), esta última englobando juros e correção em parcela única.
 
 A Turma Recursal julga o recurso com base na prova dos autos, podendo reformar a sentença no mérito. Não há reexame necessário nos JEFs (art. 13, Lei 10.259/2001). Contra o acórdão da Turma Recursal, cabem:
 
@@ -862,7 +862,7 @@ A Turma Recursal julga o recurso com base na prova dos autos, podendo reformar a
 
 **b) Pedido de uniformização regional:** Dirigido à Turma Regional de Uniformização (TRU), quando houver divergência entre Turmas Recursais da mesma Região (art. 14, § 1º, Lei 10.259/2001).
 
-**c) Pedido de uniformização nacional:** Dirigido à Turma Nacional de Uniformização (TNU), quando houver divergência entre Turmas Recursais de Regiões diferentes ou entre Turma Recursal e jurisprudência do STJ (art. 14, § 2º, Lei 10.259/2001). A TNU tem desempenhado papel fundamental na fixação de teses sobre aposentadoria por idade, como as Súmulas 44 (tabela de carência) e o Tema 358 (carência pós-EC 103).
+**c) Pedido de uniformização nacional:** Dirigido à Turma Nacional de Uniformização (TNU), quando houver divergência entre Turmas Recursais de Regiões diferentes ou entre Turma Recursal e jurisprudência do STJ (art. 14, § 2º, Lei 10.259/2001). A TNU tem desempenhado papel fundamental na fixação de teses sobre aposentadoria por idade, como a Súmula 44 (tabela de carência) e o Tema 358 (carência pós-EC 103).
 
 **d) Recurso extraordinário:** Excepcionalmente, cabe recurso extraordinário ao STF quando a decisão contrariar dispositivo constitucional, nos termos do art. 102, III, da CF/88. O STF exige a demonstração de repercussão geral.
 
@@ -918,7 +918,7 @@ Na prática dos JEFs, surgem controvérsias sobre o enquadramento do segurado co
 
 Segurados que trabalharam em países com os quais o Brasil mantém acordo internacional de previdência social podem computar o tempo de contribuição no exterior para fins de aposentadoria por idade no RGPS. A matéria é regulada pelos acordos bilaterais e multilaterais celebrados pelo Brasil, cuja aplicação é detalhada no Capítulo 5 (seção 5.12).
 
-O Brasil mantém acordos de previdência social com diversos países, incluindo: Portugal, Espanha, Itália, Alemanha, França, Japão, Cabo Verde, Grécia, Argentina, Uruguai, Paraguai, Chile, e os países do Mercosul (Acordo Multilateral de Seguridade Social do Mercosul). Cada acordo tem regras específicas sobre totalização de períodos, cálculo proporcional e procedimento de requerimento, mas todos seguem o princípio geral da totalização: os períodos cumpridos em cada país são somados para verificar se o segurado atinge os requisitos mínimos de carência ou tempo de contribuição.
+O Brasil mantém acordos de previdência social com diversos países, incluindo: Portugal, Espanha, Itália, Alemanha, França, Japão, Cabo Verde, Grécia, Argentina, Uruguai, Paraguai, Chile e os países do Mercosul (Acordo Multilateral de Seguridade Social do Mercosul). Cada acordo tem regras específicas sobre totalização de períodos, cálculo proporcional e procedimento de requerimento, mas todos seguem o princípio geral da totalização: os períodos cumpridos em cada país são somados para verificar se o segurado atinge os requisitos mínimos de carência ou tempo de contribuição.
 
 Na aposentadoria por idade, a totalização dos períodos de contribuição no Brasil e no exterior permite que o segurado atinja a carência exigida, computando contribuições efetuadas em ambos os países. O benefício, contudo, é calculado proporcionalmente ao tempo de contribuição efetivamente cumprido em cada país (princípio pro rata temporis). Isso significa que o segurado receberá dois benefícios proporcionais, um de cada país, e não um benefício único calculado sobre a totalidade do tempo de contribuição.
 
@@ -1034,7 +1034,7 @@ Para facilitar a consulta, a tabela abaixo apresenta a evolução progressiva do
 
 A multiplicidade de regras torna o planejamento previdenciário uma tarefa de alta complexidade. A escolha da regra mais vantajosa depende do perfil individual do segurado e envolve variáveis como idade, tempo de contribuição total, valor dos salários de contribuição e data de filiação ao RGPS.
 
-Em linhas gerais, pode-se estabelecer as seguintes orientações:
+Em linhas gerais, podem-se estabelecer as seguintes orientações:
 
 **Segurado com muito tempo de contribuição (30+F / 35+H anos) e idade elevada:** Deve verificar prioritariamente a regra do pedágio 100% (art. 20, EC 103), que garante coeficiente de 100% da média (sem o escalonamento de 60%+2%). Essa regra é geralmente a mais vantajosa quando o segurado tem idade suficiente (57M/60H) e o pedágio (tempo adicional) é curto.
 
