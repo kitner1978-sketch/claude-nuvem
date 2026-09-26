@@ -177,7 +177,7 @@ Para sentenças em lote, a fundamentação pode ser padronizada. Quanto à sucum
 - Valores recebidos após 05/04/2024: o INSS pode cobrar a restituição (a proposta de ampliar a modulação para alcançá-los foi rejeitada em 15/05/2026).
 - Recomendação: definido o alcance da modulação com a rejeição dos novos embargos em 15/05/2026, a irrepetibilidade restringe-se aos valores recebidos até 05/04/2024; os posteriores podem ser objeto de cobrança, ressalvada a análise da coisa julgada individual em cada caso.
 
-**4. Modelo sintético de dispositivo:** v. §17.12.3, Modelo 4 (improcedência por reversão da vida toda), infra.
+**4. Modelo sintético de dispositivo:** v. seção 17.12.3, Modelo 4 (improcedência por reversão da vida toda), infra.
 :::
 
 #### 17.3.5 Lições para o futuro
@@ -222,7 +222,7 @@ A primeira é o ponto de partida: parte-se do salário de benefício apurado na 
 
 O efeito cascata dos reajustes merece atenção especial. A readequação ao teto na data da EC não se limita àquele mês: o benefício readequado passa a receber os reajustes subsequentes sobre a base majorada, produzindo diferenças cumulativas ao longo dos anos.
 
-### 17.5 Revisão do buraco negro
+### 17.5 Revisão do Buraco Negro
 
 #### 17.5.1 Art. 144, Lei 8.213/91 — conceito
 
@@ -296,7 +296,7 @@ Na prática dos JEFs, a existência da revisão administrativa — e, conforme o
 
 #### 17.6.3 Lei 14.331/2022 — art. 135-A, divisor mínimo de 108
 
-A Lei 14.331, de 4 de maio de 2022 (vigência em 05/05/2022), inseriu o art. 135-A na Lei 8.213/91, estabelecendo divisor mínimo de 108 contribuições. A norma encerrou a possibilidade do chamado "milagre da contribuição única." A lei ressalvou três hipóteses: aposentadoria por incapacidade permanente, aposentadoria da pessoa com deficiência e segurado especial.
+A Lei 14.331, de 4 de maio de 2022 (vigência em 05/05/2022), inseriu o art. 135-A na Lei 8.213/91, estabelecendo divisor mínimo de 108 contribuições. A norma encerrou a possibilidade do chamado "milagre da contribuição única". A lei ressalvou três hipóteses: aposentadoria por incapacidade permanente, aposentadoria da pessoa com deficiência e segurado especial.
 
 ::: box-atencao
 **Lei 14.331/2022 — Divisor mínimo de 108 contribuições**
@@ -437,7 +437,7 @@ A petição inicial pode ser apresentada de forma simplificada (art. 14, Lei 9.0
 4. Narrativa do erro de cálculo, o que o INSS fez e o que deveria ter feito.
 5. Memória de cálculo comparativa (RMI paga × RMI pretendida).
 6. Valor da causa (diferenças vencidas + 12 vincendas). Se exceder 60 SM: renúncia ao excedente.
-7. Análise da decadência, demonstrar que a ação está dentro do prazo ou indicar a exceção aplicável.
+7. Análise da decadência: demonstrar que a ação está dentro do prazo ou indicar a exceção aplicável.
 8. Documentos obrigatórios: carta de concessão; CNIS atualizado; CONBAS (se disponível); processo administrativo (se disponível).
 9. Pedido de tutela antecipada (se cabível): caráter alimentar, verossimilhança, tese repetitiva.
 10. Pedido de produção de provas: requisição ao INSS de CONBAS, HISCREWEB e INFBEN (art. 11, Lei 10.259/2001).
