@@ -58,7 +58,7 @@ A regulamentação constitucional veio apenas em 2013, com a promulgação da Le
 
 - **Capítulo 5:** Conceito de tempo de contribuição, cômputo, averbação, CTC, aplicam-se integralmente à PcD.
 - **Capítulo 6:** Aposentadoria por incapacidade permanente, deficiência ≠ incapacidade. Distinção detalhada na seção 12.15.
-- **Capítulo 8:** Aposentadoria especial por agentes nocivos, panorama da PcD em 8.12. Cap 12 é o tratamento aprofundado.
+- **Capítulo 8:** Aposentadoria especial por agentes nocivos, panorama da PcD em 8.12. Cap. 12 é o tratamento aprofundado.
 - **Capítulo 11:** Fator previdenciário (fórmula detalhada em 11.8). Aqui: foco no art. 9º, I, LC 142 (aplicação opcional).
 - **Capítulo 18:** BPC/LOAS, conceito geral de deficiência e modelo biopsicossocial (18.5-18.7). Distinção BPC × aposentadoria PcD na seção 12.14.
 - **Capítulo 12 (este):** LC 142/2013 integralmente, graus, IF-BrA, aposentadoria por TC e por idade da PcD, deficiência superveniente, conversão proporcional, fator previdenciário opcional, interface EC 103/2019, aspectos processuais nos JEFs.
@@ -276,7 +276,7 @@ Se Carlos fosse segurado sem deficiência e tivesse 29 anos de TC, não teria di
 **Vantagem da LC 142:** acesso 6 anos mais cedo + coeficiente 100% + sem fator previdenciário obrigatório.
 :::
 
-#### 12.5.2 Comparativo detalhado com as regras de transição do capítulo 11
+#### 12.5.2 Comparativo detalhado com as regras de transição do Capítulo 11
 
 Para dimensionar a vantagem da aposentadoria por TC da PcD, é útil comparar os requisitos e o cálculo com as regras de transição do Capítulo 11, que regem a aposentadoria por TC dos segurados sem deficiência filiados antes da EC 103/2019:
 
@@ -528,7 +528,7 @@ O fator previdenciário é uma variável composta por três elementos: idade (Id
 
 Na aposentadoria da PcD, esse cenário é a regra: o segurado com deficiência grave se aposenta com apenas 25 anos de TC (homem) ou 20 anos (mulher), frequentemente antes dos 50 anos de idade. Nessas condições, o fator previdenciário é tipicamente muito inferior a 1,0 (entre 0,40 e 0,70), o que, se aplicado, reduziria drasticamente o valor do benefício. A não aplicação do fator é, portanto, a norma — e constitui uma das grandes vantagens da aposentadoria da PcD.
 
-**Quando o fator pode ser vantajoso:** excepcionalmente, se o segurado PcD acumular TC muito superior ao mínimo exigido e atingir idade avançada, o fator pode ultrapassar 1,0 e incrementar o valor do benefício. Exemplo: segurado homem com deficiência leve, 60 anos de idade e 40 anos de TC, o fator previdenciário pode ser superior a 1,0, tornando sua aplicação vantajosa. Nesse caso, o INSS deve aplicar o fator (art. 9º, I).
+**Quando o fator pode ser vantajoso:** excepcionalmente, se o segurado PcD acumular TC muito superior ao mínimo exigido e atingir idade avançada, o fator pode ultrapassar 1,0 e incrementar o valor do benefício. Exemplo: para um segurado homem com deficiência leve, 60 anos de idade e 40 anos de TC, o fator previdenciário pode ser superior a 1,0, tornando sua aplicação vantajosa. Nesse caso, o INSS deve aplicar o fator (art. 9º, I).
 
 Para a fórmula detalhada do fator previdenciário, consulte a seção 11.8 do Capítulo 11.
 
@@ -548,7 +548,7 @@ A aplicação do fator previdenciário somente quando vantajoso é uma das carac
 
 #### 12.10.2 Bônus no fator: mulher e professor
 
-O bônus de 5 anos no TC da fórmula do fator previdenciário para mulheres aplica-se normalmente à segurada PcD. O bônus de professor (5 anos para homem e 10 anos para mulher, conforme art. 29, § 9º, II e III, Lei 8.213/91) também se aplica ao professor com deficiência que se aposente pela LC 142, embora a LC 142 não mencione expressamente o professor, o art. 70-I do Decreto 3.048/99 determina que as demais normas do RGPS se aplicam subsidiariamente à aposentadoria da PcD.
+O bônus de 5 anos no TC da fórmula do fator previdenciário para mulheres aplica-se normalmente à segurada PcD. O bônus de professor (5 anos para homem e 10 anos para mulher, conforme art. 29, § 9º, II e III, Lei 8.213/91) também se aplica ao professor com deficiência que se aposente pela LC 142. Embora a LC 142 não mencione expressamente o professor, o art. 70-I do Decreto 3.048/99 determina que as demais normas do RGPS se aplicam subsidiariamente à aposentadoria da PcD.
 
 Não há, contudo, bônus específico de PcD no fator previdenciário — diferentemente do professor, que conta com acréscimo de 5 ou 10 anos. A justificativa é que o benefício da PcD já contempla redução direta do TC mínimo (de 2 a 10 anos conforme o grau), tornando desnecessário um bônus adicional no fator.
 
@@ -656,7 +656,7 @@ A comprovação da deficiência em juízo é uma das questões mais complexas da
 
 #### 12.12.1 Ônus da prova
 
-O ônus de provar a deficiência, seu grau e sua duração incumbem ao segurado (art. 373, I, CPC). Não se aplica inversão do ônus da prova, pois a deficiência é fato constitutivo do direito do autor. Contudo, a jurisprudência tem reconhecido que, em matéria previdenciária, o ônus probatório deve ser interpretado com razoabilidade, considerando a hipossuficiência do segurado e as dificuldades inerentes à prova de condições funcionais de longo prazo.
+O ônus de provar a deficiência, seu grau e sua duração incumbe ao segurado (art. 373, I, CPC). Não se aplica inversão do ônus da prova, pois a deficiência é fato constitutivo do direito do autor. Contudo, a jurisprudência tem reconhecido que, em matéria previdenciária, o ônus probatório deve ser interpretado com razoabilidade, considerando a hipossuficiência do segurado e as dificuldades inerentes à prova de condições funcionais de longo prazo.
 
 #### 12.12.2 Prova pericial judicial
 
@@ -1039,7 +1039,7 @@ A Turma Recursal, ao analisar o recurso, pode: manter a sentença, reformá-la t
 
 ### 12.17 Questões especiais e casos de fronteira
 
-A aplicação da LC 142/2013 suscita questões especiais que transcendem os cenários típicos de aposentadoria da PcD. Reunimos a seguir as situações de fronteira que, na nossa experiência, mais frequentemente desafiam o intérprete por exigirem a leitura combinada da LC 142 com outras camadas do sistema — a aposentadoria especial, as regras de custeio do contribuinte individual e do MEI, a contagem recíproca e o regime de acumulação. O fio que costura todas elas é o mesmo: a LC 142 não é um microssistema isolado, e seu art. 70-I (Decreto 3.048/99) determina a aplicação subsidiária das demais normas do RGPS, de modo que cada caso de fronteira se resolve menos por regra específica e mais pela articulação coerente de princípios já conhecidos.
+A aplicação da LC 142/2013 suscita questões especiais que transcendem os cenários típicos de aposentadoria da PcD. Reunimos a seguir as situações de fronteira que, na nossa experiência, mais frequentemente desafiam o intérprete por exigirem a leitura combinada da LC 142 com outras camadas do sistema — a aposentadoria especial, as regras de custeio do contribuinte individual e do MEI, a contagem recíproca e o regime de acumulação. O fio que costura todas elas é o mesmo: a LC 142 não é um microssistema isolado, e o art. 70-I do Decreto 3.048/99 determina a aplicação subsidiária das demais normas do RGPS, de modo que cada caso de fronteira se resolve menos por regra específica e mais pela articulação coerente de princípios já conhecidos.
 
 #### 12.17.1 PcD que exerceu atividade especial (agentes nocivos)
 
@@ -1131,7 +1131,7 @@ Segurado homem, 45 anos, deficiência grave desde 20 anos. TC = 25 anos. Pode se
 Mesmo segurado, se reclassificado como moderado na avaliação. TC mínimo = 29 anos. Faltam 4 anos. RMI = 100% SB (estimativa: R$ 4.200,00 + contribuições adicionais). Mais vantajosa a longo prazo se a média salarial subir, mas exige 4 anos adicionais de contribuição.
 
 **Cenário C — Aposentadoria por idade da PcD:**
-Mesmo segurado, aos 60 anos (15 anos depois). RMI = 70% + 40% (40 anos contribuição) = 100% SB. Equivalente ao cenário A em valor, mas 15 anos depois. Só indicada se o grau de deficiência não for reconhecido para TC.
+Mesmo segurado, aos 60 anos (15 anos depois). RMI = 70% + 30% (acréscimo máximo, já atingido com 30 anos de contribuição) = 100% SB. Equivalente ao cenário A em valor, mas 15 anos depois. Só indicada se o grau de deficiência não for reconhecido para TC.
 
 **Cenário D — BPC:**
 Se o segurado perdesse a capacidade laboral e não tivesse contribuições. Valor: 1 SM (R$ 1.621,00). Sem 13º. Sem pensão por morte. Significativamente inferior.
@@ -1298,7 +1298,7 @@ Os desafios para o futuro concentram-se em: (a) aprimoramento do IF-BrA como ins
 
 O advogado previdenciarista deve manter-se atento a eventuais projetos legislativos que possam alterar os critérios da LC 142, monitorar a evolução jurisprudencial nos TRFs e na TNU, e investir na preparação probatória adequada para as ações de aposentadoria da PcD — benefício que representa, para milhões de segurados com deficiência, a principal via de acesso à proteção previdenciária digna e proporcional às barreiras enfrentadas ao longo de suas vidas profissionais.
 
-A atuação eficaz nas ações de aposentadoria da PcD exige domínio não apenas da legislação e da jurisprudência, mas também dos fundamentos funcionais que orientam a avaliação pelo IF-BrA. Quem compreende como o IF-BrA opera, formula quesitos mais precisos e conduz a instrução de modo a evidenciar o grau de deficiência com fundamentação técnica adequada.
+A atuação eficaz nas ações de aposentadoria da PcD exige domínio não apenas da legislação e da jurisprudência, mas também dos fundamentos funcionais que orientam a avaliação pelo IF-BrA. Quem compreende como o IF-BrA opera formula quesitos mais precisos e conduz a instrução de modo a evidenciar o grau de deficiência com fundamentação técnica adequada.
 
 Encerramos com uma convicção que a prática nos JEFs reforça a cada julgamento: o eixo de toda a LC 142 é a distinção entre deficiência e incapacidade — entre tutelar quem trabalha apesar das barreiras e tutelar quem já não pode trabalhar. Tratamos, ao longo deste capítulo, dos institutos, dos cálculos e dos procedimentos; mas é dessa distinção elementar, mais do que de qualquer tabela de conversão, que depende o acerto da decisão. Tê-la sempre presente é, a nosso ver, a melhor garantia de que o benefício alcance exatamente quem a Constituição quis proteger.
 
